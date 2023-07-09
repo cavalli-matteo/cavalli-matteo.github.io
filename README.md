@@ -1,7 +1,7 @@
 # My Public Profile and Website
 
-My personal website, to showcase who i am and what is my main working focus.
+Work with Microsoft Cloud Services, Operations task and Security workflow.
 
-Made with <a href="#">Nothing</a>. 
+Made with <span class="heart">♥</span>, with simplicity.
 
 Boomer or not, html is working (again).
