@@ -2,6 +2,6 @@
 
 Work with Microsoft Cloud Services, Operations task and Security workflow.
 
-Made with <span class="heart">♥</span>, with simplicity.
+Made with <span class="heart">♥</span> and simplicity.
 
 Boomer or not, html is working (again).
