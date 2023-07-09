@@ -8,4 +8,4 @@ Boomer or not, html is working (again).
 
 Active repo:
 
-:computer: <a href="https://github.com/cavalli-matteo/Powershell.git">Powershell</a>
+:computer: <a href="https://github.com/cavalli-matteo/Powershell.git" target="_blank">Powershell</a>
