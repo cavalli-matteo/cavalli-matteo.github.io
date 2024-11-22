@@ -1,0 +1,164 @@
+# Translation of Plugins - Advanced Google reCAPTCHA - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Advanced Google reCAPTCHA - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-11 10:06:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Advanced Google reCAPTCHA - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://www.webfactoryltd.com/"
+msgstr "https://www.webfactoryltd.com/"
+
+#. Author of the plugin
+msgid "WebFactory Ltd"
+msgstr "WebFactory Ltd"
+
+#. Plugin URI of the plugin
+msgid "https://getwpcaptcha.com/"
+msgstr "https://getwpcaptcha.com/"
+
+#: inc/admin.php:214
+msgid "Enable for WooCommerce Checkout"
+msgstr "Включить для оформления заказа  WooCommerce"
+
+#: edd_templates/shortcode-login.php:40
+msgid "Lost Password?"
+msgstr "Забыли пароль?"
+
+#: edd_templates/shortcode-login.php:36
+msgid "Log In"
+msgstr "Войти"
+
+#: edd_templates/shortcode-login.php:30
+msgid "Remember Me"
+msgstr "Запомнить меня"
+
+#: edd_templates/shortcode-login.php:23
+msgid "Password"
+msgstr "Пароль"
+
+#: edd_templates/shortcode-login.php:19
+msgid "Username or Email"
+msgstr "Имя пользователя или адрес электронной почты"
+
+#: edd_templates/shortcode-login.php:16
+msgid "Log into Your Account"
+msgstr "Войдите в свою учетную запись"
+
+#: inc/core.php:121 inc/core.php:124 inc/core.php:143 inc/core.php:146
+#: inc/core.php:162 inc/core.php:165 inc/core.php:337 inc/core.php:347
+#: inc/core.php:388 inc/core.php:398
+msgid "ERROR:"
+msgstr "ОШИБКА:"
+
+#: inc/core.php:101 inc/core.php:104 inc/core.php:121 inc/core.php:124
+#: inc/core.php:143 inc/core.php:146 inc/core.php:162 inc/core.php:165
+#: inc/core.php:337 inc/core.php:347 inc/core.php:388 inc/core.php:398
+#: inc/core.php:416 inc/core.php:419 inc/core.php:435 inc/core.php:438
+#: inc/core.php:445 inc/core.php:448
+msgid "Google reCAPTCHA verification failed."
+msgstr "Проверка reCAPTCHA не удалась."
+
+#: inc/admin.php:304
+msgid "V3"
+msgstr "V3"
+
+#: inc/admin.php:303
+msgid "V2"
+msgstr "V2"
+
+#: inc/admin.php:264
+msgid "Captcha Settings"
+msgstr "Настройки Captcha"
+
+#: inc/admin.php:262
+msgid "To implement reCAPTCHA, Key settings should be completed first."
+msgstr "Чтобы внедрить reCAPTCHA, сначала необходимо выполнить ключевые настройки."
+
+#: inc/admin.php:216
+msgid "Enable for BuddyPress Register"
+msgstr "Включить для регистрации BuddyPress"
+
+#: inc/admin.php:215
+msgid "Enable for Easy Digital Downloads Register"
+msgstr "Активировать для удобства регистрации цифровой загрузки."
+
+#: inc/admin.php:213
+msgid "Enable for WooCommerce Register"
+msgstr "Активировать для регистрации WooCommerce"
+
+#: inc/admin.php:212
+msgid "Enable for Comment Form"
+msgstr "Активировать для комментариев"
+
+#: inc/admin.php:210
+msgid "Enable for Lost Password"
+msgstr "Активировать для Забыли пароль"
+
+#: inc/admin.php:209
+msgid "Enable for Register"
+msgstr "Активировать для формы Регистрация"
+
+#: inc/admin.php:208
+msgid "Enable for Login"
+msgstr "Активировать для формы Авторизации"
+
+#: inc/admin.php:206
+msgid "Status Settings"
+msgstr "Состояние настроек"
+
+#: inc/admin.php:204
+msgid "Secret Key"
+msgstr "Секретный Ключ"
+
+#: inc/admin.php:203
+msgid "Site Key"
+msgstr "Сайт Ключ"
+
+#: inc/admin.php:201
+msgid "reCAPTCHA Type"
+msgstr "reCAPTCHA тип"
+
+#: inc/admin.php:199
+msgid "Key Settings"
+msgstr "Настройки Ключей"
+
+#: inc/admin.php:163
+msgid "Applies for default login, WooCommerce & Easy Digital Downloads logins"
+msgstr "Применить для авторизации по умолчанию, WooCommerce и авторизации Easy Digital Downloads"
+
+#: inc/admin.php:127
+msgid "You can enable/disable reCAPTCHA for different forms separately."
+msgstr "Вы можете активировать/ деактивировать reCAPTCHA для разных форм отдельно"
+
+#. translators: 1: link open, 2: link close
+#: inc/admin.php:118
+msgid "Please %1$sregister your domain%2$s first, get required keys from Google (reCAPTCHA v2 or reCAPTCHA v3) and save them below."
+msgstr "Пожалуйста, сначала %1$sзарегистрируйте свой домен%2$s, получите необходимые ключи от Google (reCAPTCHA v2 или reCAPTCHA v3) и сохраните их ниже."
+
+#: inc/admin.php:39
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: inc/admin.php:27
+msgid "Features"
+msgstr "Функционал"
+
+#: inc/admin.php:26 inc/core.php:178
+msgid "Settings"
+msgstr "Настройки"
+
+#. Description of the plugin
+msgid "Advanced Google reCAPTCHA will safeguard your WordPress site from spam comments and brute force attacks. With this plugin, you can easily add Google reCAPTCHA to WordPress comment form, login form and other forms."
+msgstr "Расширенная версия Google reCAPTCHA защитит ваш сайт WordPress от спам-комментариев и атак методом перебора. С помощью этого плагина вы можете легко добавить Google reCAPTCHA в форму комментариев WordPress, форму входа в систему и другие формы."
+
+#. Plugin Name of the plugin
+#: inc/admin.php:106 inc/core.php:525
+msgid "Advanced Google reCAPTCHA"
+msgstr "Расширенная версия Google reCAPTCHA"

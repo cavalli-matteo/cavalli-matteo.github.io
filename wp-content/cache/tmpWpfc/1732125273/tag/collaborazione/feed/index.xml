@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>collaborazione Archivi - MC</title>
+	<atom:link href="https://www.matteocavalli.it/tag/collaborazione/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.matteocavalli.it/tag/collaborazione/</link>
+	<description>Cloud Consultant</description>
+	<lastBuildDate>Tue, 29 Aug 2023 20:04:15 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.5</generator>
+	<item>
+		<title>Perchè diventare Sistemista?</title>
+		<link>https://www.matteocavalli.it/perche-diventare-sistemista/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=perche-diventare-sistemista</link>
+					<comments>https://www.matteocavalli.it/perche-diventare-sistemista/#respond</comments>
+		
+		<dc:creator><![CDATA[Matteo Cavalli]]></dc:creator>
+		<pubDate>Tue, 29 Aug 2023 11:47:43 +0000</pubDate>
+				<category><![CDATA[IT]]></category>
+		<category><![CDATA[Management]]></category>
+		<category><![CDATA[aziende]]></category>
+		<category><![CDATA[collaborazione]]></category>
+		<category><![CDATA[formazione]]></category>
+		<category><![CDATA[sistemista]]></category>
+		<guid isPermaLink="false">https://www.matteocavalli.it/?p=610</guid>
+
+					<description><![CDATA[<p>Il &#8220;Come&#8221; è spesso facile da comprendere, ma il &#8220;Perchè&#8221; è la vera chiave del percorso di formazione di un sistemista. Buona visione!</p>
+<p>L'articolo <a href="https://www.matteocavalli.it/perche-diventare-sistemista/">Perchè diventare Sistemista?</a> proviene da <a href="https://www.matteocavalli.it">MC</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Il &#8220;Come&#8221; è spesso facile da comprendere, ma il &#8220;Perchè&#8221; è la vera chiave del percorso di formazione di un sistemista.</p>
+
+
+
+<p>Buona visione!</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<div style="text-align: center;"><iframe width="700" height="400" src="https://www.youtube.com/embed/9sug_tVAu7c?si=ejmySgRQDuTWcw3d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<p>L'articolo <a href="https://www.matteocavalli.it/perche-diventare-sistemista/">Perchè diventare Sistemista?</a> proviene da <a href="https://www.matteocavalli.it">MC</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.matteocavalli.it/perche-diventare-sistemista/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

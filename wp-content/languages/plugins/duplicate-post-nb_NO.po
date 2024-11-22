@@ -1,0 +1,414 @@
+# Translation of Plugins - Yoast Duplicate Post - Stable (latest release) in Norwegian (Bokmål)
+# This file is distributed under the same license as the Plugins - Yoast Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-08-09 10:18:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Plugins - Yoast Duplicate Post - Stable (latest release)\n"
+
+#: src/handlers/check-changes-handler.php:134
+msgid "Added"
+msgstr "Lagt til"
+
+#: src/handlers/check-changes-handler.php:133
+msgid "Removed"
+msgstr "Fjernet"
+
+#: src/ui/classic-editor.php:252 js/dist/duplicate-post-strings-450.js:1
+msgid "Schedule republish"
+msgstr "Planlegg publisering på nytt"
+
+#. translators: %s: Date on which the post is to be republished.
+#: src/ui/classic-editor.php:229
+msgid "Republish on: %s"
+msgstr "Publiser på nytt: %s"
+
+#: src/ui/classic-editor.php:201
+msgid "Compare"
+msgstr "Sammenlikne"
+
+#. translators: %s: Original item link (to view or edit) or title.
+#: src/ui/post-states.php:61
+msgid "Rewrite & Republish of %s"
+msgstr "Omskriving  og publisering på nytt av %s"
+
+#: src/ui/row-actions.php:145
+msgctxt "verb"
+msgid "Rewrite & Republish"
+msgstr "Omskriv og publiser på nytt"
+
+#. translators: %s: Post title.
+#: src/ui/row-actions.php:143
+msgid "Rewrite & Republish &#8220;%s&#8221;"
+msgstr "Omskriv og publiser på nytt &#8220;%s&#8221;"
+
+#: src/admin/views/options.php:190
+msgid "Show these links"
+msgstr "Vis disse lenkene"
+
+#: src/admin/options.php:281 src/ui/admin-bar.php:105 src/ui/admin-bar.php:125
+#: src/ui/bulk-actions.php:74 src/ui/classic-editor.php:173
+#: js/dist/duplicate-post-edit-450.js:1
+msgid "Rewrite & Republish"
+msgstr "Omskriv og publiser på nytt"
+
+#: src/admin/options.php:236
+msgid "In a metabox in the Edit screen"
+msgstr "I en metaboks på redigerisskjermen"
+
+#: src/admin/options.php:142
+msgid "Post format"
+msgstr "Innleggsformat"
+
+#: src/post-republisher.php:83 src/ui/classic-editor.php:224
+#: js/dist/duplicate-post-strings-450.js:1
+msgid "Republish"
+msgstr "Publiser på nytt"
+
+#: src/handlers/check-changes-handler.php:116
+msgid "&larr; Return to editor"
+msgstr "&larr; Tilbake til redigering"
+
+#: src/ui/newsletter.php:58
+msgid "Subscribe"
+msgstr "Abonner"
+
+#. translators: 1: Code start tag, 2: Code closing tag, 3: Link start tag to
+#. the template tag documentation, 4: Link closing tag.
+#: src/admin/views/options.php:216
+msgid "You can also use the template tag %1$sduplicate_post_clone_post_link( $link, $before, $after, $id )%2$s. %3$sMore info on the template tag%4$s."
+msgstr "Du kan også bruke mal-elementet %1$sduplicate_post_clone_post_link( $link, $before, $after, $id )%2$s. %3$sMer info om mal-elementet%4$s."
+
+#. translators: %s: Post title.
+#: src/ui/row-actions.php:112
+msgid "New draft of &#8220;%s&#8221;"
+msgstr "Ny kladd av &#8220;%s&#8221;"
+
+#: src/ui/row-actions.php:87
+msgctxt "verb"
+msgid "Clone"
+msgstr "Klone"
+
+#. translators: %s: post title
+#: src/ui/metabox.php:100
+msgid "The original item this was copied from is: <span class=\"duplicate_post_original_item_title_span\">%s</span>"
+msgstr "Det originale elementet dette var kopiert fra er: <span class=\"duplicate_post_original_item_title_span\">%s</span>"
+
+#: src/ui/column.php:135
+msgid "The original item this was copied from is: <span class=\"duplicate_post_original_item_title_span\"></span>"
+msgstr "Det originale elementet dette var kopiert fra er: <span class=\"duplicate_post_original_item_title_span\"></span>"
+
+#: src/ui/column.php:130 src/ui/metabox.php:89
+msgid "Delete reference to original item."
+msgstr "Slett referansen til det originale elementet."
+
+#: src/ui/newsletter.php:29
+msgid "Email address"
+msgstr "E-postadresse"
+
+#. translators: 1: Yoast
+#: src/ui/newsletter.php:22
+msgid "If you want to stay up to date about all the exciting developments around Duplicate Post, subscribe to the %1$s newsletter!"
+msgstr "Om du ønsker å holde deg  oppdatert om alle den spennende utviklingehn rundt Dupliser innlegg, abonner på nyhetsbrevet %1$s!"
+
+#. Author URI of the plugin
+msgid "https://yoast.com"
+msgstr "https://yoast.com"
+
+#. Author of the plugin
+msgid "Enrico Battocchi & Team Yoast"
+msgstr "Enrico Battocchi & Team Yoast"
+
+#. Plugin URI of the plugin
+msgid "https://yoast.com/wordpress/plugins/duplicate-post/"
+msgstr "https://yoast.com/wordpress/plugins/duplicate-post/"
+
+#. Plugin Name of the plugin
+msgid "Yoast Duplicate Post"
+msgstr "Yoast Dupliser innlegg"
+
+#. translators: %s: Post title.
+#: src/ui/row-actions.php:85
+msgid "Clone &#8220;%s&#8221;"
+msgstr "Kopier &#8220;%s&#8221;"
+
+#. translators: %s: Original item link (to view or edit) or title.
+#: src/ui/post-states.php:67
+msgid "Original: %s"
+msgstr "Original: %s"
+
+#: src/ui/column.php:68
+msgid "Original item"
+msgstr "Originalt element"
+
+#: src/admin/options.php:256
+msgid "After the title in the Post list"
+msgstr "Etter overskriften i oversikten over innlegg"
+
+#: src/admin/options.php:249
+msgid "You'll also be able to delete the reference to the original item with a checkbox in Quick Edit"
+msgstr "Du vil også kunne slette referansen til det originale elementet med en avkrysningsboks i hurtigredigering"
+
+#: src/admin/options.php:246
+msgid "In a column in the Post list"
+msgstr "I en kolonne i oversikten over innlegg"
+
+#: src/admin/options.php:239
+msgid "You'll also be able to delete the reference to the original item with a checkbox"
+msgstr "Du vil også kunne slette referansen til det originale elementet med en avkrysningsboks"
+
+#: src/admin/views/options.php:227
+msgid "Show original item:"
+msgstr "Vis originalt element:"
+
+#: src/admin/views/options.php:20
+msgid "Settings sections"
+msgstr "Innstillingssesksjoner"
+
+#: duplicate-post.php:98
+msgid "Settings for Duplicate Post"
+msgstr "Innstillinger for Kopier innlegg"
+
+#. translators: %s: post title
+#: src/utils.php:144
+msgid "View &#8220;%s&#8221;"
+msgstr "Vis &#8220;%s&#8221;"
+
+#. translators: %s: post title
+#: src/utils.php:134
+msgid "Preview &#8220;%s&#8221;"
+msgstr "Forhåndsvis &#8220;%s&#8221;"
+
+#. translators: %s: post title
+#: src/utils.php:122
+msgid "Edit &#8220;%s&#8221;"
+msgstr "Rediger &#8220;%s&#8221;"
+
+#: src/handlers/link-handler.php:58 src/handlers/link-handler.php:114
+#: src/handlers/link-handler.php:188
+msgid "Current user is not allowed to copy posts."
+msgstr "Denne brukeren har ikke rettigheter til å kopiere innlegg."
+
+#: src/admin/options.php:165
+msgid "you probably want this unchecked, unless you have very special requirements"
+msgstr "du vil mest sannsynlig ikke ha behov for dette, unntatt hvis du har spesielle krav"
+
+#: admin-functions.php:750
+msgid "Documentation"
+msgstr "Dokumentasjon"
+
+#: src/admin/options.php:307
+msgid "Bulk Actions"
+msgstr "Massehandlinger"
+
+#: src/admin/options.php:217
+msgid "You can use * to match zero or more alphanumeric characters or underscores: e.g. field*"
+msgstr "Du kan bruke * for å få treff på null eller flere alfanumeriske tegn eller understreker: eks. felt*"
+
+#: src/admin/options.php:186
+msgid "Menu order"
+msgstr "Menyrekkefølge"
+
+#: src/admin/options.php:149
+msgid "Author"
+msgstr "Forfatter"
+
+#: src/admin/options.php:135
+msgid "Template"
+msgstr "Mal"
+
+#: src/admin/options.php:128
+msgid "Featured Image"
+msgstr "Fremhevet bilde"
+
+#. translators: %s: Number of posts copied.
+#: src/watchers/bulk-actions-watcher.php:55
+#: src/watchers/link-actions-watcher.php:73
+msgid "%s item copied."
+msgid_plural "%s items copied."
+msgstr[0] "%s element kopiert."
+msgstr[1] "%s elementer kopiert."
+
+#: src/admin/views/options.php:174 src/admin/views/options.php:211
+msgid "Whether the links are displayed for custom post types registered by themes or plugins depends on their use of standard WordPress UI elements."
+msgstr "Om lenkene vises for egendefinerte innholdstyper registrert av temaer eller utvidelser kommer an på deres bruk av WordPress' standardelementer for brukergrensesnitt."
+
+#: src/admin/views/options.php:172
+msgid "Select the post types you want the plugin to be enabled for."
+msgstr "Velg innholdstypene du ønsker at utvidelsen skal være aktivert for."
+
+#: src/admin/views/options.php:162 src/admin/views/options.php:166
+msgid "Enable for these post types"
+msgstr "Aktiver for disse innholdstypene"
+
+#: src/admin/views/options.php:155
+msgid "Passwords and contents of password-protected posts may become visible to undesired users and visitors."
+msgstr "Passord on innhold i passordbeskyttede innlegg kan bli synlig for uønskede brukere og besøkende."
+
+#: src/admin/views/options.php:127
+msgid "Show/hide private taxonomies"
+msgstr "Vis/skjul private taksonomier"
+
+#: src/admin/options.php:208
+msgid "Add this number to the original menu order (blank or zero to retain the value)"
+msgstr "Legg til dette nummeret i den originale menyrekkefølgen (blant eller null for å beholde verdien)"
+
+#: src/admin/options.php:206 src/admin/views/options.php:93
+msgid "Increase menu order by"
+msgstr "Øk menyrekkefølge med"
+
+#: src/admin/options.php:180
+msgid "except pingbacks and trackbacks"
+msgstr "unntatt tilbakeping og tilbaketråkk"
+
+#: src/admin/options.php:178
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: src/admin/options.php:171
+msgid "Children"
+msgstr "Under-innlegg"
+
+#: src/admin/options.php:163
+msgid "Attachments"
+msgstr "Vedlegg"
+
+#: src/admin/options.php:156
+msgid "Password"
+msgstr "Passord"
+
+#: src/admin/options.php:121 src/handlers/check-changes-handler.php:127
+msgid "Content"
+msgstr "Innhold"
+
+#: src/admin/options.php:114 src/handlers/check-changes-handler.php:128
+msgid "Excerpt"
+msgstr "Utdrag"
+
+#: src/admin/options.php:107
+msgid "Slug"
+msgstr "Permalenke"
+
+#: src/admin/options.php:100
+msgid "Status"
+msgstr "Status"
+
+#: src/admin/options.php:93
+msgid "Date"
+msgstr "Dato"
+
+#: src/admin/options.php:86 src/handlers/check-changes-handler.php:126
+msgid "Title"
+msgstr "Tittel"
+
+#: src/admin/views/options.php:58 src/admin/views/options.php:61
+msgid "Post/page elements to copy"
+msgstr "Innlegg-/sideelementer som skal kopieres"
+
+#: src/admin/views/options.php:46 src/admin/views/options.php:187
+msgid "Display"
+msgstr "Vis"
+
+#: src/admin/views/options.php:37 src/admin/views/options.php:140
+msgid "Permissions"
+msgstr "Tillatelser"
+
+#: src/admin/views/options.php:28 src/admin/views/options.php:55
+msgid "What to copy"
+msgstr "Hva skal kopieres"
+
+#: admin-functions.php:603
+msgid "Copy features for this post type are not enabled in options page"
+msgstr "Kopieringsfunksjoner for denne innholdstypen er ikke aktivert i alternativer"
+
+#: duplicate-post.php:99
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: src/admin/views/options.php:247
+msgid "Save changes"
+msgstr "Lagre endringer"
+
+#: src/admin/options.php:297
+msgid "Admin bar"
+msgstr "Adminbar"
+
+#: src/admin/options.php:302
+msgid "Edit screen"
+msgstr "Redigeringsskjerm"
+
+#: src/admin/options.php:292
+msgid "Post list"
+msgstr "Innleggsliste"
+
+#: src/admin/views/options.php:202
+msgid "Show links in"
+msgstr "Vis lenker i"
+
+#: src/admin/views/options.php:144 src/admin/views/options.php:147
+msgid "Roles allowed to copy"
+msgstr "Roller som kan kopiere"
+
+#: src/admin/options.php:201
+msgid "Suffix to be added after the title, e.g. \"(dup)\" (blank for no suffix)"
+msgstr "Suffiks som legges til opprinnelig tittel, f.eks. \"(kopi)\" (tom for ingen suffiks)"
+
+#: src/admin/options.php:199 src/admin/views/options.php:82
+msgid "Title suffix"
+msgstr "Tittelsuffiks"
+
+#: src/admin/options.php:194
+msgid "Prefix to be added before the title, e.g. \"Copy of\" (blank for no prefix)"
+msgstr "Prefiks som legges til før opprinnelig tittel, f.eks. \"Kopi av\" (tom for ingen prefiks)"
+
+#: src/admin/options.php:192 src/admin/views/options.php:71
+msgid "Title prefix"
+msgstr "Tittelprefiks"
+
+#: src/admin/views/options.php:116 src/admin/views/options.php:120
+msgid "Do not copy these taxonomies"
+msgstr "Ikke kopier følgende taksonomier"
+
+#: src/admin/options.php:216
+msgid "Comma-separated list of meta fields that must not be copied."
+msgstr "Kommaseparert liste over meta-felt som ikke får kopieres."
+
+#: src/admin/options.php:213 src/admin/views/options.php:105
+msgid "Do not copy these fields"
+msgstr "Ikke kopier disse feltene"
+
+#: src/admin/options-page.php:77 src/ui/admin-bar.php:89 src/ui/metabox.php:59
+msgid "Duplicate Post"
+msgstr "Dupliser innlegg"
+
+#: src/admin/options-page.php:76 src/admin/views/options.php:14
+msgid "Duplicate Post Options"
+msgstr "Alternativer for dupliserte innlegg"
+
+#: src/handlers/link-handler.php:75 src/handlers/link-handler.php:131
+#: src/handlers/link-handler.php:205
+msgid "Copy creation failed, could not find original:"
+msgstr "Kopiering feilet, kunne ikke finne originalen:"
+
+#: src/handlers/link-handler.php:63 src/handlers/link-handler.php:119
+#: src/handlers/link-handler.php:193
+msgid "No post to duplicate has been supplied!"
+msgstr "Intet innlegg for kopiering har blitt oppgitt!"
+
+#: src/admin/options.php:271 src/ui/row-actions.php:114
+msgid "New Draft"
+msgstr "Ny kladd"
+
+#: common-functions.php:79 src/ui/admin-bar.php:97 src/ui/admin-bar.php:115
+#: src/ui/classic-editor.php:144 js/dist/duplicate-post-edit-450.js:1
+msgid "Copy to a new draft"
+msgstr "Kopier til en ny kladd"
+
+#: src/admin/options.php:276 src/ui/bulk-actions.php:69
+msgid "Clone"
+msgstr "Klone"

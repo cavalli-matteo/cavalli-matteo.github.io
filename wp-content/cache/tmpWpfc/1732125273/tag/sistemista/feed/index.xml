@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sistemista Archivi - MC</title>
+	<atom:link href="https://www.matteocavalli.it/tag/sistemista/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.matteocavalli.it/tag/sistemista/</link>
+	<description>Cloud Consultant</description>
+	<lastBuildDate>Fri, 08 Dec 2023 08:46:00 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.5</generator>
+	<item>
+		<title>Recupero di uno o più Domain Controller in Tombstoned</title>
+		<link>https://www.matteocavalli.it/recupero-di-uno-o-piu-domain-controller-in-tombstoned/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=recupero-di-uno-o-piu-domain-controller-in-tombstoned</link>
+					<comments>https://www.matteocavalli.it/recupero-di-uno-o-piu-domain-controller-in-tombstoned/#respond</comments>
+		
+		<dc:creator><![CDATA[Matteo Cavalli]]></dc:creator>
+		<pubDate>Thu, 30 Nov 2023 21:50:42 +0000</pubDate>
+				<category><![CDATA[IT]]></category>
+		<category><![CDATA[Operations]]></category>
+		<category><![CDATA[Soluzioni]]></category>
+		<category><![CDATA[active directory]]></category>
+		<category><![CDATA[it operations]]></category>
+		<category><![CDATA[sistemista]]></category>
+		<guid isPermaLink="false">https://www.matteocavalli.it/?p=629</guid>
+
+					<description><![CDATA[<p>La modalità &#8220;Tombstone&#8221; indica un valore numerico che Active Directory mantiene come riferimento per marcare un elemento eliminato. Questo indicatore, specificato nei parametri di ADSI Edit in giorni, indica dopo quanto tempo un elemento rimosso può essere ripristinato. Parlando di un Domain Controller, questo valore è il termine massimo entro</p>
+<p>L'articolo <a href="https://www.matteocavalli.it/recupero-di-uno-o-piu-domain-controller-in-tombstoned/">Recupero di uno o più Domain Controller in Tombstoned</a> proviene da <a href="https://www.matteocavalli.it">MC</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>La modalità &#8220;Tombstone&#8221; indica un valore numerico che Active Directory mantiene come riferimento per marcare un elemento eliminato. <strong>Questo indicatore</strong>, specificato nei parametri di ADSI Edit in giorni, <strong>indica dopo quanto tempo un elemento rimosso può essere ripristinato</strong>.</p>
+
+
+
+<p>Parlando di un Domain Controller, questo valore <strong>è il termine massimo entro il quale il Domain Controller può tornare a replicare</strong> nuovamente con i relativi partner. Superato questo limite temporale, il DC viene marcato come scomparso, e non più utilizzabile.</p>
+
+
+
+<p>In tutto questo c&#8217;è una logica: dopo un certo numero di giorni dopo l&#8217;eliminazione o assenza di un oggetto, è plausibile considerare che quel determinato oggetto non sia più necessario.</p>
+
+
+
+<p>Di default, il tempo limite per il ripristino di un&#8217;entità è di 180 giorni.<br>Terminato questo tempo, a meno relazioni esistenti con altri oggetti, l&#8217;entità in questione viene definitivamente cancellata.</p>
+
+
+
+<p>Vediamo quindi la risoluzione.</p>
+
+
+
+<p>Esistono alcuni tools che ci confermano o meno la mancanza o impossibilità di replica. Lanciamo il comando di replica immediata manuale per accertarci della situazione:</p>
+
+
+
+<pre class="wp-block-code"><code>repadmin /syncall
+</code></pre>
+
+
+
+<p>Un esempio della mancanza di replica, per diversi motivi, potrebbe essere:</p>
+
+
+
+<pre class="wp-block-code"><code>C:\Users\Administrator&gt;repadmin /syncall
+CALLBACK MESSAGE: Error contacting server 122ac448-ca1f-4b0a-a026-3d32e9acd9a4._msdcs.virtual.lab (network error): 1722 (0x6ba):
+    The RPC server is unavailable.
+CALLBACK MESSAGE: SyncAll Finished.
+
+SyncAll reported the following errors:
+Error contacting server 122ac448-ca1f-4b0a-a026-3d32e9acd9a4._msdcs.virtual.lab (network error): 1722 (0x6ba):
+    The RPC server is unavailable
+</code></pre>
+
+
+
+<p>In questo caso, andiamo a verificare la situazione generale:</p>
+
+
+
+<pre class="wp-block-code"><code>repadmin /showrepl</code></pre>
+
+
+
+<p>In relazione alla risposta che generalmente evidenzia problemi in essere, andiamo a modificare il valore di Tombstone.</p>
+
+
+
+<p>Apriamo ADSI Edit, dagli Strumenti di Amministrazione, e colleghiamoci alla console di configurazione:</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img fetchpriority="high" decoding="async" width="760" height="770" src="https://www.matteocavalli.it/wp-content/uploads/2023/12/Screenshot-2023-12-07-alle-22.26.31.png" alt="" class="wp-image-631" style="width:363px;height:auto" srcset="https://www.matteocavalli.it/wp-content/uploads/2023/12/Screenshot-2023-12-07-alle-22.26.31.png 760w, https://www.matteocavalli.it/wp-content/uploads/2023/12/Screenshot-2023-12-07-alle-22.26.31-296x300.png 296w, https://www.matteocavalli.it/wp-content/uploads/2023/12/Screenshot-2023-12-07-alle-22.26.31-200x203.png 200w, https://www.matteocavalli.it/wp-content/uploads/2023/12/Screenshot-2023-12-07-alle-22.26.31-400x405.png 400w" sizes="(max-width: 760px) 100vw, 760px" /></figure>
+
+
+
+<p>Andiamo quindi all&#8217;interno del percorso dedicato per la modifica. Tombstone è un normale attributo, modificabile cliccando con il tasto destro su &#8220;CN=Windows NT&#8221; e selezionando &#8220;Proprietà&#8221;:</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img decoding="async" width="1024" height="628" src="https://www.matteocavalli.it/wp-content/uploads/2023/12/Screenshot-2023-12-07-alle-22.28.24-1024x628.png" alt="" class="wp-image-632" style="width:612px;height:auto" srcset="https://www.matteocavalli.it/wp-content/uploads/2023/12/Screenshot-2023-12-07-alle-22.28.24-1024x628.png 1024w, https://www.matteocavalli.it/wp-content/uploads/2023/12/Screenshot-2023-12-07-alle-22.28.24-300x184.png 300w, https://www.matteocavalli.it/wp-content/uploads/2023/12/Screenshot-2023-12-07-alle-22.28.24-768x471.png 768w, https://www.matteocavalli.it/wp-content/uploads/2023/12/Screenshot-2023-12-07-alle-22.28.24-200x123.png 200w, https://www.matteocavalli.it/wp-content/uploads/2023/12/Screenshot-2023-12-07-alle-22.28.24-400x245.png 400w, https://www.matteocavalli.it/wp-content/uploads/2023/12/Screenshot-2023-12-07-alle-22.28.24.png 1498w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Modifichiamo il valore numerico in modo che sia superiore all&#8217;intervallo temporale passato e confermiamo. <br>ADSI Edit potrebbe non permettere l&#8217;accesso alla partizione <strong>Configuration</strong> in caso ci siano problemi sulla SYSVOL; in questo caso dovremo forzare l&#8217;aggiornamento con una chiave di registro:</p>
+
+
+
+<pre class="wp-block-code"><code>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Netlogon\Parameters\</code></pre>
+
+
+
+<p>Apriamo la chiave <strong>SysvolReady</strong> per la modifica e impostiamo il valore a &#8220;<strong>1</strong>&#8220;. Riavviamo il server, a questo punto dovremmo poter avere accesso alla partizione che ci interessa su ADSI Edit e potremo eseguire le modifiche.</p>
+
+
+
+<p>Al termine, riavviando i Domain Controller uno per volta, avremo conferma delle repliche con un <strong>/replsummary</strong>:</p>
+
+
+
+<pre class="wp-block-code"><code>C:\Users\Administrator&gt;repadmin /showrepl
+
+Repadmin: running command /showrepl against full DC localhost
+Sede\AD
+DSA Options: IS_GC
+Site Options: (none)
+DSA object GUID: d31ef4d9-8b2b-4570-a66d-d29d4b74ce82
+DSA invocationID: d31ef4d9-8b2b-4570-a66d-d29d4b74ce82
+
+==== INBOUND NEIGHBORS ======================================
+
+DC=virtual,DC=lab
+    Sede\AD2 via RPC
+        DSA object GUID: 122ac448-ca1f-4b0a-a026-3d32e9acd9a4
+        Last attempt @ 2023-12-07 22:26:04 was successful.
+
+CN=Configuration,DC=virtual,DC=lab
+    Sede\AD2 via RPC
+        DSA object GUID: 122ac448-ca1f-4b0a-a026-3d32e9acd9a4
+        Last attempt @ 2023-12-07 22:26:04 was successful.
+
+CN=Schema,CN=Configuration,DC=virtual,DC=lab
+    Sede\AD2 via RPC
+        DSA object GUID: 122ac448-ca1f-4b0a-a026-3d32e9acd9a4
+        Last attempt @ 2023-12-07 22:26:04 was successful.
+
+DC=DomainDnsZones,DC=virtual,DC=lab
+    Sede\AD2 via RPC
+        DSA object GUID: 122ac448-ca1f-4b0a-a026-3d32e9acd9a4
+        Last attempt @ 2023-12-07 22:26:30 was successful.
+
+DC=ForestDnsZones,DC=virtual,DC=lab
+    Sede\AD2 via RPC
+        DSA object GUID: 122ac448-ca1f-4b0a-a026-3d32e9acd9a4
+        Last attempt @ 2023-12-07 22:26:04 was successful.</code></pre>
+
+
+
+<p>In caso occorra, è possibile rilanciare nuovamente un </p>
+
+
+
+<pre class="wp-block-code"><code>repadmin /resync</code></pre>
+
+
+
+<p>per verificare lo stato del riallineamento manuale:</p>
+
+
+
+<pre class="wp-block-code"><code>C:\Users\Administrator&gt;repadmin /syncall
+CALLBACK MESSAGE: The following replication is in progress:
+    From: 122ac448-ca1f-4b0a-a026-3d32e9acd9a4._msdcs.virtual.lab
+    To  : d31ef4d9-8b2b-4570-a66d-d29d4b74ce82._msdcs.virtual.lab
+CALLBACK MESSAGE: The following replication completed successfully:
+    From: 122ac448-ca1f-4b0a-a026-3d32e9acd9a4._msdcs.virtual.lab
+    To  : d31ef4d9-8b2b-4570-a66d-d29d4b74ce82._msdcs.virtual.lab
+CALLBACK MESSAGE: SyncAll Finished.
+SyncAll terminated with no errors.
+</code></pre>
+
+
+
+<p><br><strong>Un recupero di uno o più Domain Controller in modalità Tombstone è una situazione di emergenza</strong>. Nel corso dei 180 giorni di &#8220;limbo&#8221;, le attività fatte sull&#8217;Active Directory posso essere tante e di diversa natura; potrebbero permanere problemi di replica delle partizioni o di alcuni oggetti.</p>
+
+
+
+<p>Personalmente, consiglio questo metodo per rimettere in piedi eventuali problemi di login, join a dominio e attività quotidiane, ma prevedete la sostituzione del membro in Tombstone nell&#8217;immediato.</p>
+<p>L'articolo <a href="https://www.matteocavalli.it/recupero-di-uno-o-piu-domain-controller-in-tombstoned/">Recupero di uno o più Domain Controller in Tombstoned</a> proviene da <a href="https://www.matteocavalli.it">MC</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.matteocavalli.it/recupero-di-uno-o-piu-domain-controller-in-tombstoned/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Perchè diventare Sistemista?</title>
+		<link>https://www.matteocavalli.it/perche-diventare-sistemista/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=perche-diventare-sistemista</link>
+					<comments>https://www.matteocavalli.it/perche-diventare-sistemista/#respond</comments>
+		
+		<dc:creator><![CDATA[Matteo Cavalli]]></dc:creator>
+		<pubDate>Tue, 29 Aug 2023 11:47:43 +0000</pubDate>
+				<category><![CDATA[IT]]></category>
+		<category><![CDATA[Management]]></category>
+		<category><![CDATA[aziende]]></category>
+		<category><![CDATA[collaborazione]]></category>
+		<category><![CDATA[formazione]]></category>
+		<category><![CDATA[sistemista]]></category>
+		<guid isPermaLink="false">https://www.matteocavalli.it/?p=610</guid>
+
+					<description><![CDATA[<p>Il &#8220;Come&#8221; è spesso facile da comprendere, ma il &#8220;Perchè&#8221; è la vera chiave del percorso di formazione di un sistemista. Buona visione!</p>
+<p>L'articolo <a href="https://www.matteocavalli.it/perche-diventare-sistemista/">Perchè diventare Sistemista?</a> proviene da <a href="https://www.matteocavalli.it">MC</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Il &#8220;Come&#8221; è spesso facile da comprendere, ma il &#8220;Perchè&#8221; è la vera chiave del percorso di formazione di un sistemista.</p>
+
+
+
+<p>Buona visione!</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<div style="text-align: center;"><iframe width="700" height="400" src="https://www.youtube.com/embed/9sug_tVAu7c?si=ejmySgRQDuTWcw3d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<p>L'articolo <a href="https://www.matteocavalli.it/perche-diventare-sistemista/">Perchè diventare Sistemista?</a> proviene da <a href="https://www.matteocavalli.it">MC</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.matteocavalli.it/perche-diventare-sistemista/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

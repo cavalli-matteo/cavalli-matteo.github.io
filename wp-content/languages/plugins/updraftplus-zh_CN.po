@@ -1,0 +1,5510 @@
+# Translation of Plugins - UpdraftPlus: WordPress Backup &amp; Migration Plugin - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - UpdraftPlus: WordPress Backup &amp; Migration Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-03-08 23:01:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - UpdraftPlus: WordPress Backup &amp; Migration Plugin - Stable (latest release)\n"
+
+#: admin.php:6310
+msgid "Due to the restriction, some settings can be automatically adjusted, disabled or not available."
+msgstr "根据限制约束，有些设置可能自动调整，禁用或者不可用。"
+
+#: admin.php:6308
+msgid "Your website is hosted with %s (%s)."
+msgstr "您的网站由 %s (%s) 托管。"
+
+#: admin.php:1082
+msgid "Your hosting provider only allows you to take one incremental backup per day."
+msgstr "您的主机提供商只允许您每天进行一次增量备份。"
+
+#: admin.php:1081 class-updraftplus.php:3281
+msgid "Your hosting provider only allows you to take one backup per month."
+msgstr "您的主机提供商只允许您每月进行一次增量备份。"
+
+#: admin.php:1081 class-updraftplus.php:3281
+msgid "You have reached the monthly limit for the number of backups you can create at this time."
+msgstr "当前已达到每月可创建的备份数限制。"
+
+#: admin.php:1081 admin.php:1082 class-updraftplus.php:3278
+#: class-updraftplus.php:3281
+msgid "Please contact your hosting company (%s) if you require further support."
+msgstr "如果需要进一步的支持，请与托管公司（(%s）联系。"
+
+#: class-updraftplus.php:3278
+msgid " Your hosting provider only allows you to take one incremental backup per day."
+msgstr "您的主机提供商只允许您每天进行一次增量备份。"
+
+#: admin.php:1082 class-updraftplus.php:3278
+msgid "You have reached the daily limit for the number of incremental backups you can create at this time."
+msgstr "您已达到当前可以创建的增量备份的每日限制。"
+
+#: templates/wp-admin/advanced/site-info.php:67
+msgid "Current SQL mode:"
+msgstr "当前 SQL 模式："
+
+#: backup.php:1901
+msgid "Failed to backup database table:"
+msgstr "备份数据库表失败："
+
+#: backup.php:1746
+msgid "Failed to open directory for reading:"
+msgstr "无法打开目录进行读取："
+
+#: templates/wp-admin/settings/form-contents.php:277
+msgid "Your email backup and a report will be sent to"
+msgstr "您的邮件备份以及报告将被发送至"
+
+#: admin.php:1070
+msgid "Restoring stored routine: %s"
+msgstr "正在还原存储的例程: %s"
+
+#: includes/updraftclone/temporary-clone-dash-notice.php:52
+msgid "Warning: You have no clone tokens remaining and either no subscriptions or no subscription that will renew before the clone expiry date."
+msgstr "警告：您没有可用的克隆令牌或没有订阅，或者订阅已过期。"
+
+#: admin.php:1080
+msgid "Warning: if you continue, you will add all backups stored in the configured remote storage directory (whichever site they were created by)."
+msgstr "警告：如果继续，则将添加存储在配置中的远程存储目录（创建备份的站点）中的所有备份。"
+
+#: class-updraftplus.php:5500
+msgid "Include all tables not listed below"
+msgstr "包括以下未列出的所有表"
+
+#: class-updraftplus.php:3964
+msgid "UpdraftPlus on %s"
+msgstr "UpdraftPlus 在 %s"
+
+#: includes/class-remote-send.php:728
+msgid "The list of existing sites has been removed"
+msgstr "已删除现有站点的列表"
+
+#: includes/class-remote-send.php:724
+msgid "There was an error while trying to remove the list of existing sites."
+msgstr "删除现有站点列表时出错。"
+
+#: includes/class-remote-send.php:672
+msgid "Clear list of existing sites"
+msgstr "清除现有站点列表"
+
+#: includes/class-remote-send.php:667
+msgid "Add a site"
+msgstr "添加新站点"
+
+#: admin.php:5486
+msgid "The following remote storage options are configured."
+msgstr "以下远程存储选项已配置。"
+
+#: admin.php:5483
+msgid "No remote storage locations with valid options found."
+msgstr "找不到具有有效选项的远程存储位置。"
+
+#: admin.php:888
+msgid "You have chosen to send this backup to remote storage, but no remote storage locations have been selected"
+msgstr "您已选择将此备份发送到远程存储，但尚未选择远程存储位置"
+
+#: templates/wp-admin/settings/existing-backups-table.php:158
+msgid "Show all backups..."
+msgstr "显示所有备份..."
+
+#: templates/wp-admin/settings/existing-backups-table.php:158
+msgid "Show more backups..."
+msgstr "显示更多备份..."
+
+#: admin.php:906 admin.php:2262
+#: templates/wp-admin/settings/downloading-and-restoring.php:21
+#: templates/wp-admin/settings/tab-backups.php:21
+#: templates/wp-admin/settings/tab-backups.php:44
+msgid "Existing backups"
+msgstr "现有备份"
+
+#: restorer.php:3656
+msgid "Skipping table %s: user has chosen not to restore this table"
+msgstr "正在跳过表 %s：用户已选择不还原该表"
+
+#: restorer.php:2401
+msgid "An error occurred while attempting to set a new value to the MySQL global log_bin_trust_function_creators variable %s"
+msgstr "试图为 MySQL global log_bin_trust_function_creators 变量 %s 设置新值时出错"
+
+#: restorer.php:2394
+msgid "An error occurred while attempting to retrieve the MySQL global log_bin_trust_function_creators variable %s"
+msgstr "尝试检索MySQL全局日志_bin_trust_function_creators 变量 %s 时出错"
+
+#: admin.php:1078
+msgid "Please check the error log for more details"
+msgstr "有关详细信息查看错误日志"
+
+#: admin.php:1077
+msgid "Missing pages:"
+msgstr "缺失页面："
+
+#: includes/class-database-utility.php:657
+msgid "An error occurred while attempting to retrieve the routine SQL/DDL statement (%s %s)"
+msgstr "尝试检索例程 SQL/DDL 语句时出错 (%s %s)"
+
+#: includes/class-database-utility.php:645
+msgid "An error occurred while attempting to retrieve routine status (%s %s)"
+msgstr "尝试检索例程状态时出错 (%s %s)"
+
+#: includes/class-database-utility.php:577
+msgid "An error occurred while attempting to check the support of stored routines creation (%s %s)"
+msgstr "尝试对创建的存储例程的支持时出错 (%s %s)"
+
+#: class-updraftplus.php:5187
+msgid "You should only proceed if you have checked and are confident (or willing to risk) that your plugins/themes/etc. are compatible with the new %s version."
+msgstr "只有在检查并确信（或愿意冒险）您的插件/主题/等与新版本 %s 兼容时，才能继续。"
+
+#: class-updraftplus.php:5187
+msgid "This is older than the server which you are now restoring onto (version %s)."
+msgstr "这比您现在要还原到的服务器要旧 (版本 %s)。"
+
+#: class-updraftplus.php:720
+msgid "Under Maintenance"
+msgstr "正在维护中"
+
+#: central/translations-central.php:80
+msgid "Expected parameter(s) missing."
+msgstr "缺少预期参数。"
+
+#: central/translations-central.php:79
+msgid "Default template"
+msgstr "默认模板"
+
+#: restorer.php:4005
+msgid "The Database connection has been closed and cannot be reopened."
+msgstr "数据库连接已关闭，无法重新打开。"
+
+#: includes/updraftclone/temporary-clone-dash-notice.php:47
+msgid "%d token"
+msgid_plural "%d tokens"
+msgstr[0] "%d 令牌"
+
+#: templates/wp-admin/settings/existing-backups-table.php:170
+msgid "Use ctrl / cmd + press to select several items, or ctrl / cmd + shift + press to select all in between"
+msgstr "使用ctrl /cmd +按下选择多个项目，或ctrl/cmd + Shift +按下选择所有项目"
+
+#: central/translations-central.php:77
+msgid "Selected media has been deleted successfully."
+msgstr "所选媒体已成功删除。"
+
+#: central/translations-central.php:78
+msgid "Unattached"
+msgstr "尚未附加"
+
+#: central/translations-central.php:76
+msgid "Failed to delete selected media."
+msgstr "删除所选媒体失败。"
+
+#: central/translations-central.php:75
+msgid "Media has been detached from post."
+msgstr "媒体已从文章中剥离"
+
+#: central/translations-central.php:74
+msgid "Failed to detach media."
+msgstr "分离媒体失败。"
+
+#: central/translations-central.php:73
+msgid "Media has been attached to post."
+msgstr "媒体已附加到文章中。"
+
+#: central/translations-central.php:72
+msgid "Failed to attach media."
+msgstr "附加媒体失败。"
+
+#: admin.php:1056
+msgid "You have not selected a restore path for your chosen backups"
+msgstr "您尚未为所选备份选择还原路径"
+
+#: methods/updraftvault.php:495
+msgid "Start %s Trial"
+msgstr "开始 %s 试用"
+
+#: methods/updraftvault.php:491 methods/updraftvault.php:492
+#: methods/updraftvault.php:493
+msgid "Start %s Subscription"
+msgstr "开始 %s 订阅"
+
+#: methods/updraftvault.php:521
+msgid "Please enter your %s password"
+msgstr "请输入您的 %s 密码"
+
+#: methods/updraftvault.php:519
+msgid "Please enter your %s email address"
+msgstr "请输入您的 %s 电子邮件地址"
+
+#: includes/updraftclone/temporary-clone-dash-notice.php:36
+msgid "%s from now"
+msgstr "%s 之后"
+
+#: methods/updraftvault.php:526
+msgid "Follow this link for help"
+msgstr "点击此链接寻求帮助"
+
+#: methods/updraftvault.php:523
+msgid "Connect to your %s"
+msgstr "连接至您的 %s"
+
+#: methods/updraftvault.php:515
+msgid "Back to other %s options"
+msgstr "返回到其它 %s  选项"
+
+#: methods/updraftvault.php:506 methods/updraftvault.php:507
+#: methods/updraftvault.php:508 methods/updraftvault.php:509
+msgid "Start a %s UpdraftVault Subscription"
+msgstr "开始 %s UpdraftVault 订阅"
+
+#: methods/updraftvault.php:485
+msgid "Read more about %s here."
+msgstr "这里了解有关 %s 的更多信息"
+
+#: methods/updraftvault.php:482
+msgid "Connect to your %s account"
+msgstr "连接至您的  %s 账号"
+
+#: templates/wp-admin/settings/existing-backups-table.php:169
+msgid "Deselect all backups"
+msgstr "取消选择所有备份"
+
+#: templates/wp-admin/settings/existing-backups-table.php:168
+msgid "Select all backups"
+msgstr "选择所有备份"
+
+#: templates/wp-admin/settings/existing-backups-table.php:167
+msgid "Delete selected backups"
+msgstr "删除选定的备份"
+
+#: templates/wp-admin/settings/form-contents.php:76
+msgid "Retain this many scheduled database backups"
+msgstr "保留此多计划的数据库备份"
+
+#: templates/wp-admin/settings/form-contents.php:42
+msgid "Retain this many scheduled file backups"
+msgstr "保留此多计划的文件备份"
+
+#: templates/wp-admin/settings/file-backup-exclude.php:18
+msgid "Add an exclusion rule for %s"
+msgstr "为 %s 添加排除规则"
+
+#: restorer.php:3659
+msgid "Skipping table %s: already restored on a prior run; next table to restore: %s"
+msgstr "跳过表%s：已经在先前的运行中恢复；即将恢复的表：%s"
+
+#: restorer.php:852
+msgid "Could not delete old path."
+msgstr "无法删除旧路径。"
+
+#: templates/wp-admin/settings/tab-addons.php:38
+msgid "Goes to the updraftplus.com checkout page"
+msgstr "转到 updraftplus.com 结算页面"
+
+#: templates/wp-admin/settings/tab-addons.php:38
+msgid "Get %s here"
+msgstr "在此获取 %s "
+
+#: admin.php:5093
+msgid "Verifying"
+msgstr "正在验证"
+
+#: admin.php:1071 admin.php:5103
+msgid "Finished"
+msgstr "已完成"
+
+#: admin.php:1074
+msgid "Preparing backup files"
+msgstr "准备备份文件"
+
+#: admin.php:5109
+msgid "Activity log"
+msgstr "活动日志"
+
+#: admin.php:5102
+msgid "Cleaning"
+msgstr "清除中"
+
+#: admin.php:5090
+msgid "Restoration progress:"
+msgstr "恢复进度："
+
+#: admin.php:1076
+msgid "Restore error:"
+msgstr "恢复错误："
+
+#: admin.php:1075
+msgid "Attempts by the browser to contact the website failed."
+msgstr "浏览器尝试与网站联系失败。"
+
+#: admin.php:1073
+msgid "Downloading backup files if needed"
+msgstr "根据需要下载备份文件"
+
+#: admin.php:1072
+msgid "Begun"
+msgstr "开始"
+
+#: admin.php:1068
+msgid "Restoring %s1 files out of %s2"
+msgstr "从 %s2 中恢复 %s1 文件"
+
+#: admin.php:1067
+msgid "no recent activity; will offer resumption after: %d seconds"
+msgstr "最近没有活动；将在以下时间后提供恢复： %d 秒"
+
+#: admin.php:1066
+msgid "last activity: %d seconds ago"
+msgstr "上次活动： %d 秒以前"
+
+#: central/translations-central.php:69
+msgid "Unable to connect to the filesystem"
+msgstr "无法连接到文件系统"
+
+#: templates/wp-admin/settings/delete-and-restore-modals.php:63
+msgid "Choose the components to restore:"
+msgstr "选择要还原的组件："
+
+#: admin.php:5080 templates/wp-admin/settings/delete-and-restore-modals.php:30
+msgid "UpdraftPlus Restoration"
+msgstr "UpdraftPlus 恢复"
+
+#: restorer.php:2558
+msgid "Found and replaced existing table foreign key constraints as the table prefix has changed."
+msgstr "发现并替换了现有的表外键约束，因为表前缀已更改。"
+
+#: admin.php:6087
+msgid "An empty WordPress install"
+msgstr "空白 WordPress 安装"
+
+#: admin.php:1063
+msgid "credentials"
+msgstr "凭据"
+
+#: admin.php:4558
+msgid "(%d archive(s) in set, total %s)."
+msgstr "（%d存档集合，总计%s）。"
+
+#: admin.php:6084
+msgid "Clone:"
+msgstr "克隆："
+
+#: admin.php:6086
+msgid "This current site"
+msgstr "此当前站点"
+
+#: includes/updraftplus-tour.php:135
+msgid "Try UpdraftVault for 1 month for only $1!"
+msgstr "尝试 UpdraftVault 个月, 仅需1美元!"
+
+#: includes/updraftplus-tour.php:188
+msgid "If you have a valid Premium license, you get 1GB of storage included."
+msgstr "如果您拥有有效的高级许可证，则会获得1GB的存储空间。"
+
+#: includes/updraftplus-tour.php:189
+msgid "Otherwise, you can try UpdraftVault for 1 month for only $1!"
+msgstr "否则，您只需1美元就可以试用一次为期一次的UpdraftVault！"
+
+#: admin.php:1061
+msgid "Try it - 1 month for $1!"
+msgstr "试试吧 - 1个月1美元！"
+
+#: admin.php:645
+msgid "go here to learn more"
+msgstr "转到此处了解更多信息"
+
+#: admin.php:645
+msgid "dismiss notice"
+msgstr "忽略通知"
+
+#: admin.php:657
+msgid "Dismiss notice"
+msgstr "忽略通知"
+
+#: includes/updraftplus-clone.php:107
+msgid "Clone of %s"
+msgstr "%s 的克隆"
+
+#: templates/wp-admin/settings/tab-addons.php:324
+msgid "More great plugins by the Updraft Team"
+msgstr "更多由 Updraft 团队制作的好用插件"
+
+#: admin.php:645
+msgid "You can test upgrading your site on an instant copy using UpdraftClone credits"
+msgstr "您可以使用UpdraftClone credits 在即时副本上测试升级您的站点"
+
+#: admin.php:657
+msgid "You can test running your site on a different PHP (or WordPress) version using UpdraftClone credits."
+msgstr "您可以使用 UpdraftClone credits 测试在不同的PHP（或WordPress）版本上运行您的站点。"
+
+#: methods/updraftvault.php:497
+msgid "with the option of"
+msgstr "的选项"
+
+#: methods/updraftvault.php:494
+msgid "Start Trial"
+msgstr "开始试用"
+
+#: methods/updraftvault.php:490
+msgid "Start Subscription"
+msgstr "开始订阅"
+
+#: methods/updraftvault.php:502
+msgid "%s month %s trial"
+msgstr "%s 月 %s 试用"
+
+#: methods/ftp.php:184
+msgid "upload failed"
+msgstr "上传失败"
+
+#: includes/updraftplus-notices.php:188
+msgid "manages all your WordPress sites at once from one place"
+msgstr "从一个位置一次管理您的所有 WordPress 网站"
+
+#: methods/ftp.php:157 methods/ftp.php:325
+msgid "login failure"
+msgstr "登录失败"
+
+#: includes/updraftplus-notices.php:187
+msgid "handles updates automatically as you want them"
+msgstr "根据需要自动处理更新"
+
+#: methods/cloudfiles.php:228 methods/cloudfiles.php:229
+msgid "error - failed to upload file"
+msgstr "错误-上传文件失败"
+
+#: methods/cloudfiles.php:221
+msgid "error - failed to re-assemble chunks"
+msgstr "错误-未能重新组合块"
+
+#: methods/cloudfiles.php:113 methods/cloudfiles.php:358
+#: methods/cloudfiles.php:370
+msgid "error - failed to create and access the container"
+msgstr "错误-未能创建和访问容器"
+
+#: includes/updraftplus-notices.php:186
+msgid "backs up automatically when you update plugins, themes or core"
+msgstr "自动备份, 当您更新插件、主题或核心"
+
+#: methods/cloudfiles.php:105 methods/cloudfiles.php:109
+#: methods/cloudfiles.php:302 methods/cloudfiles.php:350
+#: methods/cloudfiles.php:354
+msgid "authentication failed"
+msgstr "身份验证失败"
+
+#: admin.php:6251 admin.php:6253
+msgid "You have requested saving to remote storage (%s), but without entering any settings for that storage."
+msgstr "您已请求保存到远程存储 （ %s）, 但没有输入该存储的任何设置。"
+
+#: admin.php:1031
+msgid "Verifying one-time password..."
+msgstr "正在验证一次性密码..."
+
+#: templates/wp-admin/settings/form-contents.php:326
+msgid "The higher the value, the more server resources are required to create the archive."
+msgstr "值越高, 创建存档所需的服务器资源就越多。"
+
+#: restorer.php:1255
+msgid "The directory does not exist, and the attempt to create it failed"
+msgstr "该目录不存在, 并且创建该目录的尝试失败"
+
+#: includes/updraftplus-notices.php:187
+msgid "Save time"
+msgstr "节省时间"
+
+#: methods/updraftvault.php:479
+msgid "Need to get space?"
+msgstr "需要获得空间？"
+
+#: includes/updraftplus-notices.php:188
+msgid "Many sites?"
+msgstr "很多网站？"
+
+#: includes/updraftplus-notices.php:185
+msgid "Make updates easy with UpdraftPlus"
+msgstr "使用 UpdraftPlus 轻松进行更新"
+
+#: admin.php:1026
+msgid "Login successful; reloading information."
+msgstr "登录成功；重新加载信息。"
+
+#: admin.php:3399
+msgid "Learn more about UpdraftCentral"
+msgstr "了解更多关于 UpdraftCentral 的信息"
+
+#: methods/cloudfiles.php:157 methods/cloudfiles.php:199
+#: methods/openstack-base.php:81
+msgid "Error: Failed to upload"
+msgstr "错误：上传失败"
+
+#: methods/cloudfiles.php:140 methods/googledrive.php:1273
+#: methods/googledrive.php:1279
+msgid "Error: Failed to open local file"
+msgstr "错误：无法打开本地文件"
+
+#: methods/s3.php:184 methods/s3.php:185 methods/s3.php:196 methods/s3.php:197
+msgid "Error: Failed to initialise"
+msgstr "错误：未能初始化"
+
+#: includes/updraftplus-notices.php:186
+msgid "Be safe"
+msgstr "安全"
+
+#: methods/updraftvault.php:481
+msgid "Already got space?"
+msgstr "已经有空间了？"
+
+#: admin.php:3399
+msgid "Add this website to UpdraftCentral (remote, centralised control) - free for up to 5 sites."
+msgstr "将本网站添加到 UpdraftCentral （远程、集中控制）-最多5个网站免费。"
+
+#: templates/wp-admin/settings/tab-addons.php:56
+msgid "You successfully purchased UpdraftPremium."
+msgstr "您成功购买了 UpdraftPremium 版。"
+
+#: class-updraftplus.php:2485
+msgid "The backup is being aborted for a repeated failure to progress."
+msgstr "由于重复失败, 备份将被中止。"
+
+#: class-updraftplus.php:3763
+msgid "Incomplete"
+msgstr "未完成"
+
+#: templates/wp-admin/settings/tab-addons.php:39
+msgid "Goes to updraftplus.com checkout page"
+msgstr "转到 UpdraftPlus.com 结帐页面"
+
+#: templates/wp-admin/settings/tab-addons.php:57
+msgid "Follow this link to the installation instructions (particularly step 1)."
+msgstr "按照此链接到安装说明 （特别是步骤 1）。"
+
+#: templates/wp-admin/settings/tab-addons.php:128
+msgid "Allows you to only backup changes to your files (such as a new image) that have been made to your site since the last backup."
+msgstr "允许您仅对自上次备份以来对网站所做的文件 （如新镜像） 进行备份更改。"
+
+#: restorer.php:380
+msgid "Your WordPress install has old directories from its state before you restored/migrated (technical information: these are suffixed with -old)."
+msgstr "在重新迁移之前, WordPress 安装具有旧目录的状态, 然后再重新迁移 （技术信息: 这些目录后缀为-old）。"
+
+#: includes/class-filesystem-functions.php:556
+msgid "Unzip progress: %d out of %d files"
+msgstr "解压缩进度：%d文件中的%d"
+
+#: includes/class-filesystem-functions.php:781
+msgid "Could not copy file."
+msgstr "无法复制文件。"
+
+#: admin.php:1054
+msgid "File backup options"
+msgstr "文件备份选项"
+
+#: includes/class-filesystem-functions.php:702
+msgid "Could not create directory."
+msgstr "无法创建目录。"
+
+#: templates/wp-admin/settings/form-contents.php:88
+msgid "to take incremental backups"
+msgstr "采取增量备份"
+
+#: includes/class-wpadmin-commands.php:217
+msgid "This backup set contains incremental backups of your files; please select the time you wish to restore your files to"
+msgstr "此备份集包含文件的增量备份;请选择您希望将文件还原到的时间"
+
+#: templates/wp-admin/settings/backupnow-modal.php:13
+msgid "Take an incremental backup"
+msgstr "进行增量备份"
+
+#: templates/wp-admin/settings/backupnow-modal.php:12
+msgid "Take a new backup"
+msgstr "获取新的备份"
+
+#: templates/wp-admin/settings/delete-and-restore-modals.php:30
+msgid "Restore files from"
+msgstr "从还原文件"
+
+#: templates/wp-admin/settings/take-backup.php:90
+msgid "Perform a backup"
+msgstr "执行备份"
+
+#: templates/wp-admin/settings/backupnow-modal.php:17
+msgid "Incremental backups are a feature of %s (upgrade by following this link)."
+msgstr "增量备份是 %s 的功能 （通过以下链接进行升级）。"
+
+#: templates/wp-admin/settings/tab-addons.php:126
+#: templates/wp-admin/settings/tab-addons.php:127
+msgid "Incremental backups"
+msgstr "增量备份"
+
+#: includes/class-filesystem-functions.php:631
+#: includes/class-filesystem-functions.php:638
+msgid "Incompatible Archive."
+msgstr "不兼容的存档。"
+
+#: templates/wp-admin/settings/backupnow-modal.php:20
+#: templates/wp-admin/settings/backupnow-modal.php:67
+msgid "Find out more about incremental backups here."
+msgstr "点击此处了解有关增量备份的更多信息。"
+
+#: includes/class-filesystem-functions.php:642
+#: includes/class-filesystem-functions.php:715
+msgid "Could not retrieve file from archive."
+msgstr "无法从存档中检索文件。"
+
+#: includes/class-filesystem-functions.php:777
+msgid "Could not extract file from archive."
+msgstr "无法从存档中提取文件。"
+
+#: includes/class-filesystem-functions.php:464
+msgid "Could not access filesystem."
+msgstr "无法访问文件系统。"
+
+#: templates/wp-admin/settings/take-backup.php:55
+msgid "Add changed files (incremental backup) ..."
+msgstr "添加已更改的文件 （增量备份）..."
+
+#: admin.php:6070
+msgid "Clone region:"
+msgstr "克隆区域："
+
+#: methods/dropbox.php:599
+msgid "%s logo"
+msgstr "%s 标志"
+
+#: templates/wp-admin/settings/form-contents.php:367
+msgid "Read more about Easy Updates Manager"
+msgstr "阅读更多关于轻松更新管理器的信息"
+
+#: templates/wp-admin/settings/form-contents.php:366
+msgid "Automatic updates"
+msgstr "自动更新"
+
+#: templates/wp-admin/settings/file-backup-exclude.php:11
+msgid "Confirm change"
+msgstr "确认更改"
+
+#: templates/wp-admin/settings/file-backup-exclude.php:11
+msgid "Edit"
+msgstr "编辑"
+
+#: templates/wp-admin/settings/exclude-settings-modal/exclude-panel-submit.php:3
+#: templates/wp-admin/settings/file-backup-exclude.php:18
+msgid "Add an exclusion rule"
+msgstr "添加排除规则"
+
+#: templates/wp-admin/settings/exclude-modal.php:62
+msgid "Type a file prefix"
+msgstr "输入文件前缀"
+
+#: restorer.php:2909 restorer.php:2960
+msgid "Your database user does not have permission to drop tables"
+msgstr "您的数据库用户没有删除表的权限"
+
+#: templates/wp-admin/settings/temporary-clone.php:73
+msgid "You can find out more about clone keys here."
+msgstr "您可以在这里找到有关克隆密钥的更多信息。"
+
+#: templates/wp-admin/settings/exclude-modal.php:50
+msgid "Type an extension like zip"
+msgstr "输入类似于 zip 的扩展"
+
+#: templates/wp-admin/settings/exclude-modal.php:6
+msgid "Select a way to exclude files or directories from the backup"
+msgstr "选择从备份中排除文件或目录的方法"
+
+#: templates/wp-admin/settings/exclude-modal.php:31
+msgid "Select a file/folder which you would like to exclude"
+msgstr "选择要排除的文件文件夹"
+
+#: templates/wp-admin/settings/temporary-clone.php:62
+msgid "Or, use an UpdraftClone key"
+msgstr "或者, 使用 UpdraftClone key"
+
+#: restorer.php:3351
+msgid "Found SET NAMES %s, but changing to %s as suggested by WPDB::determine_charset()."
+msgstr "找到SET NAMES%s，但按照WPDB :: determine_charset（）的建议更改为%s。"
+
+#: templates/wp-admin/settings/exclude-modal.php:9
+#: templates/wp-admin/settings/exclude-modal.php:25
+msgid "File/directory"
+msgstr "文件/目录"
+
+#: templates/wp-admin/settings/exclude-modal.php:2
+msgid "Exclude files/directories"
+msgstr "排除文件目录"
+
+#: templates/wp-admin/settings/form-contents.php:367
+msgid "Ask WordPress to automatically update UpdraftPlus when it finds an available update."
+msgstr "当 WordPress 发现可用的更新时, 请自动更新 UpdraftPlus。"
+
+#: templates/wp-admin/settings/exclude-modal.php:12
+#: templates/wp-admin/settings/exclude-modal.php:47
+#: templates/wp-admin/settings/exclude-modal.php:49
+msgid "All files with this extension"
+msgstr "具有此扩展名的所有文件"
+
+#: templates/wp-admin/settings/exclude-modal.php:59
+#: templates/wp-admin/settings/exclude-modal.php:61
+msgid "All files beginning with these characters"
+msgstr "以这些字符开头的所有文件"
+
+#: templates/wp-admin/settings/exclude-modal.php:15
+msgid "All files beginning with given characters"
+msgstr "以给定字符开头的所有文件"
+
+#: includes/updraftclone/temporary-clone-status.php:419
+msgid "your UpdraftPlus.com account"
+msgstr "您的 UpdraftPlus.com 帐户"
+
+#: admin.php:6175
+msgid "Your clone has started, network information is not yet available but will be displayed here and at your updraftplus.com account once it is ready."
+msgstr "您的克隆已经开始, 网络信息尚不可用, 但一旦准备就绪, 将显示在这里和您的 UpdraftPlus.com 帐户上。"
+
+#: includes/updraftclone/temporary-clone-status.php:419
+msgid "Your UpdraftClone is still setting up."
+msgstr "您的升级克隆仍在设置中。"
+
+#: includes/updraftclone/temporary-clone-status.php:419
+msgid "You can check the progress here or in %s"
+msgstr "您可以在此处或 %s 中查看进度"
+
+#: includes/updraftclone/temporary-clone-status.php:367
+msgid "WordPress installed; now awaiting the site data to be sent."
+msgstr "已安装 WordPress;现在正在等待要发送的站点数据。"
+
+#: includes/updraftclone/temporary-clone-status.php:66
+#: includes/updraftclone/temporary-clone-status.php:341
+msgid "WordPress installed"
+msgstr "已安装 WordPress"
+
+#: admin.php:1052
+msgid "UpdraftClone key is required."
+msgstr "需要升级克隆key。"
+
+#: includes/updraftclone/temporary-clone-status.php:420
+msgid "To read FAQs/documentation about UpdraftClone, go here."
+msgstr "要阅读有关 UpdraftClone 的 Faqs/文档, 请转到此处。"
+
+#: includes/updraftclone/temporary-clone-status.php:376
+msgid "The site data has all been received, and its import has begun."
+msgstr "网站数据已全部收到, 并已开始导入。"
+
+#: admin.php:1041
+msgid "The preparation of the clone data has been aborted."
+msgstr "克隆数据的准备任务已中止。"
+
+#: admin.php:1051
+msgid "The exclusion rule which you are trying to add already exists"
+msgstr "您试图添加的排除规则已存在"
+
+#: includes/updraftclone/temporary-clone-status.php:75
+msgid "Site data received"
+msgstr "收到的站点数据"
+
+#: includes/updraftclone/temporary-clone-status.php:86
+msgid "Site data has been deployed"
+msgstr "已部署站点数据"
+
+#: includes/updraftclone/temporary-clone-status.php:73
+#: includes/updraftclone/temporary-clone-status.php:344
+msgid "Receiving site data"
+msgstr "接收站点数据"
+
+#: admin.php:1044
+msgid "Please select a file/folder which you would like to exclude"
+msgstr "请选择要排除的文件文件夹"
+
+#: admin.php:1048
+msgid "Please enter characters that begin the filename which you would like to exclude"
+msgstr "请输入您要排除的文件名开头的字符"
+
+#: admin.php:1049
+msgid "Please enter a valid file name prefix"
+msgstr "请输入有效的文件名前缀"
+
+#: admin.php:1047
+msgid "Please enter a valid file extension"
+msgstr "请输入有效的文件扩展名"
+
+#: admin.php:1046
+msgid "Please enter a file extension, like zip"
+msgstr "请输入文件扩展名, 如 zip"
+
+#: admin.php:4281
+msgid "Exclude these from"
+msgstr "将这些从"
+
+#: includes/updraftclone/temporary-clone-status.php:84
+#: includes/updraftclone/temporary-clone-status.php:347
+msgid "Deploying site data"
+msgstr "部署站点数据"
+
+#: includes/updraftclone/temporary-clone-status.php:94
+msgid "Clone ready"
+msgstr "克隆准备好了"
+
+#: admin.php:3388
+msgid "Ask WordPress to update UpdraftPlus automatically when an update is available"
+msgstr "要求 WordPress 在更新可用时自动更新 UpdraftPlus"
+
+#: admin.php:1043
+msgid "Are you sure you want to remove this exclusion rule?"
+msgstr "确实要删除此排除规则吗？"
+
+#: includes/updraftclone/temporary-clone-status.php:376
+msgid "%s archives remain"
+msgstr "%s 存档保持不变"
+
+#: templates/wp-admin/advanced/site-info.php:120
+msgid "log results to console"
+msgstr "将结果记录到控制台"
+
+#: includes/updraftplus-tour.php:165 includes/updraftplus-tour.php:198
+#: includes/updraftplus-tour.php:209
+msgid "Finish"
+msgstr "完成"
+
+#: includes/updraftplus-tour.php:143 includes/updraftplus-tour.php:147
+msgid "Save"
+msgstr "保存"
+
+#: includes/updraftplus-tour.php:111
+msgid "Manual backup options"
+msgstr "手动备份选项"
+
+#: includes/updraftplus-tour.php:108
+msgctxt "updraftplus"
+msgid "To make a simple backup to your server, press this button. Or to setup regular backups and remote storage, go to %s settings %s"
+msgstr "要对服务器进行简单备份, 请按此按钮。或者, 要设置定期备份和远程存储, 请转到 %s 设置 %s"
+
+#: includes/updraftplus-tour.php:100
+msgid "the world’s most trusted backup plugin!"
+msgstr "世界上最值得信赖的备份插件!"
+
+#: includes/class-commands.php:1093
+msgid "manage"
+msgstr "管理"
+
+#: methods/dropbox.php:336 methods/dropbox.php:351
+msgid "failed to upload file to %s (see log file for more)"
+msgstr "无法将文件上传到 %s （请参阅日志文件了解更多）"
+
+#: methods/dropbox.php:216
+msgid "error: %s (see log file for more)"
+msgstr "错误：%s （有关详细信息, 请参阅日志文件）"
+
+#: includes/updraftplus-tour.php:107
+msgid "Your first backup"
+msgstr "您的第一个备份"
+
+#: includes/updraftclone/temporary-clone-dash-notice.php:46
+msgid "Your clone will renew on:"
+msgstr "您的克隆人将在以下时间续订:"
+
+#: class-updraftplus.php:3661
+msgid "Your clone will now deploy this data to re-create your site."
+msgstr "您的备份现在将部署此数据以重新创建您的站点。"
+
+#: admin.php:6169
+msgid "Your clone has started and will be available at the following URLs once it is ready."
+msgstr "您的备份已经启动，并且一旦准备就可以在以下URL中使用。"
+
+#: includes/class-commands.php:1074
+msgid "You can buy more temporary clone tokens here."
+msgstr "您可以在这里买到更多的临时克隆令牌。"
+
+#: templates/wp-admin/settings/temporary-clone.php:27
+#: templates/wp-admin/settings/temporary-clone.php:46
+#: templates/wp-admin/settings/temporary-clone.php:59
+msgid "You can buy UpdraftClone tokens from our shop, here."
+msgstr "您可以在这里从我们的商店买到 UpdraftClone 令牌。"
+
+#: includes/updraftplus-tour.php:100
+msgid "Welcome to UpdraftPlus"
+msgstr "欢迎来到 UpdraftPlus"
+
+#: admin.php:1058 includes/updraftplus-tour.php:133
+#: includes/updraftplus-tour.php:185
+msgid "UpdraftVault is our remote storage which works seamlessly with UpdraftPlus."
+msgstr "UpdraftVault 是我们的远程存储, 可与 UpdraftPlus 无缝连接。"
+
+#: includes/updraftplus-tour.php:99
+msgid "UpdraftPlus settings"
+msgstr "UpdraftPlus 设置"
+
+#: includes/updraftplus-tour.php:162
+msgid "UpdraftPlus Premium has many more exciting features!"
+msgstr "UpdraftPlus 高级有许多更令人兴奋的功能!"
+
+#: includes/updraftplus-tour.php:161
+msgid "UpdraftPlus Premium and addons"
+msgstr "UpdraftPlus 高级版和附加组件"
+
+#: includes/updraftclone/temporary-clone-dash-notice.php:32
+msgid "Unable to get renew date"
+msgstr "无法获取续订日期"
+
+#: admin.php:1057 includes/updraftplus-tour.php:132
+#: includes/updraftplus-tour.php:184
+msgid "Try UpdraftVault!"
+msgstr "试试升级 UpdraftVault 保险库吧!"
+
+#: includes/updraftplus-tour.php:169
+msgctxt "Translators: UpdraftVault is a product name and should not be translated."
+msgid "To get started with UpdraftVault, select one of the options below:"
+msgstr "要开始使用 UpdraftVault, 请选择以下选项之一:"
+
+#: includes/updraftplus-tour.php:116 includes/updraftplus-tour.php:121
+msgctxt "Translators: %s is a bold tag."
+msgid "But to avoid server-wide threats backup regularly to remote cloud storage in %s settings %s"
+msgstr "但是, 为了避免服务器范围内的威胁, 请定期备份到 %s 设置 %s 中的远程云存储"
+
+#: templates/wp-admin/settings/temporary-clone.php:59
+msgid "To create a temporary clone you need: 1) credit in your account and 2) to connect to your account, below."
+msgstr "要创建临时克隆, 您需要: 1） 您的帐户中的信用和 2） 连接到您的帐户, 如下所示。"
+
+#: templates/wp-admin/settings/temporary-clone.php:46
+msgid "To create a temporary clone you need credit in your account."
+msgstr "要创建临时备份, 您需要在帐户中进行充值。"
+
+#: admin.php:997
+msgid "The backup was aborted"
+msgstr "备份已中止"
+
+#: includes/updraftplus-tour.php:159 includes/updraftplus-tour.php:196
+#: includes/updraftplus-tour.php:203
+msgid "Thank you for taking the tour."
+msgstr "谢谢您参加这次旅行。"
+
+#: templates/wp-admin/settings/temporary-clone.php:36
+msgid "Takes just the time needed to create a backup and send it."
+msgstr "只需创建备份并将其发送所需的时间。"
+
+#: includes/updraftplus-tour.php:256
+msgid "Take Tour"
+msgstr "参加旅游"
+
+#: includes/updraftplus-tour.php:95
+msgid "Skip this step"
+msgstr "跳过此步骤"
+
+#: includes/updraftplus-tour.php:112
+msgid "Select what you want to backup"
+msgstr "选择要备份的内容"
+
+#: class-updraftplus.php:5503
+#: templates/wp-admin/settings/existing-backups-table.php:15
+#: templates/wp-admin/settings/existing-backups-table.php:64
+msgid "Select All"
+msgstr "全选"
+
+#: templates/wp-admin/settings/temporary-clone.php:35
+msgid "Secure"
+msgstr "安全"
+
+#: templates/wp-admin/settings/temporary-clone.php:34
+msgid "Runs on capacity from a leading cloud computing provider."
+msgstr "从领先的云计算提供商的容量上运行。"
+
+#: templates/wp-admin/advanced/wipe-settings.php:14
+msgid "Reset tour"
+msgstr "重置游览"
+
+#: templates/wp-admin/settings/temporary-clone.php:34
+msgid "Reliable"
+msgstr "稳定"
+
+#: templates/wp-admin/settings/temporary-clone.php:27
+msgid "Read FAQs here."
+msgstr "请在此处阅读常见问题。"
+
+#: templates/wp-admin/advanced/wipe-settings.php:13
+msgid "Press this button to take a tour of the plugin."
+msgstr "按下此按钮可浏览插件。"
+
+#: includes/updraftplus-tour.php:103
+msgid "Press here to start!"
+msgstr "按这里开始!"
+
+#: includes/updraftplus-tour.php:144
+msgid "Press here to save your settings."
+msgstr "按此处保存设置。"
+
+#: includes/updraftplus-tour.php:116
+msgid "Press here to run a manual backup."
+msgstr "按此处运行手动备份。"
+
+#: templates/wp-admin/settings/temporary-clone.php:35
+msgid "One VPS (Virtual Private Server) per clone, shared with nobody."
+msgstr "每个克隆一个 VPS （虚拟专用服务器）, 与任何人共享。"
+
+#: templates/wp-admin/settings/temporary-clone.php:61
+msgid "Not got an account? Get one by buying some tokens here."
+msgstr "没有帐户？在这里买一些令牌, 得到一个。"
+
+#: includes/updraftplus-tour.php:139
+msgid "More settings"
+msgstr "更多的设置"
+
+#: templates/wp-admin/settings/migrator-no-migrator.php:6
+msgid "Migrate (create a copy of a site on hosting you control)"
+msgstr "迁移 （在承载您的控制时创建网站的副本）"
+
+#: includes/updraftclone/temporary-clone-dash-notice.php:47
+msgid "Manage your clones"
+msgstr "管理备份"
+
+#: includes/updraftplus-tour.php:140
+msgid "Look through the other settings here, making any changes you’d like."
+msgstr "查看此处的其他设置, 进行您想要的任何更改。"
+
+#: includes/updraftplus-tour.php:206
+msgid "Log in here to enable all the features you have access to."
+msgstr "在此处登录以启用您有权访问的所有功能。"
+
+#: templates/wp-admin/settings/temporary-clone.php:37
+msgid "If you want, test upgrading to a different PHP or WP version."
+msgstr "如果需要, 请测试升级到其他 PHP 或 WP 版本。"
+
+#: templates/wp-admin/settings/temporary-clone.php:61
+#: templates/wp-admin/settings/temporary-clone.php:81
+msgid "I accept the UpdraftClone terms and conditions"
+msgstr "我接受升级克隆条款和条件"
+
+#: includes/updraftplus-tour.php:117 includes/updraftplus-tour.php:122
+msgid "Go to settings"
+msgstr "转到设置"
+
+#: admin.php:6170
+msgid "Front page:"
+msgstr "首页："
+
+#: admin.php:6123
+msgid "Forbid non-administrators to login to WordPress on your clone"
+msgstr "禁止非管理员在您的克隆上登录WordPress"
+
+#: templates/wp-admin/settings/temporary-clone.php:37
+msgid "Flexible"
+msgstr "灵活"
+
+#: admin.php:1059 includes/updraftplus-tour.php:134
+#: includes/updraftplus-tour.php:162 includes/updraftplus-tour.php:186
+#: templates/wp-admin/settings/temporary-clone.php:27
+msgid "Find out more here."
+msgstr "点击此处了解更多信息。"
+
+#: templates/wp-admin/settings/temporary-clone.php:36
+msgid "Fast"
+msgstr "快速"
+
+#: includes/updraftplus-tour.php:96
+msgid "End tour"
+msgstr "向导结束"
+
+#: templates/wp-admin/settings/temporary-clone.php:33
+msgid "Easy"
+msgstr "简单"
+
+#: includes/updraftplus-tour.php:154
+msgid "Do you have a few more WordPress sites you want to backup? If yes you can save hours by controlling all your backups in one place from UpdraftCentral."
+msgstr "您是否还有几个要备份的 WordPress 网站？如果是, 您可以通过在一个位置控制从 UpdraftCentral 的所有备份来节省时间。"
+
+#: admin.php:6171
+msgid "Dashboard:"
+msgstr "仪表盘："
+
+#: includes/class-commands.php:1093
+msgid "Current clones"
+msgstr "当前备份"
+
+#: includes/updraftplus-tour.php:115 includes/updraftplus-tour.php:120
+msgid "Creating your first backup"
+msgstr "创建您的第一个备份"
+
+#: templates/wp-admin/settings/temporary-clone.php:15
+#: templates/wp-admin/settings/temporary-clone.php:44
+msgid "Create a temporary clone on our servers (UpdraftClone)"
+msgstr "在我们的服务器上创建临时克隆 （UpdraftClone）"
+
+#: includes/updraftplus-tour.php:153
+msgid "Control all your backups in one place"
+msgstr "在一个位置控制所有备份"
+
+#: includes/updraftplus-tour.php:205
+msgid "Connect to updraftplus.com"
+msgstr "连接到 UpdraftPlus.com"
+
+#: includes/updraftplus-tour.php:148
+msgid "Congratulations, your settings have successfully been saved."
+msgstr "恭喜，您的设置已成功保存。"
+
+#: includes/updraftplus-tour.php:121
+msgid "Congratulations! Your first backup is running."
+msgstr "祝贺！您的第一个备份正在运行。"
+
+#: methods/dreamobjects.php:28
+msgid "Closing 1st October 2018"
+msgstr "2018年10月1日关闭"
+
+#: includes/updraftplus-tour.php:125
+msgid "Choose your backup schedule"
+msgstr "选择备份计划"
+
+#: includes/updraftplus-tour.php:126
+msgid "Choose the schedule that you want your backups to run on."
+msgstr "选择要在其上运行备份的计划。"
+
+#: includes/updraftplus-tour.php:94
+msgid "Back"
+msgstr "返回"
+
+#: templates/wp-admin/settings/tab-addons.php:30
+msgid "WooCommerce plugins"
+msgstr "WooCommerce 插件"
+
+#: methods/addon-base-v2.php:138
+msgid "failed to list files"
+msgstr "未能列出文件"
+
+#: admin.php:6173 admin.php:6176
+msgid "You can find your temporary clone information in your updraftplus.com account here."
+msgstr "您可以在您的 UpdraftPlus.com 帐户中找到您的临时克隆信息。"
+
+#: methods/addon-base-v2.php:222
+msgid "This storage method does not allow downloading"
+msgstr "此存储方法不允许下载"
+
+#: templates/wp-admin/settings/existing-backups-table.php:92
+msgid "Remote storage: %s"
+msgstr "远程存储: %s"
+
+#: templates/wp-admin/settings/tab-addons.php:299
+msgid "Premium / Find out more"
+msgstr "高级版/了解更多"
+
+#: templates/wp-admin/settings/tab-addons.php:29
+msgid "Other great plugins"
+msgstr "其他好用的插件"
+
+#: methods/addon-base-v2.php:361
+msgid "Failed: We were not able to place a file in that directory - please check your credentials."
+msgstr "失败：我们无法在相关目录放置文件 - 请检查您的证书."
+
+#: methods/addon-base-v2.php:100 methods/addon-base-v2.php:105
+msgid "Failed to upload %s"
+msgstr "上传失败 %s"
+
+#: methods/addon-base-v2.php:239 methods/addon-base-v2.php:259
+msgid "Failed to download %s"
+msgstr "下载失败 %s"
+
+#: methods/addon-base-v2.php:253
+msgid "Failed to download"
+msgstr "未能下载"
+
+#: class-updraftplus.php:5393
+msgid "Choose a default for each table"
+msgstr "为每个表选择默认值"
+
+#: admin.php:3705
+msgid "Sending files to remote site"
+msgstr "将文件发送到远程站点"
+
+#: admin.php:3699
+msgid "Clone server being provisioned and booted (can take several minutes)"
+msgstr "正在设置和启动克隆服务器 （可能需要几分钟时间）"
+
+#: admin.php:3178
+msgid "Backup / Restore"
+msgstr "备份/还原"
+
+#: admin.php:733 admin.php:5080
+msgid "Backup"
+msgstr "备份"
+
+#: restorer.php:3357
+msgid "Requested character set (%s) is not present - changing to %s."
+msgstr "请求的字符集 （ %s） 不存在-更改为 %s。"
+
+#: templates/wp-admin/settings/migrator-no-migrator.php:17
+msgid "More information here."
+msgstr "更多信息请点击这里。"
+
+#: includes/class-remote-send.php:359
+msgid "site not found"
+msgstr "找不到站点"
+
+#: includes/class-remote-send.php:580
+msgid "key"
+msgstr "秘钥"
+
+#: includes/class-remote-send.php:555
+msgid "You must copy and paste this key on the sending site now - it cannot be shown again."
+msgstr "您必须立即将此密钥复制并粘贴到发送站点上, 它不能再次显示。"
+
+#: includes/updraftclone/temporary-clone-user-notice.php:31
+msgid "You can forbid non-admins logins to this cloned site by checking the checkbox below"
+msgstr "您可以通过选中下面的复选框来禁止非管理员登录到此克隆网站"
+
+#: includes/updraftclone/temporary-clone-dash-notice.php:44
+msgid "Welcome to your UpdraftClone (temporary clone)"
+msgstr "欢迎来到您的 UpdraftClone （临时克隆）"
+
+#: includes/updraftclone/temporary-clone-user-notice.php:30
+msgid "UpdraftPlus temporary clone user login settings:"
+msgstr "UpdraftPlus 临时克隆用户登录设置："
+
+#: includes/class-remote-send.php:632
+msgid "The key was successfully added."
+msgstr "已成功添加密钥。"
+
+#: includes/class-remote-send.php:595
+msgid "The entered key was the wrong length - please try again."
+msgstr "输入的密钥长度不对-请重试。"
+
+#: includes/class-remote-send.php:597 includes/class-remote-send.php:599
+#: includes/class-remote-send.php:603
+msgid "The entered key was corrupt - please try again."
+msgstr "输入的密钥已损坏-请重试。"
+
+#: includes/class-remote-send.php:608
+msgid "The entered key does not belong to a remote site (it belongs to this one)."
+msgstr "输入的密钥不属于远程站点 （它属于此站点）。"
+
+#: includes/updraftclone/temporary-clone-dash-notice.php:43
+msgid "Refresh connection"
+msgstr "刷新连接"
+
+#: admin.php:4418 templates/wp-admin/settings/backupnow-modal.php:60
+#: templates/wp-admin/settings/existing-backups-table.php:76
+#: templates/wp-admin/settings/existing-backups-table.php:79
+msgid "Only allow this backup to be deleted manually (i.e. keep it even if retention limits are hit)."
+msgstr "只允许手动删除此备份 （即即使达到保留限制, 也保留它）。"
+
+#: includes/class-remote-send.php:654
+msgid "No receiving sites have yet been added."
+msgstr "尚未添加接收站点。"
+
+#: includes/class-remote-send.php:684
+msgid "No keys to allow remote sites to send backup data here have yet been created."
+msgstr "尚未创建允许远程站点在此处发送备份数据的密钥。"
+
+#: admin.php:741 admin.php:3179
+msgid "Migrate / Clone"
+msgstr "迁移/克隆"
+
+#: includes/class-remote-send.php:632
+msgid "It is for sending backups to the following site: "
+msgstr "用于将备份发送到以下站点: "
+
+#: includes/class-remote-send.php:429
+msgid "If sending directly from site to site does not work for you, then there are three other methods - please try one of these instead."
+msgstr "如果直接从一个网站发送到另一个网站不适合您, 那么还有三种其他方法--请尝试其中的一种。"
+
+#: includes/class-remote-send.php:429 methods/googledrive.php:1480
+msgid "For longer help, including screenshots, follow this link."
+msgstr "如需更长时间的帮助，包括屏幕截图，请点击此链接。"
+
+#: includes/class-remote-send.php:693
+msgid "Existing keys"
+msgstr "现有密钥"
+
+#: includes/class-remote-send.php:326
+msgid "Backup data will be sent to:"
+msgstr "备份数据将发送到："
+
+#: includes/class-remote-send.php:463
+msgid "Also send this backup to the active remote storage locations"
+msgstr "还可以将此备份发送到活动的远程存储位置"
+
+#: includes/updraftclone/temporary-clone-user-notice.php:32
+msgid "Allow only administrators to log in"
+msgstr "仅允许管理员登录"
+
+#: includes/class-remote-send.php:538
+msgid "A key with this name already exists; you must use a unique name."
+msgstr "具有此名称的密钥已存在;您必须使用唯一的名称。"
+
+#: includes/class-commands.php:1144
+msgid "The creation of your data for creating the clone should now begin."
+msgstr "现在应该开始创建用于创建克隆的数据。"
+
+#: updraftplus.php:127
+msgid "Every hour"
+msgstr "每小时"
+
+#: admin.php:3312 includes/class-commands.php:1087
+#: includes/class-commands.php:1142 includes/class-commands.php:1144
+#: methods/backup-module.php:746
+#: templates/wp-admin/settings/temporary-clone.php:88
+#: templates/wp-admin/settings/updraftcentral-connect.php:71
+msgid "Processing"
+msgstr "处理中"
+
+#: templates/wp-admin/settings/updraftcentral-connect.php:68
+msgid "I consent to %s"
+msgstr "我同意 %s"
+
+#: templates/wp-admin/settings/updraftcentral-connect.php:68
+msgid "UpdraftPlus.Com account terms and policies"
+msgstr "帐户条款和政策"
+
+#: templates/wp-admin/settings/updraftcentral-connect.php:20
+msgid "Or if you prefer to self-host, then you can get the self-hosted version here."
+msgstr "或者, 如果您更喜欢自托管, 那么您可以在这里得到自托管版本。"
+
+#: templates/wp-admin/settings/updraftcentral-connect.php:46
+msgid "Login or register with this email address"
+msgstr "使用此电子邮件地址登录或注册"
+
+#: templates/wp-admin/settings/updraftcentral-connect.php:29
+msgid "Login or register for UpdraftCentral Cloud"
+msgstr "登录或注册 UpdraftCentral 云"
+
+#: templates/wp-admin/settings/updraftcentral-connect.php:33
+msgid "If you already have an updraftplus.com account, then enter the details below."
+msgstr "如果您已经有了 UpdraftPlus.com 帐户, 请输入下面的详细信息。"
+
+#: templates/wp-admin/settings/updraftcentral-connect.php:34
+msgid "If not, then choose your details and a new account will be registered."
+msgstr "如果没有, 然后选择您的详细信息, 将注册一个新帐户。"
+
+#: templates/wp-admin/settings/updraftcentral-connect.php:20
+msgid "Go here to connect it."
+msgstr "到这里来连接它。"
+
+#: templates/wp-admin/settings/updraftcentral-connect.php:70
+msgid "Connect to UpdraftCentral Cloud"
+msgstr "连接到 UpdraftCentral 云"
+
+#: templates/wp-admin/settings/updraftcentral-connect.php:17
+msgid "Connect this site to UpdraftCentral Cloud"
+msgstr "将此站点连接到 UpdraftCentral 云"
+
+#: templates/wp-admin/settings/updraftcentral-connect.php:12
+msgid "Backup, update and manage all your WordPress sites from one dashboard"
+msgstr "从一个仪表盘备份、更新和管理所有 WordPress 网站"
+
+#: templates/wp-admin/settings/updraftcentral-connect.php:31
+msgid "Add this website to your UpdraftCentral Cloud dashboard at updraftplus.com."
+msgstr "将本网站添加到您的 UpdraftCentral 云仪表盘上。"
+
+#: includes/class-commands.php:1086
+msgid "Create clone"
+msgstr "创建克隆"
+
+#: includes/class-commands.php:1073 includes/class-commands.php:1130
+msgid "Available temporary clone tokens:"
+msgstr "可用的临时克隆令牌："
+
+#: methods/dropbox.php:601 methods/googledrive.php:1489
+msgid "this privacy policy"
+msgstr "本隐私政策"
+
+#: includes/class-updraftplus-encryption.php:148
+msgid "Your web-server does not have the %s module installed."
+msgstr "您的网络服务器没有安装 %s 模块。"
+
+#: includes/class-updraftplus-encryption.php:148
+msgid "Without it, encryption will be a lot slower."
+msgstr "如果没有它, 加密速度会慢得多。"
+
+#: methods/dropbox.php:601 methods/googledrive.php:1489
+msgid "Please read %s for use of our %s authorization app (none of your backup data is sent to us)."
+msgstr "请阅读 %s 以使用我们的 %s 授权应用程序 （您的备份数据都不会发送给我们）。"
+
+#: admin.php:6105 admin.php:6149
+msgid "(current version)"
+msgstr "（当前版本）"
+
+#: admin.php:1025
+msgid "Login successful."
+msgstr "登陆成功。"
+
+#: admin.php:4186
+msgid "press here"
+msgstr "按这里"
+
+#: admin.php:1035
+msgid "You need to read and accept the UpdraftCentral Cloud data and privacy policies before you can proceed."
+msgstr "您需要先阅读并接受 UpdraftCentral 云数据和隐私政策, 然后才能继续。"
+
+#: admin.php:1036
+msgid "You can also close this wizard."
+msgstr "您也可以关闭此向导。"
+
+#: admin.php:1022 templates/wp-admin/settings/updraftcentral-connect.php:9
+msgid "UpdraftCentral Cloud"
+msgstr "UpdraftCentral 云"
+
+#: admin.php:1030
+msgid "Trouble connecting? Try using an alternative method in the advanced security options."
+msgstr "连接有问题吗？尝试在高级安全选项中使用替代方法。"
+
+#: admin.php:6032
+msgid "The file %s has a \"byte order mark\" (BOM) at its beginning."
+msgid_plural "The files %s have a \"byte order mark\" (BOM) at their beginning."
+msgstr[0] "文件 %s 的开头有一个 \"字节顺序标记\" （BOM）。"
+
+#: admin.php:1027
+msgid "Registration successful."
+msgstr "注册成功。"
+
+#: admin.php:1034
+msgid "Please wait while you are redirected to UpdraftCentral Cloud."
+msgstr "您正在重定向到 UpdraftCentral 云, 请稍候。"
+
+#: admin.php:1033
+msgid "Please wait while the system generates and registers an encryption key for your website with UpdraftCentral Cloud."
+msgstr "系统使用 UpdraftCentral 云为您的网站生成并注册加密密钥, 请稍候。"
+
+#: admin.php:1025 admin.php:1027
+msgid "Please follow this link to open %s in a new window."
+msgstr "请按照此链接在新窗口中打开 %s。"
+
+#: admin.php:1032
+msgid "Perhaps you would want to login instead."
+msgstr "也许您想改为登录。"
+
+#: admin.php:3425 templates/wp-admin/settings/updraftcentral-connect.php:56
+msgid "One Time Password (check your OTP app to get this password)"
+msgstr "一次性密码 （检查您的 OTP 应用程序以获取此密码）"
+
+#: admin.php:3289
+msgid "Not yet got an account (it's free)? Go get one!"
+msgstr "还没有帐号（免费）？去注册一个!"
+
+#: admin.php:3376
+msgid "Forgotten your details?"
+msgstr "忘了您的密码？"
+
+#: admin.php:1037
+msgid "For future control of all your UpdraftCentral connections, go to the \"Advanced Tools\" tab."
+msgstr "要将来控制所有升级中心连接, 请转到 \"高级工具\" 选项卡。"
+
+#: admin.php:3355
+msgid "Connect with your UpdraftPlus.Com account"
+msgstr "连接您的 Updraftplus.com 帐户"
+
+#: admin.php:1028
+msgid "Both email and password fields are required."
+msgstr "电子邮件和密码字段都是必需的。"
+
+#: admin.php:1029
+msgid "An email is required and needs to be in a valid format."
+msgstr "电子邮件是必需的, 并且需要以有效的格式发送。"
+
+#: templates/wp-admin/settings/upload-backups-modal.php:3
+msgid "Upload backup"
+msgstr "上传备份"
+
+#: admin.php:934 admin.php:4676
+msgid "Upload"
+msgstr "上传"
+
+#: admin.php:1019
+msgid "You must select at least one remote storage destination to upload this backup set to."
+msgstr "必须至少选择一个远程存储目标才能将此备份集上传到。"
+
+#: admin.php:588
+msgid "UpdraftPlus News"
+msgstr "UpdraftPlus 新闻"
+
+#: templates/wp-admin/settings/upload-backups-modal.php:4
+msgid "Select the remote storage destinations you want to upload this backup set to"
+msgstr "选择要将此备份集上传到的远程存储目标"
+
+#: admin.php:1021
+msgid "Please specify the Microsoft OneDrive folder name, not the URL."
+msgstr "请指定 Microsoft OneDrive 文件夹名称, 而不是 URL。"
+
+#: admin.php:1018
+msgid "Local backup upload has started; please check the log file to see the upload progress"
+msgstr "本地备份上传已开始;请检查日志文件以查看上传进度"
+
+#: admin.php:589
+msgid "Dismiss all UpdraftPlus news"
+msgstr "取消所有 UpdraftPlus 新闻"
+
+#: admin.php:590
+msgid "Are you sure you want to dismiss all UpdraftPlus news forever?"
+msgstr "您确定要永远关闭所有 UpdraftPlus 新闻吗？"
+
+#: admin.php:4676
+msgid "After pressing this button, you can select where to upload your backup from a list of your currently saved remote storage locations"
+msgstr "按下此按钮后, 您可以从当前保存的远程存储位置列表中选择上传备份的位置"
+
+#: admin.php:1020
+msgid "(already uploaded)"
+msgstr "（已上传）"
+
+#: templates/wp-admin/settings/tab-addons.php:205
+msgid "WP-CLI support"
+msgstr "WP-CLI 支持"
+
+#: templates/wp-admin/settings/tab-addons.php:204
+msgid "WP CLI"
+msgstr "WP CLI"
+
+#: templates/wp-admin/settings/tab-addons.php:206
+msgid "WP-CLI commands to take, list and delete backups."
+msgstr "WP-CLI 命令来获取、列出和删除备份。"
+
+#: admin.php:882
+msgid "Only email the database backup"
+msgstr "仅通过电子邮件发送数据库备份"
+
+#: admin.php:3300
+msgid "Interested in knowing about your UpdraftPlus.Com password security? Read about it here."
+msgstr "有兴趣了解您的 UpdraftPlus.com 密码安全吗？在这里阅读有关它。"
+
+#: restorer.php:858
+msgid "Failed to read the manifest file from backup."
+msgstr "无法从备份中读取清单文件。"
+
+#: templates/wp-admin/notices/thanks-for-using-main-dash.php:17
+msgid "is a highly efficient way to manage, update and backup multiple websites from one place."
+msgstr "是一种从一个地方管理、更新和备份多个网站的高效方法。"
+
+#: templates/wp-admin/advanced/lock-admin.php:14
+msgid "This functionality has been disabled by the site administrator."
+msgstr "此功能已被网站管理员禁用。"
+
+#: templates/wp-admin/notices/thanks-for-using-main-dash.php:4
+msgid "Thank you for installing UpdraftPlus!"
+msgstr "感谢您安装 UpdraftPlus！"
+
+#: templates/wp-admin/notices/thanks-for-using-main-dash.php:9
+msgid "Super-charge and secure your WordPress site with our other top plugins:"
+msgstr "使用我们的其他顶级插件超级充电并保护您的WordPress网站："
+
+#: restorer.php:860
+msgid "Failed to read from the working directory."
+msgstr "无法从任务目录中读取。"
+
+#: restorer.php:859
+msgid "Failed to find a manifest file in the backup."
+msgstr "在备份中找不到清单文件。"
+
+#: admin.php:5669
+msgid "authentication error"
+msgstr "身份验证错误"
+
+#: admin.php:5673
+msgid "Remote storage method and instance id are required for authentication."
+msgstr "身份验证需要远程存储方法和实例 id。"
+
+#: methods/backup-module.php:629 methods/dropbox.php:609
+msgid "Ensure you are logged into the correct account before continuing."
+msgstr "请确保您已登录到正确的帐户, 然后再继续。"
+
+#: options.php:48
+msgid "(Nothing has been logged yet)"
+msgstr "（尚未记录任何内容）"
+
+#: admin.php:1017
+msgid "Currently disabled"
+msgstr "当前已禁用"
+
+#: admin.php:1016
+msgid "Currently enabled"
+msgstr "当前已启用"
+
+#: templates/wp-admin/settings/tab-addons.php:48
+msgid "You are currently using the free version of UpdraftPlus."
+msgstr "您目前正在使用免费版本的 UpdraftPlus。"
+
+#: templates/wp-admin/settings/tab-addons.php:48
+msgid "If you have purchased from UpdraftPlus.Com, then follow this link to the installation instructions (particularly step 1)."
+msgstr "如果您是从 UpdraftPlus.com 购买的, 请按照此链接了解安装说明 （特别是步骤 1）。"
+
+#: templates/wp-admin/settings/tab-addons.php:38
+msgid "Get it here"
+msgstr "在这里得到它"
+
+#: templates/wp-admin/settings/existing-backups-table.php:90
+msgid "remote site"
+msgstr "远程站点"
+
+#: class-updraftplus.php:5370
+msgid "Your chosen replacement collation"
+msgstr "您选择的替换排序规则"
+
+#: class-updraftplus.php:5347
+msgid "You can choose another suitable collation instead and continue with the restoration (at your own risk)."
+msgstr "您可以选择另一个合适的排序规则, 然后继续进行还原 （由您自己承担风险）。"
+
+#: central/translations-central.php:43
+msgid "URL for the site of your UpdraftCentral dashboard"
+msgstr "您的 UpdraftCentral 仪表盘的网站的 URL"
+
+#: class-updraftplus.php:5347
+msgid "The database server that this WordPress site is running on doesn't support the collation (%s) used in the database which you are trying to import."
+msgid_plural "The database server that this WordPress site is running on doesn't support multiple collations (%s) used in the database which you are trying to import."
+msgstr[0] "此 WordPress 站点运行的数据库服务器不支持要导入的数据库中使用的排序规则 （ %s）。"
+
+#: central/translations-central.php:40
+msgid "Self-hosted dashboard"
+msgstr "自托管仪表盘"
+
+#: restorer.php:2602
+msgid "Requested table collation (%1$s) is not present - changing to %2$s."
+msgid_plural "Requested table collations (%1$s) are not present - changing to %2$s."
+msgstr[0] "请求的表排序规则 （%1$s） 不存在-更改为%2$s。"
+
+#: central/translations-central.php:42
+msgid "Enter the URL where your self-hosted install of UpdraftCentral is located:"
+msgstr "输入您自行托管的UpdraftCentral安装所在的URL："
+
+#: central/translations-central.php:21
+msgid "At your UpdraftCentral dashboard you should press the \"Add Site\" button then paste the key in the input box."
+msgstr "在您的 UpdraftCentral 仪表盘上, 您应该按 \"添加网站\" 按钮, 然后将密钥粘贴到输入框中。"
+
+#: central/translations-central.php:41
+msgid "A website where you have installed %s"
+msgstr "您已安装 %s 的网站"
+
+#: class-updraftplus.php:5322
+msgid "Your chosen character set to use instead:"
+msgstr "您选择的字符集改为使用："
+
+#: class-updraftplus.php:5312
+msgid "You can choose another suitable character set instead and continue with the restoration at your own risk."
+msgstr "您可以选择另一个合适的字符集, 并自行承担风险继续恢复。"
+
+#: class-updraftplus.php:5312
+msgid "The database server that this WordPress site is running on doesn't support the character set (%s) which you are trying to import."
+msgid_plural "The database server that this WordPress site is running on doesn't support the character sets (%s) which you are trying to import."
+msgstr[0] "此 WordPress 站点运行的数据库服务器不支持您尝试导入的字符集 （ %s）。"
+
+#: restorer.php:2543
+msgid "Requested table character set (%s) is not present - changing to %s."
+msgstr "请求的表字符集 （ %s） 不存在-更改为 %s。"
+
+#: central/translations-central.php:44 includes/updraftplus-tour.php:93
+#: templates/wp-admin/settings/delete-and-restore-modals.php:100
+msgid "Next"
+msgstr "下一个"
+
+#: class-updraftplus.php:5139 class-updraftplus.php:5141
+msgid "the migrator add-on"
+msgstr "迁移程序附加组件"
+
+#: central/translations-central.php:38
+msgid "i.e. if you have %s there"
+msgstr "也就是说, 如果您有 %s"
+
+#: central/translations-central.php:39
+msgid "an account"
+msgstr "一个账户"
+
+#: central/translations-central.php:20
+msgid "You now need to copy the key below and enter it at your %s."
+msgstr "现在, 您需要复制下面的密钥, 并在 %s 处输入。"
+
+#: central/translations-central.php:23
+msgid "You can now control this site via your UpdraftCentral dashboard at %s."
+msgstr "现在, 您可以通过 %s 处的 UpdraftCentral 仪表盘控制此网站。"
+
+#: central/translations-central.php:19
+msgid "UpdraftCentral key created successfully"
+msgstr "已成功创建中央密钥"
+
+#: central/translations-central.php:45
+msgid "UpdraftCentral dashboard connection details"
+msgstr "中心仪表盘连接详细信息"
+
+#: class-updraftplus.php:5137
+msgid "This backup set is of this site, but at the time of the backup you were using %s, whereas the site now uses %s."
+msgstr "此备份集是此站点的, 但在备份时使用 %s, 而该站点现在使用 %s。"
+
+#: central/translations-central.php:27
+msgid "There are no UpdraftCentral dashboards that can currently control this site."
+msgstr "目前没有可以控制此站点的 UpdraftCentral 仪表盘。"
+
+#: admin.php:1008 central/translations-central.php:86
+msgid "Please enter the URL where your UpdraftCentral dashboard is hosted."
+msgstr "请输入承载您的 UpdraftCentral 仪表盘的 URL。"
+
+#: admin.php:1009 central/translations-central.php:87
+msgid "Please enter a valid URL e.g http://example.com"
+msgstr "请输入有效的 URL, 例如 http://example.com"
+
+#: central/translations-central.php:34
+msgid "Manage existing keys (%d)..."
+msgstr "管理现有密钥 （%d）..."
+
+#: central/translations-central.php:22
+msgid "Detailed instructions for this can be found at %s"
+msgstr "有关这方面的详细说明, 请参见 %s"
+
+#: central/translations-central.php:68
+msgid "Create another key"
+msgstr "创建另一个密钥"
+
+#: central/translations-central.php:37
+msgid "Connect this site to an UpdraftCentral dashboard found at..."
+msgstr "将此网站连接到在......"
+
+#: methods/googledrive.php:1497
+msgid "To de-authorize UpdraftPlus (all sites) from accessing your Google Drive, follow this link to your Google account settings."
+msgstr "要取消 UpdraftPlus （所有网站） 访问您的 Google 云端硬盘的授权, 请点击此链接到您的 Google 帐户设置。"
+
+#: methods/backup-module.php:700 methods/dropbox.php:608
+#: methods/googledrive.php:1496
+msgid "Follow this link to remove these settings for %s."
+msgstr "按照此链接删除 %s 的这些设置。"
+
+#: backup.php:617 backup.php:2938 class-updraftplus.php:2549
+#: class-updraftplus.php:2616 includes/class-search-replace.php:298
+#: includes/class-storage-methods-interface.php:387 restorer.php:713
+msgid "A PHP fatal error (%s) has occurred: %s"
+msgstr "出现 PHP 致命错误 （ %s）: %s"
+
+#: backup.php:611 backup.php:2929 class-updraftplus.php:2540
+#: class-updraftplus.php:2609 includes/class-search-replace.php:291
+#: includes/class-storage-methods-interface.php:378 restorer.php:701
+msgid "A PHP exception (%s) has occurred: %s"
+msgstr "发生 PHP 异常 （ %s）: %s"
+
+#: admin.php:1006
+msgid "Loading log file"
+msgstr "加载日志文件"
+
+#: admin.php:912
+msgid "Browse contents"
+msgstr "浏览内容"
+
+#: admin.php:1004
+msgid "Search"
+msgstr "搜索"
+
+#: includes/class-wpadmin-commands.php:637
+msgid "archive"
+msgstr "存档"
+
+#: includes/class-wpadmin-commands.php:631
+msgid "WordPress Core"
+msgstr "WordPress 核心"
+
+#: admin.php:968
+msgid "With UpdraftPlus Premium, you can directly download individual files from here."
+msgstr "使用UpdraftPlus Premium，您可以从这里直接下载个别文件."
+
+#: admin.php:1003
+msgid "Select a file to view information about it"
+msgstr "选择一个文件以查看有关它的信息"
+
+#: admin.php:4557
+msgid "Press here to download or browse"
+msgstr "按此处下载或浏览"
+
+#: includes/class-wpadmin-commands.php:628
+msgid "Extra database"
+msgstr "额外的数据库"
+
+#: admin.php:1588 admin.php:1598
+msgid "Error: invalid path"
+msgstr "错误：路径无效"
+
+#: admin.php:1002
+msgid "Browsing zip file"
+msgstr "浏览 zip 文件"
+
+#: admin.php:1329
+msgid "An error occurred when fetching storage module options: "
+msgstr "获取存储模块选项时出错: "
+
+#: admin.php:1001
+msgid "The available memory on the server."
+msgstr "服务器上的可用内存。"
+
+#: admin.php:887
+msgid "You have chosen to backup a database, but no tables have been selected"
+msgstr "您已选择备份数据库, 但未选择任何表"
+
+#: templates/wp-admin/settings/backupnow-modal.php:8
+msgid "With UpdraftPlus Premium, you can choose to backup non-WordPress tables, backup only specified tables, and backup other databases too."
+msgstr "使用 UpdraftPlus 高级版, 您可以选择备份非 wordpress 表、仅备份指定的表以及备份其他数据库。"
+
+#: admin.php:1001
+msgid "That you are attempting to upload a zip file previously created by UpdraftPlus."
+msgstr "您正在尝试上传以前由 UpdraftPlus 创建的 zip 文件。"
+
+#: restorer.php:3068
+msgid "Skipped tables:"
+msgstr "跳过的表:"
+
+#: admin.php:1000
+msgid "HTTP code:"
+msgstr "HTTP 状态码："
+
+#: admin.php:1001
+msgid "Further information may be found in the browser JavaScript console, and the server PHP error logs."
+msgstr "更多信息可以在浏览器 JavaScript 控制台中找到, 以及服务器 PHP 错误日志。"
+
+#: admin.php:1001
+msgid "Any settings in your .htaccess or web.config file that affects the maximum upload or post size."
+msgstr "您的. htaccess 或 web. config 文件中影响最大上传或投递大小的任何设置。"
+
+#: templates/wp-admin/settings/backupnow-modal.php:8
+msgid "All WordPress tables will be backed up."
+msgstr "将备份所有 WordPress 表。"
+
+#: templates/wp-admin/settings/tab-addons.php:329
+#: templates/wp-admin/settings/tab-addons.php:334
+#: templates/wp-admin/settings/tab-addons.php:339
+#: templates/wp-admin/settings/tab-addons.php:344
+msgid "Find out more"
+msgstr "了解更多"
+
+#: templates/wp-admin/settings/tab-addons.php:256
+#: templates/wp-admin/settings/tab-addons.php:257
+msgid "No ads"
+msgstr "无广告"
+
+#: templates/wp-admin/settings/tab-addons.php:217
+#: templates/wp-admin/settings/tab-addons.php:218
+msgid "More database options"
+msgstr "更多数据库选项"
+
+#: templates/wp-admin/settings/tab-addons.php:191
+#: templates/wp-admin/settings/tab-addons.php:192
+msgid "Backup time and scheduling"
+msgstr "备份时间和计划"
+
+#: templates/wp-admin/settings/tab-addons.php:245
+msgid "Sophisticated reporting and emailing capabilities."
+msgstr "先进的报告和电子邮件功能。"
+
+#: methods/updraftvault.php:122 templates/wp-admin/settings/tab-addons.php:295
+msgid "UpdraftVault"
+msgstr "UpdraftVault"
+
+#: templates/wp-admin/settings/tab-addons.php:298
+msgid "UpdraftPlus has its own embedded storage option, providing a zero-hassle way to download, store and manage all your backups from one place."
+msgstr "UpdraftPlus 有自己的嵌入式存储选项, 为从一个位置下载、存储和管理所有备份提供了零麻烦的方式。"
+
+#: templates/wp-admin/settings/tab-addons.php:258
+msgid "Tidy things up for clients and remove all adverts for our other products."
+msgstr "为客户整理东西并删除我们其他产品的所有广告。"
+
+#: templates/wp-admin/settings/tab-addons.php:271
+msgid "Some backup plugins can't restore a backup, so Premium allows you to restore backups from other plugins."
+msgstr "某些备份插件无法还原备份, 因此高级版允许您从其他插件还原备份。"
+
+#: templates/wp-admin/settings/tab-addons.php:193
+msgid "Set exact times to create or delete backups."
+msgstr "设置创建或删除备份的确切时间。"
+
+#: templates/wp-admin/settings/tab-addons.php:178
+msgid "Network and multisite"
+msgstr "网络和多站点"
+
+#: templates/wp-admin/settings/tab-addons.php:179
+msgid "Network / multisite"
+msgstr "网络/多站点"
+
+#: templates/wp-admin/settings/tab-addons.php:284
+msgid "Lock access to UpdraftPlus via a password so you choose which admin users can access backups."
+msgstr "通过密码锁定对 UpdraftPlus 的访问, 以便您选择哪些管理员用户可以访问备份。"
+
+#: templates/wp-admin/settings/tab-addons.php:269
+#: templates/wp-admin/settings/tab-addons.php:270
+msgid "Importer"
+msgstr "导入"
+
+#: templates/wp-admin/settings/tab-addons.php:219
+msgid "Encrypt your sensitive databases (e.g. customer information or passwords); Backup external databases too."
+msgstr "加密敏感数据库 （例如客户信息或密码）;备份外部数据库。"
+
+#: templates/wp-admin/settings/tab-addons.php:180
+msgid "Backup WordPress multisites (i.e, networks), securely."
+msgstr "备份 WordPress 多站点 （即网络）, 安全。"
+
+#: templates/wp-admin/settings/tab-addons.php:167
+msgid "Backup WordPress core and non-WP files and databases."
+msgstr "备份 WordPress 核心和非 wp 文件和数据库。"
+
+#: includes/updraftplus-tour.php:129 includes/updraftplus-tour.php:181
+#: templates/wp-admin/settings/tab-addons.php:87
+msgid "Remote storage"
+msgstr "远程存储"
+
+#: templates/wp-admin/settings/tab-addons.php:79
+#: templates/wp-admin/settings/tab-addons.php:313
+msgid "Installed"
+msgstr "已安装"
+
+#: templates/wp-admin/settings/tab-addons.php:69
+msgid "Free"
+msgstr "免费"
+
+#: admin.php:587
+msgid "UpdraftPlus"
+msgstr "UpdraftPlus"
+
+#: templates/wp-admin/settings/tab-addons.php:101
+msgid "Cloning and migration"
+msgstr "克隆和迁移"
+
+#: templates/wp-admin/settings/tab-addons.php:82
+#: templates/wp-admin/settings/tab-addons.php:316
+msgid "Upgrade now"
+msgstr "现在升级"
+
+#: templates/wp-admin/advanced/wipe-settings.php:12
+msgid "UpdraftPlus Tour"
+msgstr "UpdraftPlus 向导"
+
+#: templates/wp-admin/settings/tab-addons.php:102
+msgid "UpdraftPlus Migrator clones your WordPress site and moves it to a new domain directly and simply."
+msgstr "UpdraftPlus 迁移器克隆您的 WordPress 网站, 并将其移动到一个新的域直接和简单。"
+
+#: templates/wp-admin/settings/form-contents.php:216
+msgid "Recommended: optimize your database with WP-Optimize."
+msgstr "建议: 使用 WP-Optimize 优化数据库。"
+
+#: templates/wp-admin/notices/bottom-notice.php:31
+#: templates/wp-admin/notices/horizontal-notice.php:72
+#: templates/wp-admin/notices/report-plain.php:33
+#: templates/wp-admin/notices/report.php:30
+msgid "Read more"
+msgstr "阅读更多"
+
+#: templates/wp-admin/settings/tab-addons.php:141
+msgid "Provides expert help and support from the developers whenever you need it."
+msgstr "随时为开发人员提供专家帮助和支持。"
+
+#: templates/wp-admin/settings/tab-addons.php:152
+#: templates/wp-admin/settings/tab-addons.php:153
+msgid "Pre-update backups"
+msgstr "预更新备份"
+
+#: templates/wp-admin/settings/tab-addons.php:100
+msgid "Migrator"
+msgstr "迁移器"
+
+#: templates/wp-admin/settings/tab-addons.php:140
+msgid "Fast, personal support"
+msgstr "快速的个人支持"
+
+#: templates/wp-admin/settings/tab-addons.php:88
+msgid "Backup to remote storage locations"
+msgstr "备份到远程存储位置"
+
+#: templates/wp-admin/settings/tab-addons.php:154
+msgid "Automatically backs up your website before any updates to plugins, themes and WordPress core."
+msgstr "在插件、主题和 WordPress 核心的任何更新之前, 自动备份您的网站。"
+
+#: includes/updraftplus-notices.php:209
+msgid "After you've backed up your database, we recommend you install our WP-Optimize plugin to streamline it for better website performance."
+msgstr "在备份您的数据库之后, 我们建议您安装我们的 WP 优化插件优化它, 可以获得更佳的网站性能."
+
+#: templates/wp-admin/settings/tab-addons.php:230
+msgid "Additional storage"
+msgstr "额外的存储空间"
+
+#: templates/wp-admin/settings/tab-addons.php:231
+msgid "Additional and enhanced remote storage locations"
+msgstr "额外和增强的远程存储位置"
+
+#: central/modules/comments.php:358
+msgid "Trash"
+msgstr "回收站"
+
+#: central/modules/comments.php:359
+msgid "Spam"
+msgstr "垃圾邮件"
+
+#: central/modules/comments.php:351
+msgid "Pings"
+msgstr "Pings"
+
+#: central/modules/comments.php:357
+msgid "Hold or Unapprove"
+msgstr "保留或取消批准"
+
+#: central/modules/comments.php:350
+msgid "Comments"
+msgstr "评论"
+
+#: central/modules/comments.php:356
+msgid "Approve"
+msgstr "批准"
+
+#: templates/wp-admin/notices/bottom-notice.php:29
+#: templates/wp-admin/notices/horizontal-notice.php:70
+#: templates/wp-admin/notices/report-plain.php:31
+#: templates/wp-admin/notices/report.php:28
+msgid "Go there"
+msgstr "去那里"
+
+#: templates/wp-admin/notices/bottom-notice.php:27
+#: templates/wp-admin/notices/horizontal-notice.php:68
+#: templates/wp-admin/notices/report-plain.php:29
+#: templates/wp-admin/notices/report.php:26
+msgid "Sign up"
+msgstr "注册"
+
+#: includes/updraftplus-notices.php:80
+msgid "secure your backups"
+msgstr "保护您的备份"
+
+#: includes/updraftplus-notices.php:69
+msgid "advanced options"
+msgstr "高级选项"
+
+#: includes/updraftplus-notices.php:58
+msgid "enhanced remote storage options"
+msgstr "增强的远程存储选项"
+
+#: includes/updraftplus-notices.php:91
+msgid "easily migrate or clone your site in minutes"
+msgstr "在几分钟内轻松迁移或克隆您的网站"
+
+#: templates/wp-admin/notices/autobackup-notice.php:6
+#: templates/wp-admin/notices/horizontal-notice.php:8
+#: templates/wp-admin/notices/horizontal-notice.php:38
+msgid "notice image"
+msgstr "提示图像"
+
+#: includes/updraftplus-notices.php:47
+#: templates/wp-admin/settings/tab-addons.php:296
+msgid "UpdraftVault storage"
+msgstr "升级保管库存储"
+
+#: includes/updraftplus-notices.php:35 includes/updraftplus-notices.php:46
+#: includes/updraftplus-notices.php:57 includes/updraftplus-notices.php:68
+#: includes/updraftplus-notices.php:79 includes/updraftplus-notices.php:90
+msgid "UpdraftPlus Premium:"
+msgstr "UpdraftPlus 高级版："
+
+#: includes/updraftplus-notices.php:154
+msgid "UpdraftPlus Newsletter"
+msgstr "UpdraftPlus 通讯"
+
+#: includes/updraftplus-notices.php:165 includes/updraftplus-notices.php:175
+msgid "UpdraftPlus Blog - get up-to-date news and offers"
+msgstr "UpdraftPlus 博客-获取最新的新闻和优惠"
+
+#: includes/updraftplus-notices.php:103
+msgid "UpdraftCentral is a highly efficient way to manage, update and backup multiple websites from one place."
+msgstr "UpdraftCentral是一种从一个地方管理，更新和备份多个网站的高效方法。"
+
+#: includes/updraftplus-notices.php:48
+msgid "The ultimately secure and convenient place to store your backups."
+msgstr "存储备份的最终安全和方便的地方。"
+
+#: includes/updraftplus-notices.php:70
+msgid "Secure multisite installation, advanced reporting and much more."
+msgstr "安全的多站点安装、高级报告等。"
+
+#: templates/wp-admin/notices/bottom-notice.php:23
+#: templates/wp-admin/notices/report-plain.php:25
+#: templates/wp-admin/notices/report.php:22
+msgid "Review UpdraftPlus"
+msgstr "查看 UpdraftPlus"
+
+#: includes/updraftplus-notices.php:102
+msgid "Introducing UpdraftCentral"
+msgstr "介绍 UpdraftCentral"
+
+#: templates/wp-admin/notices/bottom-notice.php:21
+#: templates/wp-admin/notices/horizontal-notice.php:64
+#: templates/wp-admin/notices/report-plain.php:23
+#: templates/wp-admin/notices/report.php:20
+msgid "Get UpdraftCentral"
+msgstr "获得 UpdraftCentral"
+
+#: templates/wp-admin/notices/bottom-notice.php:25
+#: templates/wp-admin/notices/horizontal-notice.php:66
+#: templates/wp-admin/notices/report-plain.php:27
+#: templates/wp-admin/notices/report.php:24
+msgid "Get Premium"
+msgstr "获取高级版"
+
+#: includes/updraftplus-notices.php:37
+msgid "Enjoy professional, fast, and friendly help whenever you need it with Premium."
+msgstr "使用高级版时，您可以随时享受专业，快速，友好的帮助。"
+
+#: includes/updraftplus-notices.php:112
+msgid "Do you use UpdraftPlus on multiple sites?"
+msgstr "您是否在多个站点上使用 UpdraftPlus？"
+
+#: includes/updraftplus-notices.php:113
+msgid "Control all your WordPress installations from one place using UpdraftCentral remote site management!"
+msgstr "使用UpdraftCentral远程站点管理从一个位置控制所有WordPress安装！"
+
+#: includes/updraftplus-notices.php:81
+msgid "Add SFTP to send your data securely, lock settings and encrypt your database backups for extra security."
+msgstr "添加 SFTP 以安全地发送数据、锁定设置和加密数据库备份, 从而获得额外的安全性。"
+
+#: templates/wp-admin/advanced/site-info.php:107
+msgid "Apache modules"
+msgstr "Apache模块"
+
+#: restorer.php:3035
+msgid "Backup of: %s"
+msgstr "备份: %s"
+
+#: admin.php:99
+msgid "template not found"
+msgstr "模板未找到"
+
+#: admin.php:999
+msgid "remote files deleted"
+msgstr "远程文件已删除"
+
+#: templates/wp-admin/settings/take-backup.php:85
+msgid "You have selected a remote storage option which has an authorization step to complete:"
+msgstr "您选择了一个远程存储选项, 该选项具有要完成的授权步骤:"
+
+#: templates/wp-admin/settings/take-backup.php:84
+msgid "Remote storage authentication"
+msgstr "远程存储身份验证"
+
+#: admin.php:2200
+msgid "Remote files deleted:"
+msgstr "远程文件已删除:"
+
+#: admin.php:2199
+msgid "Local files deleted:"
+msgstr "已删除本地文件:"
+
+#: backup.php:2161
+msgid "If not, you will need to either remove data from this table, or contact your hosting company to request more resources."
+msgstr "如果没有, 您将需要从此表中删除数据, 或与您的托管公司联系以请求更多资源。"
+
+#: methods/backup-module.php:637
+msgid "Follow this link to authorize access to your %s account (you will not be able to backup to %s without it)."
+msgstr "按照此链接授权访问您的 %s 帐户 （没有它, 您将无法备份到 %s）。"
+
+#: templates/wp-admin/advanced/tools-menu.php:12
+#: templates/wp-admin/settings/tab-addons.php:282
+#: templates/wp-admin/settings/tab-addons.php:283
+msgid "Lock settings"
+msgstr "锁定设置"
+
+#: templates/wp-admin/advanced/site-info.php:5
+#: templates/wp-admin/advanced/tools-menu.php:8
+msgid "Site information"
+msgstr "网站信息"
+
+#: admin.php:995
+msgid "Complete"
+msgstr "完成"
+
+#: methods/dropbox.php:610
+msgid "You must add the following as the authorised redirect URI in your Dropbox console (under \"API Settings\") when asked"
+msgstr "您必须将以下内容添加为授权的重定向URI（在“API选项”下） "
+
+#: includes/updraftplus-tour.php:151
+#: templates/wp-admin/notices/thanks-for-using-main-dash.php:17
+msgid "UpdraftCentral"
+msgstr "UpdraftCentral"
+
+#: templates/wp-admin/advanced/tools-menu.php:24
+msgid "Site size"
+msgstr "网站规模"
+
+#: includes/migrator-lite.php:124 includes/migrator-lite.php:170
+#: templates/wp-admin/advanced/search-replace.php:7
+#: templates/wp-admin/advanced/tools-menu.php:20
+msgid "Search / replace database"
+msgstr "搜索/替换数据库"
+
+#: restorer.php:2604
+msgid "Processing table (%s)"
+msgstr "处理表 （%s）"
+
+#: templates/wp-admin/advanced/lock-admin.php:8
+msgid "Lock access to the UpdraftPlus settings page"
+msgstr "锁定对 \"UpdraftPlus\" 设置页面的访问权限"
+
+#: templates/wp-admin/advanced/search-replace.php:9
+msgid "For the ability to migrate websites, upgrade to UpdraftPlus Premium."
+msgstr "要能够迁移网站, 请升级到 UpdraftPlus 高级版。"
+
+#: methods/dropbox.php:887
+msgid "%s de-authentication"
+msgstr "%s 份验证"
+
+#: templates/wp-admin/advanced/export-settings.php:15
+msgid "Import settings"
+msgstr "导入设置"
+
+#: templates/wp-admin/advanced/export-settings.php:9
+msgid "Export settings"
+msgstr "导出设置"
+
+#: templates/wp-admin/advanced/export-settings.php:7
+msgid "including any passwords"
+msgstr "包括任何密码"
+
+#: admin.php:987
+msgid "You have not yet selected a file to import."
+msgstr "您尚未选择要导入的文件。"
+
+#: admin.php:954 central/translations-central.php:84
+msgid "your PHP install lacks the openssl module; as a result, this can take minutes; if nothing has happened by then, then you should either try a smaller key size, or ask your web hosting company how to enable this PHP module on your setup."
+msgstr "您的 PHP 安装缺少 opensl 模块;因此, 这可能需要几分钟;如果到那时什么都没有发生, 那么您应该尝试一个较小的密钥大小, 或问您的虚拟主机公司如何在您的设置启用这个 PHP 模块。"
+
+#: templates/wp-admin/settings/delete-and-restore-modals.php:60
+msgid "or to restore manually"
+msgstr "或手动还原"
+
+#: admin.php:970
+msgid "Your export file will be of your displayed settings, not your saved ones."
+msgstr "您的导出文件将是您显示的设置, 而不是您保存的设置。"
+
+#: admin.php:993
+msgid "Which was exported on:"
+msgstr "哪个导出："
+
+#: admin.php:2976
+msgid "To fix this problem go here."
+msgstr "若要解决此问题, 请转到此处。"
+
+#: admin.php:992
+msgid "This will import data from:"
+msgstr "这将导入数据:"
+
+#: admin.php:2976
+msgid "OptimizePress 2.0 encodes its contents, so search/replace does not work."
+msgstr "OptimizePress 2.0 对其内容进行编码, 因此搜索替换不起作用。"
+
+#: admin.php:991
+msgid "Importing..."
+msgstr "加载中……"
+
+#: templates/wp-admin/advanced/export-settings.php:5
+#: templates/wp-admin/advanced/tools-menu.php:32
+msgid "Export / import settings"
+msgstr "导入/导出设置"
+
+#: admin.php:994
+msgid "Do you want to carry out the import?"
+msgstr "您要进行导入吗？"
+
+#: includes/class-commands.php:444
+msgid "%s add-on not found"
+msgstr "%s 未找到附件"
+
+#: methods/s3.php:1440
+msgid "The AWS access key looks to be wrong (valid %s access keys begin with \"AK\")"
+msgstr "AWS访问密钥看起来是错误的（有效的 %s 访问密钥以“AK”开头）"
+
+#: templates/wp-admin/settings/form-contents.php:115
+msgid "Backup using %s?"
+msgstr "占用 %s备份空间?"
+
+#: methods/s3.php:155
+msgid "No settings were found - please go to the Settings tab and check your settings"
+msgstr "未找到设置，请到设置选项检查设置"
+
+#: templates/wp-admin/settings/header.php:25
+msgid "FAQs"
+msgstr "常见问题"
+
+#: central/translations-central.php:57
+msgid "This is useful if the dashboard webserver cannot be contacted with incoming traffic by this website (for example, this is the case if this website is hosted on the public Internet, but the UpdraftCentral dashboard is on localhost, or on an Intranet, or if this website has an outgoing firewall), or if the dashboard website does not have a SSL certificate."
+msgstr "如果仪表盘网络服务器无法通过本网站与传入的流量联系，这是非常有用的（例如，如果此网站托管在公共Internet上，但是UpdraftCentral仪表盘位于本地主机或内部网上，或者如果此网站 网站有一个传出的防火墙），或者如果仪表盘网站没有SSL证书。"
+
+#: central/translations-central.php:56
+msgid "More information..."
+msgstr "更多信息..."
+
+#: central/translations-central.php:55
+msgid "Use the alternative method for making a connection with the dashboard."
+msgstr "使用替代方法与仪表盘建立连接。"
+
+#: backup.php:3187
+msgid "Failed to open directory (check the file permissions and ownership): %s"
+msgstr "无法打开目录 （检查文件权限和所有权）: %s"
+
+#: central/translations-central.php:50
+msgid "%s bytes"
+msgstr "%s 字节"
+
+#: central/translations-central.php:54
+msgid "slower, strongest"
+msgstr "较慢,最强"
+
+#: central/translations-central.php:53
+msgid "recommended"
+msgstr "推荐的"
+
+#: central/translations-central.php:52
+msgid "faster (possibility for slow PHP installs)"
+msgstr "更快（缓慢的PHP安装的可能性）"
+
+#: central/translations-central.php:51
+msgid "easy to break, fastest"
+msgstr "容易破坏，最快"
+
+#: central/translations-central.php:32
+msgid "Key size: %d bits"
+msgstr "Key 大小： %d 位"
+
+#: central/translations-central.php:48
+msgid "Encryption key size:"
+msgstr "加密字段大小："
+
+#: central/translations-central.php:49
+msgid "%s bits"
+msgstr "%s 位"
+
+#: central/translations-central.php:30
+msgid "Public key was sent to:"
+msgstr "公钥已发送至:"
+
+#: methods/ftp.php:438
+msgid "login"
+msgstr "登录"
+
+#: central/translations-central.php:60
+msgid "View recent UpdraftCentral log events"
+msgstr "查看最近的升级中心日志事件"
+
+#: central/translations-central.php:61
+msgid "UpdraftCentral (Remote Control)"
+msgstr "UpdraftCentral（远程控制）"
+
+#: methods/ftp.php:466
+msgid "This is sometimes caused by a firewall - try turning off SSL in the expert settings, and testing again."
+msgstr "这是由于防火墙阻挡——请在专家模式中关闭SSL后再尝试."
+
+#: methods/email.php:114
+msgid "Be aware that mail servers tend to have size limits; typically around %s MB; backups larger than any limits will likely not arrive."
+msgstr "请注意邮件服务器的大小限制；通常在 %s MB左右;大于任何限制的备份可能不会到达。"
+
+#: central/translations-central.php:47
+msgid "Enter any description"
+msgstr "输入任何描述"
+
+#: central/translations-central.php:33
+msgid "Delete..."
+msgstr "删除..."
+
+#: central/translations-central.php:31
+msgid "Created:"
+msgstr "创建："
+
+#: central/translations-central.php:46
+msgid "Description"
+msgstr "描述"
+
+#: central/translations-central.php:29
+msgid "Access this site as user:"
+msgstr "以用户身份访问本网站:"
+
+#: central/translations-central.php:36
+msgid "Details"
+msgstr "细节"
+
+#: central/translations-central.php:14
+msgid "You must visit this link in the same browser and login session as you created the key in."
+msgstr "在中创建密钥时, 必须在相同的浏览器和登录会话中访问此链接。"
+
+#: central/translations-central.php:12
+msgid "You must visit this URL in the same browser and login session as you created the key in."
+msgstr "您必须在创建密钥时, 在相同的浏览器和登录会话中访问此 URL。"
+
+#: central/translations-central.php:11
+msgid "You are not logged into this WordPress site in your web browser."
+msgstr "您不会在您的 web 浏览器中登录到此 WordPress 网站。"
+
+#: central/translations-central.php:7
+msgid "UpdraftCentral Connection"
+msgstr "UpdraftCentral 连接"
+
+#: central/translations-central.php:15
+msgid "This connection appears to already have been made."
+msgstr "这种连接似乎已经建立。"
+
+#: central/translations-central.php:10
+msgid "The key referred to was unknown."
+msgstr "提到的钥匙不明。"
+
+#: central/translations-central.php:35
+msgid "Key description"
+msgstr "Key 说明"
+
+#: central/translations-central.php:18
+msgid "An invalid URL was entered"
+msgstr "输入的 URL 无效"
+
+#: central/translations-central.php:8
+msgid "An UpdraftCentral connection has been made successfully."
+msgstr "已成功建立了升级中心连接。"
+
+#: central/translations-central.php:9
+msgid "A new UpdraftCentral connection has not been made."
+msgstr "尚未建立新的 UpdraftCentral 连接。"
+
+#: methods/cloudfiles.php:510
+msgid "Cloud Files"
+msgstr "云文件"
+
+#: templates/wp-admin/settings/form-contents.php:104
+msgid "(tap on an icon to select or unselect)"
+msgstr "（点击图标选择或取消选择）"
+
+#: admin.php:961 central/translations-central.php:83
+msgid "Please enter a valid URL"
+msgstr "请输入有效网址"
+
+#: admin.php:969
+msgid "You should save your changes to ensure that they are used for making your backup."
+msgstr "您应该保存所做的更改, 以确保它们用于进行备份。"
+
+#: class-updraftplus.php:685 class-updraftplus.php:767
+msgid "The given file was not found, or could not be read."
+msgstr "找不到给定的文件, 或无法读取。"
+
+#: admin.php:894 central/translations-central.php:81
+msgid "Fetching..."
+msgstr "正在获取…"
+
+#: templates/wp-admin/settings/delete-and-restore-modals.php:11
+msgid "this backup set"
+msgstr "这个备份集"
+
+#: templates/wp-admin/settings/delete-and-restore-modals.php:14
+msgid "these backup sets"
+msgstr "已删除备份集"
+
+#: admin.php:5616
+msgid "Your settings have been saved."
+msgstr "您的设置已保存。"
+
+#: admin.php:962
+msgid "We requested to delete the file, but could not understand the server's response"
+msgstr "我们要求删除该文件, 但无法理解服务器的响应"
+
+#: admin.php:4466
+msgid "Total backup size:"
+msgstr "总备份大小:"
+
+#: admin.php:944
+msgid "Saving..."
+msgstr "保存中..."
+
+#: includes/class-filesystem-functions.php:112
+msgid "calculate"
+msgstr "计算"
+
+#: admin.php:3848
+msgid "stop"
+msgstr "停止"
+
+#: admin.php:996 admin.php:3634
+msgid "The backup has finished running"
+msgstr "备份已完成运行"
+
+#: templates/wp-admin/advanced/site-info.php:118
+msgid "reset"
+msgstr "重置"
+
+#: methods/updraftvault.php:496
+msgid "or (annual discount)"
+msgstr "或（年折扣）"
+
+#: class-updraftplus.php:3642 class-updraftplus.php:3754
+msgid "The backup was aborted by the user"
+msgstr "备份已被用户中止"
+
+#: methods/updraftvault.php:335
+msgid "No Vault connection was found for this site (has it moved?); please disconnect and re-connect."
+msgstr "没有发现此站点的保管库连接 （已移动？）;请断开连接并重新连接。"
+
+#: methods/updraftvault.php:498 methods/updraftvault.php:503
+#: methods/updraftvault.php:504 methods/updraftvault.php:505
+msgid "%s per year"
+msgstr "每年%s"
+
+#: restorer.php:3058
+msgid "Uploads URL:"
+msgstr "上传网址:"
+
+#: class-updraftplus.php:5210 restorer.php:3076
+msgid "To import an ordinary WordPress site into a multisite installation requires %s."
+msgstr "要将普通WordPress站点导入到多站点安装中，需要%s."
+
+#: class-updraftplus.php:5206
+msgid "Please read this link for important information on this process."
+msgstr "有关此过程的重要信息, 请阅读此链接。"
+
+#: class-updraftplus.php:5206
+msgid "It will be imported as a new site."
+msgstr "它将作为新网站导入。"
+
+#: templates/wp-admin/advanced/site-info.php:116
+msgid "Call WordPress action:"
+msgstr "调用 WordPress 操作:"
+
+#: admin.php:982
+msgid "Please fill in the required information."
+msgstr "请填写所需信息。"
+
+#: admin.php:3265 templates/wp-admin/notices/autobackup-notice.php:16
+#: templates/wp-admin/notices/autobackup-notice.php:18
+#: templates/wp-admin/notices/horizontal-notice.php:48
+#: templates/wp-admin/notices/horizontal-notice.php:50
+msgid "Dismiss"
+msgstr "忽略"
+
+#: templates/wp-admin/settings/form-contents.php:22
+msgid "Files backup schedule"
+msgstr "文件备份计划"
+
+#: templates/wp-admin/settings/form-contents.php:58
+msgid "Database backup schedule"
+msgstr "数据库备份计划"
+
+#: class-updraftplus.php:2007 class-updraftplus.php:2009
+msgid "files: %s"
+msgstr "文件: %s"
+
+#: admin.php:4449
+msgid "Uploaded to:"
+msgstr "上传到:"
+
+#: templates/wp-admin/advanced/wipe-settings.php:6
+msgid "This button will delete all UpdraftPlus settings and progress information for in-progress backups (but not any of your existing backups from your cloud storage)."
+msgstr "此按钮将删除正在进行的备份的所有 UpdraftPlus 设置和进度信息 （但不会删除云存储中的任何现有备份）。"
+
+#: restorer.php:522
+msgid "Skipping: this archive was already restored."
+msgstr "跳过：此存档已恢复。"
+
+#: class-updraftplus.php:2070
+msgid "Size: %s MB"
+msgstr "大小：%s MB"
+
+#: admin.php:5479
+msgid "Not got any remote storage?"
+msgstr "没有任何远程存储？"
+
+#: templates/wp-admin/settings/form-contents.php:141
+msgid "File Options"
+msgstr "文件选项"
+
+#: class-updraftplus.php:2067
+msgid "External database (%s)"
+msgstr "外部数据库 （%s）"
+
+#: class-updraftplus.php:2079
+msgid "(when decrypted)"
+msgstr "（解密时）"
+
+#: class-updraftplus.php:2075 class-updraftplus.php:2080
+msgid "%s checksum: %s"
+msgstr "%s 校验: %s"
+
+#: admin.php:765
+msgid "Extensions"
+msgstr "扩展"
+
+#: admin.php:5479
+msgid "settings"
+msgstr "设置"
+
+#: admin.php:757 admin.php:3181
+msgid "Advanced Tools"
+msgstr "高级工具"
+
+#: admin.php:967
+msgctxt "(verb)"
+msgid "Download"
+msgstr "下载"
+
+#: templates/wp-admin/settings/backupnow-modal.php:45
+msgid "Your saved settings also affect what is backed up - e.g. files excluded."
+msgstr "您保存的设置也会影响备份的内容, 例如, 排除的文件。"
+
+#: admin.php:886
+msgid "You have chosen to backup files, but no file entities have been selected"
+msgstr "您已选择备份文件, 但未选择任何文件实体"
+
+#: admin.php:3253
+msgid "You have an unfinished restoration operation, begun %s ago."
+msgstr "您有一个未完成的恢复操作，从 %s 开始。"
+
+#: admin.php:3252
+msgid "Unfinished restoration"
+msgstr "未完成的还原"
+
+#: admin.php:4972 admin.php:4981
+msgid "Sufficient information about the in-progress restoration operation could not be found."
+msgstr "找不到有关正在进行的还原操作的足够信息。"
+
+#: admin.php:3182
+msgid "Premium / Extensions"
+msgstr "高级版/扩展"
+
+#: admin.php:1053 templates/wp-admin/settings/backupnow-modal.php:40
+msgid "Include your files in the backup"
+msgstr "在备份中包括您的文件"
+
+#: admin.php:3261 admin.php:3263
+msgid "Continue restoration"
+msgstr "继续恢复"
+
+#: admin.php:5479
+msgid "Backup won't be sent to any remote storage - none has been saved in the %s"
+msgstr "备份将不会发送到任何远程存储 - %s 中没有保存"
+
+#: admin.php:3079
+msgid "Backup Contents And Schedule"
+msgstr "备份内容和计划"
+
+#: admin.php:3249
+msgid "%s minutes, %s seconds"
+msgstr "%s 钟, %s 秒"
+
+#: templates/wp-admin/advanced/site-info.php:72
+msgid "required for some remote storage providers"
+msgstr "某些远程存储提供程序所需的"
+
+#: central/translations-central.php:26
+msgid "You must copy and paste this key now - it cannot be shown again."
+msgstr "您必须立即复制并粘贴此密钥-它不能再次显示。"
+
+#: class-updraftplus.php:3661
+msgid "To complete your migration/clone, you should now log in to the remote site and restore the backup set."
+msgstr "若要完成迁移/克隆, 现在应登录到远程站点并还原备份集。"
+
+#: backup.php:1708
+msgid "The backup directory is not writable (or disk space is full) - the database backup is expected to shortly fail."
+msgstr "备份目录不可写 （或磁盘空间已满）-数据库备份预计很快就会失败。"
+
+#: central/translations-central.php:25 includes/class-remote-send.php:555
+msgid "Key created successfully."
+msgstr "Key 已创建成功。"
+
+#: templates/wp-admin/advanced/site-info.php:72
+msgid "Not installed"
+msgstr "未安装"
+
+#: templates/wp-admin/settings/existing-backups-table.php:168
+msgid "Select all"
+msgstr "全选"
+
+#: admin.php:977
+msgid "week(s)"
+msgstr "周"
+
+#: admin.php:976
+msgid "hour(s)"
+msgstr "小时"
+
+#: admin.php:975
+msgid "day(s)"
+msgstr "天"
+
+#: admin.php:973
+msgid "day"
+msgstr "天"
+
+#: backup.php:1952
+msgid "the options table was not found"
+msgstr "找不到选项表"
+
+#: templates/wp-admin/settings/form-contents.php:88
+msgid "or to configure more complex schedules"
+msgstr "或配置更复杂的计划"
+
+#: backup.php:1950
+msgid "no options or sitemeta table was found"
+msgstr "没有找到任何选项或sitemeta表"
+
+#: admin.php:974
+msgid "in the month"
+msgstr "在这个月"
+
+#: admin.php:980
+msgid "Processing..."
+msgstr "正在处理..."
+
+#: templates/wp-admin/settings/downloading-and-restoring.php:56
+#: templates/wp-admin/settings/tab-backups.php:60
+msgid "Press here to look inside your remote storage methods for any existing backup sets (from any site, if they are stored in the same folder)."
+msgstr "按此处查看任何现有备份集的远程存储方法内部 （来自任何站点, 如果它们存储在同一文件夹中）。"
+
+#: admin.php:978
+msgid "For backups older than"
+msgstr "对于旧的备份"
+
+#: templates/wp-admin/settings/existing-backups-table.php:169
+msgid "Deselect"
+msgstr "取消选择"
+
+#: admin.php:2198
+msgid "Backup sets removed:"
+msgstr "已删除备份集:"
+
+#: templates/wp-admin/settings/delete-and-restore-modals.php:11
+#: templates/wp-admin/settings/delete-and-restore-modals.php:14
+msgid "Are you sure that you wish to remove %s from UpdraftPlus?"
+msgstr "您确定要从UpdraftPlus中删除 %s 吗？"
+
+#: templates/wp-admin/settings/existing-backups-table.php:166
+msgid "Actions upon selected backups"
+msgstr "对选定备份执行的操作"
+
+#: restorer.php:2807
+msgid "Failed to open database file"
+msgstr "无法打开数据库文件"
+
+#: restorer.php:2608
+msgid "will restore as:"
+msgstr "将恢复为:"
+
+#: includes/class-search-replace.php:519 restorer.php:3987
+msgid "the database query being run was:"
+msgstr "正在运行的数据库查询是:"
+
+#: class-updraftplus.php:5156 restorer.php:1883
+msgid "You should enable %s to make any pretty permalinks (e.g. %s) work"
+msgstr "您应该启用%s 使任何漂亮的永久链接（例如 %s ）任务"
+
+#: restorer.php:4046
+msgid "Too many database errors have occurred - aborting"
+msgstr "发生了太多的数据库错误-中止"
+
+#: restorer.php:4034
+msgid "To use this backup, your database server needs to support the %s character set."
+msgstr "要使用此备份，您的数据库服务器需要支持 %s 字符集。"
+
+#: restorer.php:4032
+msgid "This problem is caused by trying to restore a database on a very old MySQL version that is incompatible with the source database."
+msgstr "此问题是由尝试还原与源数据库不兼容的非常旧的 MySQL 版本上的数据库引起的。"
+
+#: restorer.php:4032
+msgid "This database needs to be deployed on MySQL version %s or later."
+msgstr "该数据库需要在MySQL版本 %s 或更高版本上部署。"
+
+#: restorer.php:3987
+msgctxt "The user is being told the number of times an error has happened, e.g. An error (27) occurred"
+msgid "An error (%s) occurred:"
+msgstr "发生了一个 （%s） 错误："
+
+#: restorer.php:4179 restorer.php:4290
+msgid "Table prefix has changed: changing %s table field(s) accordingly:"
+msgstr "表前缀已经改变：关联修改%s表字段:"
+
+#: restorer.php:3184
+msgid "Split line to avoid exceeding maximum packet size"
+msgstr "拆分线, 以避免超出最大数据包大小"
+
+#: restorer.php:3047
+msgid "Site home:"
+msgstr "网站首页："
+
+#: restorer.php:2529
+msgid "Requested table engine (%s) is not present - changing to MyISAM."
+msgstr "请求的表引擎 （ %s） 不存在-更改为 MyISAM。"
+
+#: restorer.php:2324
+msgid "Please supply the requested information, and then continue."
+msgstr "请提供需要的信息后再继续."
+
+#: restorer.php:2437 restorer.php:3065 restorer.php:3245
+msgid "Old table prefix:"
+msgstr "旧表前缀："
+
+#: restorer.php:2786
+msgid "Failed to find database file"
+msgstr "找不到数据库文件"
+
+#: restorer.php:3053
+msgid "Content URL:"
+msgstr "内容网址："
+
+#: restorer.php:3042
+msgid "Backup created by:"
+msgstr "备份创建者："
+
+#: restorer.php:3215 restorer.php:3944 restorer.php:4017 restorer.php:4034
+msgid "An error occurred on the first %s command - aborting run"
+msgstr "第一个 %s 命令 - 中止运行时发生错误"
+
+#: restorer.php:3819
+msgid "An SQL line that is larger than the maximum packet size and cannot be split was found; this line will not be processed, but will be dropped: %s"
+msgstr "发现大于最大数据包大小且不能拆分的SQL行;这行不会被处理，但会被删除: %s"
+
+#. Plugin Name of the plugin
+msgid "UpdraftPlus - Backup/Restore"
+msgstr "UpdraftPlus-备份/恢复"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://updraftplus.com"
+msgstr "https://updraftplus.com"
+
+#. Description of the plugin
+msgid "Backup and restore: take backups locally, or backup to Amazon S3, Dropbox, Google Drive, Rackspace, (S)FTP, WebDAV & email, on automatic schedules."
+msgstr "备份和恢复：在本地进行备份, 或备份到 Amazon S3、Dropbox、Google 云端硬盘、rackspace、(S) FTP、WebDAV 和电子邮件, 按自动计划进行备份。"
+
+#. Author of the plugin
+msgid "UpdraftPlus.Com, DavidAnderson"
+msgstr "UpdraftPlus.Com，大卫·安德森"
+
+#: admin.php:1069
+msgid "Restoring table: %s"
+msgstr "还原表：%s"
+
+#: admin.php:1065 admin.php:3371 methods/openstack2.php:255
+#: methods/updraftvault.php:522
+#: templates/wp-admin/settings/updraftcentral-connect.php:50
+msgid "Password"
+msgstr "密码"
+
+#: methods/ftp.php:442 methods/openstack2.php:120
+msgid "password"
+msgstr "密码"
+
+#: methods/dreamobjects.php:191 methods/s3.php:1048 methods/s3.php:1088
+#: methods/s3generic.php:196
+msgid "%s location"
+msgstr "%s 位置"
+
+#: methods/email.php:106
+msgid "Note:"
+msgstr "注意："
+
+#: restorer.php:1565
+msgid "file"
+msgstr "文件"
+
+#: restorer.php:1557
+msgid "folder"
+msgstr "文件夹"
+
+#: methods/updraftvault.php:531 methods/updraftvault.php:600
+msgid "Quota:"
+msgstr "配额："
+
+#: methods/googledrive.php:1479
+msgid "Folder"
+msgstr "文件夹"
+
+#: methods/ftp.php:124
+msgid "FTP password"
+msgstr "FTP密码"
+
+#: methods/ftp.php:128
+msgid "Passive mode"
+msgstr "被动模式"
+
+#: methods/ftp.php:126
+msgid "Remote path"
+msgstr "远程路径"
+
+#: methods/ftp.php:122
+msgid "FTP server"
+msgstr "FTP服务器"
+
+#: methods/googledrive.php:663
+msgid "you have authenticated your %s account."
+msgstr "您已经验证了您的 %s 帐号."
+
+#: methods/openstack2.php:115
+msgid "username"
+msgstr "用户名"
+
+#: methods/s3.php:516
+msgid "upload (%s): re-assembly failed (see log for more details)"
+msgstr "上传 （ %s）: 重新组装失败 （有关详细信息, 请参阅日志）"
+
+#: methods/ftp.php:111
+msgid "regular non-encrypted FTP"
+msgstr "常规非加密 FTP"
+
+#: methods/addon-not-yet-present.php:124
+msgid "follow this link to get it"
+msgstr "按照这个链接来得到它"
+
+#: methods/googledrive.php:706
+msgid "failed to access parent folder"
+msgstr "无法访问父文件夹"
+
+#: methods/s3.php:472
+msgid "error: file %s was shortened unexpectedly"
+msgstr "错误：文件 %s 意外缩短"
+
+#: methods/ftp.php:112
+msgid "encrypted FTP (implicit encryption)"
+msgstr "加密FTP（隐式加密）"
+
+#: methods/ftp.php:113
+msgid "encrypted FTP (explicit encryption)"
+msgstr "加密FTP（显式加密）"
+
+#: methods/googledrive.php:1445
+msgid "download: failed: file not found"
+msgstr "下载：失败：找不到文件"
+
+#: methods/email.php:110
+msgid "configure it here"
+msgstr "在此处配置"
+
+#: methods/s3.php:500
+msgid "chunk %s: upload failed"
+msgstr "块 %s: 上传失败"
+
+#: methods/openstack2.php:130
+msgid "authentication URI"
+msgstr "身份验证 URI"
+
+#: methods/email.php:110
+msgid "Your site's admin email address (%s) will be used."
+msgstr "将使用您网站的管理员电子邮件地址 （%s） 。"
+
+#: methods/updraftvault.php:928
+msgid "Your email address was valid, but your password was not recognised by UpdraftPlus.Com."
+msgstr "您的电子邮件地址有效, 但您的密码未被 UpdraftPlus.com 识别。"
+
+#: methods/updraftvault.php:934
+msgid "Your email address and password were not recognised by UpdraftPlus.Com"
+msgstr "您的电子邮件地址和密码未被 UpdraftPlus.com 识别"
+
+#: methods/insufficient.php:121
+msgid "Your %s version: %s."
+msgstr "您的 %s 版本: %s."
+
+#: methods/addon-not-yet-present.php:127 methods/insufficient.php:120
+msgid "You will need to ask your web hosting company to upgrade."
+msgstr "您将需要要求您的网站主机公司升级。"
+
+#: restorer.php:851
+msgid "You should check the file ownerships and permissions in your WordPress installation"
+msgstr "您应该在 WordPress 安装中检查文件所有权和权限"
+
+#: methods/updraftvault.php:868
+msgid "You need to supply both an email address and a password"
+msgstr "您需要同时提供电子邮件地址和密码"
+
+#: methods/googledrive.php:1484
+msgid "You must add the following as the authorised redirect URI (under \"More Options\") when asked"
+msgstr "您必须将以下内容添加为授权的重定向URI（在“更多选项”下"
+
+#: methods/updraftvault.php:931
+msgid "You entered an email address that was not recognised by UpdraftPlus.Com"
+msgstr "您输入的电子邮件地址未被 Updraftplus.com 识别"
+
+#: methods/addon-not-yet-present.php:34 methods/addon-not-yet-present.php:76
+#: methods/addon-not-yet-present.php:83
+msgid "You do not have the UpdraftPlus %s add-on installed - get it from %s"
+msgstr "您没有安装 UpdraftPlus %s 组件-从 %s 获取"
+
+#: methods/updraftvault.php:631
+msgid "You can get more quota here"
+msgstr "您可以在这里得到更多的配额"
+
+#: class-updraftplus.php:5156 restorer.php:1883
+msgid "You are using the %s webserver, but do not seem to have the %s module loaded."
+msgstr "您正在使用%s 网络服务器，但似乎没有加载%s 模块。"
+
+#: methods/email.php:46
+msgid "WordPress Backup"
+msgstr "WordPress 备份"
+
+#: options.php:229
+msgid "Without upgrading, UpdraftPlus allows <strong>every</strong> blog admin who can modify plugin settings to backup (and hence access the data, including passwords, from) and restore (including with customized modifications, e.g. changed passwords) <strong>the entire network</strong>."
+msgstr "在不升级的情况下, updraftplus 允许 <strong> 每个 </strong> 的博客管理员, 他们可以修改插件设置以进行备份 （从而从访问数据, 包括密码） 和还原 （包括自定义修改, 例如更改密码） <strong>整个网络 </strong>。"
+
+#: methods/updraftvault.php:529 methods/updraftvault.php:598
+msgid "Well done - there's nothing more needed to set up."
+msgstr "很好-这里没什么需要设置的。"
+
+#: methods/s3.php:1449 methods/s3.php:1461
+msgid "We successfully accessed the bucket, but the attempt to create a file in it failed."
+msgstr "我们成功地访问了存储桶, 但在其中创建文件的尝试失败。"
+
+#: methods/s3.php:1451
+msgid "We accessed the bucket, and were able to create files within it."
+msgstr "我们访问了存储桶, 并能够在其中创建文件。"
+
+#: methods/updraftvault.php:530 methods/updraftvault.php:598
+msgid "Vault owner"
+msgstr "保险箱所有者"
+
+#: methods/googledrive.php:756
+msgid "Upload expected to fail: the %s limit for any single file is %s, whereas this file is %s GB (%d bytes)"
+msgstr "上传预期失败：任何单个文件的 %s 限制为 %s ，而此文件为 %s GB（%d 字节）"
+
+#: includes/updraftplus-login.php:55 methods/updraftvault.php:893
+msgid "UpdraftPlus.com has responded with 'Access Denied'."
+msgstr "UpdraftPlus.com 以 \"拒绝访问\" 作为回应。"
+
+#: methods/updraftvault.php:922 methods/updraftvault.php:945
+#: methods/updraftvault.php:948
+msgid "UpdraftPlus.Com returned a response, but we could not understand it"
+msgstr "Updraftplus.com 回复, 但我们无法理解"
+
+#: includes/updraftplus-login.php:57 methods/updraftvault.php:895
+msgid "UpdraftPlus.Com returned a response which we could not understand (data: %s)"
+msgstr "UpdraftPlus.com 返回一个我们无法理解的响应（数据： %s）"
+
+#: options.php:229
+msgid "UpdraftPlus warning:"
+msgstr "UpdraftPlus警告:"
+
+#: restorer.php:1557 restorer.php:1565
+msgid "UpdraftPlus needed to create a %s in your content directory, but failed - please check your file permissions and enable the access (%s)"
+msgstr "UpdraftPlus需要在您的内容目录中创建一个 %s，但失败 - 请检查您的文件权限并启用访问 （%s）"
+
+#: options.php:92
+msgid "UpdraftPlus Backups"
+msgstr "UpdraftPlus 备份"
+
+#: methods/updraftvault.php:155
+msgid "Updraft Vault"
+msgstr "Updraft Vault"
+
+#: restorer.php:844
+msgid "Unpacking backup..."
+msgstr "解压缩备份..."
+
+#: includes/updraftplus-login.php:55 methods/updraftvault.php:893
+msgid "To remove the block, please go here."
+msgstr "要拆除方块, 请到这里去。"
+
+#: methods/googledrive.php:1488
+msgid "To be able to set a custom folder name, use UpdraftPlus Premium."
+msgstr "若要能够设置自定义文件夹名称, 请使用 UpdraftPlus 高级版。"
+
+#: restorer.php:1589
+msgid "This version of UpdraftPlus does not know how to handle this type of foreign backup"
+msgstr "此版本的 UpdraftPlus 不知道如何处理这种类型的外部备份"
+
+#: methods/addon-not-yet-present.php:27 methods/insufficient.php:21
+msgid "This remote storage method (%s) requires PHP %s or later."
+msgstr "此远程存储方法（ %s ）需要PHP %s 或更高版本。"
+
+#: includes/updraftplus-login.php:55 methods/updraftvault.php:893
+msgid "This most likely means that you share a webserver with a hacked website that has been used in previous attacks."
+msgstr "这很可能意味着您与在以前的攻击中使用的被黑客攻击的网站共享一个 web 服务器。"
+
+#: options.php:229
+msgid "This is a WordPress multi-site (a.k.a. network) installation."
+msgstr "这是 WordPress 多站点 （又名网络） 安装。"
+
+#: methods/s3.php:336
+msgid "The required %s PHP module is not installed - ask your web hosting company to enable it"
+msgstr "所需的 %s PHP模块未安装 - 请您的虚拟主机公司启用它"
+
+#: methods/s3.php:1438
+msgid "The error reported by %s was:"
+msgstr "%s 报告的错误是:"
+
+#: restorer.php:1258
+msgid "The directory does not exist"
+msgstr "目录不存在"
+
+#: methods/s3.php:1456
+msgid "The communication with %s was not encrypted."
+msgstr "与 %s 的通信未加密。"
+
+#: methods/s3.php:1454
+msgid "The communication with %s was encrypted."
+msgstr "与 %s 的通信已加密。"
+
+#: methods/email.php:80
+msgid "The attempt to send the backup via email failed (probably the backup was too large for this method)"
+msgstr "尝试通过电子邮件发送备份失败（可能是这种方式的备份太大）"
+
+#: restorer.php:1695 restorer.php:1743
+msgid "The WordPress content folder (wp-content) was not found in this zip file."
+msgstr "在此 zip 文件中找不到 WordPress 内容文件夹 （wp 内容）。"
+
+#: methods/openstack-base.php:446
+msgid "The %s object was not found"
+msgstr "找不到 %s 对象"
+
+#: admin.php:984
+msgid "Testing %s Settings..."
+msgstr "测试 %s 设置..."
+
+#: methods/openstack2.php:249
+msgid "Tenant"
+msgstr "租户"
+
+#: methods/ftp.php:461
+msgid "Success: we successfully logged in, and confirmed our ability to create a file in the given directory (login type:"
+msgstr "成功：我们成功登录, 并确认我们能够在给定的目录中创建文件 （登录类型:"
+
+#: methods/updraftvault.php:517
+msgid "Subscriptions can be cancelled at any time."
+msgstr "订阅可以随时取消。"
+
+#: methods/updraftvault.php:480
+msgid "Show the options"
+msgstr "显示选项"
+
+#: methods/googledrive.php:1483
+msgid "Select 'Web Application' as the application type."
+msgstr "选择 \"Web Application\" 作为应用程序类型。"
+
+#: methods/s3generic.php:77
+msgid "S3 (Compatible)"
+msgstr "S3 （兼容）"
+
+#: restorer.php:849
+msgid "Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)..."
+msgstr "还原数据库 （在大型网站上, 这可能需要很长时间-如果它超时 （这可能发生, 如果您的 web 托管公司已配置您的主机以限制资源）, 那么您应该使用不同的方法, 如 phpMyAdmin）..."
+
+#: methods/openstack-base.php:531 methods/openstack-base.php:536
+msgid "Region: %s"
+msgstr "地区： %s"
+
+#: methods/openstack2.php:252 methods/s3.php:1430
+msgid "Region"
+msgstr "地区"
+
+#: methods/updraftvault.php:651 methods/updraftvault.php:753
+msgid "Refresh current status"
+msgstr "刷新当前状态"
+
+#: central/translations-central.php:67
+msgid "Read more about it here."
+msgstr "点击此处了解更多相关信息。"
+
+#: methods/updraftvault.php:478 methods/updraftvault.php:489
+msgid "Press a button to get started."
+msgstr "按下按钮即可开始。"
+
+#: methods/s3.php:1461
+msgid "Please check your access credentials."
+msgstr "请检查您的访问凭据。"
+
+#: methods/updraftvault.php:517
+msgid "Payments can be made in US dollars, euros or GB pounds sterling, via card or PayPal."
+msgstr "客户可以通过信用卡或 PayPal 以美元、欧元或英镑付款。"
+
+#: methods/s3.php:940 methods/s3.php:1084
+msgid "Other %s FAQs."
+msgstr "其他 %s 常见问题。"
+
+#: methods/ftp.php:120
+msgid "Only non-encrypted FTP is supported by regular UpdraftPlus."
+msgstr "常规 UpdraftPlus 仅支持非加密 FTP。"
+
+#: methods/addon-base-v2.php:81 methods/addon-base-v2.php:129
+#: methods/addon-base-v2.php:170 methods/addon-base-v2.php:229
+#: methods/addon-base-v2.php:318 methods/ftp.php:42 methods/googledrive.php:317
+#: methods/googledrive.php:319
+msgid "No %s settings were found"
+msgstr "未找到 %s 设置"
+
+#: methods/ftp.php:127
+msgid "Needs to already exist"
+msgstr "需要已经存在"
+
+#: methods/googledrive.php:663
+msgid "Name: %s."
+msgstr "名称: %s."
+
+#: methods/googledrive.php:1486
+msgid "N.B. If you install UpdraftPlus on several WordPress sites, then you cannot re-use your project; you must create a new one from your Google API console for each site."
+msgstr "注： 如果您在多个WordPress站点上安装UpdraftPlus，则无法重新使用您的项目; 您必须在Google API控制台中为每个网站创建一个新的。"
+
+#: restorer.php:848
+msgid "Moving unpacked backup into place..."
+msgstr "将未打包的备份移动到适当的位置..."
+
+#: restorer.php:847
+msgid "Moving old data out of the way..."
+msgstr "移开旧数据..."
+
+#: methods/openstack2.php:253
+msgid "Leave this blank, and a default will be chosen."
+msgstr "将此留空, 将选择默认值。"
+
+#: methods/openstack2.php:248
+msgctxt "Keystone and swauth are technical terms which cannot be translated"
+msgid "This needs to be a v2 (Keystone) authentication URI; v1 (Swauth) is not supported."
+msgstr "这需要是 v2 （Keystone） 身份验证 URI;v1 （Swauth） 不受支持。"
+
+#: methods/googledrive.php:1487
+msgid "It is an ID number internal to Google Drive"
+msgstr "它是 Google 云端硬盘内部的 ID 号"
+
+#: includes/updraftplus-login.php:55 methods/updraftvault.php:893
+msgid "It appears that your web server's IP Address (%s) is blocked."
+msgstr "您的Web服务器的IP地址 （%s） 似乎被阻止。"
+
+#: methods/dreamobjects.php:185 methods/s3.php:938 methods/s3.php:1083
+#: methods/s3generic.php:192
+msgid "If you see errors about SSL certificates, then please go here for help."
+msgstr "如果您看到有关 SSL 证书的错误, 请转到此处寻求帮助。"
+
+#: methods/updraftvault.php:928
+msgid "If you have forgotten your password, then go here to change your password on updraftplus.com."
+msgstr "如果您忘记了密码, 请在这里更改您在 UpdraftPlus.com 上的密码。"
+
+#: methods/googledrive.php:1476
+msgid "If Google later shows you the message \"invalid_client\", then you did not enter a valid client ID here."
+msgstr "如果 Google 稍后向您显示消息 \"无效 _ client\", 则说明您在此处没有输入有效的客户端 ID。"
+
+#: methods/googledrive.php:627 methods/googledrive.php:640
+msgid "However, subsequent access attempts failed:"
+msgstr "但是, 后续访问尝试失败:"
+
+#: methods/googledrive.php:854 methods/googledrive.php:890
+msgid "Have not yet obtained an access token from Google - you need to authorise or re-authorise your connection to Google Drive."
+msgstr "尚未从 Google 获得访问令牌-您需要授权或重新授权您与 Google 云端硬盘的连接。"
+
+#: methods/googledrive.php:334
+msgid "Google Drive list files: failed to access parent folder"
+msgstr "Google 云端硬盘列表文件: 无法访问父文件夹"
+
+#: methods/googledrive.php:317 methods/googledrive.php:319
+#: methods/googledrive.php:663 methods/googledrive.php:706
+#: methods/googledrive.php:749 methods/googledrive.php:756
+#: methods/googledrive.php:768 methods/googledrive.php:784
+#: methods/googledrive.php:786 methods/googledrive.php:1474
+#: methods/googledrive.php:1475 methods/googledrive.php:1477
+#: methods/googledrive.php:1479 methods/googledrive.php:1501
+msgid "Google Drive"
+msgstr "谷歌云盘"
+
+#: methods/updraftvault.php:528
+msgid "Go here for help"
+msgstr "到这里来寻求帮助"
+
+#: methods/updraftvault.php:649 methods/updraftvault.php:666
+#: methods/updraftvault.php:668 methods/updraftvault.php:753
+msgid "Get more quota"
+msgstr "获得更多配额"
+
+#: methods/googledrive.php:1482
+msgid "Follow this link to your Google API Console, and there activate the Drive API and create a Client ID in the API Access section."
+msgstr "按照此链接到您的 Google API 控制台, 并激活驱动器 API 并在 \"API 访问\" 部分创建客户端 ID。"
+
+#: admin.php:1077 admin.php:6032 methods/openstack2.php:251 restorer.php:390
+#: restorer.php:392
+#: templates/wp-admin/settings/downloading-and-restoring.php:27
+#: templates/wp-admin/settings/tab-backups.php:27
+#: templates/wp-admin/settings/updraftcentral-connect.php:14
+msgid "Follow this link for more information"
+msgstr "有关详细信息, 请点击此链接"
+
+#: restorer.php:1836
+msgid "Files found:"
+msgstr "找到的文件:"
+
+#: methods/ftp.php:464
+msgid "Failure: we successfully logged in, but were not able to create a file in the given directory."
+msgstr "失败：我们已成功登录，但无法在给定目录中创建文件。"
+
+#: methods/ftp.php:452
+msgid "Failure: we did not successfully log in with those credentials."
+msgstr "失败：我们没有使用这些凭据成功登录。"
+
+#: methods/ftp.php:434
+msgid "Failure: No server details were given."
+msgstr "失败：未提供服务器详细信息。"
+
+#: methods/s3.php:1392
+msgid "Failure: No bucket details were given."
+msgstr "失败：未提供详细的bucket信息."
+
+#: methods/s3.php:1449 methods/s3.php:1461
+msgid "Failure"
+msgstr "失败"
+
+#: restorer.php:1174
+msgid "Failed to write out the decrypted database to the filesystem"
+msgstr "未能将解密的数据库写出到文件系统"
+
+#: methods/googledrive.php:706 methods/googledrive.php:768
+#: methods/googledrive.php:784 methods/googledrive.php:786
+msgid "Failed to upload to %s"
+msgstr "上传到 %s 失败"
+
+#: restorer.php:857
+msgid "Failed to unpack the archive"
+msgstr "无法解压缩存档"
+
+#: restorer.php:855
+msgid "Failed to delete working directory after restoring."
+msgstr "还原后未能删除任务目录。"
+
+#: restorer.php:1158
+msgid "Failed to create a temporary directory"
+msgstr "创建临时目录失败"
+
+#: methods/ftp.php:123
+msgid "FTP login"
+msgstr "FTP登录"
+
+#: methods/s3generic.php:188
+msgid "Examples of S3-compatible storage providers:"
+msgstr "S3 兼容存储提供程序的示例："
+
+#: methods/updraftvault.php:518
+msgid "Enter your UpdraftPlus.Com email / password here to connect:"
+msgstr "在此处输入您的 Updraftplus.com 电子邮件/密码进行连接:"
+
+#: methods/updraftvault.php:525 methods/updraftvault.php:526
+msgid "Don't know your email address, or forgotten your password?"
+msgstr "不知道您的电子邮件地址, 或忘记了您的密码？"
+
+#: methods/s3.php:1468
+msgid "Delete failed:"
+msgstr "删除失败:"
+
+#: restorer.php:845
+msgid "Decrypting database (can take a while)..."
+msgstr "解密数据库 （可能需要一段时间）..."
+
+#: restorer.php:846
+msgid "Database successfully decrypted."
+msgstr "数据库解密成功."
+
+#: methods/updraftvault.php:646 methods/updraftvault.php:663
+#: methods/updraftvault.php:717
+msgid "Current use:"
+msgstr "目前使用:"
+
+#: restorer.php:851
+msgid "Could not move old files out of the way."
+msgstr "无法将旧文件移开。"
+
+#: methods/openstack-base.php:56 methods/openstack-base.php:369
+#: methods/openstack-base.php:438
+msgid "Could not access %s container"
+msgstr "无法访问 %s 容器"
+
+#: restorer.php:843
+msgid "Copying this entity failed."
+msgstr "复制此文件失败。"
+
+#: methods/openstack2.php:257
+msgid "Container"
+msgstr "容器"
+
+#: methods/googledrive.php:1477
+msgid "Client Secret"
+msgstr "客户端密钥"
+
+#: methods/googledrive.php:1475
+msgid "Client ID"
+msgstr "客户端ID"
+
+#: restorer.php:850
+msgid "Cleaning up rubbish..."
+msgstr "清理垃圾......"
+
+#: methods/email.php:57
+msgid "Backup is of: %s."
+msgstr "备份传输到 %s"
+
+#: restorer.php:842
+msgid "Backup file not available."
+msgstr "备份文件不存在."
+
+#: central/translations-central.php:59 methods/updraftvault.php:514
+#: templates/wp-admin/settings/exclude-settings-modal/exclude-panel-heading.php:4
+msgid "Back..."
+msgstr "返回..."
+
+#: methods/googledrive.php:587
+msgid "Authorization failed"
+msgstr "授权失败"
+
+#: methods/googledrive.php:1491
+msgid "Authenticate with Google"
+msgstr "在 Google 进行身份验证"
+
+#: includes/class-commands.php:908 methods/updraftvault.php:842
+msgid "An unknown error occurred when trying to connect to UpdraftPlus.Com"
+msgstr "尝试连接到 UpdraftPlus.com 时出现未知错误"
+
+#: methods/ftp.php:129
+msgid "Almost all FTP servers will want passive mode; but if you need active mode, then uncheck this."
+msgstr "几乎所有的 FTP 服务器都需要被动模式；但如果您需要活动模式, 请取消选中此选项。"
+
+#: methods/googledrive.php:810 methods/googledrive.php:811
+#: methods/googledrive.php:821 methods/googledrive.php:822
+msgid "Account is not authorized."
+msgstr "帐户未被授权。"
+
+#: methods/googledrive.php:749
+msgid "Account full: your %s account has only %d bytes left, but the file to be uploaded is %d bytes"
+msgstr "帐户已满: 您的 %s 帐户只剩下%d字节, 但要上传的文件是%d字节"
+
+#: methods/s3.php:1370
+msgid "API secret"
+msgstr "API隐秘"
+
+#: methods/googledrive.php:1487
+msgid "<strong>This is NOT a folder name</strong>."
+msgstr "<strong>这不是文件夹名称</strong>。"
+
+#: methods/googledrive.php:1494
+msgid "<strong>(You appear to be already authenticated,</strong> though you can authenticate again to refresh your access if you've had a problem)."
+msgstr "<strong>（您似乎已经经过身份验证,</strong>但如果遇到问题, 您可以再次进行身份验证以刷新访问权限）。"
+
+#: methods/s3generic.php:188
+msgid "... and many more!"
+msgstr "... 还有更多!"
+
+#: options.php:229
+msgid "(This applies to all WordPress backup plugins unless they have been explicitly coded for multisite compatibility)."
+msgstr "（这适用于所有 WordPress 备份插件, 除非它们已显式编码为多站点兼容性）。"
+
+#: methods/s3.php:450
+msgid "%s upload: getting uploadID for multipart upload failed - see log file for more details"
+msgstr "%s 上传: 获取多部分上传的上传 Id 失败-有关详细信息, 请参阅日志文件"
+
+#: methods/addon-not-yet-present.php:125
+msgid "%s support is available as an add-on"
+msgstr "%s 支持可作为附加组件使用"
+
+#: methods/dreamobjects.php:189 methods/s3.php:1044 methods/s3.php:1086
+#: methods/s3generic.php:194
+msgid "%s secret key"
+msgstr "%s 密钥"
+
+#: methods/s3.php:520
+msgid "%s re-assembly error (%s): (see log file for more)"
+msgstr "%s 重组失败（%s）：（查看日志获取详细信息）"
+
+#: methods/updraftvault.php:499 methods/updraftvault.php:500
+#: methods/updraftvault.php:501
+msgid "%s per quarter"
+msgstr "每季度%s"
+
+#: methods/ftp.php:208
+msgid "%s login failure"
+msgstr "%s 登录失败"
+
+#: methods/openstack-base.php:530
+msgid "%s error - we accessed the container, but failed to create a file within it"
+msgstr "%s 错误 - 我们访问了容器，但是在其中创建了一个文件失败"
+
+#: methods/openstack-base.php:48 methods/openstack-base.php:122
+#: methods/openstack-base.php:129 methods/openstack-base.php:361
+#: methods/openstack-base.php:426
+msgid "%s error - failed to access the container"
+msgstr "%s  误 - 无法访问容器"
+
+#: methods/dreamobjects.php:193 methods/s3generic.php:198
+msgid "%s end-point"
+msgstr "%s 终结点"
+
+#: methods/dreamobjects.php:188 methods/s3.php:1040 methods/s3.php:1085
+#: methods/s3generic.php:193
+msgid "%s access key"
+msgstr "%s 访问密钥"
+
+#: methods/s3.php:186 methods/s3.php:198
+msgid "%s Error: Failed to initialise"
+msgstr "%s错误：无法初始化"
+
+#: methods/openstack2.php:125
+msgctxt "\"tenant\" is a term used with OpenStack storage - Google for \"OpenStack tenant\" to get more help on its meaning"
+msgid "tenant"
+msgstr "租户"
+
+#: methods/updraftvault.php:486
+msgid "Read the %s FAQs here."
+msgstr "阅读%s常见问题。"
+
+#: methods/addon-base-v2.php:253 methods/openstack-base.php:460
+msgid "%s Error"
+msgstr "%s 错误"
+
+#: backup.php:4069
+msgid "A very large file was encountered: %s (size: %s Mb)"
+msgstr "遇到了一个非常大的文件：%s（尺寸：%s Mb）"
+
+#: admin.php:1064 methods/cloudfiles-new.php:171 methods/cloudfiles.php:539
+#: methods/openstack2.php:254
+msgid "Username"
+msgstr "用户名"
+
+#: methods/openstack-base.php:314 methods/s3.php:408 methods/s3.php:420
+#: methods/s3.php:421
+msgid "%s Error: Failed to upload"
+msgstr "%s 错误：上传失败"
+
+#: methods/addon-base-v2.php:358 methods/cloudfiles.php:590
+#: methods/googledrive.php:663 methods/openstack-base.php:535
+#: methods/s3.php:1451
+msgid "Success"
+msgstr "成功"
+
+#: class-updraftplus.php:4511
+msgid "Could not read the directory"
+msgstr "无法读取目录"
+
+#: class-updraftplus.php:2112
+msgid "Themes"
+msgstr "主题"
+
+#: class-updraftplus.php:2113
+msgid "Uploads"
+msgstr "上传"
+
+#: class-updraftplus.php:2130
+msgid "Others"
+msgstr "其他"
+
+#: class-updraftplus.php:2111
+msgid "Plugins"
+msgstr "插件"
+
+#: methods/dropbox.php:910 methods/dropbox.php:912
+msgid "you have authenticated your %s account"
+msgstr "您已对 %s 帐户进行了身份验证"
+
+#: includes/class-filesystem-functions.php:302 restorer.php:2801
+msgid "restoration"
+msgstr "恢复"
+
+#: backup.php:1695
+msgid "please wait for the rescheduled attempt"
+msgstr "请等待改期的尝试"
+
+#: methods/dropbox.php:313
+msgid "error: failed to upload file to %s (see log file for more)"
+msgstr "错误：上传文件至%s失败（查看日志获取详细信息）"
+
+#: methods/dropbox.php:316
+msgid "did not return the expected response - check your log file for more details"
+msgstr "未返回预期的响应-请检查日志文件以了解更多详细信息"
+
+#: backup.php:1645
+msgid "database connection attempt failed."
+msgstr "数据库连接失败."
+
+#: backup.php:4426
+msgid "check your log for more details."
+msgstr "查看您的日志了解更多详情."
+
+#: class-updraftplus.php:2372
+msgid "Your website is visited infrequently and UpdraftPlus is not getting the resources it hoped for; please read this page:"
+msgstr "您的网站很少访问, UpdraftPlus 没有得到它所希望的资源;请阅读此页面:"
+
+#: includes/class-filesystem-functions.php:302 methods/ftp.php:116
+msgid "Your web server's PHP installation has these functions disabled: %s."
+msgstr "您的Web服务器的PHP安装已禁用这些功能: %s."
+
+#: includes/class-filesystem-functions.php:302 methods/ftp.php:116
+msgid "Your hosting company must enable these functions before %s can work."
+msgstr "您的托管公司必须在%s可以任务之前启用这些功能。"
+
+#: backup.php:4413 class-updraftplus.php:1064
+msgid "Your free space in your hosting account is very low - only %s Mb remain"
+msgstr "您的可用空间太少了——只余 %s MB"
+
+#: class-updraftplus.php:1077
+msgid "Your free disk space is very low - only %s Mb remain"
+msgstr "可用磁盘空间非常低-只保留 %s MB"
+
+#: methods/dropbox.php:955 methods/dropbox.php:964 methods/googledrive.php:624
+msgid "Your %s quota usage: %s %% used, %s available"
+msgstr "您的 %s 配额使用情况: %s %% 使用, %s 可用"
+
+#: methods/dropbox.php:934
+msgid "Your %s account name: %s"
+msgstr "您的 %s 帐户名: %s"
+
+#: class-updraftplus.php:5185
+msgid "You should only proceed if you cannot update the current server and are confident (or willing to risk) that your plugins/themes/etc. are compatible with the older %s version."
+msgstr "如果您不能更新当前服务器，并且确信（或愿意冒风险）您的插件/主题/等与较旧的%s版本兼容，则应该继续进行。"
+
+#: includes/Dropbox2/OAuth/Consumer/ConsumerAbstract.php:137
+msgid "You need to re-authenticate with %s, as your existing credentials are not working."
+msgstr "您需要重新使用 %s 进行身份验证, 因为您的现有凭据无法正常任务。"
+
+#: class-updraftplus.php:5287
+msgid "You must upgrade MySQL to be able to use this database."
+msgstr "必须升级 MySQL 才能使用此数据库。"
+
+#: class-updraftplus.php:5206 restorer.php:856
+msgid "You are running on WordPress multisite - but your backup is not of a multisite site."
+msgstr "您正在运行WordPress多站点-但您的备份不是一个多站点的网站。"
+
+#: methods/cloudfiles.php:590 methods/openstack-base.php:535
+msgid "We accessed the container, and were able to create files within it."
+msgstr "我们访问了容器, 并能够在其中创建文件。"
+
+#: class-updraftplus.php:5459
+msgid "UpdraftPlus was unable to find the table prefix when scanning the database backup."
+msgstr "在扫描数据库备份时，UpdraftPlus无法找到表前缀。"
+
+#: includes/updraftplus-notices.php:142
+msgid "UpdraftPlus is on social media - check us out!"
+msgstr "UpdraftPlus 在社交媒体上--看看我们吧!"
+
+#: methods/cloudfiles-new.php:97 methods/cloudfiles-new.php:287
+msgid "US or UK-based Rackspace Account"
+msgstr "美国或英国机架空间账户"
+
+#: methods/cloudfiles.php:478
+msgid "US or UK Cloud"
+msgstr "美国或英国云"
+
+#: methods/cloudfiles-new.php:100 methods/cloudfiles-new.php:290
+#: methods/cloudfiles.php:481
+msgid "US (default)"
+msgstr "美国 （默认值）"
+
+#: methods/cloudfiles-new.php:101 methods/cloudfiles-new.php:291
+#: methods/cloudfiles.php:482
+msgid "UK"
+msgstr "英国"
+
+#: class-updraftplus.php:5185
+msgid "This is significantly newer than the server which you are now restoring onto (version %s)."
+msgstr "这明显比您现在恢复到版本（%s）的服务器更新。"
+
+#: class-updraftplus.php:5451
+msgid "This database backup is missing core WordPress tables: %s"
+msgstr "此数据库备份缺少核心WordPress表：%s"
+
+#: backup.php:4420
+msgid "The zip engine returned the message: %s."
+msgstr "zip引擎返回消息: %s."
+
+#: includes/class-updraftplus-encryption.php:354
+msgid "The decryption key used:"
+msgstr "使用的解密密钥："
+
+#: class-updraftplus.php:5046
+msgid "The database is too small to be a valid WordPress database (size: %s Kb)."
+msgstr "数据库太小，不能成为一个有效的WordPress数据库（大小：%s KB）。"
+
+#: includes/class-filesystem-functions.php:322
+msgid "The database file appears to have been compressed twice - probably the website you downloaded it from had a mis-configured webserver."
+msgstr "数据库文件似乎已经被压缩了两次——可能是您从其中下载的网站有一个配置错误的web服务器。"
+
+#: class-updraftplus.php:5287
+msgid "The database backup uses MySQL features not available in the old MySQL version (%s) that this site is running on."
+msgstr "数据库备份使用MySQL站点运行的旧MySQL版本（%s ）中不提供的MySQL功能。"
+
+#: class-updraftplus.php:3676
+msgid "The backup has not finished; a resumption is scheduled"
+msgstr "备份尚未完成;计划恢复"
+
+#: class-updraftplus.php:3672
+msgid "The backup attempt has finished, apparently unsuccessfully"
+msgstr "备份尝试已完成, 显然未成功"
+
+#: includes/class-filesystem-functions.php:353
+msgid "The attempt to undo the double-compression succeeded."
+msgstr "撤销双重压缩的尝试成功了。"
+
+#: includes/class-filesystem-functions.php:329
+#: includes/class-filesystem-functions.php:351
+msgid "The attempt to undo the double-compression failed."
+msgstr "撤销双重压缩的尝试失败。"
+
+#: class-updraftplus.php:1048
+msgid "The amount of memory (RAM) allowed for PHP is very low (%s Mb) - you should increase it to avoid failures due to insufficient memory (consult your web hosting company for more help)"
+msgstr "PHP允许的内存量（RAM）非常低（%s Mb） - 您应该增加它以避免由于内存不足而导致的故障（请咨询您的虚拟主机公司获取更多帮助）"
+
+#: includes/ftp.class.php:58 includes/ftp.class.php:61
+msgid "The %s connection timed out; if you entered the server correctly, then this is usually caused by a firewall blocking the connection - you should check with your web hosting company."
+msgstr "%s 连接超时;如果您正确地输入了服务器，那么这通常是由阻止连接的防火墙引起的 - 您应该与您的虚拟主机公司联系。"
+
+#: admin.php:983 methods/backup-module.php:404 methods/cloudfiles-new.php:299
+#: methods/dreamobjects.php:194 methods/ftp.php:130 methods/openstack2.php:258
+#: methods/s3.php:1090 methods/s3generic.php:211
+msgid "Test %s Settings"
+msgstr "测试 %s 设置"
+
+#: methods/cloudfiles-new.php:144
+msgid "Sydney (SYD)"
+msgstr "悉尼（SYD）"
+
+#: methods/dropbox.php:910 methods/dropbox.php:912
+msgid "Success:"
+msgstr "成功："
+
+#: class-updraftplus.php:5221 restorer.php:3082
+msgid "Site information:"
+msgstr "网站信息："
+
+#: includes/updraftplus-notices.php:166 includes/updraftplus-notices.php:167
+#: includes/updraftplus-notices.php:176 includes/updraftplus-notices.php:177
+msgid "RSS link"
+msgstr "RSS 链接"
+
+#: includes/class-backup-history.php:729
+msgid "One or more backups has been added from scanning remote storage; note that these backups will not be automatically deleted through the \"retain\" settings; if/when you wish to delete them then you must do so manually."
+msgstr "扫描远程存储中添加了一个或多个备份；请注意, 这些备份不会通过 \"保留\" 设置自动删除;如果您希望删除它们, 则必须手动删除。"
+
+#: methods/cloudfiles-new.php:146
+msgid "Northern Virginia (IAD)"
+msgstr "北弗吉尼亚州"
+
+#: methods/cloudfiles.php:244 methods/dropbox.php:388
+#: methods/openstack-base.php:117
+msgid "No settings were found"
+msgstr "找不到任何设置"
+
+#: class-updraftplus.php:762
+msgid "No log files were found."
+msgstr "找不到日志文件。"
+
+#: backup.php:1697
+msgid "No database tables found"
+msgstr "找不到数据库表"
+
+#: methods/dropbox.php:602
+msgid "Need to use sub-folders?"
+msgstr "需要使用子文件夹？"
+
+#: methods/cloudfiles-new.php:148
+msgid "London (LON)"
+msgstr "伦敦（LON）"
+
+#: class-updraftplus.php:3852
+msgid "Latest status:"
+msgstr "最新状态:"
+
+#: backup.php:3130
+msgid "Infinite recursion: consult your log for more information"
+msgstr "无限递归: 有关详细信息, 请参阅日志"
+
+#: class-updraftplus.php:5214
+msgid "If you want to restore a multisite backup, you should first set up your WordPress installation as a multisite."
+msgstr "如果要还原多站点备份，应首先将WordPress安装设置为多站点。"
+
+#: methods/cloudfiles-new.php:147
+msgid "Hong Kong (HKG)"
+msgstr "香港（HKG）"
+
+#: includes/updraftplus-notices.php:155
+msgid "Follow this link to sign up for the UpdraftPlus newsletter."
+msgstr "按照此链接注册 UpdraftPlus 通讯。"
+
+#: class-updraftplus.php:4814 methods/googledrive.php:1402 methods/s3.php:370
+msgid "File not found"
+msgstr "文件未找到"
+
+#: methods/cloudfiles.php:559 methods/openstack-base.php:477
+msgid "Failure: No container details were given."
+msgstr "失败：未提供容器详细信息。"
+
+#: backup.php:4035 backup.php:4366
+msgid "Failed to open the zip file (%s) - %s"
+msgstr "无法打开 zip 文件 （ %s）- %s"
+
+#: class-updraftplus.php:5060
+msgid "Failed to open database file."
+msgstr "打开数据库文件失败。"
+
+#: backup.php:2023
+msgid "Failed to open database file for reading:"
+msgstr "无法打开数据库文件以进行读取:"
+
+#: methods/dropbox.php:490
+msgid "Failed to access %s when deleting (see log file for more)"
+msgstr "删除时接触%s失败（查看日志获取相信信息）"
+
+#: includes/updraftplus-notices.php:145 includes/updraftplus-notices.php:147
+msgid "Facebook"
+msgstr "Facebook"
+
+#: class-updraftplus.php:1591 class-updraftplus.php:1635
+#: methods/cloudfiles.php:398
+msgid "Error opening local file: Failed to download"
+msgstr "打开本地文件时出错: 下载失败"
+
+#: methods/cloudfiles.php:415 methods/openstack-base.php:460
+msgid "Error downloading remote file: Failed to download"
+msgstr "下载远程文件时出错: 下载失败"
+
+#: methods/cloudfiles.php:424
+msgid "Error - no such file exists."
+msgstr "错误-不存在这样的文件。"
+
+#: class-updraftplus.php:1659 methods/cloudfiles.php:428
+msgid "Error - failed to download the file"
+msgstr "错误-下载文件失败"
+
+#: methods/dropbox.php:605
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: methods/cloudfiles-new.php:143
+msgid "Dallas (DFW) (default)"
+msgstr "达拉斯（DFW）（默认）"
+
+#: backup.php:2978
+msgid "Could not open the backup file for writing"
+msgstr "无法打开备份文件进行写入"
+
+#: backup.php:1645
+msgid "Connection failed: check your access details, that the database server is up, and that the network connection is not firewalled."
+msgstr "连接失败：检查您的访问详细信息，数据库服务器是否已启动，以及网络连接是否已防火墙。"
+
+#: methods/cloudfiles.php:498
+msgid "Cloud Files username"
+msgstr "云文件用户名"
+
+#: methods/cloudfiles.php:586
+msgid "Cloud Files error - we accessed the container, but failed to create a file within it"
+msgstr "云文件错误-我们访问了容器, 但未能在其中创建文件"
+
+#: methods/cloudfiles.php:569 methods/cloudfiles.php:572
+#: methods/cloudfiles.php:575
+msgid "Cloud Files authentication failed"
+msgstr "云文件身份验证失败"
+
+#: methods/cloudfiles-new.php:116 methods/cloudfiles-new.php:294
+msgid "Cloud Files Username"
+msgstr "云文件用户名"
+
+#: methods/cloudfiles-new.php:106 methods/cloudfiles-new.php:293
+msgid "Cloud Files Storage Region"
+msgstr "云文件存储区域"
+
+#: methods/cloudfiles-new.php:129 methods/cloudfiles-new.php:298
+#: methods/cloudfiles.php:507
+msgid "Cloud Files Container"
+msgstr "云文件容器"
+
+#: methods/cloudfiles-new.php:124 methods/cloudfiles-new.php:296
+#: methods/cloudfiles.php:502
+msgid "Cloud Files API Key"
+msgstr "云文件 API 密钥"
+
+#: methods/cloudfiles-new.php:145
+msgid "Chicago (ORD)"
+msgstr "芝加哥（ORD）"
+
+#: includes/updraftplus-notices.php:166 includes/updraftplus-notices.php:167
+#: includes/updraftplus-notices.php:176 includes/updraftplus-notices.php:177
+msgid "Blog link"
+msgstr "博客链接"
+
+#: class-updraftplus.php:5195
+msgid "Backup label:"
+msgstr "备份标签："
+
+#: methods/cloudfiles-new.php:37 methods/openstack-base.php:489
+#: methods/openstack-base.php:491 methods/openstack-base.php:512
+#: methods/openstack2.php:33
+msgid "Authorisation failed (check your credentials)"
+msgstr "授权失败（检查您的凭据）"
+
+#: methods/dropbox.php:605
+msgid "Authenticate with %s"
+msgstr "用 %s验证"
+
+#: class-updraftplus.php:5185 class-updraftplus.php:5187
+msgid "Any support requests to do with %s should be raised with your web hosting company."
+msgstr "任何与%s相关的支持请求都应该与您的Web托管公司一起提出。"
+
+#: backup.php:2114
+msgid "An error occurred whilst closing the final database file"
+msgstr "关闭最终数据库文件时出错"
+
+#: methods/cloudfiles-new.php:285 methods/cloudfiles.php:461
+#: methods/openstack2.php:245
+msgid "Also, you should read this important FAQ."
+msgstr "此外, 您还应该阅读此重要的常见问题。"
+
+#: methods/cloudfiles-new.php:99
+msgid "Accounts created at rackspacecloud.com are US-accounts; accounts created at rackspace.co.uk are UK-based"
+msgstr "在 rackspacecloud.com 上创建的帐户是美国账户；在 rackspace.co.uk 创建的帐户是基于英国的"
+
+#: methods/cloudfiles-new.php:97 methods/cloudfiles-new.php:288
+msgid "Accounts created at rackspacecloud.com are US accounts; accounts created at rackspace.co.uk are UK accounts."
+msgstr "在 rackspacecloud.com 上创建的帐户是美国帐户；在 rackspace.co.uk 创建的帐户是英国帐户。"
+
+#: methods/dropbox.php:750
+msgid "Account holder's name: %s."
+msgstr "帐户持有人的姓名: %s。"
+
+#: methods/cloudfiles-new.php:166 methods/cloudfiles.php:534
+#: methods/s3.php:1366
+msgid "API key"
+msgstr "API密钥"
+
+#: backup.php:4422
+msgid "A zip error occurred"
+msgstr "发生了 zip 错误"
+
+#: class-updraftplus.php:5118
+msgid "(version: %s)"
+msgstr "（版本：%s）"
+
+#: backup.php:3165
+msgid "%s: unreadable file - could not be backed up (check the file permissions and ownership)"
+msgstr " %s ：不可读文件 - 无法备份（检查文件权限和所有权）"
+
+#: backup.php:3225 backup.php:3254
+msgid "%s: unreadable file - could not be backed up"
+msgstr "%s: 不可读的文件-无法备份"
+
+#: admin.php:985
+msgid "%s settings test result:"
+msgstr "%s 设置测试结果："
+
+#: methods/dropbox.php:406
+msgid "%s returned an unexpected HTTP response: %s"
+msgstr "%s 返回了意外的HTTP响应: %s"
+
+#: class-updraftplus.php:633 methods/dropbox.php:816 methods/dropbox.php:873
+#: methods/dropbox.php:887 methods/dropbox.php:907 methods/dropbox.php:1073
+msgid "%s error: %s"
+msgstr "%s 错误：%s"
+
+#: methods/openstack-base.php:86
+msgid "%s error - failed to upload file"
+msgstr "%s 错误-上传文件失败"
+
+#: class-updraftplus.php:1548
+msgid "%s error - failed to re-assemble chunks"
+msgstr "%s 错误-未能重新组合块"
+
+#: methods/cloudfiles.php:250 methods/openstack-base.php:44
+#: methods/openstack-base.php:357 methods/openstack-base.php:422
+#: methods/openstack-base.php:495 methods/openstack-base.php:498
+#: methods/openstack-base.php:516 methods/openstack-base.php:521
+msgid "%s authentication failed"
+msgstr "%s 身份验证失败"
+
+#: methods/dropbox.php:816 methods/dropbox.php:873
+msgid "%s authentication"
+msgstr "%s 认证"
+
+#: class-updraftplus.php:1433
+msgid "%s Error: Failed to open local file"
+msgstr "%s 错误：无法打开本地文件"
+
+#: admin.php:3898 admin.php:3934 admin.php:3944 backup.php:2102
+#: methods/addon-base-v2.php:344
+msgid "Failed"
+msgstr "失败"
+
+#: class-updraftplus.php:3849 class-updraftplus.php:5118
+msgid "Backup of:"
+msgstr "备份："
+
+#: admin.php:4696
+msgid "Delete this backup set"
+msgstr "删除此备份集"
+
+#: templates/wp-admin/settings/form-contents.php:330
+msgid "Delete local backup"
+msgstr "删除本地备份"
+
+#: templates/wp-admin/settings/form-contents.php:335
+msgid "Backup directory"
+msgstr "备份目录"
+
+#: templates/wp-admin/settings/form-contents.php:179
+msgid "Manually decrypt a database backup file"
+msgstr "手动解密数据库备份文件"
+
+#: templates/wp-admin/settings/form-contents.php:305
+msgid "Advanced / Debugging Settings"
+msgstr "高级/调试设置"
+
+#: templates/wp-admin/settings/form-contents.php:320
+msgid "Debug mode"
+msgstr "调试模式"
+
+#: templates/wp-admin/settings/form-contents.php:62
+msgid "Database backup interval"
+msgstr "数据库备份间隔"
+
+#: templates/wp-admin/settings/form-contents.php:25
+msgid "Files backup interval"
+msgstr "文件备份间隔"
+
+#: templates/wp-admin/settings/form-contents.php:274
+#: templates/wp-admin/settings/form-contents.php:277
+msgid "your site's admin address"
+msgstr "您网站的管理员地址"
+
+#: templates/wp-admin/settings/form-contents.php:88
+msgid "use UpdraftPlus Premium"
+msgstr "使用 UpdraftPlus 高级版"
+
+#: admin.php:4483 admin.php:4531
+msgid "unknown source"
+msgstr "未知源"
+
+#: admin.php:3847
+msgid "show log"
+msgstr "显示日志"
+
+#: class-updraftplus.php:3817
+msgid "read more at %s"
+msgstr "阅读更多在 %s"
+
+#: admin.php:4186
+msgid "or, to reset this option"
+msgstr "或者, 重置此选项"
+
+#: admin.php:3793
+msgid "last activity: %ss ago"
+msgstr "上次活动:%ss前"
+
+#: admin.php:4111
+msgid "incremental backup; base backup: %s"
+msgstr "增量备份; 基本备份: %s"
+
+#: admin.php:4171
+msgctxt "i.e. Non-automatic"
+msgid "Manual"
+msgstr "手动"
+
+#: restorer.php:539
+msgid "file is size:"
+msgstr "文件大小："
+
+#: templates/wp-admin/settings/form-contents.php:88
+msgid "e.g. if your server is busy at day and you want to run overnight"
+msgstr "如果您的服务器在一天很忙, 您想运行一夜"
+
+#: templates/wp-admin/settings/form-contents.php:42
+#: templates/wp-admin/settings/form-contents.php:76
+msgid "and retain this many scheduled backups"
+msgstr "并保留这许多计划的备份"
+
+#: admin.php:4270
+msgid "Your wp-content directory server path: %s"
+msgstr "您的 wp-content 服务器路径: %s"
+
+#: admin.php:4005
+msgid "You will need to consult with your web hosting provider to find out how to set permissions for a WordPress plugin to write to the directory."
+msgstr "您将需要咨询您的虚拟主机提供商, 以了解如何设置 WordPress 插件写入目录的权限。"
+
+#: includes/class-backup-history.php:133
+msgid "You have not yet made any backups."
+msgstr "您还没有做任何备份。"
+
+#: templates/wp-admin/settings/form-contents.php:176
+msgid "You can manually decrypt an encrypted database here."
+msgstr "您可以在此处手动解密加密的数据库。"
+
+#: class-updraftplus.php:3850
+msgid "WordPress backup is complete"
+msgstr "WordPress 备份已完成"
+
+#: includes/class-filesystem-functions.php:83
+msgid "Why am I seeing this?"
+msgstr "我为什么看到这个？"
+
+#: updraftplus.php:151
+msgid "Weekly"
+msgstr "每周"
+
+#: class-updraftplus.php:3793
+msgid "Warnings encountered:"
+msgstr "遇到警告:"
+
+#: admin.php:3827 admin.php:4123
+msgid "Warning: %s"
+msgstr "警告: %s"
+
+#: admin.php:3634 admin.php:4706
+msgid "View Log"
+msgstr "查看日志"
+
+#: templates/wp-admin/settings/form-contents.php:351
+msgid "Use the server's SSL certificates"
+msgstr "使用服务器的 SSL 证书"
+
+#: templates/wp-admin/settings/form-contents.php:191
+msgctxt "Uploader: Drop db.gz.crypt files here to upload them for decryption - or - Select Files"
+msgid "or"
+msgstr "或"
+
+#: class-updraftplus.php:3766
+msgid "Unknown/unexpected error - please raise a support request"
+msgstr "未知的意外错误-请提出支持请求"
+
+#: admin.php:3775 central/translations-central.php:28
+#: methods/updraftvault.php:556 methods/updraftvault.php:603
+#: methods/updraftvault.php:722
+msgid "Unknown"
+msgstr "未知"
+
+#: templates/wp-admin/settings/form-contents.php:88
+msgid "To fix the time at which a backup should take place,"
+msgstr "调整备份开始时间,"
+
+#: templates/wp-admin/settings/form-contents.php:321
+msgid "This will also cause debugging output from all plugins to be shown upon this screen - please do not be surprised to see these."
+msgstr "这也将导致调试输出从所有插件显示在此屏幕上-请不要惊讶地看到这些。"
+
+#: admin.php:3986
+msgid "The request to the filesystem to create the directory failed."
+msgstr "向文件系统发送创建目录的请求失败."
+
+#: class-updraftplus.php:3802 class-updraftplus.php:3977
+msgid "The log file has been attached to this email."
+msgstr "日志文件已附加到此电子邮件。"
+
+#: admin.php:4005
+msgid "The folder exists, but your webserver does not have permission to write to it."
+msgstr "目录已经存在，但是您的web服务器没有写如权限."
+
+#: restorer.php:542
+msgid "The backup records do not contain information about the proper size of this file."
+msgstr "备份记录不包含关于该文件的适当大小的信息。"
+
+#: templates/wp-admin/settings/form-contents.php:148
+msgid "The above directories are everything, except for WordPress core itself which you can download afresh from WordPress.org."
+msgstr "以上目录是一切，除了WordPress核心本身，您可以从WordPress.org重新下载."
+
+#: templates/wp-admin/settings/form-contents.php:325
+msgid "Split archives every:"
+msgstr "拆分每个存档："
+
+#: templates/wp-admin/settings/existing-backups-table.php:105
+msgid "Site"
+msgstr "站点"
+
+#: templates/wp-admin/settings/form-contents.php:310
+msgid "Show expert settings"
+msgstr "显示专家设置"
+
+#: templates/wp-admin/settings/form-contents.php:94
+msgid "Sending Your Backup To Remote Storage"
+msgstr "将备份发送到远程存储"
+
+#: templates/wp-admin/settings/form-contents.php:362
+msgid "See this FAQ also."
+msgstr "参阅此常见问题。"
+
+#: admin.php:1130 templates/wp-admin/settings/form-contents.php:390
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: templates/wp-admin/settings/form-contents.php:244
+#: templates/wp-admin/settings/tab-addons.php:243
+#: templates/wp-admin/settings/tab-addons.php:244
+msgid "Reporting"
+msgstr "报表"
+
+#: admin.php:3858
+msgid "Remove old directories"
+msgstr "删除旧目录"
+
+#: admin.php:3902 admin.php:3937 admin.php:3941
+#: includes/class-remote-send.php:441
+#: includes/class-storage-methods-interface.php:329 restorer.php:537
+#: restorer.php:4185 restorer.php:4326
+msgid "OK"
+msgstr "确定"
+
+#: templates/wp-admin/settings/form-contents.php:357
+msgid "Note that not all cloud backup methods are necessarily using SSL authentication."
+msgstr "注意，不是所有的云存储都需要SSL验证."
+
+#: admin.php:4461
+msgid "None"
+msgstr "无"
+
+#: admin.php:4141
+msgid "No backup has been completed"
+msgstr "尚未完成备份"
+
+#: updraftplus.php:159
+msgid "Monthly"
+msgstr "每月"
+
+#: restorer.php:519
+msgid "Looking for %s archive: file name: %s"
+msgstr "正在寻找%s存档：文件名：%s"
+
+#: admin.php:3813
+msgid "Job ID: %s"
+msgstr "任务 ID: %s"
+
+#: templates/wp-admin/settings/form-contents.php:162
+msgid "It can also backup external databases."
+msgstr "它还可以备份外部数据库。"
+
+#: class-updraftplus.php:3749
+msgid "Incremental"
+msgstr "增量备份"
+
+#: templates/wp-admin/settings/form-contents.php:145
+msgid "Include in files backup"
+msgstr "包括在文件备份中"
+
+#: admin.php:4583
+msgid "If you are seeing more backups than you expect, then it is probably because the deletion of old backup sets does not happen until a fresh backup completes."
+msgstr "如果您看到的备份比预期的要多，那么很可能是因为在新备份完成之前不会删除旧的备份集。"
+
+#: admin.php:4186
+msgid "If that is unsuccessful check the permissions on your server or change it to another directory that is writable by your web server process."
+msgstr "如果失败，请检查您服务器的权限或者使用其他您web服务器可以写入的目录."
+
+#: admin.php:5235
+msgid "If making a request for support, please include this information:"
+msgstr "如果请求支持，请包括以下信息："
+
+#: class-updraftplus.php:3749
+msgid "Full backup"
+msgstr "完全备份"
+
+#: updraftplus.php:155
+msgid "Fortnightly"
+msgstr "每半月"
+
+#: admin.php:5106
+msgid "Follow this link to download the log file for this restoration (needed for any support requests)."
+msgstr "请点击此链接下载此恢复的日志文件（任何支持请求所需）。"
+
+#: admin.php:4186
+msgid "Follow this link to attempt to create the directory and set the permissions"
+msgstr "按照此链接尝试创建目录并设置权限"
+
+#: templates/wp-admin/settings/form-contents.php:193
+msgid "First, enter the decryption key"
+msgstr "首先输入解密密钥"
+
+#: restorer.php:635
+msgid "Final checks"
+msgstr "最后检查"
+
+#: class-updraftplus.php:3758
+msgid "Files only (database was not part of this particular schedule)"
+msgstr "仅文件（数据库不是此特定日程表的一部分）"
+
+#: admin.php:4535
+msgid "Files backup (created by %s)"
+msgstr "文件备份（由%s创建）"
+
+#: admin.php:4535
+msgid "Files and database WordPress backup (created by %s)"
+msgstr "文件和数据库WordPress备份（由%s创建）"
+
+#: admin.php:431 class-updraftplus.php:3756
+msgid "Files and database"
+msgstr "文件和数据库"
+
+#: class-updraftplus.php:3758
+msgid "Files (database backup has not completed)"
+msgstr "文件（数据库备份尚未完成）"
+
+#: includes/class-storage-methods-interface.php:301
+msgid "File is not locally present - needs retrieving from remote storage"
+msgstr "文件不是本地存在的-需要从远程存储中检索"
+
+#: admin.php:4491
+msgid "External database"
+msgstr "外部数据库"
+
+#: templates/wp-admin/settings/form-contents.php:309
+msgid "Expert settings"
+msgstr "专家设置"
+
+#: updraftplus.php:123
+msgid "Every %s hours"
+msgstr "每 %s 小时"
+
+#: class-updraftplus.php:3775
+msgid "Errors encountered:"
+msgstr "遇到的错误："
+
+#: restorer.php:725
+msgid "Error message"
+msgstr "错误消息"
+
+#: class-updraftplus.php:3817
+msgid "Email reports created by UpdraftPlus (free edition) bring you the latest UpdraftPlus.com news"
+msgstr "由 UpdraftPlus （免费版） 创建的电子邮件报告为您带来最新的 UpdraftPlus.com 新闻"
+
+#: admin.php:3361 methods/updraftvault.php:520
+#: templates/wp-admin/settings/form-contents.php:256
+#: templates/wp-admin/settings/updraftcentral-connect.php:44
+msgid "Email"
+msgstr "邮箱"
+
+#: templates/wp-admin/settings/form-contents.php:190
+msgid "Drop encrypted database files (db.gz.crypt files) here to upload them for decryption"
+msgstr "在此处删除加密的数据库文件 （db.gz.crypt 文件） 以上传这些文件进行解密"
+
+#: templates/wp-admin/settings/form-contents.php:162
+msgid "Don't want to be spied on? UpdraftPlus Premium can encrypt your database backup."
+msgstr "不想被监视吗？UpdraftPlus 高级可以加密您的数据库备份。"
+
+#: templates/wp-admin/settings/form-contents.php:356
+msgid "Do not verify SSL certificates"
+msgstr "不验证 SSL 证书"
+
+#: templates/wp-admin/settings/form-contents.php:361
+msgid "Disable SSL entirely where possible"
+msgstr "在可能的情况下完全禁用 SSL"
+
+#: class-updraftplus.php:3761
+msgid "Database only (files were not part of this particular schedule)"
+msgstr "仅数据库（文件不是这个特定日程表的一部分）"
+
+#: templates/wp-admin/settings/form-contents.php:158
+msgid "Database encryption phrase"
+msgstr "数据库加密短语"
+
+#: templates/wp-admin/settings/form-contents.php:153
+msgid "Database Options"
+msgstr "数据库选项"
+
+#: class-updraftplus.php:3761
+msgid "Database (files backup has not completed)"
+msgstr "数据库（文件备份尚未完成）"
+
+#: admin.php:4489
+msgid "Database (created by %s)"
+msgstr "数据库（由%s创建）"
+
+#: updraftplus.php:147
+msgid "Daily"
+msgstr "每天"
+
+#: templates/wp-admin/settings/form-contents.php:104
+msgid "Choose your remote storage"
+msgstr "选择远程存储"
+
+#: templates/wp-admin/settings/form-contents.php:321
+msgid "Check this to receive more information and emails on the backup process - useful if something is going wrong."
+msgstr "请检查此信息以接收有关备份过程的更多信息和电子邮件-如果出了问题, 则非常有用。"
+
+#: templates/wp-admin/settings/form-contents.php:331
+msgid "Check this to delete any superfluous backup files from your server after the backup run finishes (i.e. if you uncheck, then any files despatched remotely will also remain locally, and any files being kept locally will not be subject to the retention limits)."
+msgstr "在完成前点击此按钮来删除服务器上存在的多余备份（如果不处理，您发送到远程的文件将依然在本地存在，本地文件将会无限的保留）."
+
+#: templates/wp-admin/settings/form-contents.php:274
+msgid "Check this box to have a basic report sent to"
+msgstr "选中此复选框可将基本报告发送到"
+
+#: templates/wp-admin/settings/existing-backups-table.php:104
+msgid "Backup sent to remote site - not available for download."
+msgstr "备份发送到远程站点-不可下载。"
+
+#: templates/wp-admin/settings/form-contents.php:234
+msgid "Backup more databases"
+msgstr "备份更多数据库"
+
+#: admin.php:5199
+msgid "Backup does not exist in the backup history"
+msgstr "备份历史记录中不存在备份"
+
+#: admin.php:4178
+msgid "Backup directory specified is writable, which is good."
+msgstr "指定的备份目录是可写的，这很好。"
+
+#: admin.php:4184
+msgid "Backup directory specified exists, but is <b>not</b> writable."
+msgstr "指定的备份目录存在，但是<b>无法</b>写入。"
+
+#: admin.php:4182
+msgid "Backup directory specified does <b>not</b> exist."
+msgstr "指定的备份目录<b>不</b> 存在。"
+
+#: templates/wp-admin/settings/existing-backups-table.php:17
+#: templates/wp-admin/settings/existing-backups-table.php:67
+msgid "Backup date"
+msgstr "备份日期"
+
+#: templates/wp-admin/settings/existing-backups-table.php:18
+#: templates/wp-admin/settings/existing-backups-table.php:100
+msgid "Backup data (click to download)"
+msgstr "备份数据（点击下载）"
+
+#: admin.php:4529 includes/class-backup-history.php:534
+msgid "Backup created by: %s."
+msgstr "由%s创建的备份。"
+
+#: class-updraftplus.php:3851
+msgid "Backup contains:"
+msgstr "备份包含："
+
+#: class-updraftplus.php:3808
+msgid "Backed up: %s"
+msgstr "备份：%s"
+
+#: restorer.php:534
+msgid "Archive is expected to be size:"
+msgstr "档案预计是大小："
+
+#: admin.php:4270
+msgid "Any other directories found inside wp-content"
+msgstr "在wp-content里面找到的任何其他目录"
+
+#: admin.php:4611
+msgid "After pressing this button, you will be given the option to choose which components you wish to restore"
+msgstr "按下此按钮后，您将有权选择要恢复的组件。"
+
+#: admin.php:5235
+msgid "ABORT: Could not find the information on which entities to restore."
+msgstr "异常：无法找到要还原哪些实体的信息。"
+
+#: templates/wp-admin/settings/form-contents.php:345
+msgid "<b>Do not</b> place it inside your uploads or plugins directory, as that will cause recursion (backups of backups of backups of...)."
+msgstr "<b>不要</b>将其放在您的上传或插件目录中, 因为这会导致递归 （备份备份的备份...）。"
+
+#: admin.php:4608
+msgid "(backup set imported from remote location)"
+msgstr "（从远程位置导入的备份集）"
+
+#: admin.php:4581 admin.php:4583
+msgid "(Not finished)"
+msgstr "（没完成）"
+
+#: backup.php:290
+msgid "%s - could not back this entity up; the corresponding directory does not exist (%s)"
+msgstr "%s -无法备份；相关目录不存在 （%s）"
+
+#: templates/wp-admin/settings/form-contents.php:310
+msgid "open this to show some further options; don't bother with this unless you have a problem or are curious."
+msgstr "打开以显示其他选项； 除非您有问题或出于好奇，否则不用理会。"
+
+#: admin.php:2690 admin.php:2711 admin.php:2719 class-updraftplus.php:1251
+#: class-updraftplus.php:1257 class-updraftplus.php:5027
+#: class-updraftplus.php:5029 class-updraftplus.php:5210
+#: class-updraftplus.php:5287 methods/googledrive.php:581 methods/s3.php:370
+msgid "Error: %s"
+msgstr "错误：%s"
+
+#: templates/wp-admin/settings/header.php:15
+msgid "News"
+msgstr "新闻"
+
+#: templates/wp-admin/settings/take-backup.php:95
+msgid "Multisite"
+msgstr "多站点"
+
+#: templates/wp-admin/settings/delete-and-restore-modals.php:8
+msgid "Delete backup set"
+msgstr "删除备份集"
+
+#: templates/wp-admin/settings/delete-and-restore-modals.php:32
+msgid "Restore backup"
+msgstr "恢复备份"
+
+#: templates/wp-admin/settings/take-backup.php:47
+msgid "Time now"
+msgstr "现在时间"
+
+#: admin.php:3523
+msgid "Download most recently modified log file"
+msgstr "下载最近修改过的日志文件"
+
+#: includes/class-filesystem-functions.php:105
+#: templates/wp-admin/advanced/site-info.php:51
+msgid "refresh"
+msgstr "刷新"
+
+#: templates/wp-admin/settings/header.php:25
+msgid "Version"
+msgstr "版本"
+
+#: templates/wp-admin/settings/take-backup.php:6
+msgid "JavaScript warning"
+msgstr "JavaScript 警告"
+
+#: admin.php:431 admin.php:5848 templates/wp-admin/settings/take-backup.php:24
+msgid "Files"
+msgstr "文件"
+
+#: admin.php:2566
+msgid "Download failed"
+msgstr "下载失败"
+
+#: admin.php:2930
+msgid "Backup directory could not be created"
+msgstr "无法创建备份目录"
+
+#: templates/wp-admin/advanced/site-info.php:86
+msgid "zip executable found:"
+msgstr "发现了可执行的 zip："
+
+#: admin.php:3752
+msgid "table: %s"
+msgstr "表：%s"
+
+#: templates/wp-admin/advanced/site-info.php:58
+msgid "show PHP information (phpinfo)"
+msgstr "查看PHP信息（phpinfo）"
+
+#: templates/wp-admin/advanced/total-size.php:19
+msgid "count"
+msgstr "计数"
+
+#: templates/wp-admin/settings/delete-and-restore-modals.php:60
+msgid "Your web server has PHP's so-called safe_mode active."
+msgstr "您的web服务器开启了PHP的safe_mode."
+
+#: admin.php:5742
+msgid "Your settings have been wiped."
+msgstr "您的设置已经被擦除了."
+
+#: admin.php:2980
+msgid "Your backup has been restored."
+msgstr "您的备份已经被存储。"
+
+#: templates/wp-admin/settings/delete-and-restore-modals.php:75
+msgid "You will need to restore it manually."
+msgstr "您需要手动恢复。"
+
+#: admin.php:2653
+msgid "You will find more information about this in the Settings section."
+msgstr "您将在 \"设置\" 部分找到有关此问题的详细信息。"
+
+#: templates/wp-admin/advanced/site-info.php:76
+#: templates/wp-admin/advanced/site-info.php:79
+#: templates/wp-admin/advanced/site-info.php:82
+#: templates/wp-admin/advanced/site-info.php:86
+#: templates/wp-admin/settings/tab-addons.php:79
+#: templates/wp-admin/settings/tab-addons.php:92
+#: templates/wp-admin/settings/tab-addons.php:95
+#: templates/wp-admin/settings/tab-addons.php:108
+#: templates/wp-admin/settings/tab-addons.php:121
+#: templates/wp-admin/settings/tab-addons.php:134
+#: templates/wp-admin/settings/tab-addons.php:147
+#: templates/wp-admin/settings/tab-addons.php:160
+#: templates/wp-admin/settings/tab-addons.php:173
+#: templates/wp-admin/settings/tab-addons.php:186
+#: templates/wp-admin/settings/tab-addons.php:199
+#: templates/wp-admin/settings/tab-addons.php:212
+#: templates/wp-admin/settings/tab-addons.php:225
+#: templates/wp-admin/settings/tab-addons.php:238
+#: templates/wp-admin/settings/tab-addons.php:251
+#: templates/wp-admin/settings/tab-addons.php:264
+#: templates/wp-admin/settings/tab-addons.php:277
+#: templates/wp-admin/settings/tab-addons.php:290
+#: templates/wp-admin/settings/tab-addons.php:307
+#: templates/wp-admin/settings/tab-addons.php:313
+msgid "Yes"
+msgstr "是"
+
+#: templates/wp-admin/advanced/tools-menu.php:36
+#: templates/wp-admin/advanced/wipe-settings.php:5
+#: templates/wp-admin/advanced/wipe-settings.php:10
+msgid "Wipe settings"
+msgstr "抹除设置"
+
+#: includes/class-filesystem-functions.php:126
+#: templates/wp-admin/advanced/site-info.php:51
+msgid "Web-server disk space in use by UpdraftPlus"
+msgstr "UpdraftPlus 正在使用的 web 服务器磁盘空间"
+
+#: templates/wp-admin/advanced/site-info.php:35
+msgid "Web server:"
+msgstr "Web 服务器："
+
+#: admin.php:1077 admin.php:2958 class-updraftplus.php:5214 restorer.php:3819
+msgid "Warning:"
+msgstr "警告："
+
+#: admin.php:3721
+msgid "Waiting until scheduled time to retry because of errors"
+msgstr "由于错误而等待预定时间重试"
+
+#: admin.php:3704
+msgid "Uploading files to remote storage"
+msgstr "将文件上传到远程存储"
+
+#: templates/wp-admin/settings/downloading-and-restoring.php:79
+msgctxt "Uploader: Drop backup files here - or - Select Files"
+msgid "or"
+msgstr "或"
+
+#: templates/wp-admin/settings/downloading-and-restoring.php:69
+#: templates/wp-admin/settings/tab-backups.php:71
+msgid "Upload files into UpdraftPlus."
+msgstr "将文件上传到 UpdraftPlus。"
+
+#: templates/wp-admin/settings/downloading-and-restoring.php:51
+#: templates/wp-admin/settings/tab-backups.php:55
+msgid "Upload backup files"
+msgstr "上传备份文件"
+
+#: templates/wp-admin/settings/downloading-and-restoring.php:68
+#: templates/wp-admin/settings/tab-backups.php:70
+msgid "UpdraftPlus - Upload backup files"
+msgstr "UpdraftPlus -上传备份文件"
+
+#: templates/wp-admin/advanced/advanced-tools.php:6
+msgid "Unless you have a problem, you can completely ignore everything here."
+msgstr "除非您有问题, 否则您可以完全忽略这里的一切。"
+
+#: includes/updraftplus-notices.php:143 includes/updraftplus-notices.php:146
+#: templates/wp-admin/settings/header.php:16
+msgid "Twitter"
+msgstr "Twitter"
+
+#: templates/wp-admin/advanced/total-size.php:6
+msgid "Total (uncompressed) on-disk data:"
+msgstr "磁盘数据总量（未压缩的）:"
+
+#: templates/wp-admin/advanced/wipe-settings.php:10
+msgid "This will delete all your UpdraftPlus settings - are you sure you want to do this?"
+msgstr "这将删除您的所有 UpdraftPlus 设置-您确定要这样做吗？"
+
+#: includes/class-filesystem-functions.php:126
+msgid "This is a count of the contents of your Updraft directory"
+msgstr "这是您的 Updraft 目录的内容的计数"
+
+#: admin.php:2690
+msgid "This file could not be uploaded"
+msgstr "无法上传此文件"
+
+#: templates/wp-admin/settings/downloading-and-restoring.php:72
+#: templates/wp-admin/settings/form-contents.php:183
+#: templates/wp-admin/settings/tab-backups.php:74
+msgid "This feature requires %s version %s or later"
+msgstr "此功能需要 %s 版本 %s 或更高版本"
+
+#: admin.php:5587 templates/wp-admin/settings/take-backup.php:52
+msgid "This button is disabled because your backup directory is not writable (see the settings)."
+msgstr "此按钮被禁用, 因为您的备份目录不可写 （请参阅设置）。"
+
+#: admin.php:2705
+msgid "This backup was created by %s, and can be imported."
+msgstr "此备份由 %s 创建，可以导入。"
+
+#: admin.php:2515 admin.php:2519 class-updraftplus.php:757
+msgid "The log file could not be read."
+msgstr "无法读取日志文件."
+
+#: templates/wp-admin/settings/downloading-and-restoring.php:55
+#: templates/wp-admin/settings/tab-backups.php:59
+msgid "The location of this directory is set in the expert settings, in the Settings tab."
+msgstr "此目录的位置在专家设置中的 \"设置\" 选项卡中设置。"
+
+#: templates/wp-admin/settings/delete-and-restore-modals.php:75
+msgid "The following entity cannot be restored automatically: \"%s\"."
+msgstr "无法自动还原以下实体: \" %s\"。"
+
+#: admin.php:1334 includes/class-commands.php:505
+#: templates/wp-admin/settings/take-backup.php:13
+msgid "The 'Backup Now' button is disabled as your backup directory is not writable (go to the 'Settings' tab and find the relevant option)."
+msgstr "\"立即备份\" 按钮被禁用, 因为您的备份目录不可写 （转到 \"设置\" 选项卡并找到相关选项）。"
+
+#: includes/updraftplus-notices.php:36
+#: templates/wp-admin/settings/header.php:17
+#: templates/wp-admin/settings/tab-addons.php:28
+#: templates/wp-admin/settings/tab-addons.php:139
+msgid "Support"
+msgstr "支持"
+
+#: templates/wp-admin/advanced/site-info.php:120
+msgid "Show raw backup and file list"
+msgstr "显示原始备份和文件列表"
+
+#: admin.php:5486
+msgid "Send this backup to remote storage"
+msgstr "将此备份发送到远程存储"
+
+#: templates/wp-admin/settings/downloading-and-restoring.php:80
+#: templates/wp-admin/settings/form-contents.php:192
+#: templates/wp-admin/settings/tab-backups.php:82
+msgid "Select Files"
+msgstr "选择文件"
+
+#: admin.php:2939 admin.php:3865 admin.php:5022 admin.php:5034 admin.php:5045
+#: admin.php:5283 admin.php:6242 admin.php:6253
+msgid "Return to UpdraftPlus configuration"
+msgstr "返回到 UpdraftPlus 配置"
+
+#: templates/wp-admin/settings/delete-and-restore-modals.php:36
+msgid "Retrieving (if necessary) and preparing backup files..."
+msgstr "正在检索 （如有必要） 并准备备份文件..."
+
+#: templates/wp-admin/settings/delete-and-restore-modals.php:44
+msgid "Restoring will replace this site's themes, plugins, uploads, database and/or other content directories (according to what is contained in the backup set, and your selection)."
+msgstr "恢复将会覆盖本站点的主题，插件，上传，数据库，和/或者其他内容（根据您在备份集中的选择）."
+
+#: templates/wp-admin/advanced/site-info.php:120
+#: templates/wp-admin/settings/downloading-and-restoring.php:56
+#: templates/wp-admin/settings/tab-backups.php:60
+msgid "Rescan remote storage"
+msgstr "重新扫描远程存储"
+
+#: templates/wp-admin/settings/downloading-and-restoring.php:55
+#: templates/wp-admin/settings/tab-backups.php:59
+msgid "Rescan local folder for new backup sets"
+msgstr "重新扫描新备份集的本地文件夹"
+
+#: admin.php:3717
+msgid "Pruning old backup sets"
+msgstr "修剪旧备份集"
+
+#: templates/wp-admin/settings/downloading-and-restoring.php:55
+#: templates/wp-admin/settings/tab-backups.php:59
+msgid "Press here to look inside your UpdraftPlus directory (in your web hosting space) for any new backup sets that you have uploaded."
+msgstr "按此处查看您的 UpdraftPlus 目录 （在您的 web 托管空间中） 中是否有您上传的任何新备份集。"
+
+#: templates/wp-admin/settings/header.php:11
+#: templates/wp-admin/settings/tab-addons.php:73
+msgid "Premium"
+msgstr "高级版"
+
+#: templates/wp-admin/settings/tab-addons.php:26
+msgid "Pre-sales FAQs"
+msgstr "售前常见问题"
+
+#: templates/wp-admin/settings/existing-backups-table.php:173
+msgid "Please allow time for the communications with the remote storage to complete."
+msgstr "请留出时间完成与远程存储的通信。"
+
+#: templates/wp-admin/advanced/site-info.php:55
+msgid "Peak memory usage"
+msgstr "峰值内存使用率"
+
+#: templates/wp-admin/settings/downloading-and-restoring.php:69
+#: templates/wp-admin/settings/tab-backups.php:71
+msgid "Or, you can place them manually into your UpdraftPlus directory (usually wp-content/updraft), e.g. via FTP, and then use the \"rescan\" link above."
+msgstr "或者，您可以手动将他们放入您的UpdraftPlus目录（通常在wp-content/updraft），如，通过FTP。完成后，使用下面的\"rescan\"链接."
+
+#: templates/wp-admin/settings/downloading-and-restoring.php:59
+#: templates/wp-admin/settings/tab-backups.php:63
+msgid "Opera web browser"
+msgstr "Opera web 浏览器"
+
+#: admin.php:400 admin.php:421 admin.php:428 admin.php:471 admin.php:502
+msgid "Nothing currently scheduled"
+msgstr "目前没有安排"
+
+#: admin.php:2599
+msgid "No local copy present."
+msgstr "不存在本地副本。"
+
+#: templates/wp-admin/advanced/site-info.php:76
+#: templates/wp-admin/advanced/site-info.php:82
+#: templates/wp-admin/advanced/site-info.php:86
+#: templates/wp-admin/settings/tab-addons.php:105
+#: templates/wp-admin/settings/tab-addons.php:118
+#: templates/wp-admin/settings/tab-addons.php:131
+#: templates/wp-admin/settings/tab-addons.php:144
+#: templates/wp-admin/settings/tab-addons.php:157
+#: templates/wp-admin/settings/tab-addons.php:170
+#: templates/wp-admin/settings/tab-addons.php:183
+#: templates/wp-admin/settings/tab-addons.php:196
+#: templates/wp-admin/settings/tab-addons.php:209
+#: templates/wp-admin/settings/tab-addons.php:222
+#: templates/wp-admin/settings/tab-addons.php:235
+#: templates/wp-admin/settings/tab-addons.php:248
+#: templates/wp-admin/settings/tab-addons.php:261
+#: templates/wp-admin/settings/tab-addons.php:274
+#: templates/wp-admin/settings/tab-addons.php:287
+#: templates/wp-admin/settings/tab-addons.php:304
+msgid "No"
+msgstr "否"
+
+#: templates/wp-admin/settings/take-backup.php:19
+msgid "Next scheduled backups"
+msgstr "下一个计划的备份"
+
+#: templates/wp-admin/settings/header.php:21
+msgid "Newsletter sign-up"
+msgstr "通讯注册"
+
+#: templates/wp-admin/advanced/total-size.php:9
+msgid "N.B. This count is based upon what was, or was not, excluded the last time you saved the options."
+msgstr "注： 此计数基于上次保存选项时排除或未排除的内容。"
+
+#: templates/wp-admin/settings/downloading-and-restoring.php:47
+#: templates/wp-admin/settings/tab-backups.php:51
+msgid "More tasks:"
+msgstr "更多任务："
+
+#: templates/wp-admin/settings/header.php:25
+msgid "More plugins"
+msgstr "更多插件"
+
+#: admin.php:1902
+msgid "Messages:"
+msgstr "消息："
+
+#: templates/wp-admin/advanced/site-info.php:57
+msgid "Memory limit"
+msgstr "内存限制"
+
+#: templates/wp-admin/settings/header.php:25
+msgid "Lead developer's homepage"
+msgstr "首席开发者主页"
+
+#: admin.php:3496
+msgid "Latest UpdraftPlus.com news:"
+msgstr "最近的 UpdraftPlus.com 新闻："
+
+#: admin.php:3479 admin.php:3485 templates/wp-admin/settings/take-backup.php:72
+msgid "Last log message"
+msgstr "最后一条日志消息"
+
+#: templates/wp-admin/settings/backupnow-modal.php:26
+msgid "Include your database in the backup"
+msgstr "在备份中包括数据库"
+
+#: admin.php:2958
+msgid "If you can still read these words after the page finishes loading, then there is a JavaScript or jQuery problem in the site."
+msgstr "如果您仍然可以在页面加载完成后读取这些单词, 则网站中存在 JavaScript 或 jQuery 问题。"
+
+#: templates/wp-admin/settings/downloading-and-restoring.php:59
+#: templates/wp-admin/settings/tab-backups.php:63
+msgid "If you are using this, then turn Turbo/Road mode off."
+msgstr "如果您正使用这个，请关闭 Turbo/Road 模式."
+
+#: templates/wp-admin/settings/tab-addons.php:25
+msgid "Full feature list"
+msgstr "完整功能列表"
+
+#: templates/wp-admin/advanced/site-info.php:90
+msgid "Free disk space in account:"
+msgstr "帐户中的可用磁盘空间："
+
+#: templates/wp-admin/advanced/lock-admin.php:19
+msgid "For the ability to lock access to UpdraftPlus settings with a password, upgrade to UpdraftPlus Premium."
+msgstr "要能够使用密码锁定对 UpdraftPlus 设置的访问, 请升级到 UpdraftPlus 高级版。"
+
+#: admin.php:2978
+msgid "For even more features and personal support, check out "
+msgstr "对于更多的功能和个人支持，请查看 "
+
+#: templates/wp-admin/advanced/site-info.php:114
+msgid "Fetch"
+msgstr "获取"
+
+#: admin.php:2507
+msgid "Error: unexpected file read fail"
+msgstr "错误：意外文件读取失败"
+
+#: admin.php:3765
+msgid "Encrypting database"
+msgstr "加密数据库"
+
+#: admin.php:3773
+msgid "Encrypted database"
+msgstr "加密数据库"
+
+#: templates/wp-admin/settings/downloading-and-restoring.php:78
+msgid "Drop backup files here"
+msgstr "在此处删除备份文件"
+
+#: admin.php:2596
+msgid "Download in progress"
+msgstr "下载进度"
+
+#: templates/wp-admin/settings/migrator-no-migrator.php:9
+msgid "Do you want to migrate or clone/duplicate a site?"
+msgstr "是否要迁移或复制站点？"
+
+#: templates/wp-admin/settings/take-backup.php:99
+msgid "Do you need WordPress Multisite support?"
+msgstr "您是否需要 WordPress 多站点支持？"
+
+#: templates/wp-admin/settings/delete-and-restore-modals.php:45
+msgid "Do read this helpful article of useful things to know before restoring."
+msgstr "还原前，请先阅读该文档获取相关信息."
+
+#: templates/wp-admin/advanced/site-info.php:56
+msgid "Current memory usage"
+msgstr "当前内存使用率"
+
+#: admin.php:3018
+msgid "Current limit is:"
+msgstr "当前限制为:"
+
+#: admin.php:3681
+msgid "Creating file backup zips"
+msgstr "创建文件备份链"
+
+#: admin.php:3750
+msgid "Creating database backup"
+msgstr "创建数据库备份"
+
+#: admin.php:3694
+msgid "Created file backup zips"
+msgstr "创建文件备份拉链"
+
+#: admin.php:3739
+msgid "Created database backup"
+msgstr "创建数据库备份"
+
+#: admin.php:2310
+msgid "Could not find that job - perhaps it has already finished?"
+msgstr "无法找到那份任务 - 也许它已经完成了？"
+
+#: templates/wp-admin/settings/delete-and-restore-modals.php:44
+msgid "Choose the components to restore"
+msgstr "选择要还原的组件"
+
+#: templates/wp-admin/advanced/site-info.php:116
+msgid "Call"
+msgstr "调用"
+
+#: admin.php:2822
+msgid "Bad filename format - this does not look like an encrypted database file created by UpdraftPlus"
+msgstr "错误的文件名格式-这看起来不像是由 UpdraftPlus 创建的加密数据库文件"
+
+#: admin.php:2711
+msgid "Bad filename format - this does not look like a file created by UpdraftPlus"
+msgstr "错误的文件名格式-这看起来不像是 UpdraftPlus 创建的文件"
+
+#: templates/wp-admin/settings/tab-addons.php:165
+#: templates/wp-admin/settings/tab-addons.php:166
+msgid "Backup non-WordPress files and databases"
+msgstr "备份非 WordPress 文件和数据库"
+
+#: admin.php:3726
+msgid "Backup finished"
+msgstr "备份完成"
+
+#: admin.php:2937
+msgid "Backup directory successfully created."
+msgstr "备份目录创建成功."
+
+#: admin.php:2653 backup.php:1392
+msgid "Backup directory (%s) is not writable, or does not exist."
+msgstr "备份目录 （ %s） 不可写, 或不存在。"
+
+#: admin.php:3676
+msgid "Backup begun"
+msgstr "备份开始"
+
+#: admin.php:410
+msgid "At the same time as the files backup"
+msgstr "同时作为文件备份"
+
+#: templates/wp-admin/settings/tab-addons.php:27
+msgid "Ask a pre-sales question"
+msgstr "售前咨询"
+
+#: templates/wp-admin/settings/delete-and-restore-modals.php:23
+msgid "Also delete from remote storage"
+msgstr "同时从远程存储中删除"
+
+#: admin.php:909 admin.php:2939 admin.php:3865 admin.php:5022 admin.php:5034
+#: admin.php:5045 templates/wp-admin/settings/existing-backups-table.php:19
+#: templates/wp-admin/settings/existing-backups-table.php:142
+msgid "Actions"
+msgstr "操作"
+
+#: central/translations-central.php:17
+msgid "(Nothing yet logged)"
+msgstr "（还没有日志信息）"
+
+#: admin.php:6062 admin.php:6066 templates/wp-admin/advanced/site-info.php:58
+#: templates/wp-admin/advanced/site-info.php:64
+#: templates/wp-admin/advanced/site-info.php:74
+#: templates/wp-admin/advanced/site-info.php:75
+msgid "%s version:"
+msgstr "%s 版本:"
+
+#: templates/wp-admin/settings/delete-and-restore-modals.php:82
+msgid "%s restoration options:"
+msgstr "%s 还原选项:"
+
+#: templates/wp-admin/advanced/site-info.php:90
+msgid "%s (%s used)"
+msgstr "%s（%s 已使用）"
+
+#: admin.php:920
+msgid "(make sure that you were trying to upload a zip file previously created by UpdraftPlus)"
+msgstr "（请确认您上传了由UpdraftPlus备份出的zip文件）"
+
+#: admin.php:911
+msgid "Download to your computer"
+msgstr "下载到您的计算机"
+
+#: admin.php:900
+msgid "Warnings:"
+msgstr "警告："
+
+#: admin.php:5841
+msgid "Known backups (raw)"
+msgstr "已知备份（原始文件）"
+
+#: admin.php:939 admin.php:1131 central/translations-central.php:16
+#: includes/updraftplus-tour.php:97
+msgid "Close"
+msgstr "关闭"
+
+#: admin.php:901 includes/migrator-lite.php:924
+msgid "Errors:"
+msgstr "错误："
+
+#: admin.php:932 admin.php:3895 admin.php:3929 admin.php:4696
+#: includes/class-remote-send.php:696
+#: templates/wp-admin/settings/existing-backups-table.php:167
+#: templates/wp-admin/settings/file-backup-exclude.php:11
+msgid "Delete"
+msgstr "删除"
+
+#: admin.php:941 admin.php:4137
+msgid "Download log file"
+msgstr "下载日志文件"
+
+#: admin.php:99 admin.php:904 includes/class-remote-send.php:359
+#: includes/class-remote-send.php:405 includes/class-remote-send.php:411
+#: includes/class-remote-send.php:480 includes/class-remote-send.php:538
+#: includes/class-remote-send.php:565 includes/class-remote-send.php:593
+#: includes/class-remote-send.php:603 includes/class-remote-send.php:608
+#: includes/class-remote-send.php:620 includes/class-search-replace.php:333
+#: includes/class-search-replace.php:519 includes/migrator-lite.php:502
+#: includes/migrator-lite.php:812 includes/migrator-lite.php:890
+#: methods/remotesend.php:74 methods/remotesend.php:252
+#: methods/updraftvault.php:720 restorer.php:539 restorer.php:567
+#: restorer.php:2329 restorer.php:4366
+msgid "Error:"
+msgstr "错误："
+
+#: admin.php:916
+msgid "Delete Old Directories"
+msgstr "删除旧目录"
+
+#: admin.php:441 admin.php:4436 admin.php:4489 admin.php:5096
+#: includes/class-remote-send.php:445 includes/class-wpadmin-commands.php:154
+#: includes/class-wpadmin-commands.php:629 restorer.php:677
+#: templates/wp-admin/settings/delete-and-restore-modals.php:81
+#: templates/wp-admin/settings/delete-and-restore-modals.php:82
+#: templates/wp-admin/settings/take-backup.php:34
+msgid "Database"
+msgstr "数据库"
+
+#: admin.php:2303
+msgid "Job deleted"
+msgstr "删除任务"
+
+#: admin.php:905 class-updraftplus.php:1591 class-updraftplus.php:1635
+#: includes/class-filesystem-functions.php:437
+#: includes/class-storage-methods-interface.php:338
+#: methods/addon-base-v2.php:100 methods/addon-base-v2.php:105
+#: methods/addon-base-v2.php:239 methods/addon-base-v2.php:259
+#: methods/googledrive.php:1402 restorer.php:4181 restorer.php:4206
+#: restorer.php:4323 updraftplus.php:227
+msgid "Error"
+msgstr "错误"
+
+#: admin.php:749 admin.php:1265 admin.php:3180
+msgid "Settings"
+msgstr "设置"
+
+#: admin.php:1343 admin.php:1348 admin.php:1354 admin.php:1358 admin.php:1362
+#: admin.php:1366 admin.php:1384 admin.php:1397 admin.php:4368 admin.php:4375
+#: admin.php:4377 admin.php:6032 admin.php:6312 includes/migrator-lite.php:556
+#: methods/cloudfiles-new.php:281 methods/cloudfiles-new.php:282
+#: methods/cloudfiles.php:455 methods/dreamobjects.php:181
+#: methods/dreamobjects.php:182 methods/ftp.php:116
+#: methods/openstack-base.php:577 methods/openstack2.php:242 methods/s3.php:926
+#: methods/s3.php:930 methods/s3.php:1080 methods/s3.php:1081
+#: methods/s3generic.php:189 methods/s3generic.php:190
+#: methods/updraftvault.php:476
+#: templates/wp-admin/settings/downloading-and-restoring.php:27
+#: templates/wp-admin/settings/tab-backups.php:27
+msgid "Warning"
+msgstr "警告"
+
+#: templates/wp-admin/notices/thanks-for-using-main-dash.php:29
+msgid "More quality plugins"
+msgstr "更多优质插件"
+
+#: admin.php:933 central/translations-central.php:58
+msgid "Create"
+msgstr "创建"
+
+#: admin.php:893
+msgid "Trying..."
+msgstr "正在尝试..."
+
+#: admin.php:959
+msgid "key name"
+msgstr "密钥名称"
+
+#: admin.php:895
+msgid "calculating..."
+msgstr "计算..."
+
+#: admin.php:1362
+msgid "Your website is hosted using the %s web server."
+msgstr "您的网站放在 %s 点服务器上."
+
+#: includes/class-wpadmin-commands.php:134
+msgid "You should make sure that this really is a backup set intended for use on this website, before you restore (rather than a backup set of an unrelated website)."
+msgstr "在还原之前, 您应该确保这确实是要在本网站上使用的备份集 （而不是不相关网站的备份集）。"
+
+#: admin.php:956 includes/class-remote-send.php:411
+msgid "You should check that the remote site is online, not firewalled, does not have security modules that may be blocking access, has UpdraftPlus version %s or later active and that the keys have been entered correctly."
+msgstr "您应该检查远程站点是否在线，而不是防火墙，没有可能阻止访问的安全模块，UpdraftPlus版本 %s 或更高版本已激活，并且密钥已输入正确。"
+
+#: admin.php:943 admin.php:969 admin.php:970
+msgid "You have made changes to your settings, and not saved."
+msgstr "您已对设置进行了更改, 但未保存。"
+
+#: admin.php:1339
+msgid "Welcome to UpdraftPlus!"
+msgstr "欢迎使用 UpdraftPlus！"
+
+#: admin.php:921
+msgid "Upload error:"
+msgstr "上传错误:"
+
+#: admin.php:923
+msgid "Upload error"
+msgstr "上传错误"
+
+#: admin.php:1424 admin.php:1445 admin.php:1483 class-updraftplus.php:685
+#: class-updraftplus.php:757 class-updraftplus.php:762
+#: class-updraftplus.php:767
+msgid "UpdraftPlus notice:"
+msgstr "UpdraftPlus 通知:"
+
+#: templates/wp-admin/notices/thanks-for-using-main-dash.php:12
+#: templates/wp-admin/settings/tab-addons.php:72
+msgid "UpdraftPlus Premium"
+msgstr "UpdraftPlus 高级版"
+
+#: admin.php:950
+msgid "Update quota count"
+msgstr "更新配额计数"
+
+#: admin.php:1290
+msgid "Update Theme"
+msgstr "更新主题"
+
+#: admin.php:1286
+msgid "Update Plugin"
+msgstr "更新插件"
+
+#: admin.php:926
+msgid "Unknown server response:"
+msgstr "未知的服务器响应："
+
+#: admin.php:927
+msgid "Unknown server response status:"
+msgstr "未知的服务器响应状态："
+
+#: admin.php:890 central/translations-central.php:85 methods/remotesend.php:69
+#: methods/remotesend.php:77 methods/remotesend.php:239
+#: methods/remotesend.php:255
+msgid "Unexpected response:"
+msgstr "意外的响应："
+
+#: admin.php:884
+msgid "To send to more than one address, separate each address with a comma."
+msgstr "若要发送到多个地址, 请用逗号分隔每个地址。"
+
+#: admin.php:1339
+msgid "To make a backup, just press the Backup Now button."
+msgstr "要进行备份, 只需按 \"立即备份\" 按钮。"
+
+#: admin.php:1339
+msgid "To change any of the default settings of what is backed up, to configure scheduled backups, to send your backups to remote storage (recommended), and more, go to the settings tab."
+msgstr "若要更改备份内容的任何默认设置、配置计划备份、将备份发送到远程存储 （推荐） 等, 请转到 \"设置\" 选项卡。"
+
+#: includes/class-wpadmin-commands.php:205
+msgid "This multi-archive backup set appears to have the following archives missing: %s"
+msgstr "此多存档备份集似乎缺少以下存档: %s"
+
+#: includes/class-backup-history.php:541
+msgid "This file does not appear to be an UpdraftPlus backup archive (such files are .zip or .gz files which have a name like: backup_(time)_(site name)_(code)_(type).(zip|gz))."
+msgstr "此文件似乎不是UpdraftPlus备份存档（这样的文件是.zip或.gz文件，其名称如: backup_（time）_（site name）_（code）_（type）.（zip|gz））."
+
+#: admin.php:925
+msgid "This decryption key will be attempted:"
+msgstr "将尝试此解密密钥："
+
+#: includes/class-wpadmin-commands.php:134
+msgid "This backup set was not known by UpdraftPlus to be created by the current WordPress installation, but was either found in remote storage, or was sent from a remote site."
+msgstr "UpdraftPlus 不知道此备份集是由当前 WordPress 安装创建的, 但不是在远程存储中找到的, 就是从远程站点发送的备份集。"
+
+#: admin.php:891
+msgid "The web server returned an error code (try again, or check your web server logs)"
+msgstr "Web服务器返回错误代码（重试，或检查您的Web服务器日志）"
+
+#: admin.php:892
+msgid "The new user's RackSpace console password is (this will not be shown again):"
+msgstr "新用户的RackSpace控制台密码是（这不会再显示）:"
+
+#: admin.php:928
+msgid "The file was uploaded."
+msgstr "文件上传成功."
+
+#: admin.php:1343 class-updraftplus.php:1051
+msgid "The amount of time allowed for WordPress plugins to run is very low (%s seconds) - you should increase it to avoid backup failures due to time-outs (consult your web hosting company for more help - it is the max_execution_time PHP setting; the recommended value is %s seconds or more)"
+msgstr "允许WordPress插件运行的时间非常低（%s 秒） - 您应该增加它以避免由于超时而导致的备份故障（请咨询您的虚拟主机公司获取更多帮助 - 这是max_execution_time PHP设置;推荐值为 %s 秒以上）"
+
+#: admin.php:963 includes/class-remote-send.php:441
+msgid "Testing connection..."
+msgstr "测试连接中..."
+
+#: admin.php:2426 admin.php:2449 includes/class-commands.php:992
+msgid "Start backup"
+msgstr "开始备份"
+
+#: admin.php:897
+msgid "Some files are still downloading or being processed - please wait."
+msgstr "某些文件仍在下载或正在处理中-请稍候。"
+
+#: admin.php:955 includes/class-remote-send.php:656
+msgid "Send to site:"
+msgstr "发送到网站:"
+
+#: admin.php:878
+msgid "Send a report only when there are warnings/errors"
+msgstr "仅在出现警告/错误时发送报告"
+
+#: admin.php:964 includes/class-commands.php:964
+#: includes/class-remote-send.php:476 includes/class-remote-send.php:662
+msgid "Send"
+msgstr "发送"
+
+#: admin.php:733 admin.php:940 admin.php:4611
+msgid "Restore"
+msgstr "恢复"
+
+#: admin.php:883
+msgid "Rescanning remote and local storage for backup sets..."
+msgstr "重新扫描用于备份集的远程和本地存储..."
+
+#: admin.php:881
+msgid "Rescanning (looking for backups that you have uploaded manually into the internal backup store)..."
+msgstr "重新扫描（查找您手动上传到内部备份库的备份文件）..."
+
+#: admin.php:914
+msgid "Requesting start of backup..."
+msgstr "请求开始备份..."
+
+#: admin.php:1397
+msgid "Read this page for a guide to possible causes and how to fix it."
+msgstr "阅读此页面以获取可能原因及其解决方法的指南。"
+
+#: admin.php:917
+msgid "Raw backup history"
+msgstr "原始备份历史记录"
+
+#: admin.php:898
+msgid "Processing files - please wait..."
+msgstr "处理文件-请稍候..."
+
+#: admin.php:938
+msgid "Proceed with update"
+msgstr "继续更新"
+
+#: templates/wp-admin/notices/thanks-for-using-main-dash.php:30
+msgid "Premium WooCommerce plugins"
+msgstr "高级版 WooCommerce 插件"
+
+#: admin.php:957
+msgid "Please give this key a name (e.g. indicate the site it is for):"
+msgstr "请给这个key一个名字 （例如, 表明它是为网站）:"
+
+#: admin.php:1362
+msgid "Please consult this FAQ if you have problems backing up."
+msgstr "如果您有备份方面的问题，请查看此FAQ."
+
+#: admin.php:915
+msgid "PHP information"
+msgstr "PHP 信息"
+
+#: admin.php:5876
+msgid "Options (raw)"
+msgstr "选项（原）"
+
+#: includes/class-wpadmin-commands.php:146
+msgid "Only the WordPress database can be restored; you will need to deal with the external database manually."
+msgstr "只能恢复WordPress数据库; 您需要手动处理外部数据库。"
+
+#: admin.php:1370 admin.php:1452
+msgid "Notice"
+msgstr "通知"
+
+#: admin.php:986
+msgid "Nothing yet logged"
+msgstr "还没有记录"
+
+#: includes/class-wpadmin-commands.php:111
+msgid "No such backup set exists"
+msgstr "没有这样的备份集"
+
+#: admin.php:958 templates/wp-admin/settings/temporary-clone.php:68
+msgid "Key"
+msgstr "密钥"
+
+#: admin.php:885
+msgid "If you exclude both the database and the files, then you have excluded everything!"
+msgstr "如果同时排除数据库和文件, 则排除了所有内容!"
+
+#: admin.php:919 includes/class-backup-history.php:541
+msgid "If this is a backup created by a different backup plugin, then UpdraftPlus Premium may be able to help you."
+msgstr "如果这是由不同的备份插件创建的备份, 那么 UpdraftPlus 高级版可能能够帮助您。"
+
+#: admin.php:918
+msgid "However, UpdraftPlus archives are standard zip/SQL files - so if you are sure that your file has the right format, then you can rename it to match that pattern."
+msgstr "但是, UpdraftPlus 存档是标准的 zip/SQL 文件, 因此, 如果您确定您的文件具有正确的格式, 则可以将其重命名以匹配该模式。"
+
+#: templates/wp-admin/notices/thanks-for-using-main-dash.php:13
+msgid "Go to the shop."
+msgstr "去商店。"
+
+#: admin.php:1424
+msgid "Go to the remote storage settings in order to connect."
+msgstr "转到远程存储设置以进行连接。"
+
+#: admin.php:1348 admin.php:1366 admin.php:2963 admin.php:5078 backup.php:4420
+#: class-updraftplus.php:5312 templates/wp-admin/advanced/db-size.php:19
+#: updraftplus.php:227
+msgid "Go here for more information."
+msgstr "去帮助里获取更多信息."
+
+#: templates/wp-admin/notices/thanks-for-using-main-dash.php:30
+msgid "Free two-factor security plugin"
+msgstr "免费的两步验证插件"
+
+#: templates/wp-admin/notices/thanks-for-using-main-dash.php:26
+msgid "Free Newsletter"
+msgstr "免费通讯"
+
+#: templates/wp-admin/notices/thanks-for-using-main-dash.php:12
+msgid "For personal support, the ability to copy sites, more storage destinations, encrypted backups for security, multiple backup destinations, better reporting, no adverts and plenty more, take a look at the premium version of UpdraftPlus - the world's most popular backup plugin."
+msgstr "对于个人支持，复制网站，更多存储目的地，加密备份以确保安全性，多个备份目的地，更好的报告，没有广告等等的能力，请看一下高级版的UpdraftPlus—世界上最受欢迎的备份插件。"
+
+#: admin.php:924
+msgid "Follow this link to attempt decryption and download the database file to your computer."
+msgstr "按照此链接尝试解密并将数据库文件下载到您的计算机。"
+
+#: includes/class-wpadmin-commands.php:185
+msgid "File was found, but is zero-sized (you need to re-upload it): %s"
+msgstr "找到了文件，但是它是零大小的（您需要重新上传它）: %s"
+
+#: admin.php:907 admin.php:2585
+msgid "File ready."
+msgstr "文件已准备好."
+
+#: includes/class-wpadmin-commands.php:183
+msgid "File not found (you need to upload it): %s"
+msgstr "找不到文件（您需要上传）: %s"
+
+#: includes/class-wpadmin-commands.php:190
+msgid "File (%s) was found, but has a different size (%s) from what was expected (%s) - it may be corrupt."
+msgstr "找到文件 （%s），但与预期的大小 （%s）不同 （%s） - 它可能已损坏。"
+
+#: admin.php:959 includes/class-remote-send.php:580
+#: includes/migrator-lite.php:130 methods/addon-base-v2.php:336
+#: methods/cloudfiles-new.php:166 methods/cloudfiles-new.php:171
+#: methods/cloudfiles.php:534 methods/cloudfiles.php:539 methods/ftp.php:438
+#: methods/ftp.php:442 methods/openstack2.php:115 methods/openstack2.php:120
+#: methods/openstack2.php:125 methods/openstack2.php:130 methods/s3.php:1366
+#: methods/s3.php:1370
+msgid "Failure: No %s was given."
+msgstr "失败：未给出%s。"
+
+#: admin.php:902
+msgid "Error: the server sent us a response which we did not understand."
+msgstr "错误：服务器向我们发送了一个我们不理解的响应。"
+
+#: admin.php:899
+msgid "Error: the server sent an empty response."
+msgstr "错误：服务器发送了一个空响应。"
+
+#: admin.php:903 restorer.php:386
+msgid "Error data:"
+msgstr "错误数据:"
+
+#: admin.php:913
+msgid "Download error: the server sent us a response which we did not understand."
+msgstr "下载失败：服务器向我们发送了我们不能识别的反馈."
+
+#: templates/wp-admin/notices/thanks-for-using-main-dash.php:2
+#: templates/wp-admin/notices/thanks-for-using-main-dash.php:32
+msgid "Dismiss (for %s months)"
+msgstr "关闭 （在 %s 个月内）"
+
+#: admin.php:948
+msgid "Disconnecting..."
+msgstr "正在断开..."
+
+#: admin.php:947 methods/updraftvault.php:532 methods/updraftvault.php:614
+msgid "Disconnect"
+msgstr "断开连接"
+
+#: admin.php:960 central/translations-central.php:82
+#: templates/wp-admin/settings/existing-backups-table.php:173
+msgid "Deleting..."
+msgstr "删除中..."
+
+#: admin.php:910
+msgid "Delete from your web server"
+msgstr "从 web 服务器中删除"
+
+#: admin.php:954 central/translations-central.php:84
+msgid "Creating..."
+msgstr "创建中...."
+
+#: admin.php:949
+msgid "Counting..."
+msgstr "计数..."
+
+#: includes/class-wpadmin-commands.php:399
+msgid "Constants"
+msgstr "常量"
+
+#: admin.php:946
+msgid "Connecting..."
+msgstr "连接中..."
+
+#: admin.php:945 admin.php:3302 methods/updraftvault.php:483
+#: methods/updraftvault.php:524
+#: templates/wp-admin/settings/temporary-clone.php:87
+msgid "Connect"
+msgstr "连接"
+
+#: templates/wp-admin/notices/thanks-for-using-main-dash.php:13
+msgid "Compare with the free version"
+msgstr "与免费版本比较"
+
+#: admin.php:931 methods/backup-module.php:91
+#: templates/wp-admin/settings/delete-and-restore-modals.php:94
+msgid "Cancel"
+msgstr "取消"
+
+#: admin.php:896
+msgid "Begun looking for this entity"
+msgstr "开始查找此实体"
+
+#: admin.php:880
+msgid "Be aware that mail servers tend to have size limits; typically around %s Mb; backups larger than any limits will likely not arrive."
+msgstr "请注意邮件服务器的大小限制；通常在 %s MB左右;大于任何限制的备份可能不会到达。"
+
+#: admin.php:1968 includes/class-wpadmin-commands.php:614
+msgid "Backup set not found"
+msgstr "未找到备份集"
+
+#: admin.php:4532 includes/class-wpadmin-commands.php:159 restorer.php:2770
+msgid "Backup created by unknown source (%s) - cannot be restored."
+msgstr "由未知来源 （%s）创建的备份无法恢复。"
+
+#: admin.php:930 templates/wp-admin/settings/take-backup.php:52
+msgid "Backup Now"
+msgstr "立即备份"
+
+#: admin.php:942
+msgid "Automatic backup before update"
+msgstr "更新前自动备份"
+
+#: admin.php:1223
+msgid "Allowed Files"
+msgstr "允许的文件"
+
+#: admin.php:951
+msgid "Adding..."
+msgstr "添加中..."
+
+#: admin.php:952
+msgid "Add site"
+msgstr "添加网站"
+
+#: admin.php:1424
+msgid "%s has been chosen for remote storage, but you are not currently connected."
+msgstr "已选择 %s 用于远程存储，但您当前未连接。"

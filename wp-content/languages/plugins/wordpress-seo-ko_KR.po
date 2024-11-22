@@ -1,0 +1,4162 @@
+# Translation of Plugins - Yoast SEO - Stable (latest release) in Korean
+# This file is distributed under the same license as the Plugins - Yoast SEO - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-08-12 06:26:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Plugins - Yoast SEO - Stable (latest release)\n"
+
+#: admin/menu/class-base-menu.php:260 admin/menu/class-base-menu.php:264
+msgid "Upgrades"
+msgstr "업그레이드"
+
+#: blocks/dynamic-blocks/breadcrumbs/block.json
+msgctxt "block keyword"
+msgid "site structure"
+msgstr "사이트 구조"
+
+#: blocks/dynamic-blocks/breadcrumbs/block.json
+msgctxt "block keyword"
+msgid "internal linking"
+msgstr "내부 링크"
+
+#: blocks/dynamic-blocks/breadcrumbs/block.json
+msgctxt "block keyword"
+msgid "breadcrumbs"
+msgstr "브레드크럼"
+
+#: blocks/dynamic-blocks/breadcrumbs/block.json
+msgctxt "block description"
+msgid "Adds the Yoast SEO breadcrumbs to your template or content."
+msgstr "템플릿 또는 콘텐츠에 Yoast SEO 브레드크럼을 추가합니다."
+
+#: blocks/dynamic-blocks/breadcrumbs/block.json
+msgctxt "block title"
+msgid "Yoast Breadcrumbs"
+msgstr "요스트 브레드크럼"
+
+#: blocks/structured-data-blocks/how-to/block.json
+msgctxt "block keyword"
+msgid "How to"
+msgstr "사용 방법"
+
+#: blocks/structured-data-blocks/how-to/block.json
+msgctxt "block keyword"
+msgid "How-to"
+msgstr "사용 방법"
+
+#: blocks/structured-data-blocks/how-to/block.json
+msgctxt "block title"
+msgid "Yoast How-to"
+msgstr "요스트 사용 방법"
+
+#: blocks/structured-data-blocks/faq/block.json
+#: blocks/structured-data-blocks/how-to/block.json
+msgctxt "block keyword"
+msgid "Structured Data"
+msgstr "구조화된 데이터"
+
+#: blocks/dynamic-blocks/breadcrumbs/block.json
+#: blocks/structured-data-blocks/faq/block.json
+#: blocks/structured-data-blocks/how-to/block.json
+msgctxt "block keyword"
+msgid "SEO"
+msgstr "SEO"
+
+#: blocks/structured-data-blocks/faq/block.json
+#: blocks/structured-data-blocks/how-to/block.json
+msgctxt "block keyword"
+msgid "Schema"
+msgstr "스키마"
+
+#: blocks/structured-data-blocks/faq/block.json
+msgctxt "block keyword"
+msgid "Frequently Asked Questions"
+msgstr "자주 묻는 질문"
+
+#: blocks/structured-data-blocks/faq/block.json
+msgctxt "block keyword"
+msgid "FAQ"
+msgstr "자주 묻는 질문"
+
+#: blocks/structured-data-blocks/faq/block.json
+msgctxt "block description"
+msgid "List your Frequently Asked Questions in an SEO-friendly way."
+msgstr "자주 묻는 질문을 SEO 친화적인 방식으로 나열하세요."
+
+#: blocks/structured-data-blocks/faq/block.json
+msgctxt "block title"
+msgid "Yoast FAQ"
+msgstr "요스트 FAQ"
+
+#: admin/class-admin.php:322
+#: src/user-meta/framework/additional-contactmethods/x.php:28
+msgid "X username (without @)"
+msgstr "X 사용자 아이디(@ 제외)"
+
+#: src/presenters/admin/sidebar-presenter.php:96 js/dist/elementor.js:8
+#: js/dist/externals-components.js:245 js/dist/introductions.js:8
+#: js/dist/new-settings.js:33 js/dist/post-edit.js:8 js/dist/support.js:10
+#: js/dist/term-edit.js:8
+msgid "30-day money back guarantee."
+msgstr "30일 환불 보장."
+
+#: src/presenters/admin/sidebar-presenter.php:92 js/dist/elementor.js:8
+#: js/dist/externals-components.js:245 js/dist/introductions.js:8
+#: js/dist/new-settings.js:33 js/dist/post-edit.js:8 js/dist/support.js:10
+#: js/dist/term-edit.js:8
+msgid "Only $/€/£99 per year (ex VAT)"
+msgstr "연간 $/€/£99(부가가치세 별도)"
+
+#: admin/views/licenses.php:378
+msgid "Only $/€/£229 per year (ex VAT). Save over 40% with this subscription!"
+msgstr "연간 $/€/£229(부가세 별도)에 불과합니다. 이 구독으로 40% 이상 절약하세요!"
+
+#. translators: 1: PHP class name, 2: PHP variable name
+#: inc/class-yoast-dynamic-rewrites.php:67
+msgid "The %1$s class must not be instantiated before the %2$s global is set."
+msgstr "%1$s 클래스는 %2$s 글로벌이 설정되기 전에 인스턴스화해서는 안 됩니다."
+
+#. translators: %1$s expands to a span opening tag, %2$s expands to a span
+#. closing tag, %3$s expands to Yoast SEO
+#: admin/views/licenses.php:296
+msgid "%1$sOutrank your competitors even further%2$s with these %3$s plugins"
+msgstr "%1$s이러한 %3$s 플러그인을 사용하여 경쟁사보다 %2$s 더 높은 순위를 차지하세요."
+
+#: admin/views/licenses.php:276 admin/views/licenses.php:383
+msgid "Explore now"
+msgstr "지금 탐색"
+
+#: admin/views/licenses.php:155
+msgid "Rank higher in search results"
+msgstr "검색 결과에서 더 높은 순위 차지하기"
+
+#: admin/views/licenses.php:90
+msgid "Turn more visitors into customers!"
+msgstr "더 많은 방문자를 고객으로 전환하세요!"
+
+#: admin/views/licenses.php:86
+msgid "Increase Google clicks with rich results"
+msgstr "풍부한 결과로 Google 클릭 수 늘리기"
+
+#: admin/views/licenses.php:85
+msgid "Write product pages that rank using the SEO analysis"
+msgstr "SEO 분석을 사용하여 순위를 매기는 제품 페이지 작성"
+
+#: admin/views/licenses.php:69
+msgid "Get XML sitemaps"
+msgstr "XML 사이트맵 받기"
+
+#: admin/views/licenses.php:55
+msgid "Optimize your video previews & thumbnails"
+msgstr "동영상 미리보기 및 썸네일 최적화하기"
+
+#: admin/views/licenses.php:53
+msgid "Make sure your videos load quickly for users"
+msgstr "사용자를 위해 동영상이 빠르게 로드되도록 하기"
+
+#: admin/views/licenses.php:52
+msgid "Automatically get technical SEO best practices for video content"
+msgstr "동영상 콘텐츠에 대한 기술적 SEO 모범 사례를 자동으로 받아보세요."
+
+#: admin/views/licenses.php:48 admin/views/licenses.php:113
+msgid "Drive more views to your videos"
+msgstr "동영상 조회수 늘리기"
+
+#: admin/views/licenses.php:34
+msgid "Stand out for local searches"
+msgstr "지역 검색에서 눈에 띄기"
+
+#. translators: %s expands to Yoast SEO Premium
+#. translators: %s expands to "Yoast SEO" Premium
+#: admin/class-premium-upsell-admin-block.php:100 js/dist/new-settings.js:345
+msgid "Explore %s now!"
+msgstr "지금 %s 살펴보기!"
+
+#. translators: %1$s expands to a strong opening tag, %2$s expands to a strong
+#. closing tag.
+#: admin/class-premium-upsell-admin-block.php:88 admin/views/licenses.php:216
+#: js/dist/block-editor.js:231 js/dist/classic-editor.js:216
+#: js/dist/editor-modules.js:180 js/dist/elementor.js:23
+#: js/dist/externals-components.js:148 js/dist/new-settings.js:344
+msgid "%1$s24/7 support%2$s: Also on evenings and weekends."
+msgstr "%1$s24/7 support%2$s: 저녁과 주말에도 가능합니다."
+
+#. translators: %1$s expands to a strong opening tag, %2$s expands to a strong
+#. closing tag.
+#: admin/class-premium-upsell-admin-block.php:82 admin/views/licenses.php:206
+#: js/dist/block-editor.js:230 js/dist/classic-editor.js:215
+#: js/dist/editor-modules.js:179 js/dist/elementor.js:22
+#: js/dist/externals-components.js:147 js/dist/new-settings.js:343
+msgid "%1$sAppealing social previews%2$s people actually want to click on."
+msgstr "%1$s매력적인 소셜 미리보기%2$s 사람들이 실제로 클릭하고 싶어합니다."
+
+#. translators: %1$s expands to a strong opening tag, %2$s expands to a strong
+#. closing tag.
+#: admin/class-premium-upsell-admin-block.php:76 admin/views/licenses.php:196
+#: js/dist/block-editor.js:229 js/dist/classic-editor.js:214
+#: js/dist/editor-modules.js:178 js/dist/elementor.js:21
+#: js/dist/externals-components.js:146 js/dist/new-settings.js:342
+msgid "%1$sNo more broken links%2$s: Automatic redirect manager."
+msgstr "%1$s더 이상 끊어진 링크 없음%2$s: 자동 리디렉션 관리자."
+
+#. translators: %1$s expands to a strong opening tag, %2$s expands to a strong
+#. closing tag.
+#: admin/class-premium-upsell-admin-block.php:70 admin/views/licenses.php:186
+#: js/dist/block-editor.js:228 js/dist/classic-editor.js:213
+#: js/dist/editor-modules.js:177 js/dist/elementor.js:20
+#: js/dist/externals-components.js:145 js/dist/new-settings.js:341
+msgid "%1$sSuper fast%2$s internal linking suggestions."
+msgstr "%1$s초고속%2$s 내부 링크 제안."
+
+#. translators: %1$s expands to a strong opening tag, %2$s expands to a strong
+#. closing tag.
+#: admin/class-premium-upsell-admin-block.php:64 admin/views/licenses.php:176
+#: js/dist/block-editor.js:227 js/dist/classic-editor.js:212
+#: js/dist/editor-modules.js:176 js/dist/elementor.js:19
+#: js/dist/externals-components.js:144 js/dist/new-settings.js:340
+msgid "%1$sMultiple keywords%2$s: Rank higher for more searches."
+msgstr "%1$s복수 키워드%2$s: 더 많은 검색을 위해 순위를 높이세요."
+
+#. translators: %1$s expands to a strong opening tag, %2$s expands to a strong
+#. closing tag.
+#: admin/class-premium-upsell-admin-block.php:58 admin/views/licenses.php:166
+#: js/dist/block-editor.js:226 js/dist/classic-editor.js:211
+#: js/dist/editor-modules.js:175 js/dist/elementor.js:18
+#: js/dist/externals-components.js:143 js/dist/new-settings.js:339
+msgid "%1$sAI%2$s: Better SEO titles and meta descriptions, faster."
+msgstr "%1$sAI%2$s: 더 나은 SEO 제목과 메타 설명, 더 빨라졌습니다."
+
+#: admin/watchers/class-slug-change-watcher.php:68
+msgid "Search engines and other websites can still send traffic to your trashed content."
+msgstr "검색 엔진 및 기타 웹사이트는 여전히 휴지통에 버려진 콘텐츠에 트래픽을 보낼 수 있습니다."
+
+#. translators: 1: Yoast SEO, 2: Link start tag to the Learn more link, 3: Link
+#. closing tag.
+#: src/presenters/admin/woocommerce-beta-editor-presenter.php:53
+msgid "The %1$s interface is currently unavailable in the beta WooCommerce product editor. To resolve any issues, please disable the beta editor. %2$sLearn how to disable the beta WooCommerce product editor.%3$s"
+msgstr "%1$s 인터페이스는 현재 베타 WooCommerce 제품 편집기에서 사용할 수 없습니다. 문제를 해결하려면 베타 에디터를 비활성화하세요. %2$s베타 WooCommerce 제품 편집기를 비활성화하는 방법 알아보기.%3$s"
+
+#: src/presenters/admin/woocommerce-beta-editor-presenter.php:50
+msgid "Compatibility issue: Yoast SEO is incompatible with the beta WooCommerce product editor."
+msgstr "호환성 문제입니다: 요스트 SEO는 베타 WooCommerce 제품 편집기와 호환되지 않습니다."
+
+#. translators: %1$s expands to an opening strong tag, %2$s expands to a
+#. closing strong tag
+#: src/presenters/admin/sidebar-presenter.php:71
+msgid "%1$s SAVE 30%% %2$s on your 12 month subscription"
+msgstr "12개월 구독 시 %1$s 30%% 할인 %2$s"
+
+#: src/presenters/admin/sidebar-presenter.php:63 js/dist/elementor.js:6
+#: js/dist/externals-components.js:243 js/dist/introductions.js:6
+#: js/dist/new-settings.js:31 js/dist/post-edit.js:6 js/dist/support.js:8
+#: js/dist/term-edit.js:6
+msgid "Use AI to generate titles and meta descriptions, automatically redirect deleted pages, get 24/7 support, and much, much more!"
+msgstr "AI를 사용하여 제목과 메타 설명을 생성하고, 삭제된 페이지를 자동으로 리디렉션하고, 연중무휴 24시간 지원을 받는 등 다양한 기능을 이용할 수 있습니다!"
+
+#: inc/class-wpseo-admin-bar-menu.php:593
+msgid "-30%"
+msgstr "-30%"
+
+#. translators: %1$s is a <br> tag.
+#: inc/class-addon-manager.php:411
+msgid "%1$s Now with 30%% Black Friday Discount!"
+msgstr "%1$s 블랙프라이데이 30%% 할인!"
+
+#. translators: %1$s expands to opening span, %2$s expands to closing span
+#: admin/views/licenses.php:138
+msgid "%1$sSALE 30%% OFF!%2$s"
+msgstr "%1$s세일 30%% 할인!%2$s"
+
+#: admin/class-premium-upsell-admin-block.php:116
+#: admin/menu/class-base-menu.php:264 js/dist/block-editor.js:269
+#: js/dist/classic-editor.js:254 js/dist/editor-modules.js:173
+#: js/dist/elementor.js:61 js/dist/externals-components.js:186
+#: js/dist/new-settings.js:337
+msgid "30% OFF"
+msgstr "30% 할인"
+
+#: admin/class-premium-upsell-admin-block.php:115 js/dist/block-editor.js:269
+#: js/dist/classic-editor.js:254 js/dist/editor-modules.js:173
+#: js/dist/elementor.js:61 js/dist/externals-components.js:186
+#: js/dist/new-settings.js:337
+msgid "BLACK FRIDAY"
+msgstr "블랙 프라이데이"
+
+#. translators: %s expands to Yoast SEO Premium
+#: admin/class-premium-upsell-admin-block.php:100
+#: src/presenters/admin/sidebar-presenter.php:80 js/dist/elementor.js:8
+#: js/dist/externals-components.js:245 js/dist/introductions.js:8
+#: js/dist/new-settings.js:33 js/dist/new-settings.js:344
+#: js/dist/post-edit.js:8 js/dist/support.js:10 js/dist/term-edit.js:8
+msgid "Claim your 30% off now!"
+msgstr "지금 30% 할인을 신청하세요!"
+
+#: admin/views/class-yoast-feature-toggles.php:209
+msgid "Use the power of Yoast AI to automatically generate compelling titles and descriptions for your posts and pages."
+msgstr "요스트 AI의 강력한 기능을 사용하여 글과 페이지에 대한 매력적인 제목과 설명을 자동으로 생성하세요."
+
+#: admin/views/class-yoast-feature-toggles.php:206 js/dist/new-settings.js:16
+#: js/dist/new-settings.js:302
+msgid "AI title & description generator"
+msgstr "AI 제목 및 설명 생성기"
+
+#. translators: %s expands to a unit of time (e.g. 1 day).
+#: src/integrations/blocks/structured-data-blocks.php:181
+msgid "%1$s, %2$s and %3$s"
+msgstr "%1$s, %2$s 및 %3$s"
+
+#. translators: %s expands to a unit of time (e.g. 1 day).
+#: src/integrations/blocks/structured-data-blocks.php:175
+msgid "%1$s and %2$s"
+msgstr "%1$s 및 %2$s"
+
+#. translators: 1: Opening tag of the link to the Search appearance settings
+#. page, 2: Link closing tag.
+#: src/content-type-visibility/application/content-type-visibility-watcher-actions.php:157
+msgid "You've added a new type of content. We recommend that you review the corresponding %1$sSearch appearance settings%2$s."
+msgstr "새로운 유형의 콘텐츠를 추가했습니다. 해당 %1$s검색 모양 설정%2$s을 검토하는 것이 좋습니다."
+
+#: src/content-type-visibility/application/content-type-visibility-dismiss-notifications.php:73
+msgid "Error: Taxonomy was not removed from new_taxonomies list."
+msgstr "오류입니다: 분류가 new_taxonomies 목록에서 제거되지 않았습니다."
+
+#: src/content-type-visibility/application/content-type-visibility-dismiss-notifications.php:73
+msgid "Taxonomy is no longer new."
+msgstr "분류는 더 이상 새로운 것이 아닙니다."
+
+#: src/content-type-visibility/application/content-type-visibility-dismiss-notifications.php:66
+msgid "Taxonomy is not new."
+msgstr "분류는 새로운 것이 아닙니다."
+
+#: src/content-type-visibility/application/content-type-visibility-dismiss-notifications.php:43
+msgid "Error: Post type was not removed from new_post_types list."
+msgstr "오류입니다: 글 유형이 new_post_types 목록에서 제거되지 않았습니다."
+
+#: src/content-type-visibility/application/content-type-visibility-dismiss-notifications.php:43
+msgid "Post type is no longer new."
+msgstr "글 유형이 더 이상 새롭지 않습니다."
+
+#: src/content-type-visibility/application/content-type-visibility-dismiss-notifications.php:37
+msgid "Post type is not new."
+msgstr "글 유형이 더 이상 새롭지 않습니다."
+
+#: src/integrations/support-integration.php:108 js/dist/support.js:16
+msgid "Support"
+msgstr "지원"
+
+#: src/integrations/admin/crawl-settings-integration.php:163
+#: js/dist/new-settings.js:16 js/dist/new-settings.js:171
+msgid "Prevent Google AdsBot from crawling"
+msgstr "구글 애드봇 크롤링 방지"
+
+#: src/integrations/admin/background-indexing-integration.php:244
+msgid "Every fifteen minutes"
+msgstr "15분마다"
+
+#: src/commands/index-command.php:174
+msgid "Your WordPress environment is running on a non-production site. Indexables can only be created on production environments. Please check your `WP_ENVIRONMENT_TYPE` settings."
+msgstr "워드프레스 환경이 비프로덕션 사이트에서 실행 중입니다. 인덱서블은 프로덕션 환경에서만 생성할 수 있습니다. 'WP_환경_유형' 설정을 확인하세요."
+
+#. translators: %s expands to the inclusive language score
+#: inc/class-wpseo-rank.php:234 inc/class-wpseo-rank.php:239
+#: inc/class-wpseo-rank.php:244
+msgid "Inclusive language: %s"
+msgstr "포함 언어: %s"
+
+#. translators: %1$s expands to Yoast SEO, %2$s to Wincher
+#: admin/class-wincher-dashboard-widget.php:58
+msgid "%1$s / %2$s: Top Keyphrases"
+msgstr "%1$s / %2$s: 인기 키프레이즈"
+
+#. translators: %s: expands to the post type
+#: src/exceptions/indexable/post-type-not-built-exception.php:20
+msgid "The post type %s could not be indexed because it does not meet indexing requirements."
+msgstr "게시물 유형 %s이(가) 인덱싱 요구 사항을 충족하지 않아서 인덱싱할 수 없습니다."
+
+#: src/integrations/academy-integration.php:111 js/dist/academy.js:2
+msgid "Academy"
+msgstr "아카데미"
+
+#. translators: %1$s expands to a strong tag, %2$s expands to the product name,
+#. %3$s expands to a closing strong tag, %4$s expands to an a tag. %5$s expands
+#. to MyYoast, %6$s expands to a closing a tag,  %7$s expands to the product
+#. name
+#: inc/class-addon-manager.php:520
+msgid "%1$s %2$s isn't working as expected %3$s and you are not receiving updates or support! Make sure to %4$s activate your product subscription in %5$s%6$s to unlock all the features of %7$s."
+msgstr "%1$s %2$s가 예상대로 작동하지 않아 %3$s 업데이트나 지원을 받지 못하고 있습니다! %4$s에서 제품 구독을 활성화하세요 %5$s%6$s %7$s의 모든 기능을 잠금 해제하세요."
+
+#. translators: %1$s is the plugin name, %2$s and %3$s are a link.
+#: inc/class-addon-manager.php:419
+msgid "%1$s can't be updated because your product subscription is expired. %2$sRenew your product subscription%3$s to get updates again and use all the features of %1$s."
+msgstr "제품 구독이 만료되었으므로 %1$s을 업데이트할 수 없습니다. %2$s제품 구독을 갱신%3$s하여 업데이트를 다시 받고 %1$s의 모든 기능을 사용하세요."
+
+#: src/integrations/admin/crawl-settings-integration.php:292
+msgid "This feature is disabled when your site is not using pretty permalinks."
+msgstr "사이트에서 예쁜 영구 링크를 사용하지 않는 경우 이 기능이 비활성화됩니다."
+
+#. translators: 1: Link start tag to the Permalinks settings page, 2: Link
+#. closing tag.
+#: src/integrations/admin/crawl-settings-integration.php:286
+msgid "This feature is disabled when your site is not using %1$spretty permalinks%2$s."
+msgstr "사이트에서 %1$spretty 퍼머링크%2$s를 사용하지 않는 경우에는 이 기능이 비활성화됩니다."
+
+#. translators: %1$s: Yoast SEO
+#: src/helpers/crawl-cleanup-helper.php:271
+msgid "%1$s: unregistered URL parameter removed. See %2$s"
+msgstr "%1$s: 등록되지 않은 URL 매개변수가 제거되었습니다. %2$s 참조"
+
+#. translators: %1$s: Yoast SEO
+#: src/initializers/crawl-cleanup-permalinks.php:144
+msgid "%1$s: redirect utm variables to #"
+msgstr "%1$s: utm 변수를 #로 리디렉션합니다."
+
+#: admin/views/licenses.php:41
+msgid "Optimize your business for multiple locations"
+msgstr "여러 위치에 맞게 비즈니스 최적화"
+
+#: admin/views/licenses.php:40
+msgid "Easily add maps, address finders, and opening hours to your content"
+msgstr "콘텐츠에 지도, 주소 찾기, 영업 시간을 쉽게 추가하세요."
+
+#: admin/views/licenses.php:39
+msgid "Automatically get technical SEO best practices for local businesses"
+msgstr "지역 비즈니스를 위한 기술 SEO 모범 사례를 자동으로 받아보기"
+
+#: admin/views/licenses.php:38
+msgid "Attract more customers to your site and physical store"
+msgstr "사이트와 오프라인 스토어로 더 많은 고객 유치"
+
+#: src/presenters/admin/indexing-notification-presenter.php:93
+msgid "It looks like you've enabled media pages. We recommend that you help us to re-analyze your site by running the SEO data optimization. "
+msgstr "미디어 페이지를 활성화한 것 같습니다. SEO 데이터 최적화를 실행하여 사이트를 다시 분석할 수 있도록 도와주시는 것이 좋습니다. "
+
+#: admin/formatter/class-metabox-formatter.php:153 inc/class-wpseo-rank.php:156
+#: inc/class-wpseo-rank.php:240 js/dist/block-editor.js:563
+#: js/dist/editor-modules.js:324 js/dist/elementor.js:92
+#: js/dist/externals-components.js:188 js/dist/externals-components.js:277
+#: js/dist/frontend-inspector-resources.js:1 js/dist/post-edit.js:17
+#: js/dist/term-edit.js:1
+msgid "Potentially non-inclusive"
+msgstr "잠재적으로 포함되지 않을 수 있음"
+
+#. translators: CTA to finish the first time configuration. %s: Either
+#. first-time SEO configuration or SEO configuration.
+#: admin/class-admin.php:243
+msgid "Finish your %s"
+msgstr "여러분의 %s을(를) 마무리하세요."
+
+#. translators: %1$s and %2$s expand to a span wrap to avoid linebreaks. %3$s
+#. expands to "Yoast SEO Premium".
+#: src/presenters/admin/sidebar-presenter.php:58 js/dist/elementor.js:7
+#: js/dist/externals-components.js:244 js/dist/introductions.js:7
+#: js/dist/new-settings.js:32 js/dist/post-edit.js:7 js/dist/support.js:9
+#: js/dist/term-edit.js:7
+msgid "%1$sGet%2$s %3$s"
+msgstr "%1$s완료%2$s %3$s"
+
+#. translators: 1: Link tag to WordPress Hosts page on Yoast.com; 2: Link
+#. closing tag
+#: src/integrations/admin/unsupported-php-version-notice.php:89
+msgid "Upgrading your PHP version is something your hosting provider can help you out with. If they can’t upgrade your PHP version, we advise you to consider %1$sswitching to a hosting provider%2$s that can provide the security and features a modern host should provide."
+msgstr "PHP 버전 업그레이드는 호스팅 공급업체에서 도와드릴 수 있습니다. 호스팅 제공업체에서 PHP 버전을 업그레이드할 수 없는 경우 %1$s최신 호스트가 제공해야 하는 보안 및 기능을 제공할 수 있는 호스팅 제공업체로 전환%2$s하는 것을 고려하는 것이 좋습니다."
+
+#: src/integrations/admin/unsupported-php-version-notice.php:85
+msgid "Can’t upgrade yourself? Ask your host!"
+msgstr "직접 업그레이드할 수 없나요? 호스트에게 문의하세요!"
+
+#. translators: 1: Yoast SEO, 2: Yoast SEO Premium
+#: src/integrations/admin/unsupported-php-version-notice.php:77
+msgid "By November 1st, 2024, we’ll update the minimum PHP requirement for %1$s, %2$s and all our add-ons to PHP 7.4. This, to ensure we can keep delivering state of the art features."
+msgstr "2024년 11월 1일까지 %1$s, %2$s 및 모든 애드온의 최소 PHP 요구 사항을 PHP 7.4로 업데이트할 예정입니다. 이를 통해 최신 기능을 계속 제공할 수 있습니다."
+
+#: src/integrations/admin/unsupported-php-version-notice.php:73
+msgid "Upgrade your PHP version"
+msgstr "PHP 버전 업그레이드"
+
+#: inc/class-wpseo-admin-bar-menu.php:568
+msgid "WordPress.org support forums"
+msgstr "워드프레스닷컴 지원 포럼"
+
+#: inc/class-wpseo-admin-bar-menu.php:563
+msgid "Yoast Premium support"
+msgstr "요스트 프리미엄 지원"
+
+#: inc/class-wpseo-admin-bar-menu.php:558
+msgid "Yoast.com help section"
+msgstr "Yoast.com 도움말 섹션"
+
+#: inc/class-wpseo-admin-bar-menu.php:543
+msgid "Help"
+msgstr "도움말"
+
+#: inc/class-wpseo-admin-bar-menu.php:524
+msgid "Write better content"
+msgstr "더 나은 콘텐츠 작성"
+
+#: inc/class-wpseo-admin-bar-menu.php:519
+msgid "Improve your blog post"
+msgstr "블로그 글 개선하기"
+
+#: inc/class-wpseo-admin-bar-menu.php:514
+#: inc/class-wpseo-admin-bar-menu.php:573
+msgid "Learn more SEO"
+msgstr "SEO에 대해 자세히 알아보기"
+
+#: inc/class-wpseo-admin-bar-menu.php:469
+msgid "SEO Tools"
+msgstr "SEO 도구"
+
+#: inc/class-wpseo-admin-bar-menu.php:236
+msgid "Focus keyphrase: "
+msgstr "초점 키문구: "
+
+#: inc/class-wpseo-admin-bar-menu.php:230
+msgid "not set"
+msgstr "설정되지 않음"
+
+#: admin/views/licenses.php:284
+msgid "With a 30-day money-back guarantee. No questions asked."
+msgstr "30일 환불 보장이 적용됩니다. 질문은 묻지 않습니다."
+
+#: admin/views/licenses.php:112
+msgid "Reach new customers who live near your business"
+msgstr "비즈니스 근처에 거주하는 새로운 고객에게 도달"
+
+#: admin/views/licenses.php:111
+msgid "Get all 5 Yoast plugins for WordPress at a big discount"
+msgstr "워드프레스용 요스트 플러그인 5종을 모두 큰 할인가로 만나보세요."
+
+#: admin/views/licenses.php:107
+msgid "Cover all your SEO bases"
+msgstr "모든 SEO 기반을 포괄하세요"
+
+#. translators: used in phrases such as "More information about all the Yoast
+#. plugins"
+#. translators: used in phrases such as "Buy all the Yoast plugins"
+#: admin/views/licenses.php:106 admin/views/licenses.php:119
+msgid "all the Yoast plugins"
+msgstr "모든 요스트 플러그인"
+
+#: admin/views/licenses.php:87
+msgid "Add global identifiers for variable products"
+msgstr "가변 제품에 대한 글로벌 식별자 추가"
+
+#: admin/views/licenses.php:80 admin/views/licenses.php:115
+msgid "Drive more traffic to your online store"
+msgstr "온라인 스토어로 더 많은 트래픽 유도"
+
+#: admin/views/licenses.php:68
+msgid "Add all necessary schema.org markup"
+msgstr "필요한 모든 schema.org 마크업 추가"
+
+#: admin/views/licenses.php:67
+msgid "Ping Google on the publication of a new post"
+msgstr "새 글 게시 시 Google에 핑 보내기"
+
+#: admin/views/licenses.php:62 admin/views/licenses.php:114
+msgid "Rank higher in Google's news carousel"
+msgstr "Google 뉴스 캐러셀에서 더 높은 순위 차지하기"
+
+#: admin/views/licenses.php:54
+msgid "Make your videos responsive for all screen sizes"
+msgstr "모든 화면 크기에 맞게 반응하는 동영상 만들기"
+
+#: src/presenters/admin/indexing-notification-presenter.php:90
+msgid "We need to re-analyze some of your SEO data because of a change in the visibility of your taxonomies. Please help us do that by running the SEO data optimization. "
+msgstr "분류 체계의 가시성이 변경되어 일부 SEO 데이터를 다시 분석해야 합니다. SEO 데이터 최적화를 실행하여 도와주세요. "
+
+#: src/presenters/admin/indexing-notification-presenter.php:87
+msgid "We need to re-analyze some of your SEO data because of a change in the visibility of your post types. Please help us do that by running the SEO data optimization. "
+msgstr "글 유형의 가시성 변경으로 인해 일부 SEO 데이터를 다시 분석해야 합니다. SEO 데이터 최적화를 실행하여 도와주세요. "
+
+#. translators: %s: expands to the term id
+#: src/exceptions/indexable/term-not-built-exception.php:20
+msgid "The term %s could not be built because it's not indexable."
+msgstr "용어 %s는 인덱싱할 수 없으므로 만들 수 없습니다."
+
+#. translators: %s: expands to the post id
+#: src/exceptions/indexable/post-not-built-exception.php:32
+msgid "The post %s could not be indexed because it's post type is excluded from indexing."
+msgstr "게시물 유형이 인덱싱에서 제외되었기 때문에 %s 게시물을 인덱싱할 수 없습니다."
+
+#. translators: %s: expands to the post id
+#: src/exceptions/indexable/post-not-built-exception.php:20
+msgid "The post %s could not be indexed because it does not meet indexing requirements."
+msgstr "게시물이 인덱싱 요구 사항을 충족하지 않으므로 %s 게시물을 인덱싱할 수 없습니다."
+
+#. translators: %1$d is the number of records that were removed. %2$s is the
+#. site url.
+#: src/commands/cleanup-command.php:183
+msgid "Cleaned up %1$d record from %2$s."
+msgid_plural "Cleaned up %1$d records from %2$s."
+msgstr[0] "%2$s에서 %1$d 레코드를 정리했습니다."
+
+#. translators: %1$s is the site url of the site that is cleaned up. %2$s is
+#. the name of the cleanup task that is currently running.
+#: src/commands/cleanup-command.php:159
+msgid "Cleaning up %1$s [%2$s]"
+msgstr "%1$s [%2$s] 정리하기"
+
+#. translators: %1$s is the site url of the site that is skipped. %2$s is Yoast
+#. SEO.
+#: src/commands/cleanup-command.php:146
+msgid "Skipping %1$s. %2$s is not active on this site."
+msgstr "%1$s 건너뛰기. %2$s는 이 사이트에서 활성화되어 있지 않습니다."
+
+#. translators: %1$d is the number of records that are removed.
+#: src/commands/cleanup-command.php:97
+msgid "Cleaned up %1$d record."
+msgid_plural "Cleaned up %1$d records."
+msgstr[0] "%1$d 레코드를 정리했습니다."
+
+#: src/commands/cleanup-command.php:84
+msgid "The value for 'batch-size' must be a positive integer higher than equal to 1."
+msgstr "'배치 크기'의 값은 1보다 큰 양의 정수여야 합니다."
+
+#: src/commands/cleanup-command.php:81
+msgid "The value for 'interval' must be a positive integer."
+msgstr "'간격'의 값은 양의 정수여야 합니다."
+
+#: src/presenters/admin/sidebar-presenter.php:20 js/dist/elementor.js:8
+#: js/dist/externals-components.js:245 js/dist/introductions.js:8
+#: js/dist/new-settings.js:33 js/dist/post-edit.js:8 js/dist/support.js:10
+#: js/dist/term-edit.js:8
+msgid "BLACK FRIDAY - 30% OFF"
+msgstr "블랙 프라이데이 - 30% 할인"
+
+#: admin/views/class-yoast-feature-toggles.php:210 js/dist/new-settings.js:302
+msgid "Learn more"
+msgstr "더 알아보기"
+
+#: src/integrations/admin/crawl-settings-integration.php:157
+msgid "Redirect pretty URLs for search pages to raw format"
+msgstr "검색 페이지의 예쁜 URL을 원시 형식으로 리디렉션하기"
+
+#. Translators: %1$s expands to an opening anchor tag for a link leading to the
+#. Yoast SEO page of the Permalink Cleanup features, %2$s expands to a closing
+#. anchor tag.
+#: src/integrations/admin/crawl-settings-integration.php:204
+msgid "These are expert features, so make sure you know what you're doing before removing the parameters. %1$sRead more about how your site can be affected%2$s."
+msgstr "이러한 기능은 전문가용 기능이므로 매개변수를 제거하기 전에 수행 중인 작업을 숙지해야 합니다. %1$s 사이트가 어떤 영향을 받을 수 있는지 자세히 알아보기%2$s."
+
+#: src/presenters/admin/sidebar-presenter.php:103 js/dist/elementor.js:8
+#: js/dist/externals-components.js:245 js/dist/introductions.js:8
+#: js/dist/new-settings.js:33 js/dist/post-edit.js:8 js/dist/support.js:10
+#: js/dist/term-edit.js:8
+msgid "Read reviews from real users"
+msgstr "실제 사용자의 리뷰 읽기"
+
+#. translators: %1$s expands to Yoast SEO, %2$s expands to the name of the
+#. class that could not be found.
+#: src/loader.php:258
+msgid "%1$s attempted to load the class %2$s but it could not be found."
+msgstr "%1$s에서 %2$s 클래스를 로드하려고 시도했지만 찾을 수 없습니다."
+
+#: src/integrations/admin/crawl-settings-integration.php:189
+#: js/dist/new-settings.js:171
+msgid "Remove unused resources"
+msgstr "사용하지 않는 리소스 제거"
+
+#: src/integrations/admin/crawl-settings-integration.php:162
+msgid "Prevent search engines from crawling /wp-json/"
+msgstr "검색 엔진의 /wp-json/ 크롤링 방지"
+
+#: src/integrations/admin/crawl-settings-integration.php:156
+msgid "Prevent search engines from crawling site search URLs"
+msgstr "검색 엔진의 사이트 검색 URL 크롤링 방지"
+
+#: admin/views/user-profile.php:72
+msgid "Removes the inclusive language analysis section from the metabox and disables all inclusive language-related suggestions."
+msgstr "메타박스에서 포괄적 언어 분석 섹션을 제거하고 모든 포괄적 언어 관련 제안을 비활성화합니다."
+
+#: admin/views/user-profile.php:69
+msgid "Disable inclusive language analysis"
+msgstr "포괄적 언어 분석 비활성화"
+
+#: admin/views/class-yoast-feature-toggles.php:95
+msgid "Discover why inclusive language is important for SEO."
+msgstr "포용적 언어가 SEO에 중요한 이유를 알아보세요."
+
+#: admin/views/class-yoast-feature-toggles.php:94
+msgid "The inclusive language analysis offers suggestions to write more inclusive copy."
+msgstr "포괄적인 언어 분석은 보다 포괄적인 문구를 작성하기 위한 제안을 제공합니다."
+
+#: admin/views/class-yoast-feature-toggles.php:91 js/dist/new-settings.js:16
+#: js/dist/new-settings.js:302
+msgid "Inclusive language analysis"
+msgstr "포괄적 언어 분석"
+
+#: admin/metabox/class-metabox-section-inclusive-language.php:30
+#: js/dist/externals-components.js:279
+msgid "Inclusive language"
+msgstr "포괄적 언어"
+
+#. translators: %1$s expands to the opening anchor tag, %2$s to the closing
+#. anchor tag, %3$s to the inclusive language score.
+#: admin/formatter/class-metabox-formatter.php:136
+#: admin/formatter/class-metabox-formatter.php:143
+#: admin/formatter/class-metabox-formatter.php:150
+#: admin/formatter/class-metabox-formatter.php:157
+msgid "%1$sInclusive language%2$s: %3$s"
+msgstr "%1$s포함 언어%2$s: %3$s"
+
+#: inc/class-wpseo-admin-bar-menu.php:269
+msgid "Front-end SEO inspector"
+msgstr "프런트엔드 SEO 검사기"
+
+#: admin/class-yoast-form.php:950
+msgid "Unlock with Premium!"
+msgstr "프리미엄으로 잠금 해제하세요!"
+
+#. translators: 1: Yoast SEO Premium
+#: src/integrations/admin/deactivated-premium-integration.php:99
+msgid "Activate %1$s!"
+msgstr "%1$s을 활성화하세요!"
+
+#. translators: 1: Yoast SEO Premium 2: Link start tag to activate premium, 3:
+#. Link closing tag.
+#: src/integrations/admin/deactivated-premium-integration.php:86
+msgid "You've installed %1$s but it's not activated yet. %2$sActivate %1$s now!%3$s"
+msgstr "%1$s을 설치했지만 아직 활성화되지 않았습니다. %2$s지금 %1$s을 활성화하세요!%3$s"
+
+#: src/integrations/admin/crawl-settings-integration.php:212
+msgid "Permalink cleanup settings"
+msgstr "퍼머링크 정리 설정"
+
+#: src/integrations/admin/crawl-settings-integration.php:198
+msgid "Search cleanup settings"
+msgstr "검색 정리 설정"
+
+#: src/integrations/admin/crawl-settings-integration.php:155
+#: js/dist/new-settings.js:16 js/dist/new-settings.js:172
+msgid "Filter searches with common spam patterns"
+msgstr "일반적인 스팸 패턴으로 검색 필터링"
+
+#: src/integrations/admin/crawl-settings-integration.php:154
+#: js/dist/new-settings.js:16 js/dist/new-settings.js:172
+msgid "Filter searches with emojis and other special characters"
+msgstr "이모티콘 및 기타 특수 문자로 검색 필터링하기"
+
+#: src/integrations/admin/crawl-settings-integration.php:153
+#: js/dist/new-settings.js:16 js/dist/new-settings.js:172
+msgid "Filter search terms"
+msgstr "검색어 필터링"
+
+#: src/integrations/admin/crawl-settings-integration.php:149
+msgid "Unregistered URL parameters"
+msgstr "등록되지 않은 URL 매개변수"
+
+#: src/integrations/admin/crawl-settings-integration.php:148
+msgid "Campaign tracking URL parameters"
+msgstr "캠페인 추적 URL 매개변수"
+
+#: src/deprecated/src/config/wordproof-translations.php:129
+msgid "Contact WordProof support"
+msgstr "워드프루프 지원팀에 문의"
+
+#: admin/views/class-yoast-feature-toggles.php:199
+msgid "Find out how IndexNow can help your site."
+msgstr "IndexNow가 사이트에 어떤 도움을 줄 수 있는지 알아보세요."
+
+#: admin/views/class-yoast-feature-toggles.php:198 js/dist/new-settings.js:306
+msgid "Automatically ping search engines like Bing and Yandex whenever you publish, update or delete a post."
+msgstr "게시물을 게시, 업데이트 또는 삭제할 때마다 Bing 및 Yandex와 같은 검색 엔진을 자동으로 핑합니다."
+
+#: admin/views/class-yoast-feature-toggles.php:195 js/dist/new-settings.js:16
+#: js/dist/new-settings.js:306
+msgid "IndexNow"
+msgstr "IndexNow"
+
+#. translators: 1: Link start tag to the first-time configuration, 2: Link
+#. closing tag.
+#: src/integrations/admin/first-time-configuration-notice-integration.php:119
+msgid "We noticed that you haven't fully configured Yoast SEO yet. Optimize your SEO settings even further by using our improved %1$s First-time configuration%2$s."
+msgstr "우리는 당신이 아직 Yoast SEO의 설정을 끝마치지 않았다는 것을 확인했습니다. 저희의 발전한 %1$s처음 구성하기%2$s 기능을 사용해서 당신의 SEO 설정을 보다 확실하게 최적화해주세요."
+
+#: src/helpers/first-time-configuration-notice-helper.php:68
+msgid "SEO configuration"
+msgstr "SEO 환경설정"
+
+#: src/integrations/admin/crawl-settings-integration.php:188
+msgid "Feed crawl settings"
+msgstr "피드 크롤링 설정"
+
+#: src/integrations/admin/crawl-settings-integration.php:186
+msgid "Basic crawl settings"
+msgstr "기본 크롤링 설정"
+
+#: src/integrations/admin/crawl-settings-integration.php:144
+msgid "Powered by HTTP header"
+msgstr "HTTP 헤더에 의해 작동됨"
+
+#: src/integrations/admin/crawl-settings-integration.php:143
+#: js/dist/new-settings.js:16 js/dist/new-settings.js:171
+msgid "Pingback HTTP header"
+msgstr "Pingback HTTP 헤더"
+
+#: src/integrations/admin/crawl-settings-integration.php:161
+msgid "Emoji scripts"
+msgstr "이모지 스크립트"
+
+#: src/integrations/admin/crawl-settings-integration.php:142
+msgid "Generator tag"
+msgstr "tag 생성기"
+
+#: src/integrations/admin/crawl-settings-integration.php:141
+msgid "oEmbed links"
+msgstr "oEmbed 링크"
+
+#: src/integrations/admin/crawl-settings-integration.php:140
+msgid "RSD / WLW links"
+msgstr "RSD / WLW 링크"
+
+#: src/integrations/admin/crawl-settings-integration.php:139
+msgid "REST API links"
+msgstr "REST API 링크"
+
+#: src/integrations/admin/crawl-settings-integration.php:138
+msgid "Shortlinks"
+msgstr "숏링크"
+
+#: src/integrations/admin/crawl-settings-integration.php:134
+msgid "Atom/RDF feeds"
+msgstr "Atom/RDF 피드"
+
+#: src/integrations/admin/crawl-settings-integration.php:133
+msgid "Search results feeds"
+msgstr "검색 결과 피드"
+
+#: src/integrations/admin/crawl-settings-integration.php:132
+msgid "Custom taxonomy feeds"
+msgstr "커스텀 택소노미 피드"
+
+#: src/integrations/admin/crawl-settings-integration.php:131
+msgid "Tag feeds"
+msgstr "태그 피드"
+
+#: src/integrations/admin/crawl-settings-integration.php:130
+msgid "Category feeds"
+msgstr "카테고리 피드"
+
+#: src/integrations/admin/crawl-settings-integration.php:129
+msgid "Post type feeds"
+msgstr "게시물 타입 피드"
+
+#: src/integrations/admin/crawl-settings-integration.php:128
+msgid "Post authors feeds"
+msgstr "작성자 피드"
+
+#: src/integrations/admin/crawl-settings-integration.php:126
+msgid "Global comment feeds"
+msgstr "전체 코멘트 피드"
+
+#: src/integrations/admin/crawl-settings-integration.php:125
+msgid "Global feed"
+msgstr "전체 피드"
+
+#: src/integrations/admin/crawl-settings-integration.php:127
+msgid "Post comments feeds"
+msgstr "게시물 댓글 피드"
+
+#. translators: %1$s opens the link to the Yoast.com article about Crawl
+#. settings, %2$s closes the link,
+#: admin/views/tabs/network/crawl-settings.php:31
+msgid "%1$sLearn more about crawl settings.%2$s"
+msgstr "%1$s크롤링 설정에 대해 더 알아보기%2$s"
+
+#: admin/views/redirects.php:188
+msgid "No items found."
+msgstr "항목을 찾을 수 없습니다."
+
+#: admin/views/redirects.php:137
+msgid "All redirect types"
+msgstr "모든 리디렉션 유형"
+
+#: admin/views/redirects.php:122
+msgid "Add Redirect"
+msgstr "리디렉션 추가"
+
+#: admin/views/redirects.php:100 admin/views/redirects.php:165
+#: admin/views/redirects.php:212
+msgid "Old URL"
+msgstr "이전 URL"
+
+#. translators: 1: opens a link. 2: closes the link.
+#: admin/views/redirects.php:91
+msgid "The redirect type is the HTTP response code sent to the browser telling the browser what type of redirect is served. %1$sLearn more about redirect types%2$s."
+msgstr "리디렉션 타입은 브라우저에게 어떤 타입의 리디렉션이 요구되는지 알려주는 HTTP response 코드입니다. %1$s리디렉션 타입에 대해 더 알아보기%2$s"
+
+#: admin/views/redirects.php:66 admin/views/redirects.php:75
+msgid "301 Moved Permanently"
+msgstr "301 Moved Permanently"
+
+#: admin/views/redirects.php:59 admin/views/redirects.php:155
+#: admin/views/redirects.php:203
+msgid "Type"
+msgstr "타입"
+
+#: admin/views/redirects.php:50
+msgid "Plain redirects"
+msgstr "일반 리디렉션"
+
+#: admin/views/redirects.php:37
+msgid "Regex Redirects"
+msgstr "정규식 리디렉션"
+
+#: admin/pages/network.php:25 admin/views/tabs/network/crawl-settings.php:19
+msgid "Crawl settings"
+msgstr "크롤링 설정"
+
+#: src/integrations/admin/first-time-configuration-integration.php:127
+msgid "First-time configuration"
+msgstr "처음 구성"
+
+#. translators: 1: Link start tag to the First time configuration tab in the
+#. General page, 2: Link closing tag.
+#: admin/views/tabs/tool/import-seo.php:105
+msgid "You should finish the %1$sfirst time configuration%2$s to make sure your SEO data has been optimized and you’ve set the essential Yoast SEO settings for your site."
+msgstr "%1$s최초 구성%2$s을 완료하여 SEO 데이터가 최적화되었는지, 사이트에 대한 필수 Yoast SEO 설정을 설정했는지 확인해야 합니다."
+
+#: admin/views/tabs/tool/import-seo.php:100
+msgid "Step 4: Go through the first time configuration"
+msgstr "4단계: 처음 구성하기"
+
+#: src/services/health-check/postname-permalink-check.php:47
+msgid "Postname permalink"
+msgstr "글명 퍼머링크"
+
+#: src/services/health-check/page-comments-check.php:47
+msgid "Page comments"
+msgstr "페이지 댓글"
+
+#: src/services/health-check/links-table-check.php:47
+msgid "Links table"
+msgstr "링크 표"
+
+#: src/integrations/admin/import-integration.php:220
+msgid "If you already have saved AIOSEO 'Search Appearance' settings and the issue persists, please contact our support team so we can take a closer look."
+msgstr "AIOSEO '검색 표시' 설정을 이미 저장했는데도 문제가 지속되는 경우 지원팀에 문의하여 자세히 살펴볼 수 있도록 도와주세요."
+
+#: src/integrations/admin/import-integration.php:217
+msgid "If you have never saved any AIOSEO 'Search Appearance' settings, please do that first and run the import again."
+msgstr "AIOSEO '검색 모양' 설정을 저장한 적이 없다면 먼저 저장한 후 가져오기를 다시 실행하세요."
+
+#: src/integrations/admin/import-integration.php:214
+msgid "The AIOSEO import was cancelled because some AIOSEO data is missing. Please try and take the following steps to fix this:"
+msgstr "일부 AIOSEO 데이터가 누락되어 AIOSEO 가져오기가 취소되었습니다. 이 문제를 해결하려면 다음 단계를 수행해 보세요:"
+
+#: src/exceptions/importing/aioseo-validation-exception.php:17
+msgid "The validation of the AIOSEO data structure has failed."
+msgstr "AIOSEO 데이터 구조의 유효성 검사에 실패했습니다."
+
+#: src/deprecated/src/integrations/third-party/wordproof-integration-toggle.php:122
+msgid "The WordProof Timestamp plugin needs to be disabled before you can activate this integration."
+msgstr "이 통합을 활성화하려면 먼저 WordProof 타임스탬프 플러그인을 비활성화해야 합니다."
+
+#. translators: %s expands to WordProof
+#: src/deprecated/src/integrations/third-party/wordproof-integration-toggle.php:116
+msgid "Currently, the %s integration is not available for multisites."
+msgstr "현재 다중 사이트에서는 %s 통합을 사용할 수 없습니다."
+
+#: src/deprecated/src/config/wordproof-translations.php:115
+msgid "Open settings"
+msgstr "설정 열기"
+
+#: src/deprecated/src/config/wordproof-translations.php:101
+msgid "Open authentication"
+msgstr "인증 열기"
+
+#. translators: %s expands to WordProof.
+#: src/deprecated/src/config/wordproof-translations.php:87
+msgid "The timestamp is not created because you need to authenticate with %s first."
+msgstr "먼저 %s로 인증해야 하므로 타임스탬프가 생성되지 않습니다."
+
+#. translators: %s expands to WordProof.
+#: src/deprecated/src/config/wordproof-translations.php:72
+msgid "The timestamp is not retrieved by your site. Please try again or contact %1$s support."
+msgstr "사이트에서 타임스탬프를 검색할 수 없습니다. 다시 시도하거나 %1$s 지원팀에 문의하세요."
+
+#. translators: %s expands to WordProof.
+#: src/deprecated/src/config/wordproof-translations.php:57
+msgid "%1$s failed to timestamp this page. Please check if you're correctly authenticated with %1$s and try to save this page again."
+msgstr "%1$s에서 이 페이지의 타임스탬프를 찍지 못했습니다. %1$s로 올바르게 인증되었는지 확인한 후 이 페이지를 다시 저장해 보세요."
+
+#. translators: %s expands to WordProof.
+#: src/deprecated/src/config/wordproof-translations.php:42
+msgid "%s has successfully timestamped this page."
+msgstr "%s가 이 페이지에 타임스탬프를 성공적으로 찍었습니다."
+
+#. translators: %s expands to WordProof.
+#: src/deprecated/src/config/wordproof-translations.php:27
+msgid "You are out of timestamps. Please upgrade your account by opening the %s settings."
+msgstr "타임스탬프가 부족합니다. %s 설정을 열어 계정을 업그레이드하세요."
+
+#: src/integrations/admin/import-integration.php:236
+msgid "Cleanup failed with the following error:"
+msgstr "다음 오류로 정리에 실패했습니다:"
+
+#: src/integrations/admin/import-integration.php:120
+msgid "Note: These settings will overwrite the default settings of Yoast SEO."
+msgstr "참고: 이러한 설정은 요스트 SEO의 기본 설정을 덮어씁니다."
+
+#: src/integrations/admin/import-integration.php:116
+#: src/integrations/admin/import-integration.php:126
+msgid "Note: This metadata will only be imported if there is no existing Yoast SEO metadata yet."
+msgstr "참고: 이 메타데이터는 기존 요스트 SEO 메타데이터가 아직 없는 경우에만 가져옵니다."
+
+#: src/integrations/admin/import-integration.php:115
+#: src/integrations/admin/import-integration.php:125
+msgid "Post metadata (SEO titles, descriptions, etc.)"
+msgstr "글 메타데이터(SEO 제목, 설명 등)"
+
+#. translators: %s: expands to the name of the plugin that is selected to be
+#. imported
+#: src/integrations/admin/import-integration.php:111
+msgid "The import from %s includes:"
+msgstr "%s에서 가져오기에는 다음이 포함됩니다:"
+
+#: src/integrations/admin/import-integration.php:109
+msgid "Once you're certain that your site is working properly with the imported data from another SEO plugin, you can clean up all the original data from that plugin."
+msgstr "다른 SEO 플러그인에서 가져온 데이터로 사이트가 제대로 작동하는 것이 확인되면 해당 플러그인의 모든 원본 데이터를 정리할 수 있습니다."
+
+#: src/integrations/admin/import-integration.php:108
+msgid "Please select an SEO plugin below to see what data can be imported."
+msgstr "아래에서 SEO 플러그인을 선택하여 가져올 수 있는 데이터를 확인하세요."
+
+#: src/integrations/admin/import-integration.php:107
+msgid "Clean up"
+msgstr "정리"
+
+#: src/integrations/admin/import-integration.php:99
+msgid "After you've imported data from another SEO plugin, please make sure to clean up all the original data from that plugin. (step 5)"
+msgstr "다른 SEO 플러그인에서 데이터를 가져온 후에는 해당 플러그인의 모든 원본 데이터를 정리하세요. (5단계)"
+
+#: src/integrations/admin/import-integration.php:98
+msgid "Note: "
+msgstr "참고: "
+
+#: src/integrations/admin/import-integration.php:97
+msgid "The cleanup can take a long time depending on your site's size."
+msgstr "사이트 규모에 따라 정리하는 데 시간이 오래 걸릴 수 있습니다."
+
+#: src/services/health-check/default-tagline-check.php:47
+msgid "Default tagline"
+msgstr "기본 태그 라인"
+
+#: src/integrations/admin/import-integration.php:238
+msgid "Import failed with the following error:"
+msgstr "다음 오류로 가져오기에 실패했습니다:"
+
+#: src/integrations/admin/import-integration.php:101
+msgid "No data found from other SEO plugins."
+msgstr "다른 SEO 플러그인에서 데이터를 찾을 수 없습니다."
+
+#: src/integrations/admin/import-integration.php:100
+msgid "Select SEO plugin"
+msgstr "SEO 플러그인 선택"
+
+#: src/integrations/admin/import-integration.php:96
+msgid "The import can take a long time depending on your site's size."
+msgstr "사이트 규모에 따라 가져오는 데 시간이 오래 걸릴 수 있습니다."
+
+#: src/integrations/admin/installation-success-integration.php:104
+msgid "Installation Successful"
+msgstr "설치 성공"
+
+#: src/config/schema-types.php:131
+msgid "Blog Post"
+msgstr "블로그 게시물"
+
+#. translators: %s: expands to 'Yoast SEO Premium'.
+#. translators: 1: Yoast WooCommerce SEO
+#: src/integrations/admin/workouts-integration.php:314
+#: js/dist/integrations-page.js:11
+msgid "Activate %s"
+msgstr "%s 활성화"
+
+#. translators: %s: expands to 'Yoast SEO Premium'.
+#: src/integrations/admin/workouts-integration.php:308
+msgid "Update %s"
+msgstr "업데이트 %s"
+
+#. translators: %s: expands to 'Yoast SEO Premium'.
+#: src/integrations/admin/workouts-integration.php:301
+msgid "Renew %s"
+msgstr "%s 갱신"
+
+#: src/integrations/admin/workouts-integration.php:242
+msgid "Get help activating your subscription"
+msgstr "구독 활성화에 대한 도움 받기"
+
+#. translators: 1: expands to 'Yoast SEO Premium', 2: Link start tag to the
+#. page to update Premium, 3: Link closing tag.
+#: src/integrations/admin/workouts-integration.php:236
+msgid "It looks like you’re running an outdated and unactivated version of %1$s, please activate your subscription in %2$sMyYoast%3$s and update to the latest version (at least 17.7) to gain access to our updated workouts section."
+msgstr "활성화되지 않은 오래된 %1$s 버전을 실행 중인 것 같습니다. 업데이트된 운동 섹션에 액세스하려면 %2$sMyYoast%3$s에서 구독을 활성화하고 최신 버전(17.7 이상)으로 업데이트하세요."
+
+#. translators: %s: expands to 'Yoast SEO Premium'.
+#: src/integrations/admin/workouts-integration.php:232
+msgid "Activate your subscription of %s"
+msgstr "%s 구독 활성화하기"
+
+#. translators: 1: expands to 'Yoast SEO Premium', 2: Link start tag to the
+#. page to update Premium, 3: Link closing tag.
+#: src/integrations/admin/workouts-integration.php:223
+msgid "It looks like you're running an outdated version of %1$s, please %2$supdate to the latest version (at least 17.7)%3$s to gain access to our updated workouts section."
+msgstr "%1$s의 오래된 버전을 실행 중인 것 같습니다. %2$s최신 버전(17.7 이상)%3$s으로 업데이트하여 업데이트된 운동 섹션에 액세스하세요."
+
+#. translators: %s: expands to 'Yoast SEO Premium'.
+#: src/integrations/admin/workouts-integration.php:220
+msgid "Update to the latest version of %s"
+msgstr "최신 버전의 %s로 업데이트"
+
+#: src/integrations/admin/workouts-integration.php:212
+msgid "Renew your subscription"
+msgstr "구독 갱신"
+
+#. translators: %s: expands to 'Yoast SEO Premium'.
+#: src/integrations/admin/workouts-integration.php:205
+msgid "Accessing the latest workouts requires an updated version of %s (at least 17.7), but it looks like your subscription has expired. Please renew your subscription to update and gain access to all the latest features."
+msgstr "최신 운동에 액세스하려면 업데이트된 버전의 %s(17.7 이상)가 필요하지만 구독이 만료된 것 같습니다. 모든 최신 기능을 업데이트하고 액세스하려면 구독을 갱신하세요."
+
+#. translators: %s: expands to 'Yoast SEO Premium'.
+#: src/integrations/admin/workouts-integration.php:202
+msgid "Renew your subscription of %s"
+msgstr "%s의 구독을 갱신"
+
+#. translators: 1: Link start tag to the first-time configuration, 2: Yoast
+#. SEO, 3: Link closing tag.
+#: src/integrations/admin/first-time-configuration-notice-integration.php:110
+msgid "Get started quickly with the %1$s%2$s First-time configuration%3$s and configure Yoast SEO with the optimal SEO settings for your site!"
+msgstr "%1$s%2$s Configuration workout%3$s 설정 개선하기 코스를 시작하고 사이트의 Yoast SEO를 최적의 SEO 세팅으로 설정하세요."
+
+#: inc/class-wpseo-replace-vars.php:1499
+msgid "Current or first category title"
+msgstr "현재 또는 첫 번째 카테고리 제목입니다."
+
+#: inc/class-wpseo-replace-vars.php:1499
+msgid "Category Title"
+msgstr "카테고리 제목"
+
+#: inc/class-wpseo-replace-vars.php:1498
+msgid "Replaced with the post content"
+msgstr "게시 내용으로 대체됨"
+
+#: inc/class-wpseo-replace-vars.php:1498
+msgid "Post Content"
+msgstr "게시물 콘텐츠"
+
+#: inc/class-wpseo-replace-vars.php:1497
+msgid "Replaced with the permalink"
+msgstr "퍼머링크로 대체됨"
+
+#: inc/class-wpseo-replace-vars.php:1496
+msgid "Replaced with the last name of the author"
+msgstr "작성자의 성으로 대체됨"
+
+#: inc/class-wpseo-replace-vars.php:1496
+msgid "Author last name"
+msgstr "작성자 성"
+
+#: inc/class-wpseo-replace-vars.php:1495
+msgid "Replaced with the first name of the author"
+msgstr "작성자의 이름으로 대체됨"
+
+#: inc/class-wpseo-replace-vars.php:1495
+msgid "Author first name"
+msgstr "작성자 이름"
+
+#: inc/class-wpseo-replace-vars.php:1494
+msgid "Replaced with the day the post was published"
+msgstr "글이 게시된 날짜로 바뀜"
+
+#: inc/class-wpseo-replace-vars.php:1494
+msgid "Post day"
+msgstr "게시일"
+
+#: inc/class-wpseo-replace-vars.php:1493
+msgid "Replaced with the month the post was published"
+msgstr "글이 게시된 월로 대체됨"
+
+#: inc/class-wpseo-replace-vars.php:1493
+msgid "Post month"
+msgstr "글 월"
+
+#: inc/class-wpseo-replace-vars.php:1492
+msgid "Replaced with the year the post was published"
+msgstr "글이 게시된 연도로 대체되었습니다."
+
+#: inc/class-wpseo-replace-vars.php:1492
+msgid "Post year"
+msgstr "글 연도"
+
+#: inc/class-wpseo-replace-vars.php:1491
+msgid "Current day"
+msgstr "현재 날짜"
+
+#: inc/class-wpseo-replace-vars.php:1490
+msgid "Current month"
+msgstr "현재 월"
+
+#: inc/class-wpseo-replace-vars.php:1488
+msgid "Current date"
+msgstr "현재 날짜"
+
+#. translators: %1$s expands to an opening strong tag, %2$s expands to the
+#. dependency name, %3$s expands to a closing strong tag, %4$s expands to an
+#. opening anchor tag, %5$s expands to a closing anchor tag.
+#: admin/class-suggested-plugins.php:111
+msgid "It looks like you aren't using our %1$s%2$s addon%3$s. %4$sUpgrade today%5$s to unlock more tools and SEO features to make your products stand out in search results."
+msgstr "%1$s%2$s 애드온을 사용하고 있지 않은 것 같습니다%3$s. %4$s오늘 업그레이드%5$s하여 검색 결과에서 제품을 돋보이게 하는 더 많은 도구와 SEO 기능을 잠금 해제하세요."
+
+#. translators: %1$s expands to an opening anchor tag for a link leading to the
+#. Premium installation page, %2$s expands to a closing anchor tag.
+#: src/presenters/admin/indexing-error-presenter.php:102
+msgid "Below are the technical details for the error. See %1$sthis page%2$s for a more detailed explanation."
+msgstr "아래는 오류에 대한 기술적인 세부사항입니다. 자세한 설명은 %1$s이 페이지%2$s 를 참조하십시오."
+
+#: src/integrations/admin/workouts-integration.php:93
+msgid "Workouts"
+msgstr "운동"
+
+#: admin/views/class-yoast-integration-toggles.php:81
+msgid "Improve the quality of your site search! Automatically helps your users find your cornerstone and most important content in your internal search results. It also removes noindexed posts & pages from your site’s search results."
+msgstr "사이트 검색 품질을 개선하세요! 사용자가 내부 검색 결과에서 핵심 콘텐츠와 가장 중요한 콘텐츠를 찾을 수 있도록 자동으로 도와줍니다. 또한 사이트 검색 결과에서 색인되지 않은 글과 페이지를 제거합니다."
+
+#. translators: %s: Algolia.
+#: admin/views/class-yoast-integration-toggles.php:83
+msgid "Find out more about our %s integration."
+msgstr "%s 통합에 대해 자세히 알아보세요."
+
+#: admin/views/class-yoast-feature-toggles.php:129
+msgid "Read more about how internal linking can improve your site structure."
+msgstr "내부 링크를 통해 사이트 구조를 개선하는 방법에 대해 자세히 알아보세요."
+
+#: admin/views/class-yoast-feature-toggles.php:128
+msgid "Get relevant internal linking suggestions — while you’re writing! The link suggestions metabox shows a list of posts on your blog with similar content that might be interesting to link to. "
+msgstr "글을 작성하는 동안 관련성 높은 내부 링크 제안을 받아보세요! 링크 제안 메타박스에는 블로그에서 링크하면 좋을 만한 유사한 콘텐츠가 있는 글 목록이 표시됩니다. "
+
+#: admin/views/class-yoast-feature-toggles.php:125 js/dist/new-settings.js:16
+#: js/dist/new-settings.js:302
+msgid "Link suggestions"
+msgstr "링크 제안"
+
+#: admin/views/class-yoast-feature-toggles.php:119
+msgid "Find out how Insights can help you improve your content."
+msgstr "인사이트가 콘텐츠 개선에 어떻게 도움이 되는지 알아보세요."
+
+#: admin/views/class-yoast-feature-toggles.php:118
+msgid "Find relevant data about your content right in the Insights section in the Yoast SEO metabox. You’ll see what words you use most often and if they’re a match with your keywords! "
+msgstr "요스트 SEO 메타박스의 인사이트 섹션에서 콘텐츠에 대한 관련 데이터를 바로 찾을 수 있습니다. 어떤 단어를 가장 자주 사용하는지, 키워드와 일치하는지 확인할 수 있습니다! "
+
+#: admin/views/class-yoast-feature-toggles.php:116 js/dist/block-editor.js:225
+#: js/dist/block-editor.js:572 js/dist/classic-editor.js:210
+#: js/dist/elementor.js:119 js/dist/new-settings.js:16
+#: js/dist/new-settings.js:302
+msgid "Insights"
+msgstr "인사이트"
+
+#. translators: %1$s expands to an opening anchor tag for a link leading to the
+#. Premium installation page, %2$s expands to a closing anchor tag.
+#. Translators: %1$s expands to an opening anchor tag for a link leading to the
+#. Premium installation page, %2$s expands to a closing anchor tag.
+#: src/presenters/admin/indexing-error-presenter.php:76
+#: src/presenters/admin/indexing-failed-notification-presenter.php:77
+msgid "Oops, something has gone wrong and we couldn't complete the optimization of your SEO data. Please make sure to activate your subscription in MyYoast by completing %1$sthese steps%2$s."
+msgstr "죄송합니다, 문제가 발생하여 SEO 데이터 최적화를 완료하지 못했습니다. 마이요스트에서 %1$s이 단계를 완료하여 구독을 활성화하세요%2$s."
+
+#: admin/views/redirects.php:22 js/dist/integrations-page.js:4
+#: js/dist/integrations-page.js:7 js/dist/integrations-page.js:19
+msgid "Unlock with Premium"
+msgstr "프리미엄 요금제 사용"
+
+#. translators: %1$s expands to Yoast SEO
+#: src/integrations/admin/addon-installation/dialog-integration.php:94
+msgid "No %1$s plugins have been installed. You don't seem to own any active subscriptions."
+msgstr "%1$s 플러그인이 설치되어 있지 않습니다. 활성 구독을 소유하고 있지 않은 것 같습니다."
+
+#. Translators: %s expands to the error message.
+#: src/integrations/admin/addon-installation/installation-integration.php:191
+msgid "Addon installation failed because of an error: %s."
+msgstr "오류로 인해 애드온을 설치하지 못했습니다: %s."
+
+#: src/integrations/admin/addon-installation/installation-integration.php:187
+msgid "You are not allowed to install plugins."
+msgstr "플러그인을 설치할 수 없습니다."
+
+#. Translators: %s expands to the name of the addon.
+#: src/integrations/admin/addon-installation/installation-integration.php:183
+msgid "Addon installed."
+msgstr "애드온이 설치되었습니다."
+
+#. Translators:%s expands to the error message.
+#: src/integrations/admin/addon-installation/installation-integration.php:159
+msgid "Addon activation failed because of an error: %s."
+msgstr "오류로 인해 애드온 활성화에 실패했습니다: %s."
+
+#: src/integrations/admin/addon-installation/installation-integration.php:155
+msgid "You are not allowed to activate plugins."
+msgstr "플러그인을 활성화할 수 없습니다."
+
+#. Translators: %s expands to the name of the addon.
+#: src/integrations/admin/addon-installation/installation-integration.php:153
+msgid "Addon activated."
+msgstr "애드온이 활성화되었습니다."
+
+#. translators: %1$s expands to an anchor tag to the admin premium page, %2$s
+#. expands to Yoast SEO Premium, %3$s expands to a closing anchor tag
+#: src/integrations/admin/addon-installation/installation-integration.php:128
+msgid "%1$s Continue to %2$s%3$s"
+msgstr "%1$s 계속하기 %2$s%3$s"
+
+#: src/integrations/admin/addon-installation/installation-integration.php:105
+msgid "Installing and activating addons"
+msgstr "애드온 설치 및 활성화"
+
+#. translators: %s expands to Yoast SEO Premium.
+#: admin/class-admin.php:255
+msgid "Required by %s"
+msgstr "%s에서 필수"
+
+#. Translators: %1$s resolves to Yoast SEO.
+#: src/integrations/watchers/addon-update-watcher.php:95
+msgid "Auto-updates are disabled based on this setting for %1$s."
+msgstr "%1$s의 경우 이 설정에 따라 자동 업데이트가 비활성화됩니다."
+
+#. Translators: %1$s resolves to Yoast SEO.
+#: src/integrations/watchers/addon-update-watcher.php:85
+msgid "Auto-updates are enabled based on this setting for %1$s."
+msgstr "%1$s에 대한 이 설정에 따라 자동 업데이트가 활성화됩니다."
+
+#: src/presenters/admin/badge-presenter.php:80
+#: src/presenters/admin/badge-presenter.php:87
+#: js/dist/externals/componentsNew.js:1080 js/dist/integrations-page.js:3
+#: js/dist/integrations-page.js:6 js/dist/integrations-page.js:18
+#: js/dist/new-settings.js:337
+msgid "New"
+msgstr "신규"
+
+#: src/exceptions/indexable/post-not-found-exception.php:16
+msgid "The post could not be found."
+msgstr "글을 찾을 수 없습니다."
+
+#. translators: %s is the reason given by WordPress.
+#: src/exceptions/indexable/invalid-term-exception.php:21
+msgid "The term is considered invalid. The following reason was given by WordPress: %s"
+msgstr "해당 용어는 유효하지 않은 것으로 간주됩니다. 워드프레스에서 제공한 이유는 다음과 같습니다. %s"
+
+#: src/exceptions/indexable/term-not-found-exception.php:16
+msgid "The term could not be found."
+msgstr "용어를 찾을 수 없습니다."
+
+#: admin/class-yoast-form.php:1085 js/dist/first-time-configuration.js:15
+msgid "This feature has been disabled since subsites never send tracking data."
+msgstr "이 기능은 하위 사이트가 추적 데이터를 보내지 않기 때문에 활성 해제되었습니다."
+
+#. translators: %1$s expands to an opening anchor tag, %2$s expands to an
+#. closing anchor tag.
+#: src/integrations/third-party/wpml-wpseo-notification.php:110
+msgid "We notice that you have installed WPML. To make sure your canonical URLs are set correctly, %1$sinstall and activate the WPML SEO add-on%2$s as well!"
+msgstr "WPML을 설치한 것을 확인했습니다. 표준 URL이 올바르게 설정되었는지 확인하려면 %1$s설치하고 WPML SEO 애드온 %2$s도 활성화하세요!"
+
+#: src/presenters/admin/indexing-notification-presenter.php:81
+msgid "Because of a change in your category base setting, some of your SEO data needs to be reprocessed."
+msgstr "카테고리 기반 설정의 변경으로, 일부 SEO 데이터를 다시 처리해야 합니다."
+
+#: admin/views/class-yoast-feature-toggles.php:190
+msgid "Find out how a rich snippet can improve visibility and click-through-rate."
+msgstr "리치 코드조각을 통해 가시성과 클릭율을 개선할 수 있는 방법을 알아보세요"
+
+#: admin/views/class-yoast-feature-toggles.php:189 js/dist/new-settings.js:302
+msgid "This adds an author byline and reading time estimate to the article’s snippet when shared on Slack."
+msgstr "이렇게 하면 슬랙에서 공유할 때 글쓴이의 기준선과 읽기 시간 추정치를 기사 조각에 추가합니다."
+
+#: admin/views/class-yoast-feature-toggles.php:187
+msgid "Enhanced Slack sharing"
+msgstr "향상된 슬랙 공유"
+
+#. translators: 1: Expands to Yoast SEO
+#: src/presenters/admin/indexing-notification-presenter.php:129
+msgid "Wait for a week or so, until %1$s automatically processes most of your content in the background."
+msgstr "%1$s가 백그라운드에서 대부분의 콘텐츠를 자동으로 처리 할 때 까지 일주일 정도 기다려야 합니다."
+
+#. translators: %s expands to the reading time number, in minutes
+#: src/presenters/slack/enhanced-data-presenter.php:55
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] "%s 분"
+
+#. translators: %s expands to the reading time number, in minutes
+#: src/presenters/slack/enhanced-data-presenter.php:55
+msgid "Est. reading time"
+msgstr "예상 되는 판독 시간"
+
+#: src/presenters/slack/enhanced-data-presenter.php:50
+msgid "Written by"
+msgstr "글쓴이"
+
+#: inc/class-wpseo-admin-bar-menu.php:440
+msgid "Google Rich Results Test"
+msgstr "구글 리치 결과 테스트"
+
+#: src/presenters/admin/indexing-notification-presenter.php:84
+msgid "Because of a change in your tag base setting, some of your SEO data needs to be reprocessed."
+msgstr "태그 기반 설정의 변경으로, 일부 SEO 데이터를 다시 처리해야합니다."
+
+#. translators: %s: 'Semrush'
+#: admin/views/class-yoast-integration-toggles.php:71
+msgid "The %s integration offers suggestions and insights for keywords related to the entered focus keyphrase."
+msgstr "%s 통합은 입력된 키프레스와 관련된 키워드에 대한 제안 과 인사이트를 제공합니다."
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/views/tabs/network/integrations.php:27
+msgid "This tab allows you to selectively disable %1$s integrations with third-party products for all sites in the network. By default all integrations are enabled, which allows site admins to choose for themselves if they want to toggle an integration on or off for their site. When you disable an integration here, site admins will not be able to use that integration at all."
+msgstr "이 탭에서는 네트워크의 모든 사이트에 대해 타사 제품과의 %1$s 통합을 선택적으로 비활성화 할 수 있습니다. 기본적으로 모든 통합이 활성화 되어 있으므로 사이트 관리자가 사이트에 대한 통합을 켜거나 끄려는 경우 스스로 선택 할 수 있습니다. 여기에서 통합을 비활성화하면 사이트 관리자는 해당 통합을 전혀 사용 할 수 없습니다."
+
+#: admin/class-admin.php:266
+msgid "Activate your subscription"
+msgstr "내 구독 활성화하기"
+
+#: src/presenters/admin/indexing-error-presenter.php:64
+msgid "Oops, something has gone wrong and we couldn't complete the optimization of your SEO data. Please click the button again to re-start the process. "
+msgstr "죄송합니다. 문제가 발생하여 SEO 데이터 최적화를 완료 할 수 없습니다. 버튼을 클릭해서 다시 시도하시기 바랍니다."
+
+#: src/integrations/watchers/indexable-homeurl-watcher.php:97
+msgid "All permalinks were successfully reset"
+msgstr "모든 퍼머링크가 성공적으로 재설정 되었습니다."
+
+#: src/presenters/admin/indexing-notification-presenter.php:96
+msgid "You can speed up your site and get insight into your internal linking structure by letting us perform a few optimizations to the way SEO data is stored. "
+msgstr "SEO 데이터를 저장하는 방식에 대해 몇 가지 최적화를 한 뒤, 내부 링크 구조 분석을 통해서 웹사이트 속도를 높일 수 있습니다."
+
+#: src/presenters/admin/indexing-notification-presenter.php:59
+#: js/dist/first-time-configuration.js:9 js/dist/indexation.js:8
+msgid "Start SEO data optimization"
+msgstr "SEO데이터 최적화 시작하기"
+
+#: src/presenters/admin/indexing-list-item-presenter.php:42
+msgid "Learn more about the benefits of optimized SEO data."
+msgstr "최적화 된 SEO 데이터의 이점에 대해 자세히 알아보세요."
+
+#: src/presenters/admin/indexing-list-item-presenter.php:40
+msgid "You can speed up your site and get insight into your internal linking structure by letting us perform a few optimizations to the way SEO data is stored. If you have a lot of content it might take a while, but trust us, it's worth it."
+msgstr "SEO 데이터가 저장되는 방식에 대해 몇 가지 최적화를 수행하여 사이트 속도를 높이고 내부 연결 구조에 대한 인사이트를 얻을 수 있습니다. 콘텐츠가 많은 경우 시간이 걸릴 수 있지만 저희를 믿으세요. 그만한 가치가 있습니다."
+
+#: src/presenters/admin/indexing-list-item-presenter.php:37
+msgid "Optimize SEO Data"
+msgstr "SEO 데이터 최적화하기"
+
+#: src/presenters/admin/indexing-error-presenter.php:71
+#: src/presenters/admin/indexing-failed-notification-presenter.php:71
+msgid "If the problem persists, please contact support."
+msgstr "문제가 지속될 경우 지원팀에 문의하세요."
+
+#. Translators: %1$s expands to an opening anchor tag for a link leading to the
+#. Yoast SEO tools page, %2$s expands to a closing anchor tag.
+#: src/presenters/admin/indexing-failed-notification-presenter.php:59
+msgid "Something has gone wrong and we couldn't complete the optimization of your SEO data. Please %1$sre-start the process%2$s."
+msgstr "문제가 발생하여 SEO 데이터 최적화를 완료 할 수 없습니다. %1$s %2$s 프로세스를 다시 시작하세요."
+
+#. translators: %s expands to a mailto support link.
+#: inc/class-addon-manager.php:875
+msgid "If you still need support and have an active subscription for this product, please email %s."
+msgstr "해당 제품에 구독이 활성화 되어있으신 상태에서 추가적인 도움이 필요하시면, %s(으)로 이메일을 보내주시기 바랍니다."
+
+#. translators: 1: expands to <a> that refers to the help page, 2: </a> closing
+#. tag.
+#: inc/class-addon-manager.php:872
+msgid "You can probably find an answer to your question in our %1$shelp center%2$s."
+msgstr "우리의 %1$s도움말 센터%2$s에서 해답을 찾으실 수 있으실 겁니다."
+
+#: inc/class-addon-manager.php:869
+msgid "Need support?"
+msgstr "도움이 필요하세요?"
+
+#. translators: %1$s: expands to an opening anchor tag, %2$s: expands to a
+#. closing anchor tag
+#: admin/views/class-yoast-feature-toggles.php:241
+msgid "Disabling Yoast SEO's XML sitemaps will not disable WordPress' core sitemaps. In some cases, this %1$s may result in SEO errors on your site%2$s. These may be reported in Google Search Console and other tools."
+msgstr "YOAST SEO의 XML 시트맵을 비활성화해도 WordPress의 코어 사이트맵은 비활성화 되지 않습니다. 경우에 따라 이는 %1$s는 사이트에 SEO 오류를 발생시킬 수 있습니다%2$s. 해당 내용은 구글 검색 콘솔과 다른 도구에 보고될 수 있습니다."
+
+#. translators: 1: Yoast SEO, 2: translated version of "Off"
+#: admin/views/class-yoast-feature-toggles.php:158
+msgid "The advanced section of the %1$s meta box allows a user to remove posts from the search results or change the canonical. The settings in the schema tab allows a user to change schema meta data for a post. These are things you might not want any author to do. That's why, by default, only editors and administrators can do this. Setting to \"%2$s\" allows all users to change these settings."
+msgstr "%1$s 메타 상자의 고급 섹션을 통해 사용자는 검색 결과에서 게시물을 제거하거나 표준을 변경할 수 있습니다. 스키마 탭의 설정을 통해 사용자는 게시물의 스키마 메타 데이터를 변경할 수 있습니다. 이것은 누구도 원하지 않는 일입니다. 이것이 기본적으로 편집자와 관리자만이 작업을 수행 할 수 있는 이유입니다. \"%2$s\"로 설정하면 모든 사용자가 이러한 설정을 변경할 수 있습니다."
+
+#: admin/views/class-yoast-feature-toggles.php:154
+msgid "Security: no advanced or schema settings for authors"
+msgstr "보안 : 작성자를 위한 고급 또는 스키마 설정이 없음"
+
+#: src/config/schema-types.php:159
+msgid "Report"
+msgstr "보고서"
+
+#: src/config/schema-types.php:155
+msgid "Tech Article"
+msgstr "기술 기사"
+
+#: src/config/schema-types.php:151
+msgid "Scholarly Article"
+msgstr "학술 기사"
+
+#: src/config/schema-types.php:147
+msgid "Satirical Article"
+msgstr "풍자 기사"
+
+#: src/config/schema-types.php:143
+msgid "Advertiser Content Article"
+msgstr "광고주 콘텐츠 기사"
+
+#: src/config/schema-types.php:139
+msgid "News Article"
+msgstr "뉴스 기사"
+
+#: src/config/schema-types.php:135
+msgid "Social Media Posting"
+msgstr "소셜 미디어 포스팅"
+
+#: src/config/schema-types.php:127
+msgid "Article"
+msgstr "기사"
+
+#: src/config/schema-types.php:104
+msgid "Search Results Page"
+msgstr "검색 결과 페이지"
+
+#: src/config/schema-types.php:100
+msgid "Real Estate Listing"
+msgstr "부동산 목록"
+
+#: src/config/schema-types.php:96
+msgid "Checkout Page"
+msgstr "결제 페이지"
+
+#: src/config/schema-types.php:92
+msgid "Collection Page"
+msgstr "컬렉션 페이지"
+
+#: src/config/schema-types.php:88
+msgid "Medical Web Page"
+msgstr "의료 웹 페이지"
+
+#: src/config/schema-types.php:84
+msgid "Contact Page"
+msgstr "연락처 페이지"
+
+#: src/config/schema-types.php:80
+msgid "Profile Page"
+msgstr "프로필 페이지"
+
+#: src/config/schema-types.php:76
+msgid "QA Page"
+msgstr "QA 페이지"
+
+#: src/config/schema-types.php:72
+msgid "FAQ Page"
+msgstr "FAQ 페이지"
+
+#: src/config/schema-types.php:68
+msgid "About Page"
+msgstr "정보 페이지"
+
+#: src/config/schema-types.php:64 js/dist/block-editor.js:511
+#: js/dist/classic-editor.js:496 js/dist/elementor.js:385
+msgid "Item Page"
+msgstr "아이템 페이지"
+
+#: src/config/schema-types.php:60
+msgid "Web Page"
+msgstr "웹 페이지"
+
+#. translators: 1: Yoast SEO
+#: admin/views/class-yoast-feature-toggles.php:170
+msgid "Allow us to track some data about your site to improve our plugin."
+msgstr "플러그인을 개선하기 위해 사이트에 대한 일부 데이터를 추적 할 수 있습니다."
+
+#: admin/views/class-yoast-feature-toggles.php:165
+#: admin/views/class-yoast-feature-toggles.php:166 js/dist/new-settings.js:16
+#: js/dist/new-settings.js:299
+msgid "Usage tracking"
+msgstr "사용 추적"
+
+#: src/presenters/admin/indexing-notification-presenter.php:75
+msgid "Because of a change in your permalink structure, some of your SEO data needs to be reprocessed."
+msgstr "퍼머링크 구조가 변경되었으므로 일부 SEO 데이터를 다시 처리해야 합니다."
+
+#: src/presenters/admin/indexing-notification-presenter.php:78
+msgid "Because of a change in your home URL setting, some of your SEO data needs to be reprocessed."
+msgstr "홈 URL 설정이 변경되었으므로 일부 SEO 데이터를 다시 처리해야 합니다."
+
+#. translators: %1$s expands to Yoast.
+#: src/integrations/blocks/block-categories.php:45
+msgid "%1$s Internal Linking Blocks"
+msgstr "%1$s 내부 연결 블록"
+
+#. translators: 1: Link to the Yoast help center, 2: Link closing tag.
+#: src/services/health-check/links-table-reports.php:100
+msgid "%1$sFind out how to solve this problem on our help center%2$s."
+msgstr "%1$s고객센터에서 이 문제를 해결하는 방법을 알아보세요%2$s."
+
+#: src/services/health-check/links-table-reports.php:58
+msgid "The text link counter feature is not working as expected"
+msgstr "텍스트 링크 카운터 기능이 예상대로 작동하지 않습니다."
+
+#. translators: 1: Link to the Yoast SEO blog, 2: Link closing tag.
+#: src/services/health-check/links-table-reports.php:73
+msgid "The text link counter helps you improve your site structure. %1$sFind out how the text link counter can enhance your SEO%2$s."
+msgstr "텍스트 링크 카운터는 사이트 구조를 개선하는 데 도움이 됩니다. %1$s텍스트 링크 카운터가 SEO를 향상시키는 방법 알아보기%2$s."
+
+#: src/services/health-check/links-table-reports.php:45
+msgid "The text link counter is working as expected"
+msgstr "텍스트 링크 카운터가 예상대로 작동합니다."
+
+#. translators: %1$s: Link to article about text links, %2$s: Anchor closing
+#. tag, %3$s: Emphasis open tag, %4$s: Emphasis close tag
+#: admin/class-yoast-columns.php:52
+msgid "The links columns show the number of articles on this site linking %3$sto%4$s this article and the number of URLs linked %3$sfrom%4$s this article. Learn more about %1$show to use these features to improve your internal linking%2$s, which greatly enhances your SEO."
+msgstr "링크 열에는 이 사이트에서 %3$s에서 이 문서 %4$s로 연결되는 문서 수와 %3$s에서 이 문서 %4$s로 연결되는 URL 수가 표시됩니다. %1$s에 대해 자세히 알아보기이러한 기능을 사용하여 내부 링크%2$s를 개선하는 방법 SEO를 크게 향상시킵니다."
+
+#. translators: %1$s: Link to article about content analysis, %2$s: Anchor
+#. closing
+#: admin/class-yoast-columns.php:43
+msgid "We've written an article about %1$show to use the SEO score and Readability score%2$s."
+msgstr "%1$s SEO 점수 및 가독성 점수 사용 방법%2$s에 대한 도움말 문서를 작성했습니다."
+
+#. translators: %1$s: Yoast SEO
+#: admin/class-yoast-columns.php:36
+msgid "%1$s adds several columns to this page."
+msgstr "%1$s은 이 페이지에 여러 열을 추가합니다."
+
+#: src/presenters/admin/search-engines-discouraged-presenter.php:41
+msgid "I don't want this site to show in the search results."
+msgstr "이 사이트가 검색 결과에 표시되지 않았으면 좋겠어요."
+
+#. translators: 1: Link start tag to the WordPress Reading Settings page, 2:
+#. Link closing tag.
+#: src/presenters/admin/search-engines-discouraged-presenter.php:36
+msgid "If you want search engines to show this site in their results, you must %1$sgo to your Reading Settings%2$s and uncheck the box for Search Engine Visibility."
+msgstr "검색 엔진에서 이 사이트를 검색 결과에 표시하려면 %1$s읽기 설정%2$s로 이동하여 검색 엔진 가시성 확인란을 선택 취소해야 합니다."
+
+#: src/presenters/admin/migration-error-presenter.php:59
+msgid "Show debug information"
+msgstr "디버그 정보 표시"
+
+#. translators: %s: Yoast SEO.
+#: src/presenters/admin/migration-error-presenter.php:53
+msgid "Your site will continue to work normally, but won't take full advantage of %s."
+msgstr "사이트는 계속 정상적으로 작동하지만 %s를 최대한 활용하지는 못합니다."
+
+#. translators: %s: Yoast SEO.
+#: src/presenters/admin/migration-error-presenter.php:42
+msgid "%s had problems creating the database tables needed to speed up your site."
+msgstr "%s는 사이트 속도를 높이는 데 필요한 데이터베이스 테이블을 만드는 데 문제가 있습니다."
+
+#: src/presenters/admin/indexing-notification-presenter.php:117
+msgid "We estimate this will take less than a minute."
+msgstr "1분 이내로 소요될 것으로 예상됩니다."
+
+#: src/presenters/admin/indexing-notification-presenter.php:121
+msgid "We estimate this will take a couple of minutes."
+msgstr "몇 분 정도 소요될 것으로 예상됩니다."
+
+#. translators: 1: Link to article about indexation command, 2: Anchor closing
+#. tag, 3: Link to WP CLI.
+#: src/presenters/admin/indexing-notification-presenter.php:136
+msgid "%1$sRun the indexation process on your server%2$s using %3$sWP CLI%2$s."
+msgstr "%1$s서버에서 인덱싱 프로세스 실행%2$s %3$sWP CLI를 사용하여 %2$s."
+
+#: src/presenters/admin/indexing-notification-presenter.php:124
+msgid "We estimate this could take a long time, due to the size of your site. As an alternative to waiting, you could:"
+msgstr "사이트 크기에 따라 시간이 오래 걸릴 수 있습니다. 기다리는 대신 다른 방법을 사용할 수 있습니다:"
+
+#. translators: %1$s: link to help article about solving table issue. %2$s: is
+#. anchor closing.
+#: src/presenters/admin/migration-error-presenter.php:47
+msgid "Please read %1$sthis help article%2$s to find out how to resolve this problem."
+msgstr "이 문제를 해결하는 방법을 알아보려면 %1$s이 도움말 문서%2$s를 참조하세요."
+
+#: inc/class-wpseo-replace-vars.php:1486
+msgid "Replaced with the term ancestors hierarchy"
+msgstr "조상 계층 구조라는 용어로 대체됨"
+
+#: inc/class-wpseo-replace-vars.php:1486
+msgid "Term hierarchy"
+msgstr "용어 계층 구조"
+
+#. translators: 1: Yoast SEO
+#: admin/views/class-yoast-feature-toggles.php:181
+msgid "This %1$s REST API endpoint gives you all the metadata you need for a specific URL. This will make it very easy for headless WordPress sites to use %1$s for all their SEO meta output."
+msgstr "이 %1$s REST API 엔드포인트는 특정 URL에 필요한 모든 메타데이터를 제공합니다. 이를 통해 헤드리스 워드프레스 사이트에서 모든 SEO 메타 출력에 %1$s을 매우 쉽게 사용할 수 있습니다."
+
+#: admin/views/class-yoast-feature-toggles.php:177
+msgid "REST API: Head endpoint"
+msgstr "REST API: 헤드 엔드포인트"
+
+#. translators: 1: link open tag; 2: link close tag.
+#: src/services/health-check/default-tagline-reports.php:63
+msgid "%1$sYou can change the tagline in the customizer%2$s."
+msgstr "%1$s커스터마이저에서 태그 라인을 변경할 수 있습니다%2$s."
+
+#: src/services/health-check/default-tagline-reports.php:45
+msgid "You still have the default WordPress tagline. Even an empty one is probably better."
+msgstr "기본 워드프레스 태그라인을 그대로 사용하세요. 비어 있는 것이 더 좋을 수도 있습니다."
+
+#: src/services/health-check/default-tagline-reports.php:43
+msgid "You should change the default WordPress tagline"
+msgstr "기본 워드프레스 태그라인을 변경해야 합니다."
+
+#: src/services/health-check/default-tagline-reports.php:32
+msgid "You are using a custom tagline or an empty one."
+msgstr "사용자 정의 태그 라인 또는 빈 태그 라인을 사용하고 있습니다."
+
+#: src/services/health-check/default-tagline-reports.php:30
+msgid "You changed the default WordPress tagline"
+msgstr "기본 워드프레스 태그라인을 변경한 경우"
+
+#: src/services/health-check/page-comments-reports.php:32
+msgid "Comments on your posts are displayed on a single page. This is just like we'd suggest it. You're doing well!"
+msgstr "글의 댓글이 한 페이지에 표시됩니다. 저희가 제안한 대로입니다. 잘하고 계십니다!"
+
+#. translators: %s expands to '/%postname%/'
+#: src/services/health-check/postname-permalink-reports.php:58
+msgid "It's highly recommended to have your postname in the URL of your posts and pages. Consider setting your permalink structure to %s."
+msgstr "글과 페이지의 URL에 글명을 포함하는 것이 좋습니다. 퍼머링크 구조를 %s로 설정하는 것도 고려해 보세요."
+
+#: src/services/health-check/postname-permalink-reports.php:43
+msgid "You do not have your postname in the URL of your posts and pages"
+msgstr "글과 페이지의 URL에 글 이름이 없는 경우"
+
+#: src/services/health-check/postname-permalink-reports.php:32
+msgid "You do have your postname in the URL of your posts and pages."
+msgstr "글과 페이지의 URL에 글명이 있습니다."
+
+#: src/services/health-check/postname-permalink-reports.php:30
+msgid "Your permalink structure includes the post name"
+msgstr "퍼머링크 구조에 게시물 이름이 포함되어 있습니다."
+
+#: src/services/health-check/page-comments-reports.php:45
+msgid "Comments on your posts break into multiple pages. As this is not needed in 999 out of 1000 cases, we recommend you disable it. To fix this, uncheck \"Break comments into pages...\" on the Discussion Settings page."
+msgstr "게시물에 대한 댓글은 여러 페이지로 나뉩니다. 이것은 1,000건 중 999건에는 필요하지 않기 때문에, 비활성화하는 것을 추천합니다. 이 문제를 해결하려면 토론 설정 페이지에서  \"댓글을 페이지로 나누기…\" 선택을 취소하십시오."
+
+#: src/services/health-check/page-comments-reports.php:43
+msgid "Comments break into multiple pages"
+msgstr "댓글이 여러 페이지로 나눕니다."
+
+#: src/services/health-check/page-comments-reports.php:30
+msgid "Comments are displayed on a single page"
+msgstr "댓글은 단일 페이지에 보입니다."
+
+#: src/helpers/post-helper.php:115
+msgid "No title"
+msgstr "제목 없음"
+
+#. translators: 1: Start of a paragraph beginning with the Yoast icon, 2:
+#. Expands to 'Yoast SEO', 3: Paragraph closing tag.
+#: src/services/health-check/report-builder.php:201
+msgid "%1$sThis was reported by the %2$s plugin%3$s"
+msgstr "%1$s이(가) %2$s 플러그인%3$s에 의해 보고됨"
+
+#. translators: 1: Opening tag of the link to the discussion settings page, 2:
+#. Link closing tag.
+#: src/services/health-check/page-comments-reports.php:58
+msgid "%1$sGo to the Discussion Settings page%2$s"
+msgstr "%1$s토론 설정 페이지로 이동%2$s"
+
+#: admin/metabox/class-metabox.php:193
+msgid "If you want to apply advanced <code>meta</code> robots settings for this page, please define them in the following field."
+msgstr "이 페이지에 대한 고급 <code>meta</code> 로봇 설정을 적용하려면 다음 필드에서 이를 정의하십시오."
+
+#. translators: 1: Link start tag to the Firefox website, 2: Link start tag to
+#. the Chrome website, 3: Link start tag to the Edge website, 4: Link closing
+#. tag.
+#: admin/metabox/class-metabox.php:154 admin/taxonomy/class-taxonomy.php:113
+msgid "The browser you are currently using is unfortunately rather dated. Since we strive to give you the best experience possible, we no longer support this browser. Instead, please use %1$sFirefox%4$s, %2$sChrome%4$s or %3$sMicrosoft Edge%4$s."
+msgstr "현재 사용 중인 브라우저는 최신 버전이 아닙니다. 최상의 경험을 제공하기 위해 노력하고 있으므로 더 이상 이 브라우저는 지원되지 않습니다. 대신 %1$sFirefox%4$s, %2$sChrome%4$s or %3$sMicrosoft Edge%4$s 를 사용하십시오."
+
+#. translators: %1$s expands to Yoast SEO academy
+#. translators: %1$s expands to "Yoast SEO academy".
+#: src/presenters/admin/sidebar-presenter.php:139 js/dist/new-settings.js:26
+#: js/dist/support.js:3
+msgid "Check out %1$s"
+msgstr "%1$s 확인"
+
+#: src/presenters/admin/sidebar-presenter.php:132 js/dist/new-settings.js:25
+#: js/dist/support.js:2
+msgid "We have both free and premium online courses to learn everything you need to know about SEO."
+msgstr "여러분이 SEO에 대해 알아야할 모든 것을 배우기 위한 무료와 프리미엄 온라인 코스를 제공합니다."
+
+#. translators: %1$s expands to Yoast SEO academy, which is a clickable link.
+#. translators: %1$s expands to "Yoast SEO" academy, which is a clickable link.
+#: src/presenters/admin/sidebar-presenter.php:130 js/dist/new-settings.js:25
+#: js/dist/support.js:2
+msgid "Want to learn SEO from Team Yoast? Check out our %1$s!"
+msgstr "Team Yoast에서 SEO를 배우고 싶으세요t?  %1$s 를 확인하세요!"
+
+#: src/presenters/admin/sidebar-presenter.php:122 js/dist/new-settings.js:25
+#: js/dist/support.js:2
+msgid "Learn SEO"
+msgstr "SEO 배우기"
+
+#. translators: %s expands to Yoast SEO
+#: admin/views/tabs/tool/wpseo-import.php:39
+msgid "%s settings to import:"
+msgstr "%s 설정을 가져옵니다."
+
+#. translators: 1: expands to Yoast SEO, 2: expands to Import settings.
+#: admin/views/tabs/tool/wpseo-import.php:23
+msgid "Import settings from another %1$s installation by pasting them here and clicking \"%2$s\"."
+msgstr "다른 %1$s 설치 설정을 가져오기 위하여 이곳에 붙여넣고 \"%2$s\"(을)를 클릭하십시오."
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/class-export.php:72
+msgid "Your %1$s settings:"
+msgstr "%1$s 셋팅:"
+
+#: admin/metabox/class-metabox.php:426 js/dist/block-editor.js:597
+#: js/dist/elementor.js:575 js/dist/new-settings.js:11
+#: js/dist/new-settings.js:16 js/dist/new-settings.js:20
+#: js/dist/new-settings.js:61 js/dist/new-settings.js:244
+msgid "Schema"
+msgstr "스키마"
+
+#: admin/admin-settings-changed-listener.php:85
+msgid "Settings saved."
+msgstr "설정이 저장되었습니다!"
+
+#. translators: %s: additional message with the submitted invalid value
+#: admin/class-yoast-input-validation.php:169
+msgid "Please check the format of the YouTube URL you entered. %s"
+msgstr "입력한 Youtube URL 형식을 확인하십시오. %s"
+
+#. translators: %s: additional message with the submitted invalid value
+#: admin/class-yoast-input-validation.php:159
+msgid "Please check the format of the Wikipedia URL you entered. %s"
+msgstr "입력한 위키백과 URL 형식을 확인하십시오. %s"
+
+#. translators: %s: additional message with the submitted invalid value
+#: admin/class-yoast-input-validation.php:144
+msgid "Please check the format of the Pinterest URL you entered. %s"
+msgstr "입력한 관심 URL 형식을 확인하십시오. %s"
+
+#. translators: %s: additional message with the submitted invalid value
+#: admin/class-yoast-input-validation.php:139
+msgid "Please check the format of the MySpace URL you entered. %s"
+msgstr "입력한 MySpace URL 형식을 확인하십시오. %s"
+
+#. translators: %s: additional message with the submitted invalid value
+#: admin/class-yoast-input-validation.php:129
+msgid "Please check the format of the LinkedIn URL you entered. %s"
+msgstr "입력한 Linkedin URL 형식을 확인하십시오. %s"
+
+#. translators: %s: additional message with the submitted invalid value
+#: admin/class-yoast-input-validation.php:124
+msgid "Please check the format of the Instagram URL you entered. %s"
+msgstr "입력한 인스타그램 URL 형식을 확인하십시오. %s"
+
+#. translators: %s: additional message with the submitted invalid value
+#: admin/class-yoast-input-validation.php:114
+msgid "Please check the format of the Facebook Page URL you entered. %s"
+msgstr "입력한 Facebook 페이지 URL 형식을 확인하십시오. %s"
+
+#. translators: %s: form value as submitted.
+#: admin/class-yoast-input-validation.php:321
+msgid "The submitted value was: %s"
+msgstr "제출된 값은: %s"
+
+#. translators: %s: additional message with the submitted invalid value
+#: admin/class-yoast-input-validation.php:164
+msgid "Yandex confirmation codes can only contain letters from A to F, numbers, hyphens, and underscores. %s"
+msgstr "얀덱스 확인 코드는 A에서 F까지의 문자, 숫자, 하이픈 및 밑줄 만 포함 할 수 있습니다. %s"
+
+#. translators: %s: additional message with the submitted invalid value
+#: admin/class-yoast-input-validation.php:154
+msgid "Twitter usernames can only contain letters, numbers, and underscores. %s"
+msgstr "트위터 사용자명은 글자, 숫자, 밑줄 표시만 사용 가능합니다. %s"
+
+#. translators: %s: additional message with the submitted invalid value
+#: admin/class-yoast-input-validation.php:149
+msgid "Pinterest confirmation codes can only contain letters from A to F, numbers, hyphens, and underscores. %s"
+msgstr "Pinterest 확인 코드는 A부터 F까지의 영문자, 번호, 하이픈 (-) 및 밑줄 표시만 포함 가능합니다. %s"
+
+#. translators: %s: additional message with the submitted invalid value
+#: admin/class-yoast-input-validation.php:134
+msgid "Bing confirmation codes can only contain letters from A to F, numbers, hyphens, and underscores. %s"
+msgstr "Bing 확인 코드는 A부터 F까지의 영문자, 번호, 하이픈 (-) 및 밑줄 표시만 포함 가능합니다. %s"
+
+#. translators: %s: additional message with the submitted invalid value
+#: admin/class-yoast-input-validation.php:119
+msgid "Google verification codes can only contain letters, numbers, hyphens, and underscores. %s"
+msgstr "구글 인증 코드는 글자, 번호 및 밑줄 표시만 포함 가능합니다. %s"
+
+#. translators: %s: additional message with the submitted invalid value
+#: admin/class-yoast-input-validation.php:109
+msgid "Baidu verification codes can only contain letters, numbers, hyphens, and underscores. %s"
+msgstr "Baidu 인증 코드는 문자, 숫자, 하이픈, 밑줄(_)만 입력할 수 있습니다. %s"
+
+#. translators: Hidden accessibility text.
+#: admin/views/partial-notifications-template.php:47
+msgid "Show this item."
+msgstr "이 항목 보이기"
+
+#. translators: Hidden accessibility text.
+#: admin/views/partial-notifications-template.php:39
+msgid "Hide this item."
+msgstr "이 항목 숨기기"
+
+#. translators: %d expands the amount of hidden problems.
+#: admin/views/partial-notifications-errors.php:25
+msgid "You have %d hidden problem:"
+msgid_plural "You have %d hidden problems:"
+msgstr[0] "숨겨진 문제가 %d개 있습니다."
+
+#. translators: %d expands the amount of hidden notifications.
+#: admin/views/partial-notifications-warnings.php:25
+msgid "You have %d hidden notification:"
+msgid_plural "You have %d hidden notifications:"
+msgstr[0] "숨겨진 알림이 %d개 있습니다. "
+
+#: src/helpers/score-icon-helper.php:84
+msgid "Focus keyphrase not set"
+msgstr "포커스 키프레이즈가 설정되지 않았습니다."
+
+#. translators: %1$s: amount of errors, %2$s: the admin page title
+#: admin/class-yoast-input-validation.php:65
+msgid "The form contains %1$s error. %2$s"
+msgid_plural "The form contains %1$s errors. %2$s"
+msgstr[0] "해당 형식은 %1$s 오류를 포함하고 있습니다. %2$s"
+
+#. translators: %s expands to the extension title
+#: admin/views/licenses.php:249 admin/views/licenses.php:353
+msgid "Activate %s for your site on MyYoast"
+msgstr "MyYoast로 당신의 사이트를 위해 %s(을)를 활성화 시키세요"
+
+#. translators: %1$s expands to the opening anchor tag, %2$s to the closing
+#. anchor tag, %3$s to the SEO score.
+#: admin/formatter/class-metabox-formatter.php:76
+#: admin/formatter/class-metabox-formatter.php:83
+#: admin/formatter/class-metabox-formatter.php:90
+#: admin/formatter/class-metabox-formatter.php:97
+msgid "%1$sSEO%2$s: %3$s"
+msgstr "%1$sSEO%2$s: %3$s"
+
+#. translators: %1$s expands to the opening anchor tag, %2$s to the closing
+#. anchor tag, %3$s to the readability score.
+#: admin/formatter/class-metabox-formatter.php:106
+#: admin/formatter/class-metabox-formatter.php:113
+#: admin/formatter/class-metabox-formatter.php:120
+#: admin/formatter/class-metabox-formatter.php:127
+msgid "%1$sReadability%2$s: %3$s"
+msgstr "%1$s 가독성 %2$s: %3$s"
+
+#. translators: %s expands to the score
+#: admin/statistics/class-statistics-service.php:216
+#: admin/statistics/class-statistics-service.php:221
+#: admin/statistics/class-statistics-service.php:226
+msgid "Posts with the SEO score: %s"
+msgstr "SEO 점수를 포함하는 게시글: %s"
+
+#. translators: %s: expends to Yoast SEO
+#: admin/class-admin.php:361
+msgid "%s video tutorial"
+msgstr "%s 영상 튜토리얼"
+
+#: inc/class-wpseo-rank.php:191
+msgid "Post Noindexed"
+msgstr "색인되지 않은 글"
+
+#: inc/class-wpseo-rank.php:171
+msgid "No Focus Keyphrase"
+msgstr "키워드 구문이 잘 드러나지 않음"
+
+#. translators: %s expands to the SEO score
+#: inc/class-wpseo-rank.php:170 inc/class-wpseo-rank.php:175
+#: inc/class-wpseo-rank.php:180 inc/class-wpseo-rank.php:185
+#: inc/class-wpseo-rank.php:190
+msgid "SEO: %s"
+msgstr "SEO: %s"
+
+#. Translators: %1$s: expands to opening anchor tag, %2$s expands to closing
+#. anchor tag.
+#: admin/google_search_console/views/gsc-display.php:39
+msgid "To view your current crawl errors, %1$splease visit Google Search Console%2$s."
+msgstr "현재 크롤링 오류를 확인하려면 %1$s구글 검색 콘솔%2$s를 방문하세요."
+
+#. Translators: %1$s: expands to opening anchor tag, %2$s expands to closing
+#. anchor tag.
+#: admin/google_search_console/views/gsc-display.php:32
+msgid "Google has discontinued its Crawl Errors API. Therefore, any possible crawl errors you might have cannot be displayed here anymore. %1$sRead our statement on this for further information%2$s."
+msgstr "Google은 크롤링 오류 API를 중단했습니다. 따라서 발생할 수 있는 크롤링 오류는 더 이상 여기에 표시할 수 없습니다. %1$s 자세한 내용은 이에 대한 Google의 성명서를 참조하세요%2$s."
+
+#: src/integrations/admin/first-time-configuration-integration.php:480
+#: src/integrations/admin/first-time-configuration-integration.php:493
+#: js/dist/new-settings.js:314
+msgid "Organization"
+msgstr "조직"
+
+#. translators: %1$s is a link start tag to the Search Appearance settings,
+#. %2$s is the link closing tag.
+#: admin/class-schema-person-upgrade-notification.php:66
+msgid "You have previously set your site to represent a person. We’ve improved our functionality around Schema and the Knowledge Graph, so you should go in and %1$scomplete those settings%2$s."
+msgstr "이전에 사이트를 개인을 대표하도록 설정한 적이 있습니다. 스키마 및 지식 그래프 관련 기능이 개선되었으므로 %1$s로 이동하여 해당 설정을 완료해야 합니다%2$s."
+
+#: admin/class-admin.php:324
+#: src/user-meta/framework/additional-contactmethods/wikipedia.php:28
+msgid "(if one exists)"
+msgstr "(만약 존재한다면)"
+
+#: admin/class-admin.php:324
+#: src/user-meta/framework/additional-contactmethods/wikipedia.php:28
+msgid "Wikipedia page about you"
+msgstr "당신에 대한 위키피디아 페이지"
+
+#: admin/class-admin.php:323
+#: src/user-meta/framework/additional-contactmethods/youtube.php:28
+msgid "YouTube profile URL"
+msgstr "유투브 프로파일 URL"
+
+#: admin/class-admin.php:321
+#: src/user-meta/framework/additional-contactmethods/tumblr.php:28
+msgid "Tumblr profile URL"
+msgstr "텀블러 프로파일 URL"
+
+#: admin/class-admin.php:320
+#: src/user-meta/framework/additional-contactmethods/soundcloud.php:28
+msgid "SoundCloud profile URL"
+msgstr "사운드클라우드 프로파일 URL"
+
+#: admin/class-admin.php:318
+#: src/user-meta/framework/additional-contactmethods/myspace.php:28
+msgid "MySpace profile URL"
+msgstr "마이스페이스 profile URL"
+
+#: src/generators/schema/article.php:137
+msgid "Uncategorized"
+msgstr "미분류"
+
+#: admin/class-admin.php:319
+#: src/user-meta/framework/additional-contactmethods/pinterest.php:28
+msgid "Pinterest profile URL"
+msgstr "Pinterest 프로필 URL"
+
+#: admin/class-admin.php:317
+#: src/user-meta/framework/additional-contactmethods/linkedin.php:28
+msgid "LinkedIn profile URL"
+msgstr "LinkedIn 프로필 URL"
+
+#: admin/class-admin.php:316
+#: src/user-meta/framework/additional-contactmethods/instagram.php:28
+msgid "Instagram profile URL"
+msgstr "인스타그램 프로필 URL"
+
+#: inc/class-my-yoast-api-request.php:141
+msgid "No JSON object was returned."
+msgstr "아무런 JSON 오브젝트도 변환되지 않았습니다. "
+
+#. translators: Hidden accessibility text.
+#: src/integrations/admin/link-count-columns-integration.php:149
+msgid "Received internal links"
+msgstr "받은 내부 링크"
+
+#. translators: Hidden accessibility text.
+#: src/integrations/admin/link-count-columns-integration.php:141
+msgid "Outgoing internal links"
+msgstr "나가는 내부 링크"
+
+#: admin/class-meta-columns.php:121 js/dist/block-editor.js:150
+#: js/dist/classic-editor.js:135 js/dist/editor-modules.js:300
+#: js/dist/elementor.js:545 js/dist/wincher-dashboard-widget.js:118
+msgid "Keyphrase"
+msgstr "키프레이즈"
+
+#. translators: 1: Yoast SEO.
+#: src/services/health-check/links-table-reports.php:87
+msgid "For this feature to work, %1$s needs to create a table in your database. We were unable to create this table automatically."
+msgstr "이 기능이 작동하려면 %1$s에서 데이터베이스에 테이블을 만들어야 합니다. 이 테이블을 자동으로 만들 수 없습니다."
+
+#. translators: %1$s expands to the requested url
+#: admin/exceptions/class-file-size-exception.php:40
+msgid "Cannot get the size of %1$s because of unknown reasons."
+msgstr "알 수 없는 이유로 %1$s 크기를 가져올 수 없습니다."
+
+#. translators: %1$s expands to the requested url
+#: admin/exceptions/class-file-size-exception.php:23
+msgid "Cannot get the size of %1$s because it is hosted externally."
+msgstr "%1$s은 외부에서 호스팅되므로 크기를 가져올 수 없습니다."
+
+#. translators: %s expands to the current page number
+#: src/generators/breadcrumbs-generator.php:424
+msgid "Page %s"
+msgstr "페이지 %s"
+
+#. translators: %1$s expands to the method name. %2$s expands to the class name
+#: src/exceptions/missing-method.php:24
+msgid "Method %1$s() does not exist in class %2$s"
+msgstr "클래스 %2$s에 메서드 %1$s()이 존재하지 않습니다."
+
+#. translators: %s expands to Yoast SEO Premium
+#: admin/watchers/class-slug-change-watcher.php:226
+msgid "With %s, you can easily create such redirects."
+msgstr "%s를 사용하면 이러한 리디렉션을 쉽게 만들 수 있습니다."
+
+#: admin/views/tabs/tool/wpseo-import.php:15
+msgid "Import of settings is only supported on servers that run PHP 5.3 or higher."
+msgstr "설정 가져오기는 PHP 5.3 또는 이상을 실행하는 서버에서 사용 가능합니다."
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/views/tabs/tool/wpseo-export.php:26
+msgid "Export your %1$s settings here, to copy them on another site."
+msgstr "%1$s 설정을 다른 사이트에 복사하려면 여기에서 내보내세요."
+
+#: admin/import/class-import-settings.php:85
+msgid "No settings found."
+msgstr "설정을 찾을 수 없습니다."
+
+#. translators: %1$s expands to Yoast SEO, %2$s expands to Yoast.com
+#: admin/class-export.php:97
+msgid "These are settings for the %1$s plugin by %2$s"
+msgstr "다음은 %1$s 플러그인 %2$s에 대한 설정입니다."
+
+#. translators: %1$s expands to Import settings
+#: admin/class-export.php:61
+msgid "Copy all these settings to another site's %1$s tab and click \"%1$s\" there."
+msgstr "이 모든 설정을 다른 사이트의 %1$s 탭에 복사하고 거기서 “%1$s”을 클릭합니다."
+
+#: admin/class-export.php:54
+msgid "You do not have the required rights to export settings."
+msgstr "설정을 내보내는 데 필요한 권한이 없습니다."
+
+#. translators: %s expands to Yoast SEO Premium
+#. translators: %s expands to "Yoast SEO" Premium
+#: admin/class-premium-upsell-admin-block.php:125 js/dist/new-settings.js:338
+msgid "Upgrade to %s"
+msgstr "%s로 업그레이드"
+
+#: admin/class-admin-init.php:354
+msgid "Learn about why permalinks are important for SEO."
+msgstr "퍼머링크가 SEO에 중요한 이유에 대해 알아보세요."
+
+#. translators: %1$s and %2$s expand to <em> items to emphasize the word in the
+#. middle.
+#: admin/class-admin-init.php:348
+msgid "Changing your permalinks settings can seriously impact your search engine visibility. It should almost %1$s never %2$s be done on a live website."
+msgstr "퍼머링크 설정을 변경하면 검색 엔진 가시성에 심각한 영향을 미칠 수 있습니다. 라이브 웹사이트에서는 %1$s이 아니라 %2$s를 사용해야 합니다."
+
+#: admin/class-admin-init.php:345
+msgid "WARNING:"
+msgstr "경고:"
+
+#: admin/views/tabs/network/features.php:95
+#: admin/views/tabs/network/integrations.php:82
+#: src/integrations/admin/crawl-settings-integration.php:251
+msgid "Disable"
+msgstr "비활성화"
+
+#: admin/views/tabs/network/features.php:94
+#: admin/views/tabs/network/integrations.php:81
+#: src/integrations/admin/crawl-settings-integration.php:249
+msgid "Allow Control"
+msgstr "제어 허용"
+
+#. translators: %s expands to Yoast SEO
+#: admin/views/tabs/network/crawl-settings.php:24
+#: admin/views/tabs/network/features.php:27
+msgid "This tab allows you to selectively disable %s features for all sites in the network. By default all features are enabled, which allows site admins to choose for themselves if they want to toggle a feature on or off for their site. When you disable a feature here, site admins will not be able to use that feature at all."
+msgstr "이 탭을 사용하면 네트워크의 모든 사이트에 대해 %s 기능을 선택적으로 비활성화할 수 있습니다. 기본적으로 모든 기능이 활성화되어 있으므로 사이트 관리자가 자신의 사이트에 대해 기능을 켜거나 끌지 여부를 직접 선택할 수 있습니다. 여기서 기능을 비활성화하면 사이트 관리자는 해당 기능을 전혀 사용할 수 없게 됩니다."
+
+#. translators: %s: argument name
+#: admin/views/class-yoast-feature-toggle.php:161
+msgid "%s is a required feature toggle argument."
+msgstr "%s는 필수 기능 토글 인수입니다."
+
+#: admin/class-yoast-form.php:1081 js/dist/first-time-configuration.js:15
+msgid "This feature has been disabled by the network admin."
+msgstr "네트워크 관리자가 이 기능을 비활성화했습니다."
+
+#: admin/class-yoast-form.php:781 admin/metabox/class-metabox.php:648
+#: admin/taxonomy/class-taxonomy-fields-presenter.php:133
+msgid "Clear Image"
+msgstr "이미지 지우기"
+
+#. translators: Hidden accessibility text.
+#: admin/class-meta-columns.php:186
+msgid "Focus keyphrase not set."
+msgstr "초점 키프레이즈가 설정되지 않았습니다."
+
+#. translators: %s expands to Yoast SEO Premium
+#: admin/class-premium-popup.php:81
+#: admin/watchers/class-slug-change-watcher.php:230
+msgid "Get %s"
+msgstr "%s 얻기"
+
+#: inc/class-wpseo-admin-bar-menu.php:883
+msgid "There is a new notification."
+msgid_plural "There are new notifications."
+msgstr[0] "새로운 알림이 도착했습니다."
+
+#: inc/options/class-wpseo-option-titles.php:949
+msgid "Colon"
+msgstr "콜론"
+
+#. translators: %1$s expands to Yoast SEO, %2$s: 'SEO' plugin name of possibly
+#. conflicting plugin with regard to the creation of duplicate SEO meta.
+#: admin/class-plugin-conflict.php:90
+msgid "Both %1$s and %2$s manage the SEO of your site. Running two SEO plugins at the same time is detrimental."
+msgstr "%1$s와 %2$s 두 개 모두 사이트에 있는 SEO를 관리 합니다. 두 종류의 SEO 플러그인을 동시에 실행하는 것은 적절하지 않습니다."
+
+#. translators: %d expands to the number of minute/minutes.
+#: src/integrations/blocks/structured-data-blocks.php:149
+#: js/dist/how-to-block.js:5 js/dist/how-to-block.js:8
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d 분"
+
+#. translators: %d expands to the number of hour/hours.
+#: src/integrations/blocks/structured-data-blocks.php:142
+#: js/dist/how-to-block.js:5 js/dist/how-to-block.js:8
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d 분"
+
+#. translators: %d expands to the number of day/days.
+#: src/integrations/blocks/structured-data-blocks.php:135
+#: js/dist/block-editor.js:129 js/dist/classic-editor.js:114
+#: js/dist/editor-modules.js:279 js/dist/elementor.js:524
+#: js/dist/how-to-block.js:5 js/dist/how-to-block.js:8
+#: js/dist/wincher-dashboard-widget.js:43
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d 일"
+
+#: blocks/structured-data-blocks/how-to/block.json
+msgctxt "block description"
+msgid "Create a How-to guide in an SEO-friendly way. You can only use one How-to block per post."
+msgstr "SEO 친화적인 방식으로 방법 가이드를 작성하세요. 글당 하나의 방법 블록만 사용할 수 있습니다."
+
+#. translators: %1$s expands to Yoast.
+#: src/integrations/blocks/block-categories.php:37
+msgid "%1$s Structured Data Blocks"
+msgstr "%1$s 구조화된 데이터 블록"
+
+#: src/integrations/blocks/structured-data-blocks.php:200
+#: js/dist/how-to-block.js:5 js/dist/how-to-block.js:10
+msgid "Time needed:"
+msgstr "필요한 시간: "
+
+#: inc/class-wpseo-admin-bar-menu.php:435
+msgid "Check links to this URL"
+msgstr "해당 URL의 링크를 확인해주십시요"
+
+#: inc/class-wpseo-admin-bar-menu.php:506
+msgid "How to"
+msgstr "How to"
+
+#: admin/pages/network.php:31
+msgid "Restore Site"
+msgstr "사이트 복원"
+
+#: admin/menu/class-network-admin-menu.php:34
+msgid "Network Settings"
+msgstr "네트워크 설정"
+
+#: admin/class-yoast-network-admin.php:276
+msgid "You are not allowed to perform this action."
+msgstr "당신은 해당 작업을 실행할 권한이 없습니다. "
+
+#. translators: %s: error message
+#: admin/class-yoast-network-admin.php:208
+msgid "Error: %s"
+msgstr "오류: %s"
+
+#. translators: %s: success message
+#: admin/class-yoast-network-admin.php:206
+msgid "Success: %s"
+msgstr "성공: %s"
+
+#. translators: %s expands to the ID of a site within a multisite network.
+#: admin/class-yoast-network-admin.php:168
+msgid "Site with ID %d not found."
+msgstr "ID %d 사이트 확인되지 않음."
+
+#: admin/class-yoast-network-admin.php:159
+msgid "No site has been selected to restore."
+msgstr "복구할 사이트가 선택되지 않았습니다. "
+
+#: admin/class-yoast-network-admin.php:120
+msgid "You are not allowed to modify unregistered network settings."
+msgstr "당신은 등록되지 않은 네트워크 설정은 수정할 수 없습니다. "
+
+#: admin/class-yoast-network-admin.php:81
+msgid "deleted"
+msgstr "삭제됨"
+
+#: inc/class-wpseo-replace-vars.php:1475
+msgid "The site's tagline"
+msgstr "사이트의 태그라인"
+
+#. translators: %1$s expands to the missing field name.
+#: admin/menu/class-replacevar-editor.php:152
+msgid "Not all required fields are given. Missing field %1$s"
+msgstr "모든 필수 필드가 제공되지는 않습니다. 누락된 %1$s 필드"
+
+#: inc/class-wpseo-replace-vars.php:1489 js/dist/externals-redux.js:1
+msgid "Current year"
+msgstr "현재 년도"
+
+#: inc/class-wpseo-replace-vars.php:1475 js/dist/externals-redux.js:1
+#: js/dist/new-settings.js:16 js/dist/new-settings.js:296
+msgid "Tagline"
+msgstr "태그라인"
+
+#: inc/class-wpseo-replace-vars.php:1520 js/dist/externals-redux.js:1
+msgid "Page"
+msgstr "페이지"
+
+#: inc/class-wpseo-replace-vars.php:1528
+msgid "description (custom taxonomy)"
+msgstr "설명(사용자 지정 분류)"
+
+#: inc/class-wpseo-replace-vars.php:1527
+msgid "(custom taxonomy)"
+msgstr "(사용자 지정 택소노미)"
+
+#: inc/class-wpseo-replace-vars.php:1526
+msgid "(custom field)"
+msgstr "(사용자 지정 필드)"
+
+#: inc/class-wpseo-replace-vars.php:1525
+msgid "Term404"
+msgstr "Term404"
+
+#: inc/class-wpseo-replace-vars.php:1523
+msgid "Caption"
+msgstr "캡션"
+
+#: inc/class-wpseo-replace-vars.php:1522
+msgid "Pagenumber"
+msgstr "페이지 번호"
+
+#: inc/class-wpseo-replace-vars.php:1521
+msgid "Pagetotal"
+msgstr "페이지 총계"
+
+#: inc/class-wpseo-replace-vars.php:1519
+msgid "User description"
+msgstr "사용자 설명"
+
+#: inc/class-wpseo-replace-vars.php:1517 js/dist/externals-redux.js:1
+msgid "ID"
+msgstr "ID"
+
+#: inc/class-wpseo-replace-vars.php:1516
+msgid "Modified"
+msgstr "수정됨"
+
+#: inc/class-wpseo-replace-vars.php:1515
+msgid "Post type (plural)"
+msgstr "게시물 유형"
+
+#: inc/class-wpseo-replace-vars.php:1514
+msgid "Post type (singular)"
+msgstr "게시물 유형"
+
+#: inc/class-wpseo-replace-vars.php:1487 js/dist/externals-redux.js:1
+#: js/dist/new-settings.js:16
+msgid "Separator"
+msgstr "분리자"
+
+#: inc/class-wpseo-replace-vars.php:1485 js/dist/externals-redux.js:1
+msgid "Search phrase"
+msgstr "검색어"
+
+#: inc/class-wpseo-replace-vars.php:1484
+msgid "Term title"
+msgstr "용어 제목"
+
+#: inc/class-wpseo-replace-vars.php:1483 js/dist/externals-redux.js:1
+msgid "Term description"
+msgstr "용어 설명"
+
+#: inc/class-wpseo-replace-vars.php:1482 js/dist/externals-redux.js:1
+msgid "Tag description"
+msgstr "태그 설명"
+
+#: inc/class-wpseo-replace-vars.php:1481 js/dist/externals-redux.js:1
+msgid "Category description"
+msgstr "카테고리 설명"
+
+#: inc/class-wpseo-replace-vars.php:1480 js/dist/externals-redux.js:1
+msgid "Primary category"
+msgstr "기본 카테고리"
+
+#: inc/class-wpseo-replace-vars.php:1479 js/dist/externals-redux.js:1
+msgid "Category"
+msgstr "목차"
+
+#: inc/class-wpseo-replace-vars.php:1478
+msgid "Tag"
+msgstr "태그"
+
+#: inc/class-wpseo-replace-vars.php:1477 js/dist/externals-redux.js:1
+msgid "Excerpt only"
+msgstr "발췌만"
+
+#: inc/class-wpseo-replace-vars.php:1476 js/dist/externals-redux.js:1
+msgid "Excerpt"
+msgstr "발췌"
+
+#: inc/class-wpseo-replace-vars.php:1474 js/dist/externals-redux.js:1
+msgid "Site title"
+msgstr "사이트 제목"
+
+#: inc/class-wpseo-replace-vars.php:1473
+msgid "Archive title"
+msgstr "제목 아카이브"
+
+#: inc/class-wpseo-replace-vars.php:1472 js/dist/externals-redux.js:1
+msgid "Parent title"
+msgstr "부모 제목"
+
+#: inc/class-wpseo-replace-vars.php:1470 js/dist/externals-redux.js:1
+msgid "Date"
+msgstr "날짜"
+
+#: inc/class-wpseo-admin-bar-menu.php:604
+msgid "Get Yoast SEO Premium"
+msgstr "Yoast SEO 프리미엄 받기"
+
+#: admin/watchers/class-slug-change-watcher.php:224
+msgid "You should create a redirect to ensure your visitors do not get a 404 error when they click on the no longer working URL."
+msgstr "방문자가 더 이상 작동하지 않는 URL을 클릭할 때 404 오류가 발생하지 않도록 리디렉션을 만들어야 합니다."
+
+#: admin/watchers/class-slug-change-watcher.php:90
+#: admin/watchers/class-slug-change-watcher.php:113
+msgid "Search engines and other websites can still send traffic to your deleted content."
+msgstr "검색 엔진과 다른 웹사이트는 삭제된 콘텐츠로 트래픽을 계속 보낼 수 있습니다."
+
+#: admin/watchers/class-slug-change-watcher.php:220
+msgid "Make sure you don't miss out on traffic!"
+msgstr "트래픽을 놓치지 마세요!"
+
+#. translators: %1$s expands to the translated name of the post type.
+#. translators: %1$s expands to the translated name of the term.
+#: admin/watchers/class-slug-change-watcher.php:89
+#: admin/watchers/class-slug-change-watcher.php:112
+msgid "You just deleted a %1$s."
+msgstr "방금 %1$s을 삭제했습니다."
+
+#. translators: %1$s expands to the translated name of the post type.
+#: admin/watchers/class-slug-change-watcher.php:67
+msgid "You just trashed a %1$s."
+msgstr "방금 %1$s을 삭제했습니다."
+
+#. translators: %s is replaced with Yoast SEO.
+#: admin/import/plugins/class-abstract-plugin-importer.php:259
+msgid "The %s importer functionality uses temporary database tables. It seems your WordPress install does not have the capability to do this, please consult your hosting provider."
+msgstr "%s 가져오기 기능은 임시데이터베이스테이블에서 사용되었습니다. 당신의 워드프레스는 이것을 가져오는 용량을 가지고 있지 않는듯 합니다. 당신의 호스팅 제공사에 문의하시기 바랍니다."
+
+#. translators: %s is replaced with the plugin's name.
+#: admin/import/plugins/class-abstract-plugin-importer.php:132
+msgid "Cleanup of %s data failed."
+msgstr "%s의 데이터를 정리하지 못했습니다."
+
+#: admin/class-bulk-editor-list-table.php:1037
+msgid "Content Type"
+msgstr "컨텐츠 유형"
+
+#. translators: Hidden accessibility text.
+#: admin/class-bulk-editor-list-table.php:429
+msgid "Filter by content type"
+msgstr "콘텐츠 유형별 필터링"
+
+#: admin/class-bulk-editor-list-table.php:411
+msgid "Show All Content Types"
+msgstr "모든 콘텐츠 유형 표시"
+
+#: inc/class-wpseo-replace-vars.php:1473
+msgid "Replaced with the normal title for an archive generated by WordPress"
+msgstr "워드프레스에서 생성한 아카이브의 일반 제목으로 바뀜"
+
+#: admin/views/tabs/tool/import-seo.php:125
+msgid "Clean"
+msgstr "청소"
+
+#: admin/views/tabs/tool/import-seo.php:116
+msgid "Once you're certain your site is OK, you can clean up. This will remove all the original data."
+msgstr "당신의 사이트가 괜찮을 것이라고 확신하신다면, 청소하셔도 됩니다. 이는 모든 Original 데이터를 삭제할 것 입니다."
+
+#: admin/views/tabs/tool/import-seo.php:114
+msgid "Step 5: Clean up"
+msgstr "스텝 5: 정리하기"
+
+#: admin/views/tabs/tool/import-seo.php:95
+msgid "Please check your posts and pages and see if the metadata was successfully imported."
+msgstr "당신의 게시물과 페이지들을 체크하고 메타데이터를 제대로 가져왔는지 확인해주세요."
+
+#: admin/views/tabs/tool/import-seo.php:93
+msgid "Step 3: Check your data"
+msgstr "스텝 3: 데이터 체크"
+
+#. translators: 1: expands to Yoast SEO
+#: admin/views/tabs/tool/import-seo.php:67
+msgid "This will import the post metadata like SEO titles and descriptions into your %1$s metadata. It will only do this when there is no existing %1$s metadata yet. The original data will remain in place."
+msgstr "이것은 SEO 제목들과 설명들과 같은 게시물의 메타데이터를 당신의 Yoast SEO 메타데이터로 가져옵니다. 아직 Yoast SEO 메타데이터가 없을 때만 동작하고, 기존의 데이터는 남아있게 됩니다."
+
+#: admin/views/tabs/tool/import-seo.php:62
+msgid "Step 2: Import"
+msgstr "스텝 2: 가져오기"
+
+#: admin/views/tabs/tool/import-seo.php:57
+msgid "Please make a backup of your database before starting this process."
+msgstr "이 프로세스를 시작하기 전에 당신의 데이터베이스를 백업해 주십시오."
+
+#: admin/views/tabs/tool/import-seo.php:55
+msgid "Step 1: Create a backup"
+msgstr "스텝 1: 백업 생성"
+
+#: admin/views/tabs/tool/import-seo.php:51
+msgid "We've detected data from one or more SEO plugins on your site. Please follow the following steps to import that data:"
+msgstr "당신의 사이트의 하나 이상의 SEO 플러그인에서 데이터를 발견했습니다. 다음 단계들을 따라 데이터를 가져오십시오."
+
+#: admin/views/tabs/tool/import-seo.php:39
+msgid "Plugin: "
+msgstr "플러그인"
+
+#. translators: %s expands to Yoast SEO
+#: admin/views/tabs/tool/import-seo.php:22
+msgid "%s did not detect any plugin data from plugins it can import from."
+msgstr "%s에서 가져올 수 있는 플러그인에서 플러그인 데이터를 감지하지 못했습니다."
+
+#: admin/statistics/class-statistics-service.php:229
+msgid "Posts that should not show up in search results"
+msgstr "검색 결과에 표시되지 않아야 하는 글"
+
+#. translators: %s is replaced with the name of the plugin we've found data
+#. from.
+#: admin/import/class-import-status.php:128
+msgid "%s data found."
+msgstr "%s 데이터를 발견하지 못했습니다."
+
+#. translators: %s is replaced with the name of the plugin we're removing data
+#. from.
+#: admin/import/class-import-status.php:124
+msgid "%s data successfully removed."
+msgstr "%s 데이터가 성공적으로 제거되었습니다."
+
+#. translators: %s is replaced with the name of the plugin we're importing data
+#. from.
+#: admin/import/class-import-status.php:121
+msgid "%s data successfully imported."
+msgstr "%s의 데이터를 성공적으로 가져왔습니다."
+
+#. translators: %s is replaced with the name of the plugin we're trying to find
+#. data from.
+#: admin/import/class-import-status.php:61
+msgid "%s data not found."
+msgstr "%s 데이터를 발견하지 못했습니다."
+
+#: admin/views/user-profile.php:15
+msgid "this author's archives"
+msgstr "이 작성자의 기록 보관소"
+
+#. translators: %s expands to "this author's archives".
+#: admin/views/user-profile.php:14
+msgid "Do not allow search engines to show %s in search results."
+msgstr "검색 엔진이 검색 결과에 %s를 표시하지 않도록 합니다."
+
+#: admin/class-yoast-form.php:977 admin/class-yoast-form.php:1017
+#: js/dist/externals/componentsNew.js:767
+msgid "On"
+msgstr "켜짐"
+
+#. translators: Hidden accessibility text; %s expands to a feature's name.
+#. translators: Hidden accessibility text; %s expands to an integration's name.
+#: admin/views/tabs/network/features.php:62
+#: admin/views/tabs/network/integrations.php:50
+msgid "Help on: %s"
+msgstr "도움말: %s"
+
+#: admin/class-yoast-form.php:978 admin/class-yoast-form.php:1018
+#: admin/views/class-yoast-feature-toggles.php:160
+#: js/dist/externals/componentsNew.js:767
+msgid "Off"
+msgstr "꺼짐"
+
+#: admin/views/class-yoast-feature-toggles.php:140
+msgid "Read why XML Sitemaps are important for your site."
+msgstr "XML 사이트맵이 여러분의 웹사이트에서 왜 중요한 지 읽어보세요."
+
+#. translators: %s: Yoast SEO
+#: admin/views/class-yoast-feature-toggles.php:139
+msgid "Enable the XML sitemaps that %s generates."
+msgstr "%s가 만들어 낸 XML 사이트맵을 활성화하세요."
+
+#: admin/views/class-yoast-feature-toggles.php:70
+msgid "See the XML sitemap."
+msgstr "XML 사이트맵 보기"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/views/tabs/dashboard/dashboard.php:19
+msgid "See who contributed to %1$s."
+msgstr "누가 %1$s에 도움을 주었는 지 둘러보세요."
+
+#. translators: %1$s expands to the post type name.
+#: admin/metabox/class-metabox.php:188
+msgid "Should search engines follow links on this %1$s?"
+msgstr "검색 엔진이 이 %1$s로 연결되는 링크로 가게 할까요?"
+
+#. translators: %1$s expands to Yes or No,  %2$s expands to the post type name.
+#: admin/metabox/class-metabox.php:183
+msgid "Default for %2$s, currently: %1$s"
+msgstr "%2$s의 기본값, 현재값: %1$s"
+
+#. translators: %s expands to the post type name.
+#: admin/metabox/class-metabox.php:178
+msgid "Allow search engines to show this %s in search results?"
+msgstr "이 %s을(를) 검색 결과에 노출시키는 것을 검색 엔진에 허용할까요?"
+
+#. translators: %s expands to an indexable object's name, like a post type or
+#. taxonomy
+#: admin/class-yoast-form.php:988
+msgid "Show %s in search results?"
+msgstr "%s를 검색 결과에 보이게 할까요?"
+
+#. translators: %1$s expands to Yoast SEO.
+#: admin/class-plugin-conflict.php:82
+msgid "Toggle %1$s's XML Sitemap"
+msgstr "%1$s의 XML 사이트맵을 토글하기"
+
+#. translators: %s: 'Semrush'
+#. translators: %s: Algolia.
+#: admin/views/class-yoast-integration-toggles.php:67
+#: admin/views/class-yoast-integration-toggles.php:78
+msgid "%s integration"
+msgstr "%s 통합"
+
+#: admin/views/class-yoast-feature-toggles.php:111
+msgid "Find out how the text link counter can enhance your SEO."
+msgstr "텍스트 링크 카운터가 여러분의 SEO를 어떻게 개선시키는 지에 대해 알아보세요."
+
+#: admin/views/class-yoast-feature-toggles.php:110
+msgid "The text link counter helps you improve your site structure."
+msgstr "텍스트 링크 카운터는 여러분의 웹사이트 구조를 향상시키는 데에 도움을 드립니다."
+
+#: admin/views/class-yoast-feature-toggles.php:103
+msgid "Find out how cornerstone content can help you improve your site structure."
+msgstr "코너스톤 콘텐츠가 여러분의 웹사이트 구조를 향상시키는 데 어떤 도움을 주는 지 알아보세요."
+
+#: admin/views/class-yoast-feature-toggles.php:102
+msgid "The cornerstone content feature lets you to mark and filter cornerstone content on your website."
+msgstr "코너스톤 콘텐츠 기능은 여러분을 주목받게 하고 여러분의 웹사이트에서 코너스톤 콘텐츠가 선별될 수 있게 합니다."
+
+#: admin/views/class-yoast-feature-toggles.php:86
+msgid "Discover why readability is important for SEO."
+msgstr "SEO에 왜 가독성이 중요한지 알아보세요."
+
+#: admin/views/class-yoast-feature-toggles.php:85 js/dist/new-settings.js:302
+msgid "The readability analysis offers suggestions to improve the structure and style of your text."
+msgstr "가독성 분석은 여러분의 글의 스타일과 구조를 향상시키는 제안을 드립니다."
+
+#: admin/views/class-yoast-feature-toggles.php:78
+msgid "Learn how the SEO analysis can help you rank."
+msgstr "SEO 분석이 여러분의 페이지 랭크에 어떻게 도움을 주는 지 알아보세요."
+
+#: admin/views/class-yoast-feature-toggles.php:77
+msgid "The SEO analysis offers suggestions to improve the SEO of your text."
+msgstr "SEO 분석은 여러분의 글에서 SEO를 향상시킬 수 있는 제안을 드립니다."
+
+#: admin/views/class-yoast-feature-toggles.php:75
+#: js/dist/externals-components.js:259 js/dist/new-settings.js:16
+#: js/dist/new-settings.js:302
+msgid "SEO analysis"
+msgstr "SEO 분석"
+
+#. Author URI of the plugin
+#: wp-seo.php
+msgid "https://yoa.st/1uk"
+msgstr "https://yoa.st/1uk"
+
+#. Plugin URI of the plugin
+#: wp-seo.php
+msgid "https://yoa.st/1uj"
+msgstr "https://yoa.st/1uj"
+
+#. translators: %1$s resolves to Yoast.com
+#: admin/class-yoast-dashboard-widget.php:130
+msgid "Latest blog posts on %1$s"
+msgstr "%1$s에 관한 최신 블로그포스트"
+
+#: src/helpers/first-time-configuration-notice-helper.php:68
+msgid "First-time SEO configuration"
+msgstr "처음으로 SEO 구성"
+
+#. translators: %s expands to ".htaccess".
+#: admin/views/tool-file-editor.php:186
+msgid "%s file"
+msgstr "%s 파일"
+
+#. translators: %s expands to robots.txt.
+#. translators: %s expands to ".htaccess".
+#: admin/views/tool-file-editor.php:174 admin/views/tool-file-editor.php:224
+msgid "Save changes to %s"
+msgstr "변경 사항을 %s에 저장"
+
+#. translators: %s expands to robots.txt.
+#. translators: %s expands to ".htaccess".
+#: admin/views/tool-file-editor.php:165 admin/views/tool-file-editor.php:215
+msgid "Edit the content of your %s:"
+msgstr "%s의 내용을 수정하십시오 :"
+
+#. translators: %s expands to robots.txt.
+#: admin/views/tool-file-editor.php:125
+msgid "Create %s file"
+msgstr "%s 파일 만들기"
+
+#. translators: %s expands to robots.txt.
+#: admin/views/tool-file-editor.php:65
+msgid "Updated %s"
+msgstr "%s 업데이트 됨"
+
+#. translators: %s expands to robots.txt.
+#. translators: %s expands to ".htaccess".
+#: admin/views/tool-file-editor.php:49 admin/views/tool-file-editor.php:76
+msgid "You cannot edit the %s file."
+msgstr "%s 파일을 편집 할 수 없습니다."
+
+#. translators: %s expands to robots.txt.
+#: admin/views/tool-file-editor.php:28
+msgid "You cannot create a %s file."
+msgstr "%s 파일을 만들 수 없습니다."
+
+#. translators: Hidden accessibility text; %1$s expands to the dependency name
+#: admin/class-suggested-plugins.php:137
+msgid "More information about %1$s"
+msgstr "%1$s에 대한 추가 정보"
+
+#: src/integrations/admin/old-configuration-integration.php:38
+msgid "Old Configuration Wizard"
+msgstr "오래된 구성 마법사"
+
+#. translators: %s expands to the extension title
+#: admin/views/licenses.php:236 admin/views/licenses.php:339
+msgid "Manage your %s subscription on MyYoast"
+msgstr "내요스트에서 %s 구독 관리"
+
+#. translators: %1$s expands to the posttype label, %2$s expands anchor to blog
+#. post about cornerstone content, %3$s expands to </a>
+#: admin/filters/class-cornerstone-filter.php:104
+msgid "Mark the most important %1$s as 'cornerstone content' to improve your site structure. %2$sLearn more about cornerstone content%3$s."
+msgstr "%1$s는 '기본 콘텐츠'로 지정하여 사이트 구조를 개선하십시오. %2$s 초석 내용 %3$s에 대해 자세히 알아보십시오."
+
+#. translators: Hidden accessibility text.
+#: admin/class-admin-utils.php:79 admin/class-premium-popup.php:83
+#: admin/class-premium-upsell-admin-block.php:102
+#: admin/class-yoast-form.php:952 admin/views/licenses.php:130
+#: admin/watchers/class-slug-change-watcher.php:232
+#: src/integrations/admin/workouts-integration.php:214
+#: src/integrations/admin/workouts-integration.php:244
+#: src/presenters/admin/help-link-presenter.php:76 js/dist/academy.js:9
+#: js/dist/block-editor.js:564 js/dist/block-editor.js:565
+#: js/dist/elementor.js:4 js/dist/elementor.js:6 js/dist/elementor.js:12
+#: js/dist/externals-components.js:45 js/dist/externals-components.js:241
+#: js/dist/externals-components.js:243 js/dist/externals-components.js:249
+#: js/dist/externals/componentsNew.js:1043 js/dist/externals/helpers.js:6
+#: js/dist/integrations-page.js:3 js/dist/integrations-page.js:4
+#: js/dist/integrations-page.js:5 js/dist/integrations-page.js:6
+#: js/dist/integrations-page.js:7 js/dist/integrations-page.js:8
+#: js/dist/integrations-page.js:13 js/dist/integrations-page.js:18
+#: js/dist/integrations-page.js:19 js/dist/integrations-page.js:20
+#: js/dist/introductions.js:4 js/dist/introductions.js:6
+#: js/dist/introductions.js:12 js/dist/new-settings.js:29
+#: js/dist/new-settings.js:31 js/dist/new-settings.js:37 js/dist/post-edit.js:4
+#: js/dist/post-edit.js:6 js/dist/post-edit.js:12 js/dist/support.js:6
+#: js/dist/support.js:8 js/dist/support.js:14 js/dist/support.js:16
+#: js/dist/term-edit.js:4 js/dist/term-edit.js:6 js/dist/term-edit.js:12
+msgid "(Opens in a new browser tab)"
+msgstr "(새 브라우저 탭에서 열림)"
+
+#. translators: %1$s expands to an opening strong tag, %2$s expands to a
+#. closing strong tag
+#: admin/statistics/class-statistics-service.php:210
+msgid "Posts %1$swithout%2$s a focus keyphrase"
+msgstr "포커스 키워드 %2$s없이 %1$s 게시"
+
+#: admin/statistics/class-statistics-service.php:77
+msgid "Hey, your SEO is doing pretty well! Check out the stats:"
+msgstr "이봐, 당신의 SEO는 꽤 잘하고있다! 통계를 확인하십시오."
+
+#: admin/statistics/class-statistics-service.php:73
+msgid "You don't have any published posts, your SEO scores will appear here once you make your first post!"
+msgstr "게시된 게시물이 없으면, 첫번째 게시물을 작성하면 SEO 점수가 여기에 표시됩니다!"
+
+#: admin/class-yoast-dashboard-widget.php:133
+msgid "Read more like this on our SEO blog"
+msgstr "우리의 SEO 블로그에서 이와 같이 더 읽기"
+
+#. translators: %s expands to the readability score
+#: inc/class-wpseo-rank.php:207 inc/class-wpseo-rank.php:212
+#: inc/class-wpseo-rank.php:217
+msgid "Readability: %s"
+msgstr "가독성: OK"
+
+#: admin/views/licenses.php:244 admin/views/licenses.php:348
+msgid "Not activated"
+msgstr "비활성화"
+
+#: admin/views/licenses.php:231 admin/views/licenses.php:334
+msgid "Activated"
+msgstr "활성화됨"
+
+#. translators: %1$s expands to Yoast
+#: src/presenters/admin/sidebar-presenter.php:31
+msgid "%1$s recommendations for you"
+msgstr "나에게 권장되는 %1s 추천"
+
+#: admin/class-meta-columns.php:291
+msgid "All Readability Scores"
+msgstr "모든 가독성 점수"
+
+#. translators: Hidden accessibility text.
+#: admin/class-meta-columns.php:287
+msgid "Filter by Readability Score"
+msgstr "가독성 점수에 의해 필터링"
+
+#: src/integrations/admin/unsupported-php-version-notice.php:163
+msgid "Remind me again in 4 weeks."
+msgstr "4주 후에 다시 알려주세요."
+
+#. translators: %1$s expands to the request method
+#: admin/class-remote-request.php:97
+msgid "Request method %1$s is not valid."
+msgstr "요청 방법 %1$s가 유효하지 않습니다."
+
+#: admin/views/class-yoast-feature-toggles.php:108 js/dist/new-settings.js:16
+#: js/dist/new-settings.js:302
+msgid "Text link counter"
+msgstr "텍스트 링크 카운터"
+
+#: src/integrations/admin/link-count-columns-integration.php:147
+msgid "Number of internal links linking to this post. See \"Yoast Columns\" text in the help tab for more info."
+msgstr "이 게시물에 링크 된 내부 링크 수입니다. 자세한 정보는 도움말 탭의 \"요즘 칼럼\" 텍스트를 참조하십시오."
+
+#: src/integrations/admin/link-count-columns-integration.php:139
+msgid "Number of outgoing internal links in this post. See \"Yoast Columns\" text in the help tab for more info."
+msgstr "이 게시물의 나가는 내부 링크 수입니다. 자세한 정보는 도움말 탭의 \"Yoast 칼럼\"  본문을 참조하십시오."
+
+#. translators: %s expands to Yoast
+#: admin/class-yoast-columns.php:64
+msgid "%s Columns"
+msgstr "%s 열"
+
+#: admin/class-meta-columns.php:111 admin/class-meta-columns.php:113
+#: admin/taxonomy/class-taxonomy-columns.php:92
+#: admin/taxonomy/class-taxonomy-columns.php:93
+msgid "Readability score"
+msgstr "가독성 점수"
+
+#: admin/filters/class-cornerstone-filter.php:87
+#: admin/views/class-yoast-feature-toggles.php:100
+#: js/dist/externals-components.js:20 js/dist/new-settings.js:16
+#: js/dist/new-settings.js:302
+msgid "Cornerstone content"
+msgstr "코너 스톤 내용"
+
+#: admin/class-yoast-form.php:147 admin/class-yoast-form.php:152
+#: js/dist/first-time-configuration.js:9 js/dist/new-settings.js:1
+msgid "Save changes"
+msgstr "저장하기"
+
+#: admin/class-premium-popup.php:89 js/dist/block-editor.js:272
+#: js/dist/block-editor.js:558 js/dist/classic-editor.js:257
+#: js/dist/classic-editor.js:543 js/dist/elementor.js:88
+#: js/dist/elementor.js:575 js/dist/externals-components.js:225
+#: js/dist/externals-components.js:227
+msgid "1 year free support and updates included!"
+msgstr "1년 무료 업데이트 및 업그레이드 포함!"
+
+#. translators: %2$s expands to 'RS Head Cleaner' plugin name of possibly
+#. conflicting plugin with regard to differentiating output between search
+#. engines and normal users.
+#: admin/class-plugin-conflict.php:87
+msgid "The plugin %2$s changes your site's output and in doing that differentiates between search engines and normal users, a process that's called cloaking. We highly recommend that you disable it."
+msgstr "플러그인 %2$s는 사이트 출력을 변경하며 검색 엔진과 일반 사용자를 구분합니다.이 과정을 클로킹이라고 합니다. 사용 중지하는 것이 좋습니다."
+
+#: admin/class-premium-upsell-admin-block.php:92
+msgid "No ads!"
+msgstr "광고가 없습니다!"
+
+#. translators: %s expands to Yoast SEO Premium
+#: src/presenters/admin/sidebar-presenter.php:84
+msgid "Get %1$s"
+msgstr "%1$s 가져오기"
+
+#: admin/class-admin.php:362
+msgid "Scroll to see the table content."
+msgstr "스크롤하여 표 내용을 봅니다."
+
+#: admin/views/partial-notifications-warnings.php:22
+msgid "No new notifications."
+msgstr "새 알림이 없습니다."
+
+#: admin/class-bulk-editor-list-table.php:922
+msgid "Save all"
+msgstr "모두 저장"
+
+#: admin/class-bulk-editor-list-table.php:921
+msgid "Save"
+msgstr "저장하기"
+
+#. translators: 1: Author name; 2: Site name.
+#: inc/options/class-wpseo-option-titles.php:272
+msgid "%1$s, Author at %2$s"
+msgstr "%1$s, %2$s의 작성자"
+
+#: inc/class-wpseo-replace-vars.php:1518 js/dist/first-time-configuration.js:9
+msgid "Name"
+msgstr "이름"
+
+#: admin/views/tool-import-export.php:89
+msgid "Export settings"
+msgstr "설정 내보내기"
+
+#: admin/class-product-upsell-notice.php:181
+msgid "Please don't show me this notification anymore"
+msgstr "%1$s이 알림을 %2$s 더 이상 표시하지 마십시오."
+
+#. translators: %1$s is a link start tag to the bugreport guidelines on the
+#. Yoast help center, %2$s is the link closing tag.
+#: admin/class-product-upsell-notice.php:174
+msgid "If you are experiencing issues, %1$splease file a bug report%2$s and we'll do our best to help you out."
+msgstr "문제가 발생하는 경우 %1$s 는 %2$s의 버그 보고서를 제출합니다. 최선을 다해 도와 드리겠습니다."
+
+#. translators: %1$s expands to Yoast SEO, %2$s is a link start tag to the
+#. plugin page on WordPress.org, %3$s is the link closing tag.
+#: admin/class-product-upsell-notice.php:166
+msgid "We've noticed you've been using %1$s for some time now; we hope you love it! We'd be thrilled if you could %2$sgive us a 5 stars rating on WordPress.org%3$s!"
+msgstr "좀전에 %1$s을(를) 사용하고 계신 것으로 나타났습니다. 우리는 당신이 그것을 사랑하기를 바랍니다! %2$s을(를) WordPress.org %3$s에  별5개 등급을 주시면 감사하겠습니다!"
+
+#. translators: %1$s: '%%term_title%%' variable used in titles and meta's
+#. template that's not compatible with the given template, %2$s: expands to
+#. 'HelpScout beacon'
+#: admin/class-admin.php:356
+msgid "Warning: the variable %1$s cannot be used in this template. See the %2$s for more info."
+msgstr "경고: %s 변수는 이 템플릿에서 사용될 수 없습니다. 자세한 내용은 도움말 센터를 참조하십시요."
+
+#. translators: %1$s expands anchor to premium plugin page, %2$s expands to
+#. </a>
+#: admin/class-product-upsell-notice.php:149
+msgid "By the way, did you know we also have a %1$sPremium plugin%2$s? It offers advanced features, like a redirect manager and support for multiple keyphrases. It also comes with 24/7 personal support."
+msgstr "어쨌거나, %1$s프리미엄 플러그인%2$s이 있다는 것을 알고 계셨습니까? 리디렉션 관리자와 여러 키워드 지원과 같은 고급 기능을 제공합니다. 또한 24/7 개인 지원도 제공됩니다."
+
+#: admin/class-bulk-editor-list-table.php:829
+msgid "(no title)"
+msgstr "(제목 없음)"
+
+#. translators: 1: Yoast SEO
+#: admin/views/class-yoast-feature-toggles.php:150
+msgid "The %1$s admin bar menu contains useful links to third-party tools for analyzing pages and makes it easy to see if you have new notifications."
+msgstr "%1$s 관리 메뉴에는 페이지를 분석하기위한 타사 도구에 대한 유용한 링크가 포함되어 있으며 새로운 알림이 있는지 쉽게 확인할 수 있습니다."
+
+#: admin/views/class-yoast-feature-toggles.php:147 js/dist/new-settings.js:16
+#: js/dist/new-settings.js:302 js/dist/new-settings.js:304
+msgid "Admin bar menu"
+msgstr "관리자 표시줄"
+
+#: admin/pages/network.php:19 admin/views/tabs/network/features.php:22
+msgid "Features"
+msgstr "특징"
+
+#: admin/metabox/class-metabox.php:174 js/dist/externals/analysis.js:150
+#: js/dist/externals/analysis.js:275
+#: js/dist/externals/replacementVariableEditor.js:26
+#: js/dist/externals/searchMetadataPreviews.js:62 js/dist/new-settings.js:9
+#: js/dist/new-settings.js:13 js/dist/new-settings.js:16
+#: js/dist/new-settings.js:20 js/dist/new-settings.js:58
+#: js/dist/new-settings.js:72 js/dist/new-settings.js:102
+#: js/dist/new-settings.js:131 js/dist/new-settings.js:196
+#: js/dist/new-settings.js:213 js/dist/new-settings.js:222
+#: js/dist/new-settings.js:244
+msgid "SEO title"
+msgstr "SEO 제목"
+
+#: inc/options/class-wpseo-option-titles.php:989
+msgid "Greater than sign"
+msgstr "보다 큼 기호"
+
+#: inc/options/class-wpseo-option-titles.php:985
+msgid "Less than sign"
+msgstr "기호보다 작음"
+
+#: inc/options/class-wpseo-option-titles.php:981
+msgid "Right angle quotation mark"
+msgstr "직각 인용 부호"
+
+#: inc/options/class-wpseo-option-titles.php:977
+msgid "Left angle quotation mark"
+msgstr "왼쪽 각도 따옴표"
+
+#: inc/options/class-wpseo-option-titles.php:973
+msgid "Small tilde"
+msgstr "작은 물결표"
+
+#: inc/options/class-wpseo-option-titles.php:969
+msgid "Vertical bar"
+msgstr "수직 막대( | )"
+
+#: inc/options/class-wpseo-option-titles.php:965
+msgid "Low asterisk"
+msgstr "낮은 별표"
+
+#: inc/options/class-wpseo-option-titles.php:961
+msgid "Asterisk"
+msgstr "별표"
+
+#: inc/options/class-wpseo-option-titles.php:957
+msgid "Bullet"
+msgstr "구분점"
+
+#: inc/options/class-wpseo-option-titles.php:953
+msgid "Middle dot"
+msgstr "중간 점"
+
+#: inc/options/class-wpseo-option-titles.php:945
+msgid "Em dash"
+msgstr "em 대시"
+
+#: inc/options/class-wpseo-option-titles.php:941
+msgid "En dash"
+msgstr "en 대시"
+
+#: inc/options/class-wpseo-option-titles.php:937
+msgid "Dash"
+msgstr "선"
+
+#: admin/metabox/class-metabox.php:185 admin/metabox/class-metabox.php:190
+#: js/dist/block-editor.js:272 js/dist/classic-editor.js:257
+#: js/dist/elementor.js:389
+msgid "No"
+msgstr "아니오"
+
+#: admin/metabox/class-metabox.php:184 admin/metabox/class-metabox.php:189
+#: js/dist/block-editor.js:272 js/dist/classic-editor.js:257
+#: js/dist/elementor.js:389
+msgid "Yes"
+msgstr "예"
+
+#: admin/views/tool-bulk-editor.php:63
+msgid "Posts list"
+msgstr "글 목록"
+
+#: admin/views/tool-bulk-editor.php:62
+msgid "Posts list navigation"
+msgstr "글 목록 탐색"
+
+#: admin/views/tool-bulk-editor.php:61
+msgid "Filter posts list"
+msgstr "글 목록 필터"
+
+#: admin/views/licenses.php:225 admin/views/licenses.php:328
+msgid "Installed"
+msgstr "설치됨"
+
+#. translators: %1$s expands to Yoast SEO, %2$s expands to WooCommerce
+#: admin/views/licenses.php:89
+msgid "Seamless integration between %1$s and %2$s"
+msgstr "%1$s와 %2$s의 끊김 없는 통합"
+
+#: admin/views/licenses.php:66
+msgid "Optimize your site for Google News"
+msgstr "구글 뉴스에 맞게 사이트 최적화"
+
+#. translators: Hidden accessibility text; %s: post title.
+#: admin/class-bulk-editor-list-table.php:843
+msgid "Edit &#8220;%s&#8221;"
+msgstr "; &#8220;%s&#8221; 편집"
+
+#: src/integrations/admin/menu-badge-integration.php:35 js/dist/academy.js:8
+msgid "Premium"
+msgstr "프리미엄"
+
+#: admin/class-admin.php:273
+msgid "Get Premium"
+msgstr "프리니엄 시작"
+
+#: admin/views/partial-notifications-warnings.php:20
+#: inc/class-wpseo-admin-bar-menu.php:396
+msgid "Notifications"
+msgstr "알림"
+
+#: admin/views/user-profile.php:48
+msgid "Removes the focus keyphrase section from the metabox and disables all SEO-related suggestions."
+msgstr "메타박스에서 키워드 탭을 제거하고 모든 SEO 관련 제안을 비활성화 합니다."
+
+#: admin/views/user-profile.php:45
+msgid "Disable SEO analysis"
+msgstr "SEO 분석 사용 중지"
+
+#: admin/views/js-templates-primary-term.php:28
+msgid "Make primary"
+msgstr "주 사용으로 변경"
+
+#. translators: Hidden accessibility text; %s: number of notifications.
+#: admin/menu/class-admin-menu.php:120 inc/class-wpseo-admin-bar-menu.php:863
+msgid "%s notification"
+msgid_plural "%s notifications"
+msgstr[0] "%s 알림"
+
+#: admin/views/user-profile.php:57
+msgid "Disable readability analysis"
+msgstr "가독성 분석 사용 중지"
+
+#: admin/views/user-profile.php:60
+msgid "Removes the readability analysis section from the metabox and disables all readability-related suggestions."
+msgstr "metabox에서 가독성 탭을 제거하고 모든 가독성 관련 제안을 비활성화합니다."
+
+#: admin/views/class-yoast-feature-toggles.php:83
+#: js/dist/externals-components.js:201 js/dist/new-settings.js:16
+#: js/dist/new-settings.js:302
+msgid "Readability analysis"
+msgstr "가독성 분석"
+
+#: admin/formatter/class-metabox-formatter.php:86
+#: admin/formatter/class-metabox-formatter.php:116
+#: admin/formatter/class-metabox-formatter.php:146
+#: admin/statistics/class-statistics-service.php:217
+#: inc/class-wpseo-rank.php:140 inc/class-wpseo-rank.php:176
+#: inc/class-wpseo-rank.php:208 inc/class-wpseo-rank.php:235
+#: js/dist/block-editor.js:563 js/dist/editor-modules.js:324
+#: js/dist/elementor.js:92 js/dist/externals-components.js:188
+#: js/dist/externals/analysis.js:11 js/dist/frontend-inspector-resources.js:1
+#: js/dist/post-edit.js:17 js/dist/term-edit.js:1
+msgid "Needs improvement"
+msgstr "개선 필요"
+
+#: admin/metabox/class-metabox-section-readability.php:30
+#: inc/class-wpseo-admin-bar-menu.php:256
+msgid "Readability"
+msgstr "가독성"
+
+#: admin/views/partial-notifications-errors.php:22
+msgid "Good job! We could detect no serious SEO problems."
+msgstr "잘 했어! 우리는 심각한 SEO 문제를 감지 할 수 없습니다."
+
+#: admin/views/partial-notifications-errors.php:21
+msgid "We have detected the following issues that affect the SEO of your site."
+msgstr "당신의 사이트의 검색 엔진 최적화에 영향을 미치는 다음과 같은 문제점을 발견했습니다."
+
+#: admin/views/partial-notifications-errors.php:20
+#: js/dist/editor-modules.js:181 js/dist/externals-components.js:188
+#: js/dist/externals/analysisReport.js:40
+msgid "Problems"
+msgstr "문제"
+
+#: admin/formatter/class-metabox-formatter.php:79
+#: admin/formatter/class-metabox-formatter.php:109
+#: admin/formatter/class-metabox-formatter.php:139 inc/class-wpseo-rank.php:138
+msgid "Not available"
+msgstr "사용 불가"
+
+#. translators: Hidden accessibility text.
+#: admin/class-meta-columns.php:258
+msgid "Filter by SEO Score"
+msgstr "SEO 점수로 필터링"
+
+#. translators: Hidden accessibility text.
+#: admin/class-meta-columns.php:170
+msgid "Meta description not set."
+msgstr "메타 설명이 설정되지 않았습니다."
+
+#: admin/menu/class-admin-menu.php:56 admin/pages/dashboard.php:32
+msgid "Dashboard"
+msgstr "알림판"
+
+#. translators: %1$s is a link start tag to the permalink settings page, %2$s
+#. is the link closing tag.
+#: src/services/health-check/postname-permalink-reports.php:71
+msgid "You can fix this on the %1$sPermalink settings page%2$s."
+msgstr " %1$s퍼머링크 설정 페이지 %2$s에서 수정할 수 있습니다."
+
+#: inc/class-wpseo-replace-vars.php:1480
+msgid "Replaced with the primary category of the post/page"
+msgstr "게시물/페이지의 기본 카테고리와 대체"
+
+#. translators: $s expands to Yoast SEO Premium
+#. translators: %s expands to the product name, e.g. "News SEO" or "all the
+#. Yoast Plugins"
+#. translators: 1: Yoast WooCommerce SEO
+#: admin/views/licenses.php:265 admin/views/licenses.php:367
+#: js/dist/integrations-page.js:12
+msgid "Buy %s"
+msgstr "%s 구입"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/class-bulk-title-editor-list-table.php:50
+msgid "New %1$s Title"
+msgstr "새 %1$s 제목"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/class-bulk-title-editor-list-table.php:48
+msgid "Existing %1$s Title"
+msgstr "기존 %1$s 제목"
+
+#: inc/sitemaps/class-sitemaps-cache-validator.php:301
+msgid "Expected an integer as input."
+msgstr "정수 입력으로 예상했습니다."
+
+#: inc/sitemaps/class-sitemaps-cache-validator.php:111
+msgid "Trying to build the sitemap cache key, but the postfix and prefix combination leaves too little room to do this. You are probably requesting a page that is way out of the expected range."
+msgstr "Sitemap 캐시 키를 만들려고 시도하지만 접미사와 접두어 조합으로 인해 이 작업을 수행할 여지가 너무 적습니다. 예상 범위를 벗어나는 페이지를 요청하고 있습니다."
+
+#: admin/views/redirects.php:32
+#: src/integrations/admin/redirects-page-integration.php:48
+msgid "Redirects"
+msgstr "리다이렉트"
+
+#: src/integrations/admin/crawl-settings-integration.php:242
+msgid "Remove"
+msgstr "삭제"
+
+#: src/integrations/admin/crawl-settings-integration.php:241
+msgid "Keep"
+msgstr "보유"
+
+#. translators: %s is the taxonomy title. This will be shown to screenreaders
+#: admin/views/js-templates-primary-term.php:38
+msgid "Primary %s"
+msgstr "주 %s"
+
+#: admin/views/js-templates-primary-term.php:32
+msgid "Primary"
+msgstr "첫번째"
+
+#. translators: Hidden accessibility text; %1$s expands to the term title, %2$s
+#. to the taxonomy title.
+#: admin/views/js-templates-primary-term.php:18
+msgid "Make %1$s primary %2$s"
+msgstr "%1$s을 (를) 기본 %2$s로 만드십시오."
+
+#: admin/pages/network.php:20 admin/views/tabs/network/integrations.php:22
+#: src/integrations/admin/integrations-page.php:80
+#: js/dist/integrations-page.js:41
+msgid "Integrations"
+msgstr "통합"
+
+#: admin/taxonomy/class-taxonomy-columns.php:170
+msgid "Term is set to noindex."
+msgstr "팀은 noindex로 설정됩니다."
+
+#: src/integrations/admin/crawl-settings-integration.php:195
+#: src/presenters/admin/light-switch-presenter.php:120
+msgid "Enabled"
+msgstr "작동"
+
+#: src/integrations/admin/crawl-settings-integration.php:194
+#: src/presenters/admin/light-switch-presenter.php:120
+msgid "Disabled"
+msgstr "사용안함"
+
+#. translators: %s: wp_title() function.
+#: inc/class-wpseo-replace-vars.php:1462
+msgid "The separator defined in your theme's %s tag."
+msgstr "테마의 %s 태그에 정의된 구분자."
+
+#: inc/class-wpseo-rank.php:139
+msgid "No index"
+msgstr "색인 없음"
+
+#: admin/class-meta-columns.php:103 admin/class-meta-columns.php:105
+#: admin/taxonomy/class-taxonomy-columns.php:87
+#: admin/taxonomy/class-taxonomy-columns.php:88
+#: inc/class-wpseo-admin-bar-menu.php:244
+msgid "SEO score"
+msgstr "SEO 점수"
+
+#. Author of the plugin
+#: wp-seo.php
+msgid "Team Yoast"
+msgstr "Yoast 팀"
+
+#. Description of the plugin
+#: wp-seo.php
+msgid "The first true all-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps and much more."
+msgstr "WordPress 용 최초의 올인원(all-in-one) SEO 솔루션으로, 페이지 내용 분석, XML 사이트 맵 등을 포함합니다."
+
+#. Plugin Name of the plugin
+#: wp-seo.php admin/capabilities/class-capability-manager-integration.php:74
+#: src/presenters/meta-description-presenter.php:36 js/dist/block-editor.js:599
+msgid "Yoast SEO"
+msgstr "Yoast SEO"
+
+#: wp-seo-main.php:572
+msgid "Activation failed:"
+msgstr "인증 실패:"
+
+#: wp-seo-main.php:559
+msgid "The filter extension seem to be unavailable. Please ask your web host to enable it."
+msgstr "필터 확장 프로그램을 사용할 수 없는 것 같습니다. 사용하려면 웹호스팅에 문의하십시오."
+
+#. translators: %1$s expands to Yoast SEO, %2$s / %3$s: links to the
+#. installation manual in the Readme for the Yoast SEO code repository on
+#. GitHub
+#: wp-seo-main.php:533
+msgid "The %1$s plugin installation is incomplete. Please refer to %2$sinstallation instructions%3$s."
+msgstr "%1$s 플러그인 설치가 완료되지 않았습니다. %2$s 설치 지침 %3$s을(를) 참조하십시오."
+
+#: wp-seo-main.php:509
+msgid "The Standard PHP Library (SPL) extension seem to be unavailable. Please ask your web host to enable it."
+msgstr "표준 PHP 라이브러리 (SPL) 확장이 사용 불가능해 보입니다. 가능하게 하려면 웹 호스트에 문의하시기 바랍니다."
+
+#: inc/class-wpseo-admin-bar-menu.php:632
+#: inc/class-wpseo-admin-bar-menu.php:680
+msgid "SEO Settings"
+msgstr "SEO 설정"
+
+#: inc/class-wpseo-admin-bar-menu.php:450
+msgid "Google Page Speed Test"
+msgstr "Google 페이지 속도 테스트"
+
+#: inc/class-wpseo-admin-bar-menu.php:445
+msgid "Facebook Debugger"
+msgstr "Facebook 디버거"
+
+#: inc/class-wpseo-admin-bar-menu.php:426
+msgid "Analyze this page"
+msgstr "이 페이지를 분석"
+
+#. translators: %s expands to an invalid URL.
+#: inc/options/class-wpseo-option.php:392
+msgid "%s does not seem to be a valid url. Please correct."
+msgstr "%s은(는) 유효한 URL이 아닙니다. 수정 해주세요."
+
+#. translators: 1: Verification string from user input; 2: Service name.
+#: inc/options/class-wpseo-option.php:354
+msgid "%1$s does not seem to be a valid %2$s verification string. Please correct."
+msgstr "%1$s 유효한 %2$s의 확인 문자열 것 같지 않습니다. 제발 수정 하십시오."
+
+#. translators: %s expands to the name of a post type (plural).
+#: inc/class-upgrade.php:1539 inc/options/class-wpseo-option-titles.php:309
+msgid "%s Archive"
+msgstr "%s 보관"
+
+#. translators: %s expands to the search phrase.
+#: inc/options/class-wpseo-option-titles.php:274
+msgid "You searched for %s"
+msgstr "%s에 대해 검색하였습니다"
+
+#. translators: %s expands to a twitter user name.
+#: inc/options/class-wpseo-option-social.php:184
+msgid "%s does not seem to be a valid Twitter Username. Please correct."
+msgstr "%s(은)는 유효한 트위터 사용자 아이디가 아닌거 같습니다. 수정하시기 바랍니다."
+
+#: inc/options/class-wpseo-option-social.php:110
+msgid "Summary with large image"
+msgstr "큰 이미지에서 요약"
+
+#. translators: 1: link to post; 2: link to blog.
+#: inc/options/class-wpseo-option-titles.php:277
+msgid "The post %1$s appeared first on %2$s."
+msgstr "게시물 %1$s이 %2$s에 처음 등장했습니다."
+
+#: inc/options/class-wpseo-option-ms.php:244
+msgid "No numeric value was received."
+msgstr "숫자 값을받지 못했습니다."
+
+#. translators: %s is the ID number of a blog.
+#: inc/options/class-wpseo-option-ms.php:232
+msgid "This must be an existing blog. Blog %s does not exist or has been marked as deleted."
+msgstr "이것은 존재하는 블로그 여야합니다. 블로그 %s이(가) 없거나 삭제 된 것으로 표시되었습니다."
+
+#: inc/options/class-wpseo-option-ms.php:228
+#: inc/options/class-wpseo-option-ms.php:244
+msgid "The default blog setting must be the numeric blog id of the blog you want to use as default."
+msgstr "기본 블로그 설정은 기본적으로 사용 하려는 블로그의 숫자의 블로그 id 여야 합니다."
+
+#. translators: %1$s expands to the option name and %2$sexpands to Yoast SEO
+#: inc/options/class-wpseo-option-ms.php:209
+msgid "%1$s is not a valid choice for who should be allowed access to the %2$s settings. Value reset to the default."
+msgstr "%1$s은 (는) %2$s 설정에 대한 액세스를 허용해야하는 사용자에게 유효한 선택 사항이 아닙니다. 값이 기본값으로 재설정됩니다."
+
+#. translators: %s expands to a taxonomy slug.
+#: inc/options/class-wpseo-option-titles.php:583
+msgid "Please select a valid post type for taxonomy \"%s\""
+msgstr "분류 \"%s\"에 대한 유효한 게시 유형을 선택 하십시오"
+
+#. translators: %s expands to a post type.
+#: inc/options/class-wpseo-option-titles.php:545
+msgid "Please select a valid taxonomy for post type \"%s\""
+msgstr "게시 유형 \"%s\"에 대한 유효한 분류를 선택하십시오."
+
+#: inc/options/class-wpseo-option-titles.php:282
+msgid "You searched for"
+msgstr "검색에 대한"
+
+#: inc/options/class-wpseo-option-titles.php:281
+msgid "Home"
+msgstr "홈"
+
+#: inc/options/class-wpseo-option-titles.php:280
+msgid "Archives for"
+msgstr "다음에 대한 보관함"
+
+#: inc/options/class-wpseo-option-titles.php:279
+msgid "Error 404: Page not found"
+msgstr "404 오류: 페이지를 찾을 수 었습니다."
+
+#: admin/formatter/class-metabox-formatter.php:100
+#: admin/formatter/class-metabox-formatter.php:130
+#: admin/formatter/class-metabox-formatter.php:160
+#: admin/statistics/class-statistics-service.php:227
+#: inc/class-wpseo-rank.php:142 inc/class-wpseo-rank.php:186
+#: inc/class-wpseo-rank.php:218 inc/class-wpseo-rank.php:245
+#: js/dist/block-editor.js:563 js/dist/editor-modules.js:324
+#: js/dist/elementor.js:92 js/dist/externals-components.js:188
+#: js/dist/externals/analysis.js:11 js/dist/frontend-inspector-resources.js:1
+#: js/dist/post-edit.js:17 js/dist/term-edit.js:1
+msgid "Good"
+msgstr "좋음"
+
+#: inc/class-wpseo-replace-vars.php:1528
+msgid "Replaced with a custom taxonomies description"
+msgstr "사용자정의 분류 설명으로 대체 됨"
+
+#: inc/class-wpseo-replace-vars.php:1527
+msgid "Replaced with a posts custom taxonomies, comma separated."
+msgstr "게시물 맞춤 분류로 대체되어 쉼표로 구분됩니다."
+
+#: inc/class-wpseo-replace-vars.php:1526
+msgid "Replaced with a posts custom field value"
+msgstr "소식 맞춤 입력란 값으로 대체 됨"
+
+#: inc/class-wpseo-replace-vars.php:1525
+msgid "Replaced with the slug which caused the 404"
+msgstr "404의 원인이된 슬러그로 대체 됨"
+
+#: inc/class-wpseo-replace-vars.php:1524
+msgid "Replaced with the posts focus keyphrase"
+msgstr "posts focus 키워드로 대체 됨"
+
+#: inc/class-wpseo-replace-vars.php:1523
+msgid "Attachment caption"
+msgstr "첨부 파일 캡션"
+
+#: inc/class-wpseo-replace-vars.php:1522
+msgid "Replaced with the current page number"
+msgstr "현재 페이지 번호로 대체 됨"
+
+#: inc/class-wpseo-replace-vars.php:1521
+msgid "Replaced with the current page total"
+msgstr "현재 페이지 합계로 대체 됨"
+
+#: inc/class-wpseo-replace-vars.php:1520
+msgid "Replaced with the current page number with context (i.e. page 2 of 4)"
+msgstr "본문(예. 4 중 2페이지)가 있는 현재의 페이지 번호로 대체"
+
+#: inc/class-wpseo-replace-vars.php:1489
+msgid "Replaced with the current year"
+msgstr "현재 연도로 대체함"
+
+#: inc/class-wpseo-replace-vars.php:1490
+msgid "Replaced with the current month"
+msgstr "현재 월로 대체함"
+
+#: inc/class-wpseo-replace-vars.php:1491
+msgid "Replaced with the current day"
+msgstr "현재 일로 대체함"
+
+#: inc/class-wpseo-replace-vars.php:1488
+msgid "Replaced with the current date"
+msgstr "현재 날짜로 대체함"
+
+#: inc/class-wpseo-replace-vars.php:1519
+msgid "Replaced with the post/page author's 'Biographical Info'"
+msgstr "게시물 / 페이지 작성자의 ‘Biographical Info’로 대체"
+
+#: inc/class-wpseo-replace-vars.php:1518
+msgid "Replaced with the post/page author's 'nicename'"
+msgstr "포스트 / 페이지 작성자의 'nicename'"
+
+#: inc/class-wpseo-replace-vars.php:1517
+msgid "Replaced with the post/page ID"
+msgstr "게시물 / 페이지 ID로 대체 됨"
+
+#: inc/class-wpseo-replace-vars.php:1516
+msgid "Replaced with the post/page modified time"
+msgstr "게시물 / 페이지 수정 시간으로 대체 됨"
+
+#: inc/class-wpseo-replace-vars.php:1515
+msgid "Replaced with the content type plural label"
+msgstr "내용 유형의 복수형 레이블로 대체"
+
+#: inc/class-wpseo-replace-vars.php:1514
+msgid "Replaced with the content type single label"
+msgstr "게시물 유형 단일 라벨으로 대체"
+
+#: inc/class-wpseo-replace-vars.php:1485
+msgid "Replaced with the current search phrase"
+msgstr "현재 검색 구문으로 대체 됨"
+
+#: inc/class-wpseo-replace-vars.php:1484
+msgid "Replaced with the term name"
+msgstr "용어 이름으로 대체 됨"
+
+#: inc/class-wpseo-replace-vars.php:1483
+msgid "Replaced with the term description"
+msgstr "용어 설명으로 대체 됨"
+
+#: inc/class-wpseo-replace-vars.php:1482
+msgid "Replaced with the tag description"
+msgstr "태그 설명으로 대체 됨"
+
+#: inc/class-wpseo-replace-vars.php:1481
+msgid "Replaced with the category description"
+msgstr "카테고리 설명으로 대체함"
+
+#: inc/class-wpseo-replace-vars.php:1479
+msgid "Replaced with the post categories (comma separated)"
+msgstr "게시물 카테고리 (쉼표로 구분)으로 대체"
+
+#: inc/class-wpseo-replace-vars.php:1478
+msgid "Replaced with the current tag/tags"
+msgstr "현재 태그/태그들 대체"
+
+#: inc/class-wpseo-replace-vars.php:1477
+msgid "Replaced with the post/page excerpt (without auto-generation)"
+msgstr "게시물 / 페이지 발췌로 대체 (자동 생성 없음)"
+
+#: inc/class-wpseo-replace-vars.php:1476
+msgid "Replaced with the post/page excerpt (or auto-generated if it does not exist)"
+msgstr "게시물 / 페이지 발췌로 대체 (또는 존재하지 않는 경우 자동 생성됨)"
+
+#: inc/class-wpseo-replace-vars.php:1474
+msgid "The site's name"
+msgstr "사이트의 이름"
+
+#: inc/class-wpseo-replace-vars.php:1472
+msgid "Replaced with the title of the parent page of the current page"
+msgstr "현재 페이지의 상위 페이지 제목으로 교체"
+
+#: inc/class-wpseo-replace-vars.php:1471
+msgid "Replaced with the title of the post/page"
+msgstr "게시물/페이지의 제목으로 교체"
+
+#: inc/class-wpseo-replace-vars.php:1470
+msgid "Replaced with the date of the post/page"
+msgstr "게시물/페이지의 날짜로 대체 됨"
+
+#. translators: 1: current page number, 2: total number of pages.
+#: inc/class-wpseo-replace-vars.php:1029
+msgid "Page %1$d of %2$d"
+msgstr "%2$d 중 %1$d 번째 페이지"
+
+#: inc/class-wpseo-replace-vars.php:124
+msgid "You cannot overrule a WPSEO standard variable replacement by registering a variable with the same name. Use the \"wpseo_replacements\" filter instead to adjust the replacement value."
+msgstr "동일한 이름을 가진 변수를 등록하여 WPSEO 표준 변수 대체를 무효화할 수 없습니다. 대체 변수를 조정하는 대신 “wpseo_replacements” 필터를 이용하십시오."
+
+#: inc/class-wpseo-replace-vars.php:120
+msgid "A replacement variable with the same name has already been registered. Try making your variable name unique."
+msgstr "동일한 이름을 가진 대체 변수가 이미 등록되었습니다. 변수 이름을 고유하게 만드십시오."
+
+#: inc/class-wpseo-replace-vars.php:110
+msgid "A replacement variable can not start with \"%%cf_\" or \"%%ct_\" as these are reserved for the WPSEO standard variable variables for custom fields and custom taxonomies. Try making your variable name unique."
+msgstr "사용자 정의 항목과 사용자 정의 분류에 대한 WPSEO 변수 다양성 표준에 지정되어 있기에 대체 변수가 “%%cf_” 또는 “%%ct_”로 시작할 수 없습니다. 변수 이름을 고유하게 만드십시오."
+
+#: inc/class-wpseo-replace-vars.php:107
+msgid "A replacement variable can only contain alphanumeric characters, an underscore or a dash. Try renaming your variable."
+msgstr "대체 변수는 영숫자, 밑줄 또는 대시만 포함할 수 있습니다. 변수의 이름을 변경해 보십시오."
+
+#. translators: %1$s resolves to Yoast SEO, %2$s resolves to the Settings
+#. submenu item.
+#: src/presenters/meta-description-presenter.php:35
+msgid "Admin only notice: this page does not show a meta description because it does not have one, either write it for this page specifically or go into the [%1$s - %2$s] menu and set up a template."
+msgstr "관리자 전용 공지 : 하나도 가지고 있지 않기 때문에 이 페이지에 메티설명을 보여주지 않습니다. 이 페이지에 대하여 작성하거나 [%1$s - %2$s] 메뉴에 가서 템플릿을 설정하십시오."
+
+#: inc/options/class-wpseo-option-titles.php:275
+msgid "Page not found"
+msgstr "페이지가 없습니다."
+
+#. translators: %s expands to the variable used for term title.
+#: inc/class-upgrade.php:1542 inc/options/class-wpseo-option-titles.php:345
+#: src/editors/framework/seo/terms/title-data-provider.php:26
+msgid "%s Archives"
+msgstr "%s 보관"
+
+#: admin/views/user-profile.php:28
+msgid "Meta description to use for Author page"
+msgstr "작성자 페이지에 사용할 메타 설명"
+
+#: admin/views/user-profile.php:24
+msgid "Title to use for Author page"
+msgstr "작성자 페이지에 사용할 제목"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/views/user-profile.php:11
+msgid "%1$s settings"
+msgstr "%1$s 설정"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/views/tabs/tool/wpseo-export.php:15
+msgid "Export your %1$s settings"
+msgstr "%1$s 설정값 내보내기"
+
+#: admin/class-export.php:65 admin/views/tabs/tool/wpseo-import.php:25
+#: admin/views/tabs/tool/wpseo-import.php:45
+#: admin/views/tool-import-export.php:86
+msgid "Import settings"
+msgstr "설정 들여오기"
+
+#: admin/views/tabs/tool/import-seo.php:18
+#: admin/views/tabs/tool/import-seo.php:49
+#: admin/views/tool-import-export.php:92
+msgid "Import from other SEO plugins"
+msgstr "다른 SEO 플러그인에서 가져 오기"
+
+#: admin/views/tabs/tool/import-seo.php:88
+msgid "Import"
+msgstr "가져오기"
+
+#. translators: %s expands to robots.txt.
+#. translators: %s expands to ".htaccess".
+#: admin/views/tool-file-editor.php:135 admin/views/tool-file-editor.php:235
+msgid "If you had a %s file and it was editable, you could edit it from here."
+msgstr "%s 파일이 있고 편집 할 수 있다면 여기에서 편집 할 수 있습니다."
+
+#. translators: %s expands to robots.txt.
+#. translators: %s expands to ".htaccess".
+#: admin/views/tool-file-editor.php:153 admin/views/tool-file-editor.php:203
+msgid "If your %s were writable, you could edit it from here."
+msgstr "%s이 (가) 쓰기 가능하면 여기에서 편집 할 수 있습니다."
+
+#. translators: %s expands to robots.txt.
+#: admin/views/tool-file-editor.php:116
+msgid "You don't have a %s file, create one here:"
+msgstr "%s 파일이 없으므로 여기에 파일을 만드십시오 :"
+
+#: admin/statistics/class-statistics-service.php:80
+msgid "Below are your published posts' SEO scores. Now is as good a time as any to start improving some of your posts!"
+msgstr "아래는 귀하의 게시된 게시물의 SEO 점수입니다. 이제 귀하의 게시물 중 일부를 개선하기 시작할 수있는 좋은 시간입니다!"
+
+#: admin/views/tabs/dashboard/dashboard.php:40
+msgid "Credits"
+msgstr "크레딧"
+
+#: admin/pages/tools.php:77
+msgid "&laquo; Back to Tools page"
+msgstr "&laquo; 도구 페이지로 돌아 가기"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/pages/tools.php:49
+msgid "%1$s comes with some very powerful built-in tools:"
+msgstr "%1$s(은)는 몇 가지 매우 강력한 도구를 함께 제공합니다:"
+
+#: admin/pages/tools.php:37
+msgid "This tool allows you to quickly change important files for your SEO, like your robots.txt and, if you have one, your .htaccess file."
+msgstr "이 도구를 사용하면 robots.txt 및 .htaccess 파일과 같은 중요한 파일을 신속하게 변경할 수 있습니다."
+
+#: admin/pages/tools.php:36
+msgid "File editor"
+msgstr "파일 편집기"
+
+#: admin/pages/tools.php:31
+msgid "Import settings from other SEO plugins and export your settings for re-use on (another) site."
+msgstr "다른 SEO 플러그인에서 설정값을 불러오고 (다른) 웹사이트에서 다시 사용할 수 있도록 여러분의 설정값을 내보냅니다."
+
+#: admin/pages/tools.php:30
+msgid "Import and Export"
+msgstr "가져오기 및 내보내기"
+
+#: admin/pages/tools.php:43
+msgid "This tool allows you to quickly change titles and descriptions of your posts and pages without having to go into the editor for each page."
+msgstr "이 도구를 사용하면 각 페이지의 편집기로 갈 필요없이 게시물 및 페이지의 제목 및 설명을 빠르게 변경할 수 있습니다."
+
+#: admin/pages/tools.php:42
+msgid "Bulk editor"
+msgstr "일괄 편집기"
+
+#: src/integrations/admin/import-integration.php:119
+msgid "Default settings"
+msgstr "기본 설정"
+
+#: admin/views/tool-bulk-editor.php:113 js/dist/new-settings.js:246
+msgid "Description"
+msgstr "설명"
+
+#: admin/views/tabs/network/restore-site.php:32
+msgid "Restore site to defaults"
+msgstr "사이트를 기본값으로 복원"
+
+#: admin/views/tabs/network/restore-site.php:23
+#: admin/views/tabs/network/restore-site.php:28
+msgid "Site ID"
+msgstr "사이트 ID"
+
+#: admin/views/tabs/network/restore-site.php:16
+msgid "Using this form you can reset a site to the default SEO settings."
+msgstr "이 양식을 사용함으로서 당신은 기본 SEO 설정으로 사이트를 재설정 할 수 있습니다."
+
+#: admin/views/tabs/network/general.php:54
+msgid "Privacy sensitive (FB admins and such), theme specific (title rewrite) and a few very site specific settings will not be imported to new sites."
+msgstr "민감한 개인정보(페북 관리자 등), 테마 지정(제목 다시 쓰기) 그리고 몇 가지 매우 특정한 사이트 설정은 새 사이트로 가져오지 않을 거에요."
+
+#. translators: 1: link open tag; 2: link close tag.
+#: admin/views/tabs/network/general.php:47
+msgid "Enter the %1$sSite ID%2$s for the site whose settings you want to use as default for all sites that are added to your network. Leave empty for none (i.e. the normal plugin defaults will be used)."
+msgstr "네트워크에 추가하는 모든 사이트의 기본 설정으로 사용하길 원하는 설정을 보유한 %1$s사이트 ID%2$s를 선택하세요. '없음'으로 선택할 경우, 비워두세요. (예시: 일반 플러그인 기본 값이 사용됩니다)."
+
+#: admin/views/tabs/network/general.php:40
+msgid "Choose the site whose settings you want to use as default for all sites that are added to your network. If you choose 'None', the normal plugin defaults will be used."
+msgstr "네트워크에 추가하는 모든 사이트의 기본 설정으로 사용하길 원하는 설정을 보유한 사이트를 선택하세요. '없음'으로 선택할 경우, 일반 플러그인 기본 값이 사용됩니다."
+
+#: admin/views/tabs/network/general.php:37
+#: admin/views/tabs/network/general.php:43
+msgid "New sites in the network inherit their SEO settings from this site"
+msgstr "네트워크의 새로운 사이트는 이 사이트에서 자신의 SEO 설정을 내려받습니다."
+
+#: admin/views/tabs/network/general.php:28
+msgid "Super Admins only"
+msgstr "수퍼 관리자만"
+
+#: admin/views/tabs/network/general.php:27
+msgid "Site Admins (default)"
+msgstr "사이트 관리자 (기본)"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/views/tabs/network/general.php:25
+msgid "Who should have access to the %1$s settings"
+msgstr "%1$s 설정에 액세스 할 수있는 사용자"
+
+#: admin/class-yoast-network-admin.php:80
+msgid "spam"
+msgstr "스팸"
+
+#: admin/class-yoast-network-admin.php:79
+msgid "mature"
+msgstr "만기"
+
+#: admin/class-yoast-network-admin.php:78
+msgid "archived"
+msgstr "보관된"
+
+#: admin/class-yoast-network-admin.php:77
+msgid "public"
+msgstr "공개"
+
+#. translators: %s expands to the name of a site within a multisite network.
+#: admin/class-yoast-network-admin.php:174
+msgid "%s restored to default SEO settings."
+msgstr "%s 기본 SEO 설정으로 복원되었습니다."
+
+#: admin/class-yoast-network-admin.php:140
+msgid "Settings Updated."
+msgstr "설정이 업데이트됨"
+
+#: admin/views/tool-bulk-editor.php:111 inc/class-wpseo-replace-vars.php:1471
+#: js/dist/externals-redux.js:1
+msgid "Title"
+msgstr "제목"
+
+#: admin/views/tabs/network/general.php:54
+msgid "Take note:"
+msgstr "필기! :"
+
+#. translators: %1$s expands to Yoast SEO.
+#: admin/views/licenses.php:126
+msgid "%1$s Extensions"
+msgstr "%1$s 확장 프로그램"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/class-plugin-availability.php:89 admin/views/licenses.php:82
+msgid "Seamlessly integrate WooCommerce with %1$s and get extra features!"
+msgstr "우커머스를 %1$s(와)과 원활하게 통합하고 추가 기능을 얻으십시오!"
+
+#: admin/class-plugin-availability.php:77 admin/views/licenses.php:35
+msgid "Rank better locally and in Google Maps, without breaking a sweat!"
+msgstr "땀을 흘리지 않고 지역과 Google 지도에서 더 나은 순위를 매겨보세요!"
+
+#: admin/class-plugin-availability.php:67 admin/views/licenses.php:63
+msgid "Are you in Google News? Increase your traffic from Google News by optimizing for it!"
+msgstr "Google 뉴스에 가입하셨습니까? 최적화하여 Google 뉴스 트래픽을 늘리십시오!"
+
+#: admin/class-plugin-availability.php:57 admin/views/licenses.php:49
+msgid "Optimize your videos to show them off in search results and get more clicks!"
+msgstr "검색 결과에 표시하고 더 많은 클릭을 얻기 위해 동영상을 최적화하십시오!"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/class-plugin-availability.php:45 admin/views/licenses.php:24
+msgid "The premium version of %1$s with more features & support."
+msgstr "더 많은 기능과 지원이 포함 된 프리미엄 버전 %1$s입니다."
+
+#: src/integrations/admin/first-time-configuration-integration.php:485
+#: js/dist/new-settings.js:314
+msgid "Person"
+msgstr "개인"
+
+#: inc/class-wpseo-replace-vars.php:1497
+msgid "Permalink"
+msgstr "고유주소"
+
+#. Translators: %1$s: expands to 'Yoast SEO Premium', %2$s: links to Yoast SEO
+#. Premium plugin page.
+#: admin/google_search_console/views/gsc-redirect-nopremium.php:22
+msgid "To be able to create a redirect and fix this issue, you need %1$s. You can buy the plugin, including one year of support and updates, on %2$s."
+msgstr "리디렉션을 만들고 이 문제를 해결하려면 %1$s(이)가 필요합니다. %2$s에서 1 년간의 지원과 업데이트를 포함한 플러그인을 구입할 수 있습니다."
+
+#. Translators: %s: expands to Yoast SEO Premium
+#: admin/google_search_console/views/gsc-redirect-nopremium.php:15
+msgid "Creating redirects is a %s feature"
+msgstr "리디렉션 만들기는 %s 기능입니다"
+
+#: admin/views/redirects.php:175 admin/views/redirects.php:222
+msgid "New URL"
+msgstr "새로운 URL:"
+
+#: admin/views/redirects.php:112
+msgid "URL"
+msgstr "URL"
+
+#. translators: %s: 'Facebook' plugin name of possibly conflicting plugin
+#: admin/class-yoast-plugin-conflict.php:186
+msgid "Deactivate %s"
+msgstr "%s 비활성화"
+
+#. translators: %1$s: 'Facebook & Open Graph' plugin name(s) of possibly
+#. conflicting plugin(s), %2$s to Yoast SEO
+#: admin/class-yoast-plugin-conflict.php:182
+msgid "The %1$s plugin might cause issues when used in conjunction with %2$s."
+msgstr "%2$s와 함께 사용하면 %1$s 플러그인으로 인해 문제가 발생할 수 있습니다."
+
+#: admin/class-yoast-form.php:773 admin/metabox/class-metabox.php:643
+#: admin/taxonomy/class-taxonomy-fields-presenter.php:127
+msgid "Upload Image"
+msgstr "업로드 이미지"
+
+#. translators: %s is the plugin name
+#: admin/class-yoast-dashboard-widget.php:79
+msgid "%s Posts Overview"
+msgstr "%s 게시물 개요"
+
+#: admin/google_search_console/views/gsc-redirect-nopremium.php:27
+#: js/dist/elementor.js:4 js/dist/elementor.js:12
+#: js/dist/externals-components.js:238 js/dist/externals-components.js:241
+#: js/dist/externals-components.js:249 js/dist/externals/componentsNew.js:789
+#: js/dist/introductions.js:4 js/dist/introductions.js:12
+#: js/dist/new-settings.js:1 js/dist/new-settings.js:23
+#: js/dist/new-settings.js:29 js/dist/new-settings.js:37 js/dist/post-edit.js:4
+#: js/dist/post-edit.js:12 js/dist/support.js:6 js/dist/support.js:14
+#: js/dist/term-edit.js:4 js/dist/term-edit.js:12
+msgid "Close"
+msgstr "닫기"
+
+#. translators: %1$s expands to Yoast SEO, %2$s: 'Google XML Sitemaps' plugin
+#. name of possibly conflicting plugin with regard to the creation of sitemaps.
+#: admin/class-plugin-conflict.php:78
+msgid "Both %1$s and %2$s can create XML sitemaps. Having two XML sitemaps is not beneficial for search engines and might slow down your site."
+msgstr "%1$s 및 %2$s 모두 XML 사이트 맵을 만들 수 있습니다. 두 개의 XML 사이트 맵을 가지고 있으면 검색 엔진에 도움이 되지 않지만 사이트 속도는 느려질 수 있습니다."
+
+#. translators: %1$s expands to Yoast SEO.
+#: admin/class-plugin-conflict.php:71
+msgid "Configure %1$s's Open Graph settings"
+msgstr "%1$s의 OpenGraph 설정 구성"
+
+#. translators: %1$s expands to Yoast SEO, %2$s: 'Facebook' plugin name of
+#. possibly conflicting plugin with regard to creating OpenGraph output.
+#: admin/class-plugin-conflict.php:67
+msgid "Both %1$s and %2$s create Open Graph output, which might make Facebook, X, LinkedIn and other social networks use the wrong texts and images when your pages are being shared."
+msgstr "%1$s 및 %2$s 모두 OpenGraph 출력을 생성하므로 Facebook, Twitter, LinkedIn 및 기타 소셜 네트워크에서 페이지를 공유 할 때 잘못된 텍스트와 이미지를 사용할 수 있습니다."
+
+#: admin/formatter/class-metabox-formatter.php:93
+#: admin/formatter/class-metabox-formatter.php:123
+#: admin/statistics/class-statistics-service.php:222
+#: inc/class-wpseo-rank.php:141 inc/class-wpseo-rank.php:181
+#: inc/class-wpseo-rank.php:213 js/dist/block-editor.js:563
+#: js/dist/editor-modules.js:324 js/dist/elementor.js:92
+#: js/dist/externals-components.js:188 js/dist/externals/analysis.js:11
+#: js/dist/frontend-inspector-resources.js:1 js/dist/post-edit.js:17
+#: js/dist/term-edit.js:1
+msgid "OK"
+msgstr "확인"
+
+#: admin/class-meta-columns.php:118
+msgid "Meta Desc."
+msgstr "메타 설명"
+
+#: admin/class-meta-columns.php:262
+msgid "All SEO Scores"
+msgstr "모든 SEO 점수"
+
+#: admin/metabox/class-metabox.php:947
+#: src/integrations/third-party/elementor.php:488
+msgid "SEO issue: The featured image should be at least 200 by 200 pixels to be picked up by Facebook and other social media sites."
+msgstr "SEO 문제 : 대표 이미지는 Facebook 및 기타 소셜 미디어 사이트에서 가져온 이미지가 최소 200x200 픽셀이어야 합니다."
+
+#: admin/metabox/class-metabox.php:884 admin/taxonomy/class-taxonomy.php:168
+#: admin/taxonomy/class-taxonomy.php:319
+#: src/integrations/third-party/elementor.php:431
+msgid "(no parent)"
+msgstr "(상위 없음)"
+
+#: admin/class-meta-columns.php:755
+msgid "Post is set to noindex."
+msgstr "게시물이 색인 없음으로 설정됩니다."
+
+#: admin/metabox/class-metabox.php:211
+msgid "The URL that this page should redirect to."
+msgstr "이 페이지가 리디렉트해야 하는 URL"
+
+#: admin/metabox/class-metabox.php:210
+msgid "301 Redirect"
+msgstr "301 리디렉션"
+
+#. translators: 1: link open tag; 2: link close tag.
+#: admin/metabox/class-metabox.php:205
+msgid "The canonical URL that this page should point to. Leave empty to default to permalink. %1$sCross domain canonical%2$s supported too."
+msgstr "이 페이지에서 가리키는 정식 URL은 고유주소를 빈상태로 두어야합니다. %1$s정식 도메인 교차%2$s도 지원되고 있습니다"
+
+#: admin/metabox/class-metabox.php:201 js/dist/block-editor.js:278
+#: js/dist/classic-editor.js:263 js/dist/elementor.js:395
+msgid "Canonical URL"
+msgstr "정식 URL"
+
+#: admin/metabox/class-metabox.php:199
+msgid "Title to use for this page in breadcrumb paths"
+msgstr "브레드크럼(이동 경로)에서 이 페이지에 사용할 제목"
+
+#: admin/metabox/class-metabox.php:198 js/dist/block-editor.js:277
+#: js/dist/classic-editor.js:262 js/dist/elementor.js:394
+msgid "Breadcrumbs Title"
+msgstr "브레드크럼(이동 경로) 제목"
+
+#: admin/metabox/class-metabox.php:196 js/dist/block-editor.js:276
+#: js/dist/classic-editor.js:261 js/dist/elementor.js:393
+msgid "No Snippet"
+msgstr "조각 없음"
+
+#: admin/metabox/class-metabox.php:195 js/dist/block-editor.js:276
+#: js/dist/classic-editor.js:261 js/dist/elementor.js:393
+msgid "No Archive"
+msgstr "보관물이 없음"
+
+#: admin/metabox/class-metabox.php:194 js/dist/block-editor.js:276
+#: js/dist/classic-editor.js:261 js/dist/elementor.js:393
+msgid "No Image Index"
+msgstr "이미지 색인 없음"
+
+#: admin/class-yoast-network-admin.php:43 src/config/schema-types.php:163
+#: src/integrations/settings-integration.php:573 js/dist/new-settings.js:1
+#: js/dist/new-settings.js:347
+msgid "None"
+msgstr "없음"
+
+#: admin/metabox/class-metabox.php:192 js/dist/block-editor.js:276
+#: js/dist/classic-editor.js:261 js/dist/elementor.js:393
+msgid "Meta robots advanced"
+msgstr "메타 로봇 고도화"
+
+#: admin/metabox/class-metabox.php:180
+msgid "Warning: even though you can set the meta robots setting here, the entire site is set to noindex in the sitewide privacy settings, so these settings won't have an effect."
+msgstr "경고 : 여기서 메타 로봇 설정을 지정할 수 있지만 사이트 전체 개인 정보 보호 설정에서 사이트 전체가 noindex로 설정되므로 이러한 설정이 적용되지 않습니다."
+
+#: admin/metabox/class-metabox.php:175
+#: js/dist/externals/replacementVariableEditor.js:26
+#: js/dist/externals/searchMetadataPreviews.js:62 js/dist/new-settings.js:9
+#: js/dist/new-settings.js:13 js/dist/new-settings.js:16
+#: js/dist/new-settings.js:20 js/dist/new-settings.js:58
+#: js/dist/new-settings.js:72 js/dist/new-settings.js:102
+#: js/dist/new-settings.js:131 js/dist/new-settings.js:196
+#: js/dist/new-settings.js:213 js/dist/new-settings.js:222
+#: js/dist/new-settings.js:244
+msgid "Meta description"
+msgstr "메타 설명"
+
+#: admin/class-meta-columns.php:117
+msgid "SEO Title"
+msgstr "SEO 제목"
+
+#: inc/class-wpseo-replace-vars.php:1524
+msgid "Focus keyword"
+msgstr "대표 키워드"
+
+#: admin/import/class-import-settings.php:121
+msgid "Settings successfully imported."
+msgstr "설정을 가져 왔습니다."
+
+#: admin/import/class-import-settings.php:85
+msgid "Settings could not be imported:"
+msgstr "설정을 가져올 수 없습니다:"
+
+#: admin/class-config.php:116 admin/metabox/class-metabox.php:912
+#: admin/taxonomy/class-taxonomy.php:187
+#: src/integrations/third-party/elementor.php:457
+msgid "Use Image"
+msgstr "이미지 사용"
+
+#: admin/class-bulk-editor-list-table.php:1045
+msgid "Action"
+msgstr "동작"
+
+#: admin/class-bulk-editor-list-table.php:1040
+msgid "Page URL/Slug"
+msgstr "페이지 URL/슬러그"
+
+#: admin/class-bulk-editor-list-table.php:1039
+msgid "Publication date"
+msgstr "발행일"
+
+#: admin/class-bulk-editor-list-table.php:1038
+msgid "Post Status"
+msgstr "게시물 상태"
+
+#: admin/class-bulk-editor-list-table.php:1036
+msgid "WP Page Title"
+msgstr "WP 페이지 제목"
+
+#: admin/class-bulk-editor-list-table.php:866 js/dist/block-editor.js:129
+#: js/dist/classic-editor.js:114 js/dist/editor-modules.js:279
+#: js/dist/elementor.js:524 js/dist/wincher-dashboard-widget.js:43
+#: js/dist/wincher-dashboard-widget.js:112
+msgid "View"
+msgstr "표시"
+
+#. translators: Hidden accessibility text; %s: post title.
+#: admin/class-bulk-editor-list-table.php:865
+msgid "View &#8220;%s&#8221;"
+msgstr " 보기 &#8220;%s&#8221;"
+
+#: admin/class-bulk-editor-list-table.php:856
+msgid "Preview"
+msgstr "미리 보기"
+
+#. translators: Hidden accessibility text; %s: post title.
+#: admin/class-bulk-editor-list-table.php:855
+msgid "Preview &#8220;%s&#8221;"
+msgstr "미리보기 &#8220;%s&#8221;"
+
+#: admin/class-bulk-editor-list-table.php:844
+#: js/dist/first-time-configuration.js:9 js/dist/first-time-configuration.js:18
+msgid "Edit"
+msgstr "편집"
+
+#: admin/class-bulk-editor-list-table.php:438 admin/views/redirects.php:141
+msgid "Filter"
+msgstr "필터"
+
+#. translators: %s expands to the number of trashed posts in localized format.
+#: admin/class-bulk-editor-list-table.php:357
+msgctxt "posts"
+msgid "Trash <span class=\"count\">(%s)</span>"
+msgid_plural "Trash <span class=\"count\">(%s)</span>"
+msgstr[0] "휴지통 <span class=\"count\">(%s)</span>"
+
+#. translators: %s expands to the number of posts in localized format.
+#: admin/class-bulk-editor-list-table.php:308
+msgctxt "posts"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "모두 <span class=\"count\">(%s)</span>"
+
+#: admin/class-bulk-description-editor-list-table.php:47
+msgid "New Yoast Meta Description"
+msgstr "새로운 Yoast Meta 설명"
+
+#: admin/class-bulk-description-editor-list-table.php:46
+msgid "Existing Yoast Meta Description"
+msgstr "존재하는 Yoast Meta 설명"
+
+#: admin/class-admin.php:315
+#: src/user-meta/framework/additional-contactmethods/facebook.php:28
+msgid "Facebook profile URL"
+msgstr "페이스북 프로파일 URL"
+
+#: admin/class-admin.php:237
+msgid "FAQ"
+msgstr "FAQ"
+
+#: admin/class-admin.php:232 admin/views/redirects.php:42
+#: src/integrations/settings-integration.php:317
+#: src/presenters/meta-description-presenter.php:37 js/dist/how-to-block.js:8
+msgid "Settings"
+msgstr "설정"
+
+#: src/presenters/admin/search-engines-discouraged-presenter.php:33
+msgid "Huge SEO Issue: You're blocking access to robots."
+msgstr "거대한 검색 엔진 최적화의 이슈 : 당신은 로봇에 대한 액세스를 차단하고 있습니다."
+
+#: admin/class-admin.php:190
+msgid "Posts"
+msgstr "게시물"
+
+#: admin/menu/class-network-admin-menu.php:63
+msgid "Edit Files"
+msgstr "파일 수정"
+
+#: admin/menu/class-admin-menu.php:91
+#: admin/menu/class-network-admin-menu.php:56 admin/pages/network.php:18
+#: js/dist/new-settings.js:337
+msgid "General"
+msgstr "일반"
+
+#: admin/menu/class-network-admin-menu.php:66
+msgid "Extensions"
+msgstr "확장"
+
+#: admin/menu/class-admin-menu.php:93
+msgid "Search Console"
+msgstr "콘솔 검색"
+
+#: admin/menu/class-admin-menu.php:97 js/dist/new-settings.js:302
+msgid "Tools"
+msgstr "도구"
+
+#: admin/views/class-yoast-feature-toggles.php:136 js/dist/new-settings.js:16
+#: js/dist/new-settings.js:304 js/dist/new-settings.js:306
+msgid "XML sitemaps"
+msgstr "XML 사이트맵들"
+
+#: admin/metabox/class-metabox.php:434
+#: admin/taxonomy/class-taxonomy-metabox.php:160 js/dist/new-settings.js:20
+msgid "Social"
+msgstr "소셜"
+
+#: admin/metabox/class-metabox.php:409
+#: admin/taxonomy/class-taxonomy-metabox.php:142
+#: inc/class-wpseo-admin-bar-menu.php:711
+#: src/services/health-check/report-builder.php:168
+msgid "SEO"
+msgstr "SEO"
+
+#. translators: %1$s expands to Yoast SEO, %2$s expands to the installed
+#. version, %3$s expands to Gutenberg
+#: admin/class-admin-gutenberg-compatibility-notification.php:88
+msgid "%1$s detected you are using version %2$s of %3$s, please update to the latest version to prevent compatibility issues."
+msgstr "%1$s는 %3$s의 버전 %2$s를 사용하고 있음을 감지했습니다. 호환성 문제를 방지하려면 최신 버전으로 업데이트하십시오."
+
+#: src/services/health-check/default-tagline-runner.php:31
+msgid "Just another WordPress site"
+msgstr "일개의 워드프레스 사이트"
+
+#: admin/ajax.php:206
+msgid "You have used HTML in your value which is not allowed."
+msgstr "허용되지 않는 값으로 HTML을 사용했습니다."
+
+#. translators: %s expands to the name of a post type (plural).
+#: admin/ajax.php:197
+msgid "You can't edit %s that aren't yours."
+msgstr "%s 자신의 소유글이 아닌것을 편집할 수 없습니다."
+
+#. translators: %s expands to post type name.
+#: admin/ajax.php:185
+msgid "You can't edit %s."
+msgstr "%s(을)를 편집할 수 없습니다."
+
+#. translators: %s expands to post type.
+#: admin/ajax.php:173
+msgid "Post has an invalid Content Type: %s."
+msgstr "게시물의 게시물 유형이 잘못되었습니다 : %s."
+
+#: admin/ajax.php:162
+msgid "Post doesn't exist."
+msgstr "게시물이 존재하지 않습니다."

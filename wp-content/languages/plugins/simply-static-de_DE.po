@@ -1,0 +1,157 @@
+# Translation of Plugins - Simply Static &#8211; The WordPress Static Site Generator - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Simply Static &#8211; The WordPress Static Site Generator - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-14 13:42:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Simply Static &#8211; The WordPress Static Site Generator - Stable (latest release)\n"
+
+#: src/class-ss-diagnostic.php:55
+msgid "Basic Auth"
+msgstr "Basic-Auth"
+
+#: src/class-ss-diagnostic.php:553
+msgid "Received a %s response."
+msgstr "Erhielt eine %s-Antwort."
+
+#: src/class-ss-diagnostic.php:550
+msgid "Received a %s response. This might indicate a problem."
+msgstr "Erhielt eine %s-Antwort. Dies könnte auf ein Problem hinweisen."
+
+#: src/tasks/class-ss-setup-task.php:132
+msgid "Additional Dir"
+msgstr "Zusätzliches Dir"
+
+#: src/tasks/class-ss-setup-task.php:119
+msgid "Additional File"
+msgstr "Zusätzliche Datei"
+
+#: src/class-ss-plugin.php:301
+msgid "Found on %s"
+msgstr "Gefunden auf %s"
+
+#: src/tasks/class-ss-setup-task.php:84
+msgid "Additional URL"
+msgstr "Zusätzliche URL"
+
+#: src/tasks/class-ss-fetch-urls-task.php:183
+#: src/tasks/class-ss-fetch-urls-task.php:266
+msgid "Do not save"
+msgstr "Nicht speichern"
+
+#: src/tasks/class-ss-fetch-urls-task.php:165
+#: src/tasks/class-ss-fetch-urls-task.php:235
+msgid "Do not follow"
+msgstr "Nicht folgen"
+
+#: src/tasks/class-ss-fetch-urls-task.php:91
+msgid "Do not save or follow"
+msgstr "Nicht speichern oder folgen"
+
+#: src/tasks/class-ss-cancel-task.php:22
+msgid "Cancelling job"
+msgstr "Job abbrechen"
+
+#: src/class-ss-url-fetcher.php:85
+msgid "Attempted to fetch a remote URL"
+msgstr "Versuchte, eine Remote-URL abzurufen."
+
+#: src/tasks/class-ss-setup-task.php:74
+msgid "Origin URL"
+msgstr "Quell URL"
+
+#: views/redirect.php:12
+msgid "You are being redirected to %s"
+msgstr "Du wirst auf %s weitergeleitet"
+
+#: views/redirect.php:4
+msgid "Redirecting..."
+msgstr "Weiterleiten&#160;&hellip;"
+
+#: src/admin/inc/class-ss-admin-settings.php:96
+#: src/admin/inc/class-ss-admin-settings.php:97
+msgid "Diagnostics"
+msgstr "Diagnostik"
+
+#: src/class-ss-diagnostic.php:186
+msgid "Not readable"
+msgstr "Nicht lesbar"
+
+#: src/class-ss-diagnostic.php:183
+msgid "Not a valid path"
+msgstr "Kein gültiger Pfad"
+
+#: src/class-ss-archive-creation-job.php:383
+msgid "Error: %s"
+msgstr "Fehler: %s"
+
+#: src/class-ss-archive-creation-job.php:354 src/class-ss-url-fetcher.php:85
+#: src/class-ss-url-fetcher.php:109
+msgid "An error occurred: %s"
+msgstr "Ein Fehler ist aufgetreten: %s"
+
+#: src/class-ss-archive-creation-job.php:337
+msgid "An exception occurred: %s"
+msgstr "Ein Ausnahmefall ist aufgetreten: %s"
+
+#: src/class-ss-archive-creation-job.php:208
+msgid "Done! Finished in %s"
+msgstr "Fertig! Beendet in %s"
+
+#: src/tasks/class-ss-wrapup-task.php:23
+msgid "Wrapping up"
+msgstr "Verpacke"
+
+#: src/tasks/class-ss-transfer-files-locally-task.php:58
+msgid "Destination URL:"
+msgstr "Ziel URL:"
+
+#: src/tasks/class-ss-fetch-urls-task.php:128
+msgid "Fetched %d of %d pages/files"
+msgstr "%d von %d Seiten/Dateien verarbeitet"
+
+#: src/tasks/class-ss-setup-task.php:23
+msgid "Setting up"
+msgstr "Konfiguriere"
+
+#: src/tasks/class-ss-create-zip-archive.php:34
+msgid "Click here to download"
+msgstr "Klicke hier zum Download."
+
+#: src/tasks/class-ss-create-zip-archive.php:30
+msgid "ZIP archive created: "
+msgstr "ZIP-Archiv erstellt:"
+
+#: src/admin/inc/class-ss-admin-settings.php:82
+#: src/admin/inc/class-ss-admin-settings.php:83 src/class-ss-plugin.php:416
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: src/admin/inc/class-ss-admin-settings.php:69
+#: src/admin/inc/class-ss-admin-settings.php:70
+msgid "Generate"
+msgstr "Generieren"
+
+#. Plugin Name of the plugin
+#: simply-static.php src/admin/inc/class-ss-admin-meta.php:51
+#: src/admin/inc/class-ss-admin-settings.php:59
+#: src/admin/inc/class-ss-admin-settings.php:60
+msgid "Simply Static"
+msgstr "Simply Static"
+
+#: src/class-ss-view.php:146
+msgid "Can't find view layout: %s"
+msgstr "Konnte &#8222;Layout Ansicht&#8220; nicht finden: %s"
+
+#: src/class-ss-view.php:140
+msgid "Can't find view template: %s"
+msgstr "Konnte &#8222;Template Ansicht&#8220; nicht finden: %s"
+
+#: src/tasks/class-ss-create-zip-archive.php:90
+msgid "Unable to create ZIP archive"
+msgstr "ZIP-Archiv konnte nicht erstellt werden."

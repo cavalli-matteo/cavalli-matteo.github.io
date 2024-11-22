@@ -1,0 +1,232 @@
+# Translation of Plugins - Yoast Duplicate Post - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - Yoast Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-07-20 08:05:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Yoast Duplicate Post - Stable (latest release)\n"
+
+#: src/handlers/check-changes-handler.php:134
+msgid "Added"
+msgstr "Đã thêm"
+
+#: src/handlers/check-changes-handler.php:133
+msgid "Removed"
+msgstr "Đã xóa"
+
+#: src/ui/classic-editor.php:201
+msgid "Compare"
+msgstr "So sánh"
+
+#: src/ui/row-actions.php:87
+msgctxt "verb"
+msgid "Clone"
+msgstr "Tạo bản sao"
+
+#: src/handlers/link-handler.php:58 src/handlers/link-handler.php:114
+#: src/handlers/link-handler.php:188
+msgid "Current user is not allowed to copy posts."
+msgstr "Người dùng hiện tại không cho phép sao chép bài viết."
+
+#: admin-functions.php:750
+msgid "Documentation"
+msgstr "Thông tin chi tiết"
+
+#: src/admin/options.php:165
+msgid "you probably want this unchecked, unless you have very special requirements"
+msgstr "Có lẽ bạn muốn bỏ chọn cái này, trừ phi bạn có một yêu cầu rất đặc biệt."
+
+#: src/admin/options.php:307
+msgid "Bulk Actions"
+msgstr "Tác vụ"
+
+#: src/admin/options.php:149
+msgid "Author"
+msgstr "Tác giả"
+
+#: src/admin/options.php:186
+msgid "Menu order"
+msgstr "Hiện menu"
+
+#: src/admin/options.php:217
+msgid "You can use * to match zero or more alphanumeric characters or underscores: e.g. field*"
+msgstr "Bạn có thể sử dụng * để không gắn hoặc nhiều kí tự hoặc dấu gạch dưới: ví dụ trường*"
+
+#: src/admin/options.php:128
+msgid "Featured Image"
+msgstr "Ảnh đại diện"
+
+#: src/admin/options.php:135
+msgid "Template"
+msgstr "Chủ đề"
+
+#. translators: %s: Number of posts copied.
+#: src/watchers/bulk-actions-watcher.php:55
+#: src/watchers/link-actions-watcher.php:73
+msgid "%s item copied."
+msgid_plural "%s items copied."
+msgstr[0] "Đã sao chép %s mục."
+
+#: src/admin/options.php:121 src/handlers/check-changes-handler.php:127
+msgid "Content"
+msgstr "Nội dung"
+
+#: src/admin/options.php:100
+msgid "Status"
+msgstr "Trạng thái"
+
+#: src/admin/options.php:86 src/handlers/check-changes-handler.php:126
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: src/admin/views/options.php:46 src/admin/views/options.php:187
+msgid "Display"
+msgstr "Hiển thị"
+
+#: src/admin/views/options.php:37 src/admin/views/options.php:140
+msgid "Permissions"
+msgstr "Quyền hạn"
+
+#: src/admin/views/options.php:28 src/admin/views/options.php:55
+msgid "What to copy"
+msgstr "Những thứ cần sao chép"
+
+#: src/admin/options.php:156
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: src/admin/options.php:178
+msgid "Comments"
+msgstr "Bình luận"
+
+#: src/admin/options.php:163
+msgid "Attachments"
+msgstr "Đính kèm"
+
+#: src/admin/options.php:93
+msgid "Date"
+msgstr "Ngày"
+
+#: src/admin/views/options.php:162 src/admin/views/options.php:166
+msgid "Enable for these post types"
+msgstr "Bật cho các post type"
+
+#: src/admin/options.php:114 src/handlers/check-changes-handler.php:128
+msgid "Excerpt"
+msgstr "Tóm tắt"
+
+#: src/admin/options.php:107
+msgid "Slug"
+msgstr "Slug"
+
+#: src/admin/views/options.php:127
+msgid "Show/hide private taxonomies"
+msgstr "Hiện/ẩn taxonomy riêng tư"
+
+#: admin-functions.php:603
+msgid "Copy features for this post type are not enabled in options page"
+msgstr "Tính năng sao chép cho post type này không được bật ở trang tùy chọn"
+
+#: src/admin/views/options.php:58 src/admin/views/options.php:61
+msgid "Post/page elements to copy"
+msgstr "Thành phần bài viết/trang để sao chép"
+
+#: src/admin/options.php:180
+msgid "except pingbacks and trackbacks"
+msgstr "ngoại trừ pingbacks and trackbacks"
+
+#: src/admin/options.php:171
+msgid "Children"
+msgstr "Con"
+
+#: src/admin/options.php:206 src/admin/views/options.php:93
+msgid "Increase menu order by"
+msgstr "Tăng thứ tự menu theo"
+
+#: src/admin/options.php:208
+msgid "Add this number to the original menu order (blank or zero to retain the value)"
+msgstr "Thêm số này vào thứ tự menu ban đầu (để trống hoặc zero để giữ nguyên giá trị)"
+
+#: duplicate-post.php:99
+msgid "Settings"
+msgstr "Thiết lập"
+
+#: src/admin/options.php:271 src/ui/row-actions.php:114
+msgid "New Draft"
+msgstr "Bài nháp mới"
+
+#: common-functions.php:79 src/ui/admin-bar.php:97 src/ui/admin-bar.php:115
+#: src/ui/classic-editor.php:144 js/dist/duplicate-post-edit-450.js:1
+msgid "Copy to a new draft"
+msgstr "Sao chép sang một bài nháp mới"
+
+#: src/admin/options.php:292
+msgid "Post list"
+msgstr "Danh sách bài viết"
+
+#: src/admin/options.php:199 src/admin/views/options.php:82
+msgid "Title suffix"
+msgstr "Tên hậu tố"
+
+#: src/admin/options.php:192 src/admin/views/options.php:71
+msgid "Title prefix"
+msgstr "Tên tiền tố"
+
+#: src/admin/views/options.php:116 src/admin/views/options.php:120
+msgid "Do not copy these taxonomies"
+msgstr "Đừng sao chép các taxonomy"
+
+#: src/admin/options.php:297
+msgid "Admin bar"
+msgstr "Thanh admin"
+
+#: src/admin/options.php:276 src/ui/bulk-actions.php:69
+msgid "Clone"
+msgstr "Nhân đôi"
+
+#: src/admin/views/options.php:202
+msgid "Show links in"
+msgstr "Hiện liên kết ở"
+
+#: src/admin/views/options.php:144 src/admin/views/options.php:147
+msgid "Roles allowed to copy"
+msgstr "Nhóm được phép sao chép"
+
+#: src/admin/options.php:201
+msgid "Suffix to be added after the title, e.g. \"(dup)\" (blank for no suffix)"
+msgstr "Hậu tố đã được thêm vào sau tên, ví dụ \"dup\" (để trắng nếu không có hậu tố)"
+
+#: src/admin/options.php:194
+msgid "Prefix to be added before the title, e.g. \"Copy of\" (blank for no prefix)"
+msgstr "Tiền tố đã được thêm vào sau tên, ví dụ \"Nhân đôi của\" (để trắng nếu không có tiền tố)"
+
+#: src/handlers/link-handler.php:75 src/handlers/link-handler.php:131
+#: src/handlers/link-handler.php:205
+msgid "Copy creation failed, could not find original:"
+msgstr "Tạo bản sao thất bại, không tìm thấy bản gốc:"
+
+#: src/handlers/link-handler.php:63 src/handlers/link-handler.php:119
+#: src/handlers/link-handler.php:193
+msgid "No post to duplicate has been supplied!"
+msgstr "Không có bài viết để nhân đôi!"
+
+#: src/admin/options.php:302
+msgid "Edit screen"
+msgstr "Màn hình chỉnh sửa"
+
+#: src/admin/options.php:213 src/admin/views/options.php:105
+msgid "Do not copy these fields"
+msgstr "Đừng sao chép các trường"
+
+#: src/admin/options-page.php:77 src/ui/admin-bar.php:89 src/ui/metabox.php:59
+msgid "Duplicate Post"
+msgstr "Duplicate Post"
+
+#: src/admin/options-page.php:76 src/admin/views/options.php:14
+msgid "Duplicate Post Options"
+msgstr "Tùy chọn Duplicate Post"

@@ -1,0 +1,4708 @@
+# Translation of Plugins - MonsterInsights &#8211; Google Analytics Dashboard for WordPress (Website Stats Made Easy) - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - MonsterInsights &#8211; Google Analytics Dashboard for WordPress (Website Stats Made Easy) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-09-23 13:13:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - MonsterInsights &#8211; Google Analytics Dashboard for WordPress (Website Stats Made Easy) - Stable (latest release)\n"
+
+#: includes/admin/admin.php:52
+msgid "Setup Checklist"
+msgstr "Liste de contrôle de configuration"
+
+#: includes/admin/site-notes/Controller.php:432
+msgid "Important"
+msgstr "Important "
+
+#: includes/admin/site-notes/Controller.php:431
+#: includes/admin/site-notes/Controller.php:686
+#: assets/gutenberg/js/editor.js:3057
+msgid "Category"
+msgstr "Catégorie"
+
+#: includes/admin/site-notes/Controller.php:430
+msgid "Site Note"
+msgstr "Note sur le site"
+
+#: includes/admin/site-notes/Controller.php:429
+msgid "Date"
+msgstr "Date"
+
+#: includes/admin/routes.php:488
+msgid "Ask visitors questions about how they use your website or what features can make you more money."
+msgstr "Posez des questions aux internautes sur la façon dont ils utilisent votre site ou sur les fonctionnalités qui pourraient vous rapporter plus d’argent."
+
+#: includes/admin/admin.php:79
+msgid "Site Notes"
+msgstr "Notes sur le site"
+
+#: includes/admin/admin.php:119
+msgid "UserFeedback"
+msgstr "UserFeedback"
+
+#: includes/admin/routes.php:744
+msgid "Start accepting one-time and recurring payments on your WordPress site without setting up a shopping cart. No code required."
+msgstr "Commencez à accepter des paiements ponctuels et récurrents sur votre site WordPress sans avoir à configurer un panier d’achat. Aucun code requis."
+
+#: lite/includes/admin/metaboxes.php:63 lite/includes/admin/metaboxes.php:103
+msgid "Time on Page"
+msgstr "Temps passé sur la page"
+
+#: lite/includes/admin/metaboxes.php:72 lite/includes/admin/metaboxes.php:112
+#: assets/gutenberg/js/editor.js:2718
+msgid "Entrances"
+msgstr "Entrées"
+
+#. Translators: Mobile device notification title
+#: includes/admin/notifications/notification-mobile-device-high-traffic.php:33
+msgid "Traffic From Mobile Devices is %s%%"
+msgstr "Le trafic provenant des appareils mobiles est de %s%%."
+
+#. Translators: upgrade to pro notification content
+#: includes/admin/notifications/notification-upgrade-to-pro-high-traffic.php:37
+msgid "Upgrade to MonsterInsights Pro to take advantage of advanced Google Analytics settings, unlock advanced insights, utilize Custom Dimensions, and more."
+msgstr "Passez à MonsterInsights Pro pour profiter des paramètres avancés de Google Analytics, débloquer des aperçus avancés, utiliser des dimensions personnalisées, et plus encore."
+
+#: includes/admin/notifications/notification-upgrade-to-pro-high-traffic.php:35
+#: includes/admin/notifications/notification-upgrade-to-pro.php:27
+msgid "Upgrade to Unlock Advanced Tracking & Reports"
+msgstr "Passez à la version pro pour débloquer le suivi et les rapports avancés"
+
+#: includes/admin/notifications/notification-upgrade-for-search-console.php:26
+msgid "See Top Performing Keywords"
+msgstr "Voir les mots-clés les plus performants"
+
+#: includes/admin/notifications/notification-upgrade-for-form-conversion.php:25
+msgid "Easily Track Form Conversions"
+msgstr "Suivi facilement les conversions de vos formulaires"
+
+#. Translators: upgrade for form conversion notification content
+#: includes/admin/notifications/notification-upgrade-for-events-reporting.php:27
+msgid "Upgrade to MonsterInsights Pro to see which content and events your visitors are performing in real time."
+msgstr "Passez à MonsterInsights Pro pour voir en temps réel le contenu et les événements auxquels vos visiteurs participent."
+
+#. Translators: upgrade for form conversion notification content
+#: includes/admin/notifications/notification-upgrade-for-custom-dimensions.php:27
+msgid "Upgrade to enable Custom Dimensions. Track logged in users, determine when is your best time to post, measure if your SEO strategy is working, and find your most popular author."
+msgstr "Passez à la version pro pour activer les dimensions personnalisées. Suivez les utilisateurs connectés, déterminez quel est le meilleur moment pour publier, mesurez si votre stratégie de référencement fonctionne et trouvez votre contenu le plus populaire."
+
+#: includes/admin/notifications/notification-upgrade-eu-traffic.php:81
+msgid "Help Your Site Become GDPR Compliant"
+msgstr "Aidez votre site à se conformer au RGPD"
+
+#: includes/admin/notifications/notification-to-add-more-file-extensions.php:31
+msgid "Track Your Website Downloads"
+msgstr "Suivez les téléchargements de votre site Web"
+
+#: includes/admin/notifications/notification-multiple-gtags.php:38
+msgid "Multiple Google Analytics Tags Found"
+msgstr "Plusieurs balises Google Analytics trouvées"
+
+#: includes/admin/notifications/notification-install-wp-forms.php:31
+msgid "Install WPForms and create contact forms in a matter of minutes."
+msgstr "Installez WPForms et créez des formulaires de contact en quelques minutes."
+
+#: includes/admin/notifications/notification-install-wp-forms.php:30
+msgid "Create a Contact Form in Only Minutes"
+msgstr "Créer un formulaire de contact en quelques minutes seulement"
+
+#: includes/admin/notifications/notification-install-aioseo.php:31
+msgid "Install All in One SEO to optimize your site for better search engine rankings."
+msgstr "Installez All in One SEO pour optimiser votre site et avoir un meilleur classement dans les moteurs de recherche."
+
+#: includes/admin/notifications/notification-install-aioseo.php:30
+msgid "Install All-In-One SEO"
+msgstr "Installer All-In-One SEO"
+
+#: includes/admin/exclude-page-metabox.php:124
+#: assets/gutenberg/js/editor.js:3237
+msgid "Toggle to prevent Google Analytics from tracking this page."
+msgstr "Activez cette option pour empêcher Google Analytics de suivre cette page."
+
+#: includes/admin/exclude-page-metabox.php:120
+#: assets/gutenberg/js/editor.js:3238
+msgid "Exclude page from Google Analytics Tracking"
+msgstr "Exclure la page du suivi de Google Analytics"
+
+#: lite/includes/admin/user-journey/providers/class-abstract-lite-metabox.php:84
+msgid "Upgrade and Unlock"
+msgstr "Passez à la version pro et déverrouillage"
+
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-topinterests.php:58
+msgid "Categories"
+msgstr "Catégories"
+
+#: includes/admin/site-notes/Controller.php:433
+msgid "Media"
+msgstr "Média"
+
+#: includes/admin/admin.php:132
+msgid "Growth Tools"
+msgstr "Outils de croissance"
+
+#. Translators: Placeholders add the PHP version, a link to the MonsterInsights
+#. blog and a line break.
+#: includes/admin/admin.php:584
+msgid "Your site is running an outdated, insecure version of PHP (%1$s), which could be putting your site at risk for being hacked.%4$sWordPress is working towards discontinuing support for your PHP version.%4$sUpdating PHP only takes a few minutes and will make your website significantly faster and more secure.%4$s%2$sLearn more about updating PHP%3$s"
+msgstr "Votre site utilise une version obsolète et non sécurisée de PHP (%1$s) qui expose votre site à des tentatives de piratage.%4$sWordPress tend à ne plus prendre en charge votre version de PHP.%4$sMettre à jour PHP prend quelques minutes et rendra votre site plus rapide et plus sécurisé.%4$s%2$sEn savoir plus sur la mise à jour de PHP%3$s"
+
+#. Translators: Placeholders add the PHP version, a link to the MonsterInsights
+#. blog and a line break.
+#: includes/admin/admin.php:581
+msgid "Your site is running an outdated, insecure version of PHP (%1$s), which could be putting your site at risk for being hacked.%4$sWordPress stopped supporting your PHP version in November, 2019.%4$sUpdating PHP only takes a few minutes and will make your website significantly faster and more secure.%4$s%2$sLearn more about updating PHP%3$s"
+msgstr "Votre site utilise une version obsolète et non sécurisée de PHP (%1$s) qui expose votre site à des tentatives de piratage.%4$sWordPress ne prend plus en charge votre version de PHP depuis novembre 2019.%4$sMettre à jour PHP prend quelques minutes et rendra votre site plus rapide et plus sécurisé.%4$s%2$sEn savoir plus sur la mise à jour de PHP%3$s"
+
+#: includes/admin/admin.php:105 includes/admin/admin.php:281
+msgid "SEO"
+msgstr "SEO"
+
+#: includes/helpers.php:2103
+msgid "Samoa"
+msgstr "Samoa"
+
+#: includes/admin/routes.php:476
+msgid "The best drag & drop WordPress form builder. Easily create beautiful contact forms, surveys, payment forms, and more with our 1000+ form templates. Trusted by over 6 million websites as the best forms plugin."
+msgstr "Le meilleur constructeur de formulaires WordPress par glisser-déposer. Créez facilement de superbes formulaires de contact, des enquêtes, des formulaires de paiement et plus encore avec nos plus de 1 000 modèles de formulaires. Plébiscitée par plus de 6 millions de sites comme étant la meilleure extension de formulaire."
+
+#. Translators: Placeholders add links to articles.
+#: includes/admin/common.php:666
+msgid "To update, we recommend following this %1$sstep by step guide for updating WordPress%2$s from IsItWP and afterwards check out %3$sWhy You Should Always Use the Latest Version of WordPress%4$s on WPBeginner."
+msgstr "Pour mettre à jour, nous vous recommandons ce %1$sguide pas à pas de IsItWP%2$s et consultez ensuite %3$sWhy You Should Always Use the Latest Version of WordPress%4$s sur WPBeginner."
+
+#: includes/admin/common.php:664
+msgid "The good news: updating WordPress has never been easier and only takes a few moments."
+msgstr "La bonne nouvelle : mettre WordPress à jour n’a jamais été aussi facile et ne prend que quelques minutes."
+
+#. Translators: Placeholder is for the current WordPress version.
+#: includes/admin/common.php:662
+msgid "In the next major release of MonsterInsights we are planning to remove support for the version of WordPress you are using (version %s). This version is several years out of date, and most plugins do not support this version anymore, so you could be missing out on critical updates for performance and security already!"
+msgstr "Dans la prochaine version majeure de MonsterInsights, nous prévoyons de ne plus prendre en charge la version de WordPress que vous utilisez (version %s). Cette version est obsolète depuis plusieurs années et la plupart des extensions ne sont plus compatibles, vous passez donc à côté de mises à jour de sécurité et de performances !"
+
+#: includes/admin/common.php:659
+msgid "ACTION REQUIRED: Your WordPress version is putting your site at risk!"
+msgstr "ACTION REQUISE : Votre version de WordPress met votre site en danger !"
+
+#. Translators: Placeholders add a link to an article.
+#: includes/admin/common.php:640
+msgid "Upgrading your PHP version will make sure you are able to continue using WordPress without issues in the future, keep your site secure, and will also make your website up to 400% faster!"
+msgstr "La mise à niveau de votre version de PHP vous assurera d’utiliser WordPress sans problème dans le futur, de sécuriser votre site et d’améliorer les performances de votre site de 400% !"
+
+#. Translators: Placeholders add a link to an article.
+#: includes/admin/common.php:639
+msgid "To ensure MonsterInsights and other plugins on your site continue to function properly, and avoid putting your site at risk, please take a few minutes to ask your website hosting provider to upgrade the version of PHP to a modern PHP version (7.2 or newer). We provide helpful templates for how to ask them %1$shere%2$s."
+msgstr "Pour s’assurer que MonsterInsights et les autres extensions continuent de fonctionnement correctement, demandez à votre hébergeur de passer à une version moderne de PHP (7.2 ou plus récent). Nous vous proposons des modèles d’e-mail pour leur demander %1$sici (en anglais)%2$s."
+
+#. Translators: Placeholder is for the current PHP version.
+#: includes/admin/common.php:636
+msgid "In the next major release of MonsterInsights we are planning to remove support for the version of PHP you are using (%s). This insecure version is no longer supported by WordPress itself, so you are already missing out on the latest features of WordPress along with critical updates for security and performance (modern PHP versions make websites much faster)."
+msgstr "Dans la prochaine version majeure de MonsterInsights, nous prévoyons de ne plus prendre en charge la version de PHP que vous utilisez (%s). Cette version non sécurisée n’est d’ailleurs plus prise en charge par WordPress non plus, ce qui vous empêche de bénéficier des dernières fonctionnalités ainsi que des mises à jour de sécurité et de performance (les versions modernes de PHP rendent les sites bien plus rapides)."
+
+#: includes/admin/common.php:629
+msgid "ACTION REQUIRED: Speed your website up 400% with a single email!"
+msgstr "ACTION REQUISE : Accélérez votre site de 400% avec un seul e-mail !"
+
+#: includes/admin/common.php:627
+msgid "ACTION REQUIRED: Your PHP version is putting your site at risk!"
+msgstr "ACTION REQUISE : Votre version de PHP met votre site en danger !"
+
+#: includes/admin/sharedcount.php:313
+msgid "There was an error grabbing data from SharedCount, please check the API Key"
+msgstr "Il y a eu une erreur lors de la récupération des données depuis SharedCount, veuillez vérifier la clé API"
+
+#: includes/admin/sharedcount.php:309
+msgid "The SharedCount API key is invalid"
+msgstr "La clé API SharedCount n’est pas valide"
+
+#: includes/admin/sharedcount.php:98
+msgid "The SharedCount API key is not set"
+msgstr "La clé API SharedCount n’est pas définie"
+
+#: includes/admin/ajax.php:180
+msgid "You are not allowed to deactivate plugins"
+msgstr "Vous n’avez pas les droits nécessaires pour désactiver des extensions"
+
+#: includes/admin/ajax.php:131
+msgid "You are not allowed to activate plugins"
+msgstr "Vous n’avez pas les droits nécessaires pour activer des extensions"
+
+#: includes/admin/routes.php:1335
+msgid "Homepage"
+msgstr "Page d’accueil"
+
+#. translators: Bounce rate.
+#: includes/admin/notifications/notification-bounce-rate.php:37
+msgid "Your Website Bounce Rate is Higher Than %s"
+msgstr "Le taux de rebond de votre site est supérieur à %s%%"
+
+#: includes/admin/notifications/notification-headline-analyzer.php:33
+msgid "Try the Headline Analyzer to Boost Your Clicks & Traffic"
+msgstr "Analysez vos titres pour augmenter vos clics et votre trafic"
+
+#: includes/admin/notifications/notification-to-add-more-file-extensions.php:44
+msgid "Add File Extensions"
+msgstr "Ajouter des extensions de fichiers"
+
+#. Translators: upgrade to pro notification content
+#: includes/admin/notifications/notification-upgrade-to-pro.php:29
+msgid "By upgrading to MonsterInsights Pro you get access to additional reports right in your WordPress dashboard and advanced tracking features like eCommerce, Custom Dimensions, Forms tracking and more!"
+msgstr "En passant à MonsterInsights Pro, vous débloquez l’accès à des rapports additionnels directement dans votre tableau de bord WordPress et des fonctionnalités de suivi avancé tels que le e-commerce, les dimensions personnalités, le suivi des formulaires et plus encore !"
+
+#: includes/admin/notifications/notification-to-setup-affiliate-links.php:52
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: includes/admin/notifications/notification-to-setup-affiliate-links.php:42
+msgid "Set Up Affiliate Link Tracking"
+msgstr "Configurer le suivi des liens affiliés"
+
+#. Translators: Mobile device notification title
+#: includes/admin/notifications/notification-mobile-device-low-traffic.php:31
+msgid "Traffic From Mobile Devices %s%%"
+msgstr "Le trafic sur des appareils mobile est de %s%%"
+
+#: includes/admin/notifications/notification-audience.php:51
+#: includes/admin/notifications/notification-bounce-rate.php:45
+#: includes/admin/notifications/notification-mobile-device-low-traffic.php:37
+#: includes/admin/notifications/notification-traffic-dropping.php:48
+#: includes/admin/notifications/notification-visitors.php:42
+msgid "View Report"
+msgstr "Voir le rapport"
+
+#. Translators: visitors notification content
+#: includes/admin/notifications/notification-visitors.php:38
+msgid "Your website has been visited by %s visitors in the past 30 days. Click the button below to view the full analytics report."
+msgstr "Votre site a été visité par %s visiteurs dans les 30 derniers jours. Cliquez sur le bouton ci-dessous pour voir le rapport complet des statistiques."
+
+#. Translators: Readable time to display
+#: includes/admin/notifications.php:315
+msgid "%1$s ago"
+msgstr "Il y a %1$s"
+
+#: includes/admin/admin.php:94
+msgid "Popular Posts:"
+msgstr "Publications populaires :"
+
+#: includes/helpers.php:2116
+msgid "United States of America"
+msgstr "États-Unis d’Amérique"
+
+#: includes/helpers.php:2101
+msgid "St Vincent and the Grenadines"
+msgstr "Saint-Vincent et les Grenadines"
+
+#: includes/helpers.php:2100
+msgid "St Lucia"
+msgstr "Sainte-Lucie"
+
+#: includes/helpers.php:2099
+msgid "St Kitts and Nevis"
+msgstr "Saint-Kitts-et-Nevis"
+
+#: includes/helpers.php:2111
+msgid "The Bahamas"
+msgstr "Les Bahamas"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:377
+msgctxt "google-analytics-for-wordpress"
+msgid "%dpx"
+msgstr "%dpx"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:292
+msgctxt "Widget"
+msgid "Only Show Posts from These Categories:"
+msgstr "N’afficher des publications que de ces catégories :"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:286
+msgctxt "Widget"
+msgid "Comments Count Color:"
+msgstr "Couleur du compteur de commentaires :"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:283
+msgctxt "Widget"
+msgid "Background Color:"
+msgstr "Couleur d’arrière-plan :"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:280
+msgctxt "Widget"
+msgid "Border Color:"
+msgstr "Couleur de la bordure :"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:277
+msgctxt "Widget"
+msgid "Label Text:"
+msgstr "Texte du libellé :"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:274
+msgctxt "Widget"
+msgid "Label Color:"
+msgstr "Couleur du libellé :"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:271
+msgctxt "Widget"
+msgid "Title Font Size:"
+msgstr "Taille de la police de titre :"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:266
+msgctxt "Widget"
+msgid "Title Color:"
+msgstr "Couleur du titre :"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:242
+msgctxt "Widget"
+msgid "Theme:"
+msgstr "Thème :"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:232
+msgctxt "Widget"
+msgid "Number of posts to display:"
+msgstr "Nombres de publications à afficher :"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:227
+msgctxt "Widget"
+msgid "Display Widget Title"
+msgstr "Afficher le titre du widget"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:208
+msgctxt "Widget"
+msgid "Widget Title:"
+msgstr "Titre du widget :"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:86
+msgctxt "Widget"
+msgid "Popular Posts - MonsterInsights"
+msgstr "Publications populaires - MonsterInsights"
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:75
+msgctxt "Widget"
+msgid "Display popular posts."
+msgstr "Affiche les publications populaires."
+
+#: lite/includes/popular-posts/class-popular-posts-widget-sidebar.php:260
+msgid "Theme Preview"
+msgstr "Prévisualisation du thème"
+
+#: includes/admin/admin.php:94 assets/gutenberg/js/editor.js:1763
+msgid "Popular Posts"
+msgstr "Publications populaires"
+
+#: includes/admin/licensing/autoupdate.php:64
+msgid "Manage auto-updates"
+msgstr "Gérer les mises à jour automatiques"
+
+#: includes/admin/licensing/autoupdate.php:58
+msgid "Enable the MonsterInsights PRO plugin to manage auto-updates"
+msgstr "Activez l’extension MonsterInsights PRO pour gérer les mises à jour automatiques"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1021
+msgid "something"
+msgstr "quelque chose"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1020
+msgid "more"
+msgstr "plus"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1019
+msgid "guy"
+msgstr "gars"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1017
+msgid "mind"
+msgstr "esprit"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1016
+msgid "good"
+msgstr "bien"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1015
+msgid "seen"
+msgstr "vu"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1013
+msgid "girl"
+msgstr "femme"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1011
+msgid "see"
+msgstr "voir"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1010
+msgid "man"
+msgstr "homme"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1009
+msgid "found"
+msgstr "trouvé"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1008
+msgid "years"
+msgstr "années"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1007
+msgid "right"
+msgstr "droite"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1006
+msgid "makes"
+msgstr "fait"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1004
+msgid "year"
+msgstr "année"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1003
+msgid "reasons"
+msgstr "raisons"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1002
+msgid "make"
+msgstr "faire"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1001
+msgid "facebook"
+msgstr "facebook"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1000
+msgid "world"
+msgstr "monde"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:999
+msgid "really"
+msgstr "réellement"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:998
+msgid "made"
+msgstr "fait"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:997
+msgid "down"
+msgstr "bas"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:996
+msgid "ways"
+msgstr "façons"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:995
+msgid "photos"
+msgstr "photos"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:993
+msgid "dog"
+msgstr "chien"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:992
+msgid "way"
+msgstr "façon"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:991
+msgid "people"
+msgstr "personnes"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:990
+msgid "look"
+msgstr "voir"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:989
+msgid "boy"
+msgstr "garçon"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:988
+msgid "watch"
+msgstr "regarder"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:987
+msgid "out"
+msgstr "dehors"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:986
+msgid "little"
+msgstr "petit"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:984
+msgid "want"
+msgstr "vouloir"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:982
+msgid "life"
+msgstr "vie"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:981
+msgid "best"
+msgstr "meilleur"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:980
+msgid "video"
+msgstr "vidéo"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:979
+msgid "old"
+msgstr "vieux"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:978
+msgid "know"
+msgstr "savoir"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:977
+msgid "being"
+msgstr "être"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:976
+msgid "valentines"
+msgstr "valentines"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:974
+msgid "its"
+msgstr "son"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:972
+msgid "time"
+msgstr "temps"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:970
+msgid "here"
+msgstr "ici"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:969
+msgid "baby"
+msgstr "bébé"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:968
+msgid "think"
+msgstr "penser"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:967
+msgid "never"
+msgstr "jamais"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:966
+msgid "heart"
+msgstr "cœur"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:965
+msgid "awesome"
+msgstr "génial"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:964
+msgid "thing"
+msgstr "chose"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:963
+msgid "need"
+msgstr "besoin"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:962
+msgid "happened"
+msgstr "s’est produit"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:961
+msgid "actually"
+msgstr "en fait"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:943
+msgid "there"
+msgstr "là"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:941
+msgid "their"
+msgstr "leur"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:939
+msgid "the"
+msgstr "le"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:938
+msgid "with"
+msgstr "avec"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:937
+msgid "that"
+msgstr "ça"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:935
+msgid "so"
+msgstr "tellement"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:934
+msgid "why"
+msgstr "pourquoi"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:933
+msgid "sould"
+msgstr "devrait"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:932
+msgid "who"
+msgstr "qui"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:929
+msgid "re"
+msgstr "re"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:927
+msgid "on"
+msgstr "sur"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:926
+msgid "was"
+msgstr "a été"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:925
+msgid "of"
+msgstr "de"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:924
+msgid "up"
+msgstr "au-dessus"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:923
+msgid "not"
+msgstr "pas"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:922
+msgid "to"
+msgstr "à"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:921
+msgid "no"
+msgstr "non"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:920
+msgid "this"
+msgstr "ce"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:918
+msgid "things"
+msgstr "choses"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:917
+msgid "most"
+msgstr "le plus"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:915
+msgid "me"
+msgstr "moi"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:914
+msgid "these"
+msgstr "ces"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:913
+msgid "ll"
+msgstr "LL"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:912
+msgid "like"
+msgstr "comme"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:911
+msgid "ever"
+msgstr "déjà"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:910
+msgid "just"
+msgstr "juste"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:907
+msgid "did"
+msgstr "a fait"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:906
+msgid "is"
+msgstr "est"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:904
+msgid "in"
+msgstr "dans"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:903
+msgid "by"
+msgstr "par"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:902
+msgid "if"
+msgstr "si"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:901
+msgid "but"
+msgstr "mais"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:900
+msgid "I"
+msgstr "je"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:899
+msgid "be"
+msgstr "être"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:897
+msgid "at"
+msgstr "à"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:896
+msgid "his"
+msgstr "son"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:895
+msgid "as"
+msgstr "comme"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:894
+msgid "her"
+msgstr "sa"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:891
+msgid "and"
+msgstr "et"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:889
+msgid "an"
+msgstr "un"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:887
+msgid "all"
+msgstr "tous"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:886
+msgid "get"
+msgstr "obtenir"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:885
+msgid "after"
+msgstr "après"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:884
+msgid "from"
+msgstr "de"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:883
+msgid "about"
+msgstr "à propos"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:882
+msgid "for"
+msgstr "pour"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:881
+msgid "a"
+msgstr "un"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:864
+msgid "download"
+msgstr "télécharger"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:863
+msgid "delighted"
+msgstr "enchanté"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:862
+msgid "excellent"
+msgstr "excellent"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:861
+msgid "practical"
+msgstr "pratique"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:860
+msgid "insider"
+msgstr "initié"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:859
+msgid "surprise"
+msgstr "surprise"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:858
+msgid "sensational"
+msgstr "sensationnel"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:857
+msgid "introducing"
+msgstr "présentation"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:856
+msgid "value"
+msgstr "valeur"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:855
+msgid "weird"
+msgstr "bizarre"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:854
+msgid "revealing"
+msgstr "révélateur"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:853
+msgid "huge gift"
+msgstr "énorme cadeau"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:852
+msgid "strange"
+msgstr "étrange"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:851
+msgid "reward"
+msgstr "récompense"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:850
+msgid "portfolio"
+msgstr "portfolio"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:849
+msgid "announcing"
+msgstr "annonçant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:848
+msgid "simple"
+msgstr "simple"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:847
+msgid "proven"
+msgstr "prouvé"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:846
+msgid "exciting"
+msgstr "excitant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:845
+msgid "authentic"
+msgstr "authentique"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:844
+msgid "direct"
+msgstr "direct"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:843
+msgid "magic"
+msgstr "magique"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:842
+msgid "amazing"
+msgstr "génial"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:841
+msgid "fortune"
+msgstr "chance"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:840
+msgid "easy"
+msgstr "facile"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:839
+msgid "miracle"
+msgstr "miracle"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:838
+msgid "urgent"
+msgstr "urgent"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:837
+msgid "unlock"
+msgstr "débloquer"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:836
+msgid "quick"
+msgstr "rapide"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:835
+msgid "revolutionary"
+msgstr "révolutionnaire"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:834
+msgid "important"
+msgstr "important"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:833
+#: includes/gutenberg/headline-tool/headline-tool.php:975
+msgid "now"
+msgstr "maintenant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:832
+msgid "startling"
+msgstr "surprenant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:831
+msgid "quickly"
+msgstr "rapidement"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:830
+msgid "latest"
+msgstr "dernier"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:829
+msgid "colossal"
+msgstr "colossal"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:828
+msgid "monumental"
+msgstr "monumental"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:827
+msgid "refundable"
+msgstr "remboursable"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:826
+msgid "high tech"
+msgstr "haute technologie"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:825
+msgid "largest"
+msgstr "plus grand"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:824
+msgid "last minute"
+msgstr "dernière minute"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:823
+msgid "security"
+msgstr "sécurité"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:822
+msgid "greatest"
+msgstr "meilleur"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:821
+msgid "survival"
+msgstr "survie"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:820
+msgid "opportunities"
+msgstr "opportunités"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:819
+msgid "bonanza"
+msgstr "aubaine"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:818
+msgid "imagination"
+msgstr "imagination"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:817
+msgid "useful"
+msgstr "utile"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:816
+msgid "successful"
+msgstr "réussi"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:815
+msgid "timely"
+msgstr "opportun"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:814
+msgid "astonishing"
+msgstr "incroyable"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:813
+msgid "spotlight"
+msgstr "projecteurs"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:812
+msgid "wealth"
+msgstr "richesse"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:811
+msgid "unconditional"
+msgstr "inconditionnel"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:810
+msgid "promising"
+msgstr "prometteur"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:809
+msgid "enormous"
+msgstr "énorme"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:808
+msgid "sturdy"
+msgstr "solide"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:807
+msgid "luxury"
+msgstr "luxe"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:806
+msgid "growth"
+msgstr "croissance"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:805
+msgid "shrewd"
+msgstr "astucieux"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:804
+msgid "selected"
+msgstr "sélectionné"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:803
+msgid "noted"
+msgstr "noté"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:802
+msgid "crammed"
+msgstr "tassé"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:801
+#: includes/gutenberg/headline-tool/headline-tool.php:985
+msgid "better"
+msgstr "meilleur"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:800
+msgid "technology"
+msgstr "technologie"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:799
+msgid "sampler"
+msgstr "échantillonneur"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:798
+#: includes/gutenberg/headline-tool/headline-tool.php:973
+msgid "beautiful"
+msgstr "beau"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:797
+msgid "reduced"
+msgstr "réduit"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:796
+msgid "special offer"
+msgstr "offre spéciale"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:794
+msgid "soar"
+msgstr "grimper"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:793
+msgid "skill"
+msgstr "compétence"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:792
+msgid "helpful"
+msgstr "utile"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:791
+msgid "emerging"
+msgstr "émergent"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:789
+msgid "launching"
+msgstr "lancement"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:788
+msgid "tremendous"
+msgstr "immense"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:787
+msgid "breakthrough"
+msgstr "avancée"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:786
+msgid "just arrived"
+msgstr "tout juste arrivé"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:785
+msgid "perspective"
+msgstr "perspective"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:782
+msgid "it's here"
+msgstr "c’est ici"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:781
+msgid "suddenly"
+msgstr "subitement"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:780
+msgid "zinger"
+msgstr "étonnant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:779
+msgid "reliable"
+msgstr "fiable"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:778
+msgid "innovative"
+msgstr "innovant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:777
+msgid "under priced"
+msgstr "sous tarifé"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:776
+msgid "bottom line"
+msgstr "résultat"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:775
+msgid "lavishly"
+msgstr "somptueusement"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:774
+msgid "mammoth"
+msgstr "mammouth"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:773
+msgid "fundamentals"
+msgstr "fondamentaux"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:772
+msgid "odd"
+msgstr "bizarre"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:771
+#: includes/gutenberg/headline-tool/headline-tool.php:994
+msgid "love"
+msgstr "amour"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:770
+msgid "full"
+msgstr "plein"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:769
+msgid "discount"
+msgstr "remise"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:768
+msgid "compromise"
+msgstr "compris"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:767
+msgid "gigantic"
+msgstr "gigantesque"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:766
+msgid "competitive"
+msgstr "compétitif"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:765
+msgid "unlimited"
+msgstr "illimité"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:764
+msgid "fascinating"
+msgstr "fascinant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:763
+msgid "quality"
+msgstr "qualité"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:762
+msgid "approved"
+msgstr "approuvé"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:761
+msgid "endorsed"
+msgstr "soutenu"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:760
+msgid "unparalleled"
+msgstr "sans précédent"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:759
+msgid "exploit"
+msgstr "exploit"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:758
+msgid "easily"
+msgstr "facilement"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:756
+msgid "superior"
+msgstr "supérieur"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:755
+msgid "last chance"
+msgstr "dernière chance"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:754
+msgid "attractive"
+msgstr "attractif"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:753
+msgid "valuable"
+msgstr "précieux"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:752
+msgid "edge"
+msgstr "bord"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:751
+msgid "complete"
+msgstr "terminé"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:750
+msgid "willpower"
+msgstr "volonté"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:749
+msgid "exclusive"
+msgstr "exclusif"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:748
+msgid "rare"
+msgstr "rare"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:747
+msgid "mainstream"
+msgstr "populaire"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:746
+msgid "ultimate"
+msgstr "ultime"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:745
+msgid "popular"
+msgstr "populaire"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:744
+msgid "liberal"
+msgstr "libéral"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:743
+msgid "informative"
+msgstr "instructif"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:742
+msgid "affordable"
+msgstr "abordable"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:741
+msgid "big"
+msgstr "grand"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:740
+msgid "instructive"
+msgstr "instructif"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:739
+msgid "genuine"
+msgstr "véritable"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:738
+msgid "colorful"
+msgstr "coloré"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:737
+msgid "powerful"
+msgstr "puissant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:736
+msgid "energy"
+msgstr "énergie"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:735
+msgid "unsurpassed"
+msgstr "inégalé"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:734
+msgid "compare"
+msgstr "comparer"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:733
+msgid "simplistic"
+msgstr "simpliste"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:732
+msgid "outstanding"
+msgstr "exceptionnel"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:731
+msgid "destiny"
+msgstr "destiné"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:730
+msgid "the truth about"
+msgstr "la vérité sur"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:729
+msgid "limited"
+msgstr "limité"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:728
+msgid "unusual"
+msgstr "inhabituel"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:727
+msgid "pioneering"
+msgstr "novateur"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:726
+msgid "advice"
+msgstr "conseil"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:725
+msgid "immediately"
+msgstr "immédiatement"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:724
+msgid "strong"
+msgstr "fort"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:723
+msgid "daring"
+msgstr "audacieux"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:722
+msgid "expert"
+msgstr "expert"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:721
+msgid "improved"
+msgstr "amélioré"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:720
+msgid "alert famous"
+msgstr "alerte célébrité"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:719
+msgid "hurry"
+msgstr "pressé"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:718
+msgid "highest"
+msgstr "le plus haut"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:717
+msgid "tested"
+msgstr "testé"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:716
+msgid "scarce"
+msgstr "rare"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:715
+msgid "bargain"
+msgstr "bonne affaire"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:714
+msgid "lifetime"
+msgstr "à vie"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:713
+msgid "special"
+msgstr "spécial"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:712
+msgid "secrets"
+msgstr "secrets"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:710
+msgid "challenge"
+msgstr "challenge"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:709
+msgid "guaranteed"
+msgstr "garanti"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:708
+msgid "delivered"
+msgstr "livré"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:707
+msgid "revisited"
+msgstr "revisité"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:706
+msgid "interesting"
+msgstr "intéressant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:705
+msgid "professional"
+msgstr "professionnel"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:704
+msgid "wonderful"
+msgstr "magnifique"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:703
+msgid "surging"
+msgstr "flambée"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:702
+msgid "absolutely lowest"
+msgstr "vraiment le moins"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:701
+#: includes/gutenberg/headline-tool/headline-tool.php:971
+msgid "new"
+msgstr "nouveau"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:700
+msgid "sizable"
+msgstr "considérable"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:699
+msgid "obsession"
+msgstr "obsession"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:698
+msgid "wanted"
+msgstr "recherché"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:697
+msgid "sale"
+msgstr "solde"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:695
+msgid "remarkable"
+msgstr "remarquable"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:694
+msgid "focus"
+msgstr "focus"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:693
+msgid "free"
+msgstr "gratuit"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:692
+msgid "great"
+msgstr "super"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:675
+msgid "vaporize"
+msgstr "vaporiser"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:674
+msgid "to be"
+msgstr "être"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:673
+msgid "surprisingly"
+msgstr "étonnamment"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:672
+msgid "you see"
+msgstr "vous voyez"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:671
+msgid "tired"
+msgstr "fatigué"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:670
+msgid "surprising"
+msgstr "surprenant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:669
+msgid "you see what"
+msgstr "vous voyez ce que"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:668
+msgid "you need to"
+msgstr "vous devez"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:667
+msgid "valor"
+msgstr "valeur"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:666
+msgid "thrilling"
+msgstr "palpitant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:665
+msgid "you need to know"
+msgstr "vous devez savoir"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:664
+msgid "thrilled"
+msgstr "ravi"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:663
+msgid "surge"
+msgstr "poussée"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:662
+msgid "wounded"
+msgstr "blessé"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:661
+msgid "this is"
+msgstr "c’est"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:660
+msgid "sure"
+msgstr "sûr"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:659
+msgid "worry"
+msgstr "s’inquiéter"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:658
+msgid "uplifting"
+msgstr "édifiant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:657
+msgid "this is what"
+msgstr "c’est ce qui"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:656
+msgid "wondrous"
+msgstr "merveilleux"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:655
+msgid "unusually"
+msgstr "exceptionnellement"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:654
+msgid "this is what happens"
+msgstr "c’est ce qu’il se produit"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:653
+msgid "this is the"
+msgstr "c’est le"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:652
+msgid "withheld"
+msgstr "retenu"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:651
+msgid "thing ive ever seen"
+msgstr "chose que j’ai jamais vu"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:650
+msgid "unscrupulous"
+msgstr "sans scrupules"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:649
+msgid "the reason why is"
+msgstr "la raison pourquoi"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:648
+msgid "stupid"
+msgstr "stupide"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:647
+msgid "will make you"
+msgstr "vous rendra"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:646
+msgid "the most"
+msgstr "le plus"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:645
+msgid "stunning"
+msgstr "stupéfiant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:644
+msgid "wicked"
+msgstr "méchant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:643
+msgid "the ranking of"
+msgstr "le classement de"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:642
+msgid "stuck up"
+msgstr "coincé"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:641
+msgid "whopping"
+msgstr "énorme"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:640
+msgid "the best"
+msgstr "le meilleur"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:639
+msgid "whip"
+msgstr "fouet"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:638
+msgid "that will"
+msgstr "qui fera"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:637
+msgid "strangle"
+msgstr "étrangler"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:636
+msgid "when you"
+msgstr "lorsque vous"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:635
+msgid "unexpected"
+msgstr "inattendu"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:634
+msgid "that will make"
+msgstr "qui fera"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:633
+msgid "undo"
+msgstr "annuler"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:632
+msgid "that will make you"
+msgstr "qui vous rendra"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:631
+msgid "what this"
+msgstr "ce que"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:630
+msgid "underhanded"
+msgstr "sournois"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:629
+msgid "staggering"
+msgstr "pharamineux"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:628
+msgid "what happens"
+msgstr "ce qu’il se passe"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:627
+msgid "under"
+msgstr "sous"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:626
+msgid "terror"
+msgstr "terreur"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:625
+msgid "what happens when"
+msgstr "ce qu’il se passe quand"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:624
+msgid "spirit"
+msgstr "esprit"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:623
+msgid "what happened"
+msgstr "ce qu’il s’est passé"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:622
+msgid "uncommonly"
+msgstr "singulièrement"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:621
+msgid "tempting"
+msgstr "tentant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:620
+msgid "spine"
+msgstr "colonne vertébrale"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:619
+msgid "unbelievably"
+msgstr "incroyablement"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:617
+msgid "spectacular"
+msgstr "spectaculaire"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:616
+msgid "unauthorized"
+msgstr "non autorisé"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:615
+msgid "teetering"
+msgstr "vacillant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:614
+msgid "warning"
+msgstr "avertissement"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:613
+msgid "soaring"
+msgstr "envol"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:612
+msgid "wanton"
+msgstr "capricieux"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:611
+msgid "turn the tables"
+msgstr "inverser les rôles"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:610
+msgid "tech"
+msgstr "tech"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:609
+msgid "try before you buy"
+msgstr "essayer avant d’acheter"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:608
+msgid "tawdry"
+msgstr "cliquant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:607
+msgid "snob"
+msgstr "snob"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:606
+msgid "vulnerable"
+msgstr "vulnérable"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:605
+msgid "truth"
+msgstr "vérité"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:604
+msgid "targeted"
+msgstr "ciblé"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:603
+msgid "sniveling"
+msgstr "pleurnichant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:602
+msgid "volatile"
+msgstr "volatil"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:601
+msgid "triumph"
+msgstr "triomphe"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:600
+msgid "tantalizing"
+msgstr "alléchant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:599
+msgid "smuggled"
+msgstr "détourné"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:598
+msgid "viral"
+msgstr "viral"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:597
+msgid "triple"
+msgstr "triple"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:596
+msgid "tank"
+msgstr "descendre"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:595
+msgid "smug"
+msgstr "suffisant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:594
+msgid "vindication"
+msgstr "défense"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:593
+msgid "tailspin"
+msgstr "vrille"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:592
+msgid "smash"
+msgstr "fracasser"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:591
+msgid "victory"
+msgstr "victoire"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:590
+msgid "treasure"
+msgstr "trésor"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:589
+msgid "taboo"
+msgstr "tabou"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:588
+msgid "sleazy"
+msgstr "sordide"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:587
+msgid "victim"
+msgstr "victime"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:586
+msgid "trap"
+msgstr "piège"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:585
+msgid "swindle"
+msgstr "escroquerie"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:584
+msgid "slaughter"
+msgstr "massacre"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:583
+msgid "vibrant"
+msgstr "vif"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:582
+msgid "toxic"
+msgstr "toxique"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:581
+msgid "skyrocket"
+msgstr "décoller"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:580
+msgid "varify"
+msgstr "vérifier"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:579
+msgid "to the"
+msgstr "au"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:578
+msgid "surrender"
+msgstr "capituler"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:577
+msgid "research"
+msgstr "recherche"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:576
+msgid "never again"
+msgstr "plus jamais"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:574
+msgid "remarkably"
+msgstr "remarquablement"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:573
+msgid "poor"
+msgstr "pauvre"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:572
+msgid "myths"
+msgstr "mythes"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:571
+msgid "sinful"
+msgstr "immonde"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:570
+msgid "pointless"
+msgstr "inutile"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:569
+msgid "murder"
+msgstr "meurtre"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:568
+msgid "plunge"
+msgstr "plonger"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:567
+msgid "plummet"
+msgstr "dégringoler"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:566
+msgid "moneyback"
+msgstr "garantie"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:565
+msgid "refund"
+msgstr "remboursement"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:564
+msgid "pluck"
+msgstr "cueillir"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:563
+msgid "money-grubbing"
+msgstr "vénal"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:562
+msgid "silly"
+msgstr "idiot"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:561
+msgid "refugee"
+msgstr "réfugié"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:560
+msgid "played"
+msgstr "joué"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:559
+msgid "money"
+msgstr "argent"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:558
+msgid "sick and tired"
+msgstr "malade et fatigué"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:557
+msgid "plague"
+msgstr "peste"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:556
+msgid "mistakes"
+msgstr "erreurs"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:555
+msgid "reclaim"
+msgstr "récupérer"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:554
+msgid "pitfall"
+msgstr "piège"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:553
+msgid "mired"
+msgstr "empêtré"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:552
+msgid "shellacking"
+msgstr "décapage"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:551
+msgid "reckoning"
+msgstr "compte"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:550
+msgid "piranha"
+msgstr "piranha"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:549
+msgid "shatter"
+msgstr "briser"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:548
+msgid "rave"
+msgstr "délirer"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:547
+msgid "minute"
+msgstr "minute"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:546
+msgid "shameless"
+msgstr "éhonté"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:545
+msgid "mind-blowing"
+msgstr "époustouflant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:544
+msgid "peril"
+msgstr "péril"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:543
+msgid "might look like a"
+msgstr "semble ressembler à"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:542
+msgid "payback"
+msgstr "remboursement"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:541
+msgid "meltdown"
+msgstr "fondre"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:540
+msgid "seize"
+msgstr "saisir"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:539
+msgid "pay zero"
+msgstr "payer zéro"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:538
+msgid "massive"
+msgstr "massif"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:537
+msgid "secutively"
+msgstr "secutivement"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:536
+msgid "quadruple"
+msgstr "quadruple"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:535
+msgid "panic"
+msgstr "panique"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:534
+msgid "marked down"
+msgstr "inscrit"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:533
+msgid "punish"
+msgstr "punir"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:532
+msgid "pale"
+msgstr "pale"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:531
+msgid "secure"
+msgstr "sécurisé"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:530
+msgid "pummel"
+msgstr "frapper"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:529
+msgid "painful"
+msgstr "douloureux"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:528
+msgid "make you"
+msgstr "vous rendre"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:527
+msgid "provocative"
+msgstr "provocant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:526
+msgid "overcome"
+msgstr "dépasser"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:525
+msgid "searing"
+msgstr "brûlant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:524
+msgid "scream"
+msgstr "crier"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:523
+msgid "protected"
+msgstr "protégé"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:522
+msgid "outlawed"
+msgstr "prohibé"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:521
+msgid "lying"
+msgstr "mensonge"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:520
+msgid "scary"
+msgstr "effrayant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:518
+msgid "on the"
+msgstr "sur le"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:517
+msgid "luxurious"
+msgstr "luxueux"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:516
+msgid "official"
+msgstr "officiel"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:515
+msgid "lust"
+msgstr "luxure"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:514
+msgid "ruthless"
+msgstr "impitoyable"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:513
+msgid "prize"
+msgstr "prix"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:512
+msgid "offer"
+msgstr "offre"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:511
+msgid "lurking"
+msgstr "cachette"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:510
+msgid "risky"
+msgstr "risqué"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:509
+msgid "private"
+msgstr "privé"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:508
+msgid "off-limits"
+msgstr "hors-limite"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:507
+msgid "lunatic"
+msgstr "lunatique"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:506
+msgid "rich"
+msgstr "riche"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:505
+msgid "privacy"
+msgstr "confidentialité"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:504
+msgid "of the"
+msgstr "du"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:503
+msgid "lowest"
+msgstr "le plus bas"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:502
+msgid "prison"
+msgstr "prison"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:501
+msgid "lost"
+msgstr "perdu"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:500
+msgid "priced"
+msgstr "tarifé"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:499
+msgid "looming"
+msgstr "imminent"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:498
+msgid "revolting"
+msgstr "révoltant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:497
+msgid "preposterous"
+msgstr "absurde"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:496
+msgid "obnoxious"
+msgstr "odieux"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:495
+msgid "looks like a"
+msgstr "ressemble à"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:494
+msgid "lonely"
+msgstr "seul"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:493
+msgid "revenge"
+msgstr "revanche"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:492
+msgid "no questions asked"
+msgstr "sans justification"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:491
+msgid "loathsome"
+msgstr "détestable"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:490
+msgid "pound"
+msgstr "livre"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:489
+msgid "no good"
+msgstr "pas bien"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:488
+msgid "line"
+msgstr "ligne"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:487
+msgid "results"
+msgstr "résultats"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:486
+msgid "nightmare"
+msgstr "cauchemar"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:485
+msgid "like a normal"
+msgstr "comme un normal"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:484
+msgid "gambling"
+msgstr "jeux d’argent"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:483
+msgid "exposed"
+msgstr "exposé"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:482
+msgid "lies"
+msgstr "mensonges"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:481
+msgid "explode"
+msgstr "exploser"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:480
+msgid "lick"
+msgstr "lécher"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:478
+msgid "illegal"
+msgstr "illégal"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:477
+msgid "frugal"
+msgstr "frugal"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:476
+msgid "lawsuit"
+msgstr "procès"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:475
+msgid "hypnotic"
+msgstr "hypnotique"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:474
+msgid "frightening"
+msgstr "effrayant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:473
+msgid "fresh on the mind"
+msgstr "frais dans l’esprit"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:472
+msgid "excited"
+msgstr "excité"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:471
+msgid "hurricane"
+msgstr "ouragan"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:470
+msgid "frenzy"
+msgstr "frénésie"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:469
+msgid "freebie"
+msgstr "cadeau"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:468
+msgid "evil"
+msgstr "malveillant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:467
+msgid "how to make"
+msgstr "comment faire"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:466
+msgid "epic"
+msgstr "épique"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:465
+msgid "know it all"
+msgstr "qui sait tout"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:463
+msgid "frantic"
+msgstr "frénétique"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:462
+msgid "killer"
+msgstr "tueur"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:461
+msgid "hope"
+msgstr "espoir"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:460
+msgid "foul"
+msgstr "faute"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:459
+msgid "jubilant"
+msgstr "radieux"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:458
+msgid "hoax"
+msgstr "canular"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:457
+msgid "energize"
+msgstr "dynamiser"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:456
+msgid "jeopardy"
+msgstr "péril"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:455
+msgid "forgotten"
+msgstr "oublié"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:454
+msgid "jaw-dropping"
+msgstr "à couper le souffler"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:453
+msgid "high"
+msgstr "élevé"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:452
+msgid "force-fed"
+msgstr "nourri de force"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:451
+msgid "empower"
+msgstr "habiliter"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:450
+msgid "jail"
+msgstr "prison"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:449
+msgid "hidden"
+msgstr "caché"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:448
+msgid "forbidden"
+msgstr "interdit"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:447
+msgid "jackpot"
+msgstr "jackpot"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:446
+msgid "help are the"
+msgstr "aide"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:444
+msgid "embarrass"
+msgstr "embarras"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:443
+msgid "it looks like a"
+msgstr "ça ressemble àa"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:442
+msgid "helpless"
+msgstr "sans espoir"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:441
+msgid "fooled"
+msgstr "trompé"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:440
+msgid "is what happens when"
+msgstr "se produit quand"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:439
+msgid "fool"
+msgstr "idiot"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:438
+msgid "is the"
+msgstr "est"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:437
+msgid "hazardous"
+msgstr "risqué"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:436
+msgid "irresistibly"
+msgstr "irrésistiblement"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:435
+msgid "hate"
+msgstr "détester"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:433
+msgid "dumb"
+msgstr "bête"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:432
+msgid "ironclad"
+msgstr "ironclad"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:431
+msgid "happy"
+msgstr "joyeux"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:429
+msgid "drowning"
+msgstr "noyade"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:428
+msgid "invasion"
+msgstr "invasion"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:427
+msgid "had enough"
+msgstr "a suffisamment"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:425
+msgid "hack"
+msgstr "hack"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:423
+msgid "double"
+msgstr "double"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:422
+msgid "gullible"
+msgstr "crédule"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:421
+msgid "feeble"
+msgstr "frêle"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:420
+msgid "dollar"
+msgstr "dollar"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:419
+msgid "insidious"
+msgstr "insidieux"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:418
+msgid "feast"
+msgstr "gestin"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:417
+msgid "disinformation"
+msgstr "désinformation"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:416
+msgid "fearless"
+msgstr "intrépide"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:415
+msgid "disgusting"
+msgstr "dégoûtant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:414
+msgid "insanely"
+msgstr "follement"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:413
+msgid "grit"
+msgstr "serrer les dents"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:412
+msgid "greed"
+msgstr "avidité"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:411
+msgid "fantastic"
+msgstr "fantastique"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:410
+msgid "disastrous"
+msgstr "désastreux"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:409
+msgid "famous"
+msgstr "célèbre"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:408
+msgid "dirty"
+msgstr "sale"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:407
+msgid "inexpensive"
+msgstr "bon marché"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:406
+msgid "grateful"
+msgstr "reconnaissant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:405
+msgid "faith"
+msgstr "foi"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:404
+msgid "in the"
+msgstr "dans"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:403
+msgid "fail"
+msgstr "échec"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:402
+msgid "devoted"
+msgstr "dévoué"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:401
+msgid "in the world"
+msgstr "au monde"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:400
+msgid "gift"
+msgstr "cadeau"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:399
+msgid "eye-opening"
+msgstr "révélateur"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:398
+msgid "devastating"
+msgstr "dévastant"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:397
+msgid "in a"
+msgstr "dans"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:396
+msgid "extra"
+msgstr "extra"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:395
+msgid "destroy"
+msgstr "détruire"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:316
+msgid "Question"
+msgstr "Question"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:305
+#: includes/gutenberg/headline-tool/headline-tool.php:919
+msgid "my"
+msgstr "mon"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:303
+#: includes/gutenberg/headline-tool/headline-tool.php:908
+msgid "it"
+msgstr "il"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:302
+#: includes/gutenberg/headline-tool/headline-tool.php:942
+msgid "your"
+msgstr "votre"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:301
+#: includes/gutenberg/headline-tool/headline-tool.php:931
+msgid "she"
+msgstr "elle"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:300
+#: includes/gutenberg/headline-tool/headline-tool.php:892
+msgid "he"
+msgstr "il"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:299
+#: includes/gutenberg/headline-tool/headline-tool.php:304
+#: includes/gutenberg/headline-tool/headline-tool.php:916
+msgid "they"
+msgstr "ils"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:298
+#: includes/gutenberg/headline-tool/headline-tool.php:940
+msgid "you"
+msgstr "vous"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:295
+#: includes/gutenberg/headline-tool/headline-tool.php:312
+#: includes/gutenberg/headline-tool/headline-tool.php:936
+msgid "will"
+msgstr "fera"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:294
+#: includes/gutenberg/headline-tool/headline-tool.php:311
+#: includes/gutenberg/headline-tool/headline-tool.php:893
+msgid "are"
+msgstr "es"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:293
+#: includes/gutenberg/headline-tool/headline-tool.php:310
+#: includes/gutenberg/headline-tool/headline-tool.php:905
+msgid "can"
+msgstr "peut"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:292
+#: includes/gutenberg/headline-tool/headline-tool.php:309
+#: includes/gutenberg/headline-tool/headline-tool.php:909
+msgid "do"
+msgstr "fait"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:291
+#: includes/gutenberg/headline-tool/headline-tool.php:308
+msgid "does"
+msgstr "fait"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:290
+#: includes/gutenberg/headline-tool/headline-tool.php:307
+#: includes/gutenberg/headline-tool/headline-tool.php:888
+msgid "has"
+msgstr "a"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:289
+#: includes/gutenberg/headline-tool/headline-tool.php:306
+#: includes/gutenberg/headline-tool/headline-tool.php:890
+msgid "have"
+msgstr "a"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:288
+#: includes/gutenberg/headline-tool/headline-tool.php:928
+msgid "what"
+msgstr "quoi"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:287
+#: includes/gutenberg/headline-tool/headline-tool.php:898
+msgid "how"
+msgstr "comment"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:286
+#: includes/gutenberg/headline-tool/headline-tool.php:930
+msgid "when"
+msgstr "quand"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:285
+msgid "where"
+msgstr "où"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:279
+msgid "List"
+msgstr "Liste"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:274
+msgid "thousand"
+msgstr "millier"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:273
+msgid "hundred"
+msgstr "centaine"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:272
+msgid "fift"
+msgstr "fift"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:271
+msgid "thirt"
+msgstr "thirt"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:270
+msgid "twelve"
+msgstr "douze"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:269
+msgid "eleven"
+msgstr "onze"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:268
+msgid "nine"
+msgstr "neuf"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:267
+msgid "eight"
+msgstr "huit"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:266
+msgid "seven"
+msgstr "sept"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:265
+msgid "six"
+msgstr "six"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:264
+msgid "five"
+msgstr "cinq"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:263
+msgid "four"
+msgstr "quatre"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:262
+msgid "three"
+msgstr "trois"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:261
+msgid "two"
+msgstr "deux"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:260
+#: includes/gutenberg/headline-tool/headline-tool.php:983
+msgid "one"
+msgstr "un"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:254
+msgid "How-To"
+msgstr "Comment"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:253
+msgid "howto"
+msgstr "comment"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:253
+#: includes/gutenberg/headline-tool/headline-tool.php:757
+msgid "how to"
+msgstr "comment"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:234
+msgid "Perfect"
+msgstr "Parfait"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:224
+msgid "power"
+msgstr "puissance"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:218
+msgid "uncommon"
+msgstr "non commun"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:212
+msgid "common"
+msgstr "commun"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:206
+msgid "emotion"
+msgstr "émotion"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:202
+msgid "Can Be Improved"
+msgstr "Peut être amélioré"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:145
+msgid "Bad Input"
+msgstr "Mauvaise saisie"
+
+#. translators: %s - link to a site.
+#: includes/emails/templates/footer-default.php:45
+msgid "Sent from %s"
+msgstr "Envoyé depuis %s"
+
+#: includes/emails/class-emails.php:386
+msgid "You cannot send emails with MI_WP_Emails() until init/admin_init has been reached."
+msgstr "Vous ne pouvez pas envoyer d’e-mail avec MI_WP_Emails() tant que init/admin_init n’a pas été atteint."
+
+#: includes/helpers.php:722
+msgid "Unknown Country"
+msgstr "Pays inconnu"
+
+#: includes/admin/routes.php:678
+msgid "Pretty Links helps you shrink, beautify, track, manage and share any URL on or off of your WordPress website. Create links that look how you want using your own domain name!"
+msgstr "Pretty Links vous aide à raccourcir, enjoliver, suivre, gérer et partager n’importe quelle URL de votre site WordPress. Créez des liens comme vous le souhaitez en utilisant votre propre nom de domaine !"
+
+#. Translators: Placeholders add links to the settings panel.
+#: includes/admin/admin.php:667
+msgid "Click %1$shere%2$s to reauthenticate to be able to access reports. For more information why this is required, see our %3$sblog post%4$s."
+msgstr "Cliquez %1$sici%2$s pour vous ré-authentifier et accéder aux rapports. Pour savoir pourquoi ce champ est obligatoire, consultez notre %3$sarticle de blog%4$s."
+
+#: lite/includes/admin/metaboxes.php:46 assets/gutenberg/js/editor.js:2713
+msgid "Last 30 days"
+msgstr "Les 30 derniers jours"
+
+#: lite/includes/admin/metaboxes.php:50 assets/gutenberg/js/editor.js:2714
+msgid "Yesterday"
+msgstr "Hier"
+
+#: lite/includes/admin/wp-site-health.php:462
+msgid "MonsterInsights has detected that you have a coming soon or maintenance mode plugin currently activated on your site. This plugin does not allow other plugins (like MonsterInsights) to output Javascript, and thus MonsterInsights is not currently tracking your users (expected). Once the coming soon/maintenance mode plugin is deactivated, tracking will resume automatically."
+msgstr "MonsterInsights a détecté que vous utiliser une extension d’attente (coming soon) ou de maintenance, actuellement activée sur votre site. Cette dernière n’autorise pas d’autres extensions (comme MonsterInsights) d’exprimer du Javascript, le suivi est donc désactivé (et c’est normal). Une fois l’extension d’attente/maintenance sera désactivée, le suivi reprendra normalement."
+
+#: lite/includes/admin/wp-site-health.php:461
+msgid "Tracking code disabled: coming soon/maintenance mode plugin present"
+msgstr "Code de suivi désactivé : extension d’attente ou de mode maintenance présente"
+
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-gender.php:59
+msgid "Gender"
+msgstr "Sexe"
+
+#: lite/includes/emails/templates/body-summaries.php:136
+msgid "Total Sessions"
+msgstr "Total des sessions"
+
+#: lite/includes/emails/templates/body-summaries-plain.php:55
+#: lite/includes/emails/templates/body-summaries-test-plain.php:64
+#: lite/includes/emails/templates/body-summaries-test.php:170
+msgid "Total Visitors"
+msgstr "Total des visiteurs"
+
+#: lite/includes/admin/reports/report-year-in-review.php:22
+msgid "Year in Review"
+msgstr "Année en revue"
+
+#. Translators: %s is the link to the article where more details about tracking
+#. are listed.
+#: includes/frontend/frontend.php:274
+msgid "To keep stats accurate, we do not load Google Analytics scripts for admin users. %1$sLearn More &raquo;%2$s"
+msgstr "Pour que les stats soient fidèles, nous ne chargeons pas les scripts Google Analytics pour les administrateurs. %1$sEn savoir plus &raquo;%2$s"
+
+#: includes/frontend/frontend.php:261
+msgid "Tracking is Disabled for Administrators"
+msgstr "Le suivi est désactivé pour les administrateurs"
+
+#: includes/admin/admin.php:515
+msgid "Please Setup Website Analytics to See Audience Insights"
+msgstr "Veuillez configurer les statistiques de votre site pour voir les comptes-rendus d’audience"
+
+#: lite/includes/admin/helpers.php:74
+msgid "MonsterInsights Pro shows you the stats that matter, so you can boost your business growth!"
+msgstr "MonsterInsights Pro vous montre les stats qui comptent pour que vous puissiez booster votre activité !"
+
+#: lite/includes/admin/helpers.php:73
+msgid "It's easy to double your traffic and sales when you know exactly how people find and use your website."
+msgstr "Il est facile de doubler son trafic et ses ventes lorsque l’on comprend exactement comment les visiteurs trouvent et utilisent un site."
+
+#: lite/includes/admin/helpers.php:72
+msgid "Grow Your Business with MonsterInsights Pro"
+msgstr "Développez votre activité avec MonsterInsights Pro"
+
+#: lite/includes/admin/helpers.php:67
+msgid "Get Better Insights. Grow FASTER!"
+msgstr "Obtenez de meilleurs indicateurs. BOOSTEZ votre croissance !"
+
+#: lite/includes/admin/dashboard-widget.php:150
+msgid "Setup Website Analytics"
+msgstr "Configuration des statistiques du site"
+
+#: lite/includes/admin/dashboard-widget.php:148
+msgid "To see your website stats, please connect MonsterInsights to Google Analytics."
+msgstr "Pour voir vos stats de site, veuillez connecter MonsterInsights à Google Analytics."
+
+#: lite/includes/admin/connect.php:56
+msgid "Please enter your license key to connect."
+msgstr "Veuillez saisir votre clé de licence pour vous connecter."
+
+#: lite/includes/admin/wp-site-health.php:465
+msgid "MonsterInsights has automatically detected an issue with your tracking setup"
+msgstr "MonsterInsights a automatiquement détecté un problème avec votre configuration de suivi"
+
+#: lite/includes/admin/wp-site-health.php:452
+msgid "The Google Analytics tracking code is being output correctly, and no duplicate Google Analytics scripts have been detected."
+msgstr "Le code de suivi Google Analytics est correctement généré et aucun script doublon n’a été détecté."
+
+#: lite/includes/admin/wp-site-health.php:446
+msgid "Tracking code is properly being output."
+msgstr "Le code de suivi est correctement généré."
+
+#: lite/includes/admin/wp-site-health.php:86
+msgid "MonsterInsights Tracking Code"
+msgstr "Code de suivi MonsterInsights"
+
+#. Translators: Placeholders make the text bold.
+#: includes/admin/pages/settings.php:102
+msgid "If you are using an %1$sad blocker%2$s, please disable or whitelist the current page to load MonsterInsights correctly."
+msgstr "Si vous utilisez un %1$sbloqueur de publicités%2$s, veuillez le désactiver ou mettre cette page sur liste blanche pour charger MonsterInsights correctement."
+
+#: lite/includes/admin/welcome.php:56 lite/includes/admin/welcome.php:57
+msgid "Welcome to MonsterInsights"
+msgstr "Bienvenue dans MonsterInsights"
+
+#. Translators: The error message received.
+#: lite/includes/admin/wp-site-health.php:428
+msgid "Error message: %s"
+msgstr "Message d’erreur : %s"
+
+#: lite/includes/admin/wp-site-health.php:424
+msgid "Your server is blocking external requests to monsterinsights.com, please check your firewall settings or contact your host for more details."
+msgstr "Votre serveur bloque les requêtes externes vers monsterinsights.com. Veuillez vérifier vos réglages de pare-feu ou contactez votre hébergeur pour plus de détails."
+
+#: lite/includes/admin/wp-site-health.php:423
+msgid "The MonsterInsights server is not reachable."
+msgstr "Le serveur de MonsterInsights n’est pas joignable."
+
+#: lite/includes/admin/wp-site-health.php:408
+msgid "The MonsterInsights API is reachable and no connection issues have been detected."
+msgstr "L’API de MonsterInsights est accessible et aucun problème de connexion n’a été détecté."
+
+#: lite/includes/admin/wp-site-health.php:402
+msgid "Can connect to MonsterInsights.com correctly"
+msgstr "Connexion à MonsterInsights.com possible"
+
+#: lite/includes/admin/wp-site-health.php:372
+msgid "AMP pages are not being tracked"
+msgstr "Les pages AMP ne sont pas suivies"
+
+#: lite/includes/admin/wp-site-health.php:357
+#: lite/includes/admin/wp-site-health.php:383
+msgid "View Addons"
+msgstr "Voir les modules"
+
+#: lite/includes/admin/wp-site-health.php:345
+msgid "eCommerce data is not being tracked"
+msgstr "Les données e-commerce ne sont pas suivies"
+
+#: lite/includes/admin/wp-site-health.php:330
+msgid "Update Settings"
+msgstr "Mettre à jour les réglages"
+
+#: lite/includes/admin/wp-site-health.php:326
+msgid "MonsterInsights automatic updates are disabled. We recommend enabling automatic updates so you can get access to the latest features, bugfixes, and security updates as they are released."
+msgstr "Les mises à jour automatiques de MonsterInsights sont désactivées. Nous vous recommandons de les activer afin d’accéder aux dernières fonctionnalités, aux derniers correctifs et patchs de sécurité dès leur sortie."
+
+#: lite/includes/admin/wp-site-health.php:325
+msgid "Automatic updates are disabled"
+msgstr "Les mises à jour automatiques sont désactivées"
+
+#: lite/includes/admin/wp-site-health.php:321
+msgid "MonsterInsights minor updates are enabled and you are getting the latest bugfixes and security updates, but not major features."
+msgstr "Les mises à jour mineures de MonsterInsights sont activées, vous recevez les derniers correctifs et patchs de sécurité dès leur sortie mais pas les nouvelles fonctionnalités."
+
+#: lite/includes/admin/wp-site-health.php:320
+msgid "Your website is receiving minor updates"
+msgstr "Votre site reçoit les mises à jour mineures"
+
+#: lite/includes/admin/wp-site-health.php:313
+msgid "MonsterInsights automatic updates are enabled and you are getting the latest features, bugfixes, and security updates as they are released."
+msgstr "Les mises à jour automatiques de MonsterInsights sont activées, vous recevez les dernières fonctionnalités, les derniers correctifs et patchs de sécurité dès leur sortie."
+
+#: lite/includes/admin/wp-site-health.php:307
+msgid "Your website is receiving automatic updates"
+msgstr "Votre site reçoit les mises à jour automatiques"
+
+#: lite/includes/admin/wp-site-health.php:292
+msgid "Go to License Settings"
+msgstr "Aller aux réglages de licence"
+
+#: lite/includes/admin/wp-site-health.php:288
+msgid "A valid license has been added to MonsterInsights but you are still using the Lite version."
+msgstr "Une licence valide a été ajoutée à MonsterInsights mais vous utilisez encore la version Lite."
+
+#: lite/includes/admin/wp-site-health.php:287
+msgid "MonsterInsights Upgrade not applied"
+msgstr "Mise à niveau de MonsterInsights non appliquée"
+
+#: lite/includes/admin/wp-site-health.php:261
+msgid "Your traffic is not being tracked by MonsterInsights at the moment and you are losing data. Authenticate and get access to the reporting area and advanced tracking features."
+msgstr "Votre trafic n’est pas suivi par MonsterInsights pour le moment, vous perdez des données. Authentifiez-vous et accédez à la zone des rapports et aux fonctionnalités de suivi avancées."
+
+#: lite/includes/admin/wp-site-health.php:260
+msgid "Please configure your Google Analytics settings"
+msgstr "Veuillez configurer vos réglages Google Analytics"
+
+#: lite/includes/admin/wp-site-health.php:254
+#: lite/includes/admin/wp-site-health.php:265
+msgid "Authenticate now"
+msgstr "S’authentifier"
+
+#: lite/includes/admin/wp-site-health.php:250
+msgid "We highly recommend authenticating with MonsterInsights so that you can access our new reporting area and take advantage of new MonsterInsights features."
+msgstr "Nous vous recommandons vivement l’authentification avec MonsterInsights afin que vous puissiez accéder à notre zone de rapports et que vous tiriez avantage des nouvelles fonctionnalités."
+
+#: lite/includes/admin/wp-site-health.php:238
+msgid "View Reports"
+msgstr "Voir les rapports"
+
+#: lite/includes/admin/wp-site-health.php:234
+msgid "MonsterInsights integrates your WordPress website with Google Analytics."
+msgstr "MonsterInsights connecte votre site WordPress à Google Analytics."
+
+#: lite/includes/admin/wp-site-health.php:228
+msgid "Your website is authenticated with MonsterInsights"
+msgstr "Votre site est authentifié avec MonsterInsights"
+
+#: lite/includes/admin/wp-site-health.php:80
+msgid "MonsterInsights Connection"
+msgstr "Connexion MonsterInsights"
+
+#: lite/includes/admin/wp-site-health.php:74
+msgid "MonsterInsights AMP"
+msgstr "MonsterInsights AMP"
+
+#: lite/includes/admin/wp-site-health.php:67
+msgid "MonsterInsights eCommerce"
+msgstr "MonsterInsights e-commerce"
+
+#: lite/includes/admin/wp-site-health.php:61
+msgid "MonsterInsights Automatic Updates"
+msgstr "Mises à jour automatiques MonsterInsights"
+
+#: lite/includes/admin/wp-site-health.php:56
+msgid "MonsterInsights Authentication"
+msgstr "Authentification MonsterInsights"
+
+#. translators: Post type archive title. %s: Post type name
+#: includes/helpers.php:1421
+msgid "Archives: %s"
+msgstr "Archives : %s"
+
+#: includes/helpers.php:1417
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Discussions"
+
+#: includes/helpers.php:1415
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: includes/helpers.php:1413
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statuts"
+
+#: includes/helpers.php:1411
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Liens"
+
+#: includes/helpers.php:1409
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citations"
+
+#: includes/helpers.php:1407
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Vidéos"
+
+#: includes/helpers.php:1405
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Images"
+
+#: includes/helpers.php:1403
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galeries"
+
+#: includes/helpers.php:1401
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Apartés"
+
+#. translators: Daily archive title. %s: Date
+#: includes/helpers.php:1398
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F Y"
+
+#. translators: Daily archive title. %s: Date
+#: includes/helpers.php:1398
+msgid "Day: %s"
+msgstr "Jour : %s"
+
+#. translators: Monthly archive title. %s: Month name and year
+#: includes/helpers.php:1395
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: Monthly archive title. %s: Month name and year
+#: includes/helpers.php:1395
+msgid "Month: %s"
+msgstr "Mois : %s"
+
+#. translators: Yearly archive title. %s: Year
+#: includes/helpers.php:1392
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: Yearly archive title. %s: Year
+#: includes/helpers.php:1392
+msgid "Year: %s"
+msgstr "Année : %s"
+
+#. translators: Author archive title. %s: Author name
+#: includes/helpers.php:1389
+msgid "Author: %s"
+msgstr "Auteur : %s"
+
+#. translators: Tag archive title. %s: Tag name
+#: includes/helpers.php:1386
+msgid "Tag: %s"
+msgstr "Étiquette : %s"
+
+#. translators: Category archive title. %s: Category name
+#: includes/helpers.php:1383
+msgid "Category: %s"
+msgstr "Catégorie : %s"
+
+#: includes/helpers.php:1379
+msgid "Archives"
+msgstr "Archives"
+
+#: includes/admin/admin.php:125 includes/admin/admin.php:289
+msgid "About Us:"
+msgstr "À propos de nous :"
+
+#: lite/includes/admin/connect.php:147 lite/includes/admin/connect.php:153
+#: lite/includes/admin/connect.php:206
+msgid "Plugin installed & activated."
+msgstr "Extension installée et activée."
+
+#: lite/includes/admin/connect.php:176
+msgid "You are not licensed."
+msgstr "Vous n’avez pas de licence active."
+
+#: lite/includes/admin/onboarding-wizard.php:178
+msgid "Return to Dashboard"
+msgstr "Retourner au tableau de bord"
+
+#: includes/admin/routes.php:1174
+msgid "Missing plugin name."
+msgstr "Nom de l’extension manquante."
+
+#: includes/admin/routes.php:1045 includes/admin/routes.php:1454
+msgid "Add your license"
+msgstr "Ajoutez votre licence"
+
+#. Translators: Adds a link to the settings panel.
+#: includes/admin/admin.php:780
+msgid "Warning: MonsterInsights found cross-domain settings in the custom code field and converted them to the new settings structure.  %1$sPlease click here to review and remove the code no longer needed.%2$s"
+msgstr "Avertissement : MonsterInsights a trouvé des réglages inter-domaines dans le champ de code personnalité et l’a converti en nouvelle structure de réglages. %1$sVeuillez cliquer ici pour vérifier et retirer le code s’il n’est plus nécessaire.%2$s"
+
+#: includes/admin/reports/abstract-report.php:553
+msgid "Please ask your webmaster to enable this addon."
+msgstr "Veuillez demander à votre webmaster d’activer ce module."
+
+#: includes/admin/admin.php:125 includes/admin/admin.php:289
+msgid "About Us"
+msgstr "À propos de nous"
+
+#: lite/includes/admin/metaboxes.php:88 lite/includes/admin/metaboxes.php:128
+#: assets/gutenberg/js/editor.js:2720
+msgid "Exits"
+msgstr "Sorties"
+
+#: lite/includes/emails/templates/body-summaries-plain.php:64
+#: lite/includes/emails/templates/body-summaries-test-plain.php:72
+#: lite/includes/emails/templates/body-summaries-test.php:236
+#: lite/includes/emails/templates/body-summaries.php:310
+msgid "Top Pages"
+msgstr "Top pages"
+
+#: includes/admin/pages/settings.php:131
+msgid "View supported browsers"
+msgstr "Voir les navigateurs compatibles"
+
+#: includes/admin/pages/settings.php:128
+msgid "You are using a browser which is no longer supported by MonsterInsights. Please update or use another browser in order to access the plugin settings."
+msgstr "Vous utilisez un navigateur qui n’est plus pris en charge par MonsterInsights. Veuillez le mettre à jour ou utiliser un autre navigateur afin d’accéder aux réglages de l’extension."
+
+#: includes/admin/pages/settings.php:126
+msgid "Your browser version is not supported"
+msgstr "La version de votre navigateur n’est pas prise en charge"
+
+#: includes/admin/pages/settings.php:121
+msgid "Resolve This Issue"
+msgstr "Résoudre ce problème"
+
+#: includes/admin/pages/settings.php:117
+msgid "Copy the error message above and paste it in a message to the MonsterInsights support team."
+msgstr "Copiez le message d’erreur ci-dessus et collez-le dans un message adressé au support de MonsterInsights."
+
+#: includes/admin/pages/settings.php:97
+msgid "There seems to be an issue running JavaScript on your website, which MonsterInsights is crafted in to give you the best experience possible."
+msgstr "Il semble qu’il y ait un souci avec l’exécution de Javascript sur votre site, dont MonsterInsights a besoin pour vous donner la meilleure expérience possible."
+
+#: includes/admin/pages/settings.php:95
+msgid "Ooops! It Appears JavaScript Didn’t Load"
+msgstr "Oups ! Il semblerait que Javascript ne se soit pas chargé"
+
+#. Translators: Placeholders add the PHP version, a link to the MonsterInsights
+#. blog and a line break.
+#: includes/admin/admin.php:578
+msgid "Your site is running an outdated, insecure version of PHP (%1$s), which could be putting your site at risk for being hacked.%4$sWordPress stopped supporting your PHP version in April, 2019.%4$sUpdating PHP only takes a few minutes and will make your website significantly faster and more secure.%4$s%2$sLearn more about updating PHP%3$s"
+msgstr "Votre site utilise une version obsolète et non sécurisée de PHP (%1$s) qui expose votre site à des tentatives de piratage.%4$sWordPress ne prend plus en charge votre version de PHP depuis avril 2019.%4$sMettre à jour PHP prend quelques minutes et rendra votre site plus rapide et plus sécurisé.%4$s%2$sEn savoir plus sur la mise à jour de PHP%3$s"
+
+#. Translators: The placeholders are for making the "We have detected multiple
+#. tracking codes" text bold & adding a link to support.
+#: includes/helpers.php:1543
+msgid "%1$sWe have detected multiple tracking codes%2$s! You should remove non-MonsterInsights ones. If you need help finding them please %3$sread this article%4$s."
+msgstr "%1$sNous avons détecté plusieurs codes de suivi%2$s ! Vous devriez retirer tous ceux qui ne sont pas gérés par MonsterInsights. Si vous avez besoin d’aide pour les trouver, %3$sveuillez lire cet article%4$s."
+
+#. Translators: The placeholders are for making the "We noticed you're using a
+#. caching plugin" text bold.
+#: includes/helpers.php:1480
+msgid "%1$sWe noticed you're using a caching plugin or caching from your hosting provider.%2$s Be sure to clear the cache to ensure the tracking appears on all pages and posts. %3$s(See this guide on how to clear cache)%4$s."
+msgstr "%1$sNous avons détecté l’utilisation d’une extension de cache ou un cache hébergeur.%2$s Assurez-vous de le purger pour que le code de suivi apparaisse sur toutes les publications. %3$s(Consultez ce guide pour savoir comment purger le cache)%4$s."
+
+#: includes/admin/ajax.php:56
+msgid "You are not allowed to install plugins"
+msgstr "Vous n’avez pas le droit d’installer des extensions"
+
+#: lite/includes/admin/onboarding-wizard.php:163
+msgid "MonsterInsights &rsaquo; Onboarding Wizard"
+msgstr "MonsterInsights &rsaquo; Assistant d’installation"
+
+#: includes/admin/admin.php:136
+#: includes/admin/notifications/notification-upgrade-to-pro-high-traffic.php:41
+#: includes/admin/notifications/notification-upgrade-to-pro.php:33
+#: lite/includes/emails/templates/body-summaries.php:384
+#: lite/includes/emails/templates/body-summaries.php:388
+msgid "Upgrade to Pro"
+msgstr "Passez en version Pro"
+
+#: includes/admin/admin.php:518 includes/admin/common.php:646
+#: includes/admin/common.php:672 includes/admin/common.php:704
+#: includes/admin/notifications/notification-audience.php:55
+#: includes/admin/notifications/notification-bounce-rate.php:52
+#: includes/admin/notifications/notification-headline-analyzer.php:39
+#: includes/admin/notifications/notification-mobile-device-low-traffic.php:41
+#: includes/admin/notifications/notification-returning-visitors.php:43
+#: includes/admin/notifications/notification-traffic-dropping.php:43
+msgid "Learn More"
+msgstr "En savoir plus"
+
+#: includes/admin/notifications/notification-upgrade-for-custom-dimensions.php:25
+#: includes/admin/notifications/notification-upgrade-for-events-reporting.php:25
+#: includes/admin/notifications/notification-upgrade-for-post-templates.php:25
+#: lite/includes/admin/helpers.php:85
+msgid "Upgrade to MonsterInsights Pro"
+msgstr "Passez à MonsterInsights Pro"
+
+#: includes/frontend/tracking/class-tracking-gtag.php:197
+msgid "Note: MonsterInsights does not track you as a logged-in site administrator to prevent site owners from accidentally skewing their own Google Analytics data."
+msgstr "Remarque : MonsterInsights ne vous « suit » pas en tant qu’administrateur connecté afin de ne pas compter les propriétaires de site dans leurs propres statistiques de Google Analytics."
+
+#: lite/includes/admin/reports/report-realtime.php:22
+msgid "Real Time"
+msgstr "Temps réel"
+
+#: includes/helpers.php:602
+msgid "Macedonia (FYROM)"
+msgstr "Macédoine (ARYM)"
+
+#: includes/api-request.php:515
+msgid "Reason: The API was unreachable because no external hosts are allowed on this site."
+msgstr "Raison : L’API était inaccessible car aucun hôte externe n’est autorisé sur ce site."
+
+#: includes/api-request.php:510 includes/api-request.php:532
+msgid "Reason: The API was unreachable because the call to Google failed."
+msgstr "Raison : L’API était inaccessible car l'appel à Google a échoué."
+
+#: includes/api-request.php:495
+msgid "Reason: The API was unreachable because the API url is on the WP HTTP blocklist."
+msgstr "Raison : L’API était inaccessible car l’URL d’API est sur la liste noire HTTP de WordPress."
+
+#. Translators: Placeholder gets replaced with the error message.
+#: includes/api-request.php:230
+msgid "The firewall of your server is blocking outbound calls. Please contact your hosting provider to fix this issue. %s"
+msgstr "Le pare-feu de votre serveur bloque les appels externes. Veuillez contacter votre hébergeur pour corriger ce problème. %s"
+
+#. Plugin URI of the plugin
+#: googleanalytics.php
+msgid "https://www.monsterinsights.com/?utm_source=liteplugin&utm_medium=pluginheader&utm_campaign=pluginurl&utm_content=7%2E0%2E0"
+msgstr "https://www.monsterinsights.com/?utm_source=liteplugin&utm_medium=pluginheader&utm_campaign=pluginurl&utm_content=7%2E0%2E0"
+
+#: includes/admin/review.php:157
+msgid "I already did"
+msgstr "Je l’ai déjà fait"
+
+#: includes/admin/review.php:149
+msgid "Nope, maybe later"
+msgstr "Non, peut-être plus tard"
+
+#: includes/admin/review.php:141
+msgid "Ok, you deserve it"
+msgstr "Ok, vous le méritez"
+
+#: googleanalytics.php:605
+msgid "Please uninstall and remove MonsterInsights Pro before activating Google Analytics for WordPress by MonsterInsights. The Lite version has not been activated. %1$sClick here to return to the Dashboard%2$s."
+msgstr "Veuillez désinstaller et supprimer MonsterInsights Pro avant d’activer la version gratuite. Cette dernière n’a pas été activée. %1$sCliquez ici pour retourner au tableau de bord%2$s."
+
+#: includes/gutenberg/site-insights/templates/graph/class-graph-sessions.php:36
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-age.php:60
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-gender.php:60
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-sessions.php:27
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-top10countries.php:56
+#: lite/includes/emails/templates/body-summaries-test.php:316
+#: lite/includes/emails/templates/body-summaries.php:129
+msgid "Sessions"
+msgstr "Sessions"
+
+#: lite/includes/admin/reports/report-queries.php:22
+msgid "Search Console"
+msgstr "Search Console"
+
+#: lite/includes/admin/reports/report-publisher.php:22
+msgid "Publishers"
+msgstr "Éditorial"
+
+#: lite/includes/admin/reports/report-dimensions.php:22
+msgid "Dimensions"
+msgstr "Dimensions"
+
+#: includes/frontend/tracking/class-tracking-gtag.php:200
+msgid "Note: The site owner has disabled Google Analytics tracking for your user role."
+msgstr "Remarque : Le propriétaire du site a désactivé le suivi Google Analytics pour votre rôle utilisateur."
+
+#: includes/frontend/tracking/class-tracking-gtag.php:194
+msgid "Note: MonsterInsights is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the MonsterInsights settings panel."
+msgstr "Remarque : MonsterInsights n’est actuellement pas configuré sur ce site. Le propriétaire doit authentifier son compte Google Analytics dans les réglages de MonsterInsights. "
+
+#: includes/api-request.php:232
+msgid "The firewall of your server is blocking outbound calls. Please contact your hosting provider to fix this issue."
+msgstr "Le pare-feu de votre serveur bloque les appels externes. Contactez votre hébergeur pour régler ce problème."
+
+#: includes/gutenberg/headline-tool/headline-tool.php:711
+msgid "unique"
+msgstr "unique"
+
+#: lite/includes/emails/templates/body-summaries-test.php:296
+msgid "Referrals"
+msgstr "Référents"
+
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-top10countries.php:55
+msgid "Top 10 Countries"
+msgstr "Top 10 des pays"
+
+#: includes/gutenberg/site-insights/templates/graph/class-graph-device.php:41
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-device.php:33
+msgid "Device Breakdown"
+msgstr "Détail par appareil"
+
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-pageviews.php:27
+msgid "Avg. Session Duration"
+msgstr "Durée moy. de session"
+
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-sessions.php:36
+#: lite/includes/emails/templates/body-summaries-test.php:163
+#: lite/includes/emails/templates/body-summaries-test.php:249
+msgid "Pageviews"
+msgstr "Pages vues"
+
+#: lite/includes/admin/metaboxes.php:80 lite/includes/admin/metaboxes.php:120
+#: lite/includes/emails/templates/body-summaries.php:189
+#: assets/gutenberg/js/editor.js:2719
+msgid "Page Views"
+msgstr "Vues de page"
+
+#. Translators: Placeholders make the text bold, add the license level and add
+#. a link to upgrade.
+#: includes/admin/reports/abstract-report.php:506
+msgid "Upgrading is easy! To upgrade, navigate to %1$ssour pricing page%2$s, purchase the required license, and then follow the %3$sinstructions in the email receipt%4$s to upgrade. It only takes a few minutes to unlock the most powerful, yet easy to use analytics tracking system for WordPress."
+msgstr "Passez à la licence Pro est facile ! Pour ce faire, allez notre %1$spage de tarifs%2$s, achetez la licence souhaitée et suivez les %3$sinstructions fournies par e-mail%4$s. Cela ne vous prendra que quelques minutes pour débloquer le système de suivi le plus puissant, mais facile d’utilisation, pour WordPress."
+
+#. Translators: Placeholders make the text bold, add the license level and add
+#. a link to upgrade.
+#: includes/admin/reports/abstract-report.php:499
+msgid "Do you you want to access to %1$s reporting right now%2$s in your WordPress Dashboard? That comes with %3$s level%4$s of our paid packages. To get instant access, you'll want to buy a MonsterInsights license, which also gives you access to powerful addons, expanded reporting (including the ability to use custom date ranges), comprehensive tracking features (like UserID tracking) and access to our world-class support team."
+msgstr "Souhaitez-vous accéder aux rapports %1$s directement%2$s dans votre tableau de bord WordPress ? C’est possible dès le niveau %3$s %4$s de nos formulaires payantes. Pour en profiter tout suite, procurez-vous une licence MonsterInsights qui vous donnera également accès à de puissants modules complémentaires, des rapports plus détaillés (et la possibilité de choisir les périodes étudiées), des fonctionnalités de suivi plus évoluées (comme le suivi UserID) et l’accès à notre fabuleuse équipe de support."
+
+#. Translators: Placeholder adds a smiley face.
+#: includes/admin/reports/abstract-report.php:492
+msgid "Hey there! %s It looks like you've got the free version of MonsterInsights installed on your site. That's awesome!"
+msgstr "Salut ! %s Il semblerait que vous ayez la version gratuite de MonsterInsights installée sur votre site. C’est fantastique !"
+
+#: includes/admin/reports/abstract-report.php:487
+#: includes/admin/reports/abstract-report.php:510
+msgid "If you have any questions, don't hesitate to reach out. We're here to help."
+msgstr "Si vous avez des questions, n’hésitez pas à nous contacter. Nous sommes là pour vous aider."
+
+#. Translators: Placeholdes add links to the account area and a guide.
+#: includes/admin/reports/abstract-report.php:483
+msgid "It's easy! To upgrade, navigate to %1$sMy Account%2$s on MonsterInsights.com, go to the licenses tab, and click upgrade. We also have a %3$sstep by step guide%4$s with pictures of this process."
+msgstr "C’est facile ! Pour procéder à la mise à niveau, allez dans %1$sMy Account%2$s sur MonsterInsights.com, rendez-vous dans l’onglet des licences et cliquez sur « upgrade ». Nous avons également un %3$sguide pas à pas%4$s et imagé de la procédure."
+
+#. Translators: Placeholders add the report title and license level.
+#: includes/admin/reports/abstract-report.php:476
+msgid "Do you want to access to %1$s reporting right now%2$s in your WordPress Dashboard? That comes with the %3$s level%4$s of our paid packages. You'll need to upgrade your license to get instant access."
+msgstr "Souhaitez-vous accéder aux rapports %1$s directement%2$s dans votre tableau de bord WordPress ? C’est possible dès le niveau %3$s %4$s de nos formulaires payantes. Vous devrez passer à la version supérieure pour en profiter."
+
+#. Translators: License level and smiley.
+#: includes/admin/reports/abstract-report.php:469
+msgid "Hey there! It looks like you've got the %1$s license installed on your site. That's awesome! %s"
+msgstr ""
+"Salut ! On dirait que avez la licence %1$s sur votre site.\n"
+"\t\t\t\t\t\t\t\t\t  C’est fantastique ! %s"
+
+#: includes/admin/reports/abstract-report.php:463
+msgid "(And Crush Your Competition?)"
+msgstr "(et écraser votre concurrence ?)"
+
+#: includes/admin/reports/abstract-report.php:461
+msgid "Ready to Get Analytics Super-Powers?"
+msgstr "Prêt à acquérir des super-pouvoirs d’analyse ?"
+
+#. Translators: Placeholders add the license level and the report title.
+#: includes/admin/reports/abstract-report.php:447
+msgid "You currently have a %1$s level license, but this report requires at least a %2$s level license to view the %3$s. Please upgrade to view this report."
+msgstr "Vous avez actuellement une licence %1$s mais ce rapport nécessite d’être au moins à la licence %2$s pour voir le/la %3$s. Veuillez passer à la licence supérieure pour voir le rapport."
+
+#: includes/admin/reports/abstract-report.php:137
+msgid "No data found"
+msgstr "Aucune donnée trouvée"
+
+#: includes/admin/notification-event.php:256
+#: lite/includes/emails/summaries.php:481
+msgid "You don't have permission to view MonsterInsights reports."
+msgstr "Vous ne pouvez pas afficher les rapports MonsterInsights."
+
+#: includes/admin/api-auth.php:593
+msgid "Successfully force deauthenticated."
+msgstr "Désauthentification forcée réussie."
+
+#: includes/admin/api-auth.php:590
+msgid "Successfully deauthenticated."
+msgstr "Désauthentification réussie."
+
+#: includes/admin/api-auth.php:482
+msgid "Successfully verified."
+msgstr "Vérification terminée."
+
+#. Translators: Placeholders add a link to the MonsterInsights website.
+#: includes/admin/admin.php:714 includes/admin/admin.php:764
+msgid "%1$sGet MonsterInsights Pro%2$s"
+msgstr "%1$sObtenez MonsterInsights Pro%2$s"
+
+#: includes/admin/admin.php:556
+msgid "Your network license key for MonsterInsights is invalid. The key no longer exists or the user associated with the key has been deleted. Please use a different key."
+msgstr "Votre clé de licence réseau pour MonsterInsights n’est pas valide. La clé n’existe plus ou l’utilisateur associé à la clé a été supprimé. Veuillez utiliser une clé différente."
+
+#: includes/admin/admin.php:554
+msgid "Your network license key for MonsterInsights has been disabled. Please use a different key."
+msgstr "Votre clé de licence réseau pour MonsterInsights a été désactivée. Veuillez utiliser une clé différente."
+
+#. Translators: Adds a link to renew license.
+#: includes/admin/admin.php:552
+msgid "Your network license key for MonsterInsights has expired. %1$sPlease click here to renew your license key.%2$s"
+msgstr "Votre clé de licence réseau pour MonsterInsights a expiré. %1$sVeuillez cliquer ici pour la renouveler.%2$s"
+
+#: includes/admin/admin.php:547 includes/admin/api-auth.php:299
+msgid "Your license key for MonsterInsights is invalid. The key no longer exists or the user associated with the key has been deleted. Please use a different key."
+msgstr "Votre clé de licence pour MonsterInsights n’est pas valide. La clé n’existe plus ou l’utilisateur associé à la clé a été supprimé. Veuillez utiliser une clé différente."
+
+#: includes/admin/admin.php:545
+msgid "Your license key for MonsterInsights has been disabled. Please use a different key."
+msgstr "Votre clé de licence pour MonsterInsights a été désactivée. Veuillez utiliser une clé différente."
+
+#. Translators: Adds a link to the license renewal.
+#: includes/admin/admin.php:543
+msgid "Your license key for MonsterInsights has expired. %1$sPlease click here to renew your license key.%2$s"
+msgstr "Votre clé de licence pour MonsterInsights a expiré. %1$sVeuillez cliquer ici pour la renouveler.%2$s"
+
+#. Translators: Adds a link to retrieve the license.
+#: includes/admin/admin.php:531
+msgid "Warning: No valid license key has been entered for MonsterInsights. You are currently not getting updates, and are not able to view reports. %1$sPlease click here to enter your license key and begin receiving updates and reports.%2$s"
+msgstr "Avertissement : aucune clé de licence valide n’a été saisie pour MonsterInsights. Vous ne recevez actuellement aucune mise à jour et vous ne pouvez pas afficher les rapports. %1$sCliquez ici pour saisir votre clé de licence et commencer à recevoir des mises à jour et accéder aux rapports.%2$s"
+
+#: includes/admin/admin.php:361
+msgid "MonsterInsights Knowledge Base"
+msgstr "Base de connaissances MonsterInsights"
+
+#: includes/admin/admin.php:269 includes/admin/admin.php:271
+msgid "Network Settings:"
+msgstr "Réglages réseau :"
+
+#: includes/admin/admin.php:55 includes/admin/admin.php:61
+#: includes/admin/admin.php:273
+msgid "General Reports:"
+msgstr "Rapports généraux :"
+
+#: includes/admin/admin.php:49
+msgid "General:"
+msgstr "Général :"
+
+#. Translators: Adds an ampersand.
+#: assets/lib/pandora/class-am-deactivation-survey.php:337
+msgid "Skip %s Deactivate"
+msgstr "Ignorer %s Désactiver"
+
+#. Translators: Adds an ampersand.
+#: assets/lib/pandora/class-am-deactivation-survey.php:331
+msgid "Submit %s Deactivate"
+msgstr "Envoyer %s Désactiver"
+
+#. Translators: Placeholder for the plugin name.
+#: assets/lib/pandora/class-am-deactivation-survey.php:303
+msgid "If you have a moment, please share why you are deactivating %s:"
+msgstr "Si vous avez un moment, veuillez nous dire pourquoi vous désactiver %s :"
+
+#: assets/lib/pandora/class-am-deactivation-survey.php:299
+msgid "Quick Feedback"
+msgstr "Retour rapide"
+
+#: assets/lib/pandora/class-am-deactivation-survey.php:291
+msgid "Please share the reason"
+msgstr "Veuillez nous donner la raison"
+
+#: assets/lib/pandora/class-am-deactivation-survey.php:290
+msgid "Other"
+msgstr "Autre"
+
+#: assets/lib/pandora/class-am-deactivation-survey.php:287
+msgid "It's a temporary deactivation"
+msgstr "C’est une désactivation temporaire"
+
+#: assets/lib/pandora/class-am-deactivation-survey.php:284
+msgid "I couldn't get the plugin to work"
+msgstr "Je n’ai pas réussi à faire fonctionner l’extension"
+
+#: assets/lib/pandora/class-am-deactivation-survey.php:281
+msgid "Please share which plugin"
+msgstr "Veuillez indiquer quelle extension"
+
+#: assets/lib/pandora/class-am-deactivation-survey.php:280
+msgid "I'm switching to a different plugin"
+msgstr "Je compte utiliser une autre extension"
+
+#: assets/lib/pandora/class-am-deactivation-survey.php:277
+msgid "I no longer need the plugin"
+msgstr "Je n’ai plus besoin de l’extension"
+
+#: assets/lib/pandora/class-am-deactivation-survey.php:141
+msgid "Please select an option"
+msgstr "Veuillez choisir une option"
+
+#: lite/includes/admin/tools.php:11
+msgid "By upgrading to MonsterInsights Pro, you can unlock the MonsterInsights URL builder that helps you better track your advertising and email marketing campaigns."
+msgstr "En optant pour MonsterInsights Pro, vous débloquerez le constructeur d’URL pour vous aider à mieux suivre vos campagnes de publicités ou e-mail."
+
+#: lite/includes/admin/tools.php:10
+msgid "Want even more fine tuned control over your website analytics?"
+msgstr "Vous souhaitez encore plus de contrôle dans vos statistiques ?"
+
+#: lite/includes/admin/tools.php:13
+msgid "Click here to Upgrade"
+msgstr "Cliquez ici pour passer en version Pro"
+
+#: includes/helpers.php:531
+msgid "Czechia"
+msgstr "République Tchèque"
+
+#: includes/admin/routes.php:962
+msgid "Please upload a valid .json file"
+msgstr "Veuillez téléverser un fichier .json valide"
+
+#: includes/admin/admin.php:108
+msgid "Tools"
+msgstr "Outils"
+
+#: includes/admin/admin.php:108
+msgid "Tools:"
+msgstr "Outils :"
+
+#. Description of the plugin
+#: googleanalytics.php
+msgid "The best Google Analytics plugin for WordPress. See how visitors find and use your website, so you can keep them coming back."
+msgstr "La meilleure extension Google Analytics pour WordPress. Découvrez comment les internautes trouvent et utilisent votre site, pour mieux les faire revenir."
+
+#. Plugin Name of the plugin
+#: googleanalytics.php
+msgid "Google Analytics for WordPress by MonsterInsights"
+msgstr "MonsterInsights - Google Analytics pour WordPress"
+
+#: includes/helpers.php:721 includes/helpers.php:2120
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#: includes/helpers.php:720 includes/helpers.php:2119
+msgid "Zambia"
+msgstr "Zambie"
+
+#: includes/helpers.php:719
+msgid "Yemen"
+msgstr "Yémen"
+
+#: includes/helpers.php:718
+msgid "Western Samoa"
+msgstr "Samoa"
+
+#: includes/helpers.php:717
+msgid "Western Sahara"
+msgstr "Sahara Occidental"
+
+#: includes/helpers.php:716
+msgid "Wallis and Futuna Islands"
+msgstr "Wallis et Futuna"
+
+#: includes/helpers.php:715
+msgid "Virgin Islands (USA)"
+msgstr "Îles Vierges des États-Unis"
+
+#: includes/helpers.php:714
+msgid "Virgin Islands (British)"
+msgstr "Îles Vierges britanniques"
+
+#: includes/helpers.php:713
+msgid "Vietnam"
+msgstr "Viet Nam"
+
+#: includes/helpers.php:712
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: includes/helpers.php:711 includes/helpers.php:2118
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: includes/helpers.php:710
+msgid "Uzbekistan"
+msgstr "Ouzbékistan"
+
+#: includes/helpers.php:709
+msgid "US Minor Outlying Islands"
+msgstr "Îles mineures éloignées des États-Unis"
+
+#: includes/helpers.php:708
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: includes/helpers.php:707
+msgid "United Arab Emirates"
+msgstr "Émirats Arabes Unis"
+
+#: includes/helpers.php:706
+msgid "Ukraine"
+msgstr "Ukraine"
+
+#: includes/helpers.php:705 includes/helpers.php:2117
+msgid "Uganda"
+msgstr "Ouganda"
+
+#: includes/helpers.php:704 includes/helpers.php:2114
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: includes/helpers.php:703
+msgid "Turks and Caicos Islands"
+msgstr "Îles Turks et Caïques"
+
+#: includes/helpers.php:702
+msgid "Turkmenistan"
+msgstr "Turkménistan"
+
+#: includes/helpers.php:701
+msgid "Turkey"
+msgstr "Turquie"
+
+#: includes/helpers.php:700
+msgid "Tunisia"
+msgstr "Tunisie"
+
+#: includes/helpers.php:699 includes/helpers.php:2110
+msgid "Trinidad and Tobago"
+msgstr "Trinité-et-Tobago"
+
+#: includes/helpers.php:698 includes/helpers.php:2113
+msgid "Tonga"
+msgstr "Tonga"
+
+#: includes/helpers.php:697
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: includes/helpers.php:696
+msgid "Togo"
+msgstr "Togo"
+
+#: includes/helpers.php:695
+msgid "Timor-Leste"
+msgstr "Timor Oriental"
+
+#: includes/helpers.php:694
+msgid "Thailand"
+msgstr "Thaïlande"
+
+#: includes/helpers.php:693 includes/helpers.php:2112
+msgid "Tanzania"
+msgstr "Tanzanie"
+
+#: includes/helpers.php:692
+msgid "Tajikistan"
+msgstr "Tadjikistan"
+
+#: includes/helpers.php:691
+msgid "Taiwan"
+msgstr "Taïwan"
+
+#: includes/helpers.php:690
+msgid "Syrian Arab Republic"
+msgstr "Syrie"
+
+#: includes/helpers.php:689
+msgid "Switzerland"
+msgstr "Suisse"
+
+#: includes/helpers.php:688
+msgid "Sweden"
+msgstr "Suède"
+
+#: includes/helpers.php:687 includes/helpers.php:2102
+msgid "Swaziland"
+msgstr "Swaziland"
+
+#: includes/helpers.php:686
+msgid "Svalbard and Jan Mayen Islands"
+msgstr "Svalbard et Jan Mayen"
+
+#: includes/helpers.php:685
+msgid "Suriname"
+msgstr "Suriname"
+
+#: includes/helpers.php:684 includes/helpers.php:2109
+msgid "Sudan"
+msgstr "Soudan"
+
+#: includes/helpers.php:683
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: includes/helpers.php:682
+msgid "Spain"
+msgstr "Espagne"
+
+#: includes/helpers.php:681 includes/helpers.php:2108
+msgid "South Sudan"
+msgstr "Soudan du Sud"
+
+#: includes/helpers.php:680
+msgid "South Korea"
+msgstr "Corée du Sud"
+
+#: includes/helpers.php:679
+msgid "South Georgia"
+msgstr "Géorgie du Sud-et-les Îles Sandwich du Sud"
+
+#: includes/helpers.php:678 includes/helpers.php:2107
+msgid "South Africa"
+msgstr "Afrique du Sud"
+
+#: includes/helpers.php:677
+msgid "Somalia"
+msgstr "Somalie"
+
+#: includes/helpers.php:676 includes/helpers.php:2106
+msgid "Solomon Islands"
+msgstr "Îles Salomon"
+
+#: includes/helpers.php:675
+msgid "Slovenia"
+msgstr "Slovénie"
+
+#: includes/helpers.php:674
+msgid "Slovak Republic"
+msgstr "Slovaquie"
+
+#: includes/helpers.php:673 includes/helpers.php:2098
+msgid "Singapore"
+msgstr "Singapour"
+
+#: includes/helpers.php:672 includes/helpers.php:2105
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: includes/helpers.php:671 includes/helpers.php:2104
+msgid "Seychelles"
+msgstr "Seychelles"
+
+#: includes/helpers.php:670
+msgid "Serbia"
+msgstr "Serbie"
+
+#: includes/helpers.php:669
+msgid "Senegal"
+msgstr "Sénégal"
+
+#: includes/helpers.php:668
+msgid "Saudi Arabia"
+msgstr "Arabie Saoudite"
+
+#: includes/helpers.php:667
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr "Sao Tomé-et-Principe"
+
+#: includes/helpers.php:666
+msgid "San Marino"
+msgstr "Saint-Marin"
+
+#: includes/helpers.php:665
+msgid "Saint Vincent and the Grenadines"
+msgstr "Saint-Vincent-et-les Grenadines"
+
+#: includes/helpers.php:664
+msgid "Saint Pierre and Miquelon"
+msgstr "Saint-Pierre-et-Miquelon"
+
+#: includes/helpers.php:663
+msgid "Saint Martin (Dutch)"
+msgstr "Saint-Martin (Pays-Bas)"
+
+#: includes/helpers.php:662
+msgid "Saint Martin (French)"
+msgstr "Saint-Martin (France)"
+
+#: includes/helpers.php:661
+msgid "Saint Lucia"
+msgstr "Sainte-Lucie"
+
+#: includes/helpers.php:660
+msgid "Saint Kitts and Nevis"
+msgstr "Saint-Kitts-et-Nevis"
+
+#: includes/helpers.php:659
+msgid "Saint Helena"
+msgstr "Sainte-Hélène"
+
+#: includes/helpers.php:658
+msgid "Saint Barth&eacute;lemy"
+msgstr "Saint-Barthélémy"
+
+#: includes/helpers.php:657 includes/helpers.php:2097
+msgid "Rwanda"
+msgstr "Rwanda"
+
+#: includes/helpers.php:656
+msgid "Russian Federation"
+msgstr "Russie"
+
+#: includes/helpers.php:655
+msgid "Romania"
+msgstr "Roumanie"
+
+#: includes/helpers.php:654
+msgid "Reunion Island"
+msgstr "Île de la Réunion"
+
+#: includes/helpers.php:653
+msgid "Republic of Kosovo"
+msgstr "République du Kosovo"
+
+#: includes/helpers.php:652
+msgid "Qatar"
+msgstr "Qatar"
+
+#: includes/helpers.php:651
+msgid "Puerto Rico"
+msgstr "Porto Rico"
+
+#: includes/helpers.php:650
+msgid "Portugal"
+msgstr "Portugal"
+
+#: includes/helpers.php:649
+msgid "Poland"
+msgstr "Pologne"
+
+#: includes/helpers.php:648
+msgid "Pitcairn Island"
+msgstr "Îles Pitcairn"
+
+#: includes/helpers.php:647 includes/helpers.php:2096
+msgid "Philippines"
+msgstr "Philippines"
+
+#: includes/helpers.php:646
+msgid "Peru"
+msgstr "Pérou"
+
+#: includes/helpers.php:645
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: includes/helpers.php:644 includes/helpers.php:2095
+msgid "Papua New Guinea"
+msgstr "Papouasie-Nouvelle-Guinée"
+
+#: includes/helpers.php:643
+msgid "Panama"
+msgstr "Panama"
+
+#: includes/helpers.php:642
+msgid "Palestinian Territories"
+msgstr "Palestine"
+
+#: includes/helpers.php:641 includes/helpers.php:2094
+msgid "Palau"
+msgstr "Palaos"
+
+#: includes/helpers.php:640 includes/helpers.php:2093
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: includes/helpers.php:639
+msgid "Oman"
+msgstr "Oman"
+
+#: includes/helpers.php:638
+msgid "Norway"
+msgstr "Norvège"
+
+#: includes/helpers.php:637
+msgid "Northern Mariana Islands"
+msgstr "Îles Mariannes du Nord"
+
+#: includes/helpers.php:636
+msgid "North Korea"
+msgstr "Corée du Nord"
+
+#: includes/helpers.php:635
+msgid "Norfolk Island"
+msgstr "Île Norfolk"
+
+#: includes/helpers.php:634
+msgid "Niue"
+msgstr "Niue"
+
+#: includes/helpers.php:633 includes/helpers.php:2092
+msgid "Nigeria"
+msgstr "Nigéria"
+
+#: includes/helpers.php:632
+msgid "Niger"
+msgstr "Niger"
+
+#: includes/helpers.php:631
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: includes/helpers.php:630 includes/helpers.php:2089
+msgid "New Zealand"
+msgstr "Nouvelle-Zélande"
+
+#: includes/helpers.php:629
+msgid "New Caledonia"
+msgstr "Nouvelle-Calédonie"
+
+#: includes/helpers.php:628
+msgid "Netherlands Antilles"
+msgstr "Antilles néerlandaises"
+
+#: includes/helpers.php:627
+msgid "Netherlands"
+msgstr "Pays-Bas"
+
+#: includes/helpers.php:626
+msgid "Nepal"
+msgstr "Népal"
+
+#: includes/helpers.php:625 includes/helpers.php:2091
+msgid "Nauru"
+msgstr "Nauru"
+
+#: includes/helpers.php:624 includes/helpers.php:2090
+msgid "Namibia"
+msgstr "Namibie"
+
+#: includes/helpers.php:623
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: includes/helpers.php:622
+msgid "Mozambique"
+msgstr "Mozambique"
+
+#: includes/helpers.php:621
+msgid "Morocco"
+msgstr "Maroc"
+
+#: includes/helpers.php:620
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: includes/helpers.php:619
+msgid "Montenegro"
+msgstr "Monténégro"
+
+#: includes/helpers.php:618
+msgid "Mongolia"
+msgstr "Mongolie"
+
+#: includes/helpers.php:617
+msgid "Monaco"
+msgstr "Monaco"
+
+#: includes/helpers.php:616
+msgid "Moldova, Republic of"
+msgstr "Moldavie"
+
+#: includes/helpers.php:615 includes/helpers.php:2088
+msgid "Micronesia"
+msgstr "Micronésie"
+
+#: includes/helpers.php:614
+msgid "Mexico"
+msgstr "Mexique"
+
+#: includes/helpers.php:613
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: includes/helpers.php:612 includes/helpers.php:2087
+msgid "Mauritius"
+msgstr "Île Maurice"
+
+#: includes/helpers.php:611
+msgid "Mauritania"
+msgstr "Mauritanie"
+
+#: includes/helpers.php:610
+msgid "Martinique"
+msgstr "Martinique"
+
+#: includes/helpers.php:609 includes/helpers.php:2086
+msgid "Marshall Islands"
+msgstr "Îles Marshall"
+
+#: includes/helpers.php:608 includes/helpers.php:2085
+msgid "Malta"
+msgstr "Malte"
+
+#: includes/helpers.php:607
+msgid "Mali"
+msgstr "Mali"
+
+#: includes/helpers.php:606
+msgid "Maldives"
+msgstr "Maldives"
+
+#: includes/helpers.php:605
+msgid "Malaysia"
+msgstr "Malaisie"
+
+#: includes/helpers.php:604 includes/helpers.php:2084
+msgid "Malawi"
+msgstr "Malawi"
+
+#: includes/helpers.php:603
+msgid "Madagascar"
+msgstr "Madagascar"
+
+#: includes/helpers.php:601
+msgid "Macau"
+msgstr "Macao"
+
+#: includes/helpers.php:600
+msgid "Luxembourg"
+msgstr "Luxembourg"
+
+#: includes/helpers.php:599
+msgid "Lithuania"
+msgstr "Lituanie"
+
+#: includes/helpers.php:598
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: includes/helpers.php:597
+msgid "Libyan Arab Jamahiriya"
+msgstr "Libye"
+
+#: includes/helpers.php:596 includes/helpers.php:2083
+msgid "Liberia"
+msgstr "Liberia"
+
+#: includes/helpers.php:595 includes/helpers.php:2082
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: includes/helpers.php:594
+msgid "Lebanon"
+msgstr "Liban"
+
+#: includes/helpers.php:593
+msgid "Latvia"
+msgstr "Lettonie"
+
+#: includes/helpers.php:592
+msgid "Lao People's Democratic Republic"
+msgstr "Laos"
+
+#: includes/helpers.php:591
+msgid "Kyrgyzstan"
+msgstr "Kirghizistan"
+
+#: includes/helpers.php:590
+msgid "Kuwait"
+msgstr "Koweït"
+
+#: includes/helpers.php:589 includes/helpers.php:2081
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: includes/helpers.php:588 includes/helpers.php:2080
+msgid "Kenya"
+msgstr "Kenya"
+
+#: includes/helpers.php:587
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+#: includes/helpers.php:586
+msgid "Jordan"
+msgstr "Jordanie"
+
+#: includes/helpers.php:585
+msgid "Jersey"
+msgstr "Jersey"
+
+#: includes/helpers.php:584
+msgid "Japan"
+msgstr "Japon"
+
+#: includes/helpers.php:583 includes/helpers.php:2079
+msgid "Jamaica"
+msgstr "Jamaïque"
+
+#: includes/helpers.php:582
+msgid "Italy"
+msgstr "Italie"
+
+#: includes/helpers.php:581
+msgid "Israel"
+msgstr "Israël"
+
+#: includes/helpers.php:580
+msgid "Isle of Man"
+msgstr "Île de Man"
+
+#: includes/helpers.php:579 includes/helpers.php:2077
+msgid "Ireland"
+msgstr "Irlande"
+
+#: includes/helpers.php:578
+msgid "Iraq"
+msgstr "Irak"
+
+#: includes/helpers.php:577
+msgid "Iran"
+msgstr "Iran"
+
+#: includes/helpers.php:576
+msgid "Indonesia"
+msgstr "Indonésie"
+
+#: includes/helpers.php:575 includes/helpers.php:2078
+msgid "India"
+msgstr "Inde"
+
+#: includes/helpers.php:574
+msgid "Iceland"
+msgstr "Islande"
+
+#: includes/helpers.php:573
+msgid "Hungary"
+msgstr "Hongrie"
+
+#: includes/helpers.php:572
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: includes/helpers.php:571
+msgid "Honduras"
+msgstr "Honduras"
+
+#: includes/helpers.php:570
+msgid "Holy See (City Vatican State)"
+msgstr "Vatican"
+
+#: includes/helpers.php:569
+msgid "Heard and McDonald Islands"
+msgstr "Îles Heard-et-MacDonald"
+
+#: includes/helpers.php:568
+msgid "Haiti"
+msgstr "Haïti"
+
+#: includes/helpers.php:567 includes/helpers.php:2074
+msgid "Guyana"
+msgstr "Guyana"
+
+#: includes/helpers.php:566
+msgid "Guinea-Bissau"
+msgstr "Guinée-Bissau"
+
+#: includes/helpers.php:565
+msgid "Guinea"
+msgstr "Guinée"
+
+#: includes/helpers.php:564
+msgid "Guernsey"
+msgstr "Guernesey"
+
+#: includes/helpers.php:563
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: includes/helpers.php:562
+msgid "Guam"
+msgstr "Guam"
+
+#: includes/helpers.php:561
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+#: includes/helpers.php:560 includes/helpers.php:2073
+msgid "Grenada"
+msgstr "Grenade"
+
+#: includes/helpers.php:559
+msgid "Greenland"
+msgstr "Groenland"
+
+#: includes/helpers.php:558
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: includes/helpers.php:557 includes/helpers.php:2076
+msgid "Ghana"
+msgstr "Ghana"
+
+#: includes/helpers.php:556
+msgid "Greece"
+msgstr "Grèce"
+
+#: includes/helpers.php:555
+msgid "Germany"
+msgstr "Allemagne"
+
+#: includes/helpers.php:554
+msgid "Georgia"
+msgstr "Géorgie"
+
+#: includes/helpers.php:553 includes/helpers.php:2075
+msgid "Gambia"
+msgstr "Gambie"
+
+#: includes/helpers.php:552
+msgid "Gabon"
+msgstr "Gabon"
+
+#: includes/helpers.php:551
+msgid "French Southern Territories"
+msgstr "Terres Australes Françaises"
+
+#: includes/helpers.php:550
+msgid "French Polynesia"
+msgstr "Polynésie Française"
+
+#: includes/helpers.php:549
+msgid "French Guiana"
+msgstr "Guyane"
+
+#: includes/helpers.php:548
+msgid "France"
+msgstr "France"
+
+#: includes/helpers.php:547
+msgid "Finland"
+msgstr "Finlande"
+
+#: includes/helpers.php:546 includes/helpers.php:2072
+msgid "Fiji"
+msgstr "Fidji"
+
+#: includes/helpers.php:545
+msgid "Faroe Islands"
+msgstr "Îles Féroé"
+
+#: includes/helpers.php:544
+msgid "Falkland Islands"
+msgstr "Îles Malouines"
+
+#: includes/helpers.php:543
+msgid "Ethiopia"
+msgstr "Éthiopie"
+
+#: includes/helpers.php:542
+msgid "Estonia"
+msgstr "Estonie"
+
+#: includes/helpers.php:541
+msgid "Eritrea"
+msgstr "Érythrée"
+
+#: includes/helpers.php:540
+msgid "El Salvador"
+msgstr "Salvador"
+
+#: includes/helpers.php:539
+msgid "Equatorial Guinea"
+msgstr "Guinée Équatoriale"
+
+#: includes/helpers.php:538
+msgid "Egypt"
+msgstr "Égypte"
+
+#: includes/helpers.php:537
+msgid "Ecuador"
+msgstr "Équateur"
+
+#: includes/helpers.php:536
+msgid "East Timor"
+msgstr "Timor oriental"
+
+#: includes/helpers.php:535
+msgid "Dominican Republic"
+msgstr "République Dominicaine"
+
+#: includes/helpers.php:534 includes/helpers.php:2071
+msgid "Dominica"
+msgstr "Dominique"
+
+#: includes/helpers.php:533
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: includes/helpers.php:532
+msgid "Denmark"
+msgstr "Danemark"
+
+#: includes/helpers.php:530
+msgid "Cyprus"
+msgstr "Chypre"
+
+#: includes/helpers.php:529
+msgid "Cura&Ccedil;ao"
+msgstr "Curaçao"
+
+#: includes/helpers.php:528
+msgid "Cuba"
+msgstr "Cuba"
+
+#: includes/helpers.php:527
+msgid "Croatia/Hrvatska"
+msgstr "Croatie"
+
+#: includes/helpers.php:526
+msgid "Cote d'Ivoire"
+msgstr "Côte d’Ivoire"
+
+#: includes/helpers.php:525
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: includes/helpers.php:524
+msgid "Cook Islands"
+msgstr "Îles Cook"
+
+#: includes/helpers.php:523
+msgid "Congo, Republic of"
+msgstr "République du Congo"
+
+#: includes/helpers.php:522
+msgid "Congo, Democratic People's Republic"
+msgstr "République démocratique du Congo"
+
+#: includes/helpers.php:521
+msgid "Comoros"
+msgstr "Comores"
+
+#: includes/helpers.php:520
+msgid "Colombia"
+msgstr "Colombie"
+
+#: includes/helpers.php:519
+msgid "Cocos Islands"
+msgstr "Îles Cocos (Keeling)"
+
+#: includes/helpers.php:518
+msgid "Christmas Island"
+msgstr "Île Christmas"
+
+#: includes/helpers.php:517
+msgid "China"
+msgstr "Chine"
+
+#: includes/helpers.php:516
+msgid "Chile"
+msgstr "Chili"
+
+#: includes/helpers.php:515
+msgid "Chad"
+msgstr "Tchad"
+
+#: includes/helpers.php:514
+msgid "Central African Republic"
+msgstr "République centrafricaine"
+
+#: includes/helpers.php:513
+msgid "Cayman Islands"
+msgstr "Îles Caïmanes"
+
+#: includes/helpers.php:512
+msgid "Cape Verde"
+msgstr "Cap-vert"
+
+#: includes/helpers.php:511 includes/helpers.php:2069
+msgid "Cameroon"
+msgstr "Cameroun"
+
+#: includes/helpers.php:510
+msgid "Cambodia"
+msgstr "Cambodge"
+
+#: includes/helpers.php:509 includes/helpers.php:2068
+msgid "Burundi"
+msgstr "Burundi"
+
+#: includes/helpers.php:508
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: includes/helpers.php:507
+msgid "Bulgaria"
+msgstr "Bulgarie"
+
+#: includes/helpers.php:506
+msgid "Brunei Darrussalam"
+msgstr "Brunei"
+
+#: includes/helpers.php:505
+msgid "British Indian Ocean Territory"
+msgstr "Territoire britannique de l’océan Indien"
+
+#: includes/helpers.php:504
+msgid "Brazil"
+msgstr "Brésil"
+
+#: includes/helpers.php:503
+msgid "Bouvet Island"
+msgstr "Île Bouvet"
+
+#: includes/helpers.php:502 includes/helpers.php:2067
+msgid "Botswana"
+msgstr "Botswana"
+
+#: includes/helpers.php:501
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnie-Herzégovine"
+
+#: includes/helpers.php:500
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr "Pays-Bas caribéens"
+
+#: includes/helpers.php:499
+msgid "Bolivia"
+msgstr "Bolivie"
+
+#: includes/helpers.php:498
+msgid "Bhutan"
+msgstr "Bhoutan"
+
+#: includes/helpers.php:497
+msgid "Bermuda"
+msgstr "Bermudes"
+
+#: includes/helpers.php:496
+msgid "Benin"
+msgstr "Bénin"
+
+#: includes/helpers.php:495 includes/helpers.php:2066
+msgid "Belize"
+msgstr "Belize"
+
+#: includes/helpers.php:494
+msgid "Belgium"
+msgstr "Belgique"
+
+#: includes/helpers.php:493
+msgid "Belarus"
+msgstr "Biélorussie"
+
+#: includes/helpers.php:492 includes/helpers.php:2065
+msgid "Barbados"
+msgstr "Barbade"
+
+#: includes/helpers.php:491
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: includes/helpers.php:490
+msgid "Bahrain"
+msgstr "Bahreïn"
+
+#: includes/helpers.php:489
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: includes/helpers.php:488
+msgid "Azerbaijan"
+msgstr "Azerbaïdjan"
+
+#: includes/helpers.php:487
+msgid "Austria"
+msgstr "Autriche"
+
+#: includes/helpers.php:486 includes/helpers.php:2064
+msgid "Australia"
+msgstr "Australie"
+
+#: includes/helpers.php:485
+msgid "Aruba"
+msgstr "Aruba"
+
+#: includes/helpers.php:484
+msgid "Armenia"
+msgstr "Arménie"
+
+#: includes/helpers.php:483
+msgid "Argentina"
+msgstr "Argentine"
+
+#: includes/helpers.php:482 includes/helpers.php:2063
+msgid "Antigua and Barbuda"
+msgstr "Antigua-et-Barbuda"
+
+#: includes/helpers.php:481
+msgid "Antarctica"
+msgstr "Antarctique"
+
+#: includes/helpers.php:480
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: includes/helpers.php:479
+msgid "Angola"
+msgstr "Angola"
+
+#: includes/helpers.php:478
+msgid "Andorra"
+msgstr "Andorre"
+
+#: includes/helpers.php:477
+msgid "American Samoa"
+msgstr "Samoa Américaines"
+
+#: includes/helpers.php:476
+msgid "Algeria"
+msgstr "Algérie"
+
+#: includes/helpers.php:475
+msgid "Albania"
+msgstr "Albanie"
+
+#: includes/helpers.php:474
+msgid "&#197;land Islands"
+msgstr "Îles Åland"
+
+#: includes/helpers.php:473
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: includes/helpers.php:472 includes/helpers.php:2115
+msgid "United Kingdom"
+msgstr "Royaume-Uni"
+
+#: includes/helpers.php:471 includes/helpers.php:2070
+msgid "Canada"
+msgstr "Canada"
+
+#: includes/helpers.php:470
+msgid "United States"
+msgstr "États-Unis"
+
+#: includes/frontend/tracking/class-tracking-preview.php:77
+msgid "You are currently in a preview window. MonsterInsights doesn't track preview window traffic to avoid false visit reports."
+msgstr "Vous êtes actuellement dans la fenêtre de prévisualisation. MonsterInsights n’effectue pas de suivi de trafic ici pour ne pas comptabiliser de fausses visites."
+
+#. Translators: Placeholders add the hook name, plugin version and bold text.
+#: includes/deprecated.php:189
+msgid "%1$s is %3$sdeprecated%4$s since MonsterInsights version %2$s."
+msgstr "%1$s n’est plus %3$spris en charge%4$s depuis la version %2$s de MonsterInsights."
+
+#. Translators: Placeholders add the hook name, plugin version and bold text.
+#: includes/deprecated.php:132
+msgid "%1$s is %3$sdeprecated%4$s since MonsterInsights version %2$s!"
+msgstr "%1$s n’est plus %3$spris en charge%4$s depuis la version %2$s de MonsterInsights !"
+
+#: includes/admin/tracking.php:245
+msgid "Once Weekly"
+msgstr "Une fois par semaine"
+
+#: includes/admin/exclude-page-metabox.php:144
+#: lite/includes/admin/user-journey/providers/class-abstract-lite-metabox.php:78
+#: lite/includes/admin/user-journey/providers/class-abstract-lite-metabox.php:116
+#: assets/gutenberg/js/editor.js:2978
+msgid "Upgrade"
+msgstr "Version Pro"
+
+#. Translators: Placeholders are for links to fix the issue.
+#: includes/admin/common.php:508
+msgid "MonsterInsights has detected that it's files are being blocked. This is usually caused by a adblock browser plugin (particularly uBlock Origin), or a conflicting WordPress theme or plugin. This issue only affects the admin side of MonsterInsights. To solve this, ensure MonsterInsights is whitelisted for your website URL in any adblock browser plugin you use. For step by step directions on how to do this, %1$sclick here%2$s. If this doesn't solve the issue (rare), send us a ticket %3$shere%2$s and we'll be happy to help diagnose the issue."
+msgstr "MonsterInsights a détecté que ses fichiers sont bloqués. C’est habituellement provoqué par une extension Adblock sur votre navigateur (particulièrement uBlock Origin) ou un conflit avec un thème ou une extension. Ce conflit n’affecte que l’administration de MonsterInsights. Pour résoudre le problème, assurez-vous que MonsterInsights est dans la liste blanche de votre extension Adblock. Pour un mode d’emploi pas à pas, %1$scliquez ici%2$s. Si le problème n’est pas résolu (ce qui est rare), envoyez-nous un ticket %3$sici%2$s et nous serons heureux de vous aider."
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1014
+msgid "media"
+msgstr "média"
+
+#: lite/includes/admin/reports/report-ecommerce.php:22
+msgid "eCommerce"
+msgstr "E-commerce"
+
+#: lite/includes/admin/reports/report-forms.php:22
+msgid "Forms"
+msgstr "Formulaires"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:1018
+msgid "social"
+msgstr "social"
+
+#. Translators: Placeholders add a link to the settings panel.
+#: includes/admin/reports/abstract-report.php:72
+msgid "Please %1$senable the dashboard%2$s to see report data."
+msgstr "Veuillez %1$sd’activer le tableau de bord%2$s pour voir les données des rapports."
+
+#: includes/admin/notifications/notification-upgrade-for-form-conversion.php:31
+#: includes/admin/notifications/notification-upgrade-for-search-console.php:32
+#: includes/admin/reports/abstract-report.php:516
+#: lite/includes/admin/woocommerce-marketing.php:79
+msgid "Upgrade Now"
+msgstr "Passez en version Pro"
+
+#: includes/admin/notice.php:238
+msgid "Dismiss this notice"
+msgstr "Masquer ce message"
+
+#. Translators: Placeholders add a link to the wordpress.org repository.
+#: includes/admin/admin.php:456
+msgid "Please rate %1$sMonsterInsights%2$s on %3$s %4$sWordPress.org%5$s to help us spread the word. Thank you from the MonsterInsights team!"
+msgstr "Veuillez donner votre avis sur %1$sMonsterInsights%2$s sur %3$s %4$sWordPress.org%5$s pour nous permettre d’aider le plus grand nombre. Merci de la part de l’équipe MonsterInsights !"
+
+#: includes/admin/admin.php:366 includes/admin/admin.php:369
+msgid "Support"
+msgstr "Support"
+
+#: includes/admin/admin.php:383
+#: includes/admin/notifications/notification-upgrade-eu-traffic.php:86
+#: includes/admin/notifications/notification-upgrade-for-custom-dimensions.php:31
+#: includes/admin/notifications/notification-upgrade-for-email-summaries.php:36
+#: includes/admin/notifications/notification-upgrade-for-events-reporting.php:31
+#: includes/admin/notifications/notification-upgrade-for-post-templates.php:31
+#: includes/admin/reports/abstract-report.php:519
+msgid "Get MonsterInsights Pro"
+msgstr "Obtenir MonsterInsights Pro"
+
+#: includes/admin/admin.php:361
+msgid "Documentation"
+msgstr "Documentation"
+
+#: includes/admin/admin.php:271 includes/admin/admin.php:374
+msgid "Network Settings"
+msgstr "Réglages du réseau"
+
+#: includes/admin/admin.php:113 includes/admin/admin.php:284
+msgid "Addons"
+msgstr "Modules"
+
+#: includes/admin/admin.php:113 includes/admin/admin.php:284
+msgid "Addons:"
+msgstr "Modules complémentaires :"
+
+#: googleanalytics.php:435
+msgid "Please %1$suninstall%2$s the MonsterInsights Lite Plugin. Your Pro version of MonsterInsights may not work as expected until the Lite version is uninstalled."
+msgstr "Veuillez %1$sdésinstaller%2$s |’extension gratuite MonsterInsights. Votre version Pro de MonsterInsights peut ne pas fonctionner comme prévu tant que la version gratuite n’est pas désinstallée."
+
+#: googleanalytics.php:292 googleanalytics.php:306
+msgid "Cheatin&#8217; huh?"
+msgstr "Alors, on triche ?"
+
+#. Author of the plugin
+#: googleanalytics.php includes/admin/admin.php:43 includes/admin/admin.php:46
+#: includes/admin/admin.php:58 includes/admin/eea-compliance.php:208
+#: includes/admin/wp-site-health.php:35 includes/emails/class-emails.php:255
+#: lite/includes/admin/dashboard-widget.php:99
+#: lite/includes/admin/wp-site-health.php:231
+#: lite/includes/admin/wp-site-health.php:283
+#: lite/includes/admin/wp-site-health.php:310
+#: lite/includes/admin/wp-site-health.php:348
+#: lite/includes/admin/wp-site-health.php:375
+#: lite/includes/admin/wp-site-health.php:405
+#: lite/includes/admin/wp-site-health.php:449
+msgid "MonsterInsights"
+msgstr "MonsterInsights"
+
+#: includes/admin/admin.php:43 includes/admin/admin.php:49
+#: includes/admin/admin.php:61 includes/admin/admin.php:225
+#: includes/admin/admin.php:228 includes/admin/admin.php:269
+msgid "Insights"
+msgstr "MonsterInsights"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:323
+msgid "General"
+msgstr "Général"
+
+#: includes/admin/reports/overview.php:34
+msgid "Overview"
+msgstr "Vue d’ensemble"
+
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-pageviews.php:36
+#: assets/gutenberg/js/editor.js:2715
+msgid "Bounce Rate"
+msgstr "Taux de rebond"
+
+#: includes/admin/admin.php:55 includes/admin/admin.php:273
+msgid "Reports"
+msgstr "Rapports"
+
+#: includes/admin/admin.php:46 includes/admin/admin.php:58
+#: includes/admin/admin.php:376
+msgid "Settings"
+msgstr "Réglages"

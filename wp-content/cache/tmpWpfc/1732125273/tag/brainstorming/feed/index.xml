@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>brainstorming Archivi - MC</title>
+	<atom:link href="https://www.matteocavalli.it/tag/brainstorming/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.matteocavalli.it/tag/brainstorming/</link>
+	<description>Cloud Consultant</description>
+	<lastBuildDate>Tue, 15 Aug 2023 21:06:59 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.5</generator>
+	<item>
+		<title>Team e Time Management</title>
+		<link>https://www.matteocavalli.it/team-e-time-management/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=team-e-time-management</link>
+					<comments>https://www.matteocavalli.it/team-e-time-management/#respond</comments>
+		
+		<dc:creator><![CDATA[Matteo Cavalli]]></dc:creator>
+		<pubDate>Thu, 10 Aug 2023 14:22:00 +0000</pubDate>
+				<category><![CDATA[IT]]></category>
+		<category><![CDATA[Operations]]></category>
+		<category><![CDATA[Team]]></category>
+		<category><![CDATA[alibi]]></category>
+		<category><![CDATA[brainstorming]]></category>
+		<category><![CDATA[indicatori]]></category>
+		<category><![CDATA[it operations]]></category>
+		<category><![CDATA[kpi]]></category>
+		<category><![CDATA[organizzazione]]></category>
+		<category><![CDATA[team]]></category>
+		<category><![CDATA[time management]]></category>
+		<guid isPermaLink="false">https://www.matteocavalli.it/?p=544</guid>
+
+					<description><![CDATA[<p>Mi occupo di consulenza, in ambienti ibridi Microsoft-Linux, da diverso tempo. Ho avuto la grande fortuna di lavorare vicino a persone veramente competenti e trasversali, e ho potuto acquisire un certo approccio direttamente paragonabile per le attività che svolto. Normalmente non mi preoccupo di ciò che il mio referente gestisce</p>
+<p>L'articolo <a href="https://www.matteocavalli.it/team-e-time-management/">Team e Time Management</a> proviene da <a href="https://www.matteocavalli.it">MC</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Mi occupo di consulenza, in ambienti ibridi Microsoft-Linux, da diverso tempo.</p>
+
+
+
+<p>Ho avuto la grande fortuna di lavorare vicino a persone veramente competenti e trasversali, e ho potuto acquisire un certo approccio direttamente paragonabile per le attività che svolto. <br>Normalmente non mi preoccupo di ciò che il mio referente gestisce e mantiene; molte aziende hanno più di una figura all’interno del reparto IT e ciascuna ha un suo set di responsabilità definite, quindi sono totalmente in grado di affrontare ogni aspetto di quello che definiamo <em>IT Operations</em>. </p>
+
+
+
+<p>Quando vengo chiamato è raro poter vedere tutti vis-à-vis, complice anche un po&#8217; lo smart-working, ma rimango sempre dell’idea che andare on-site sia un ottimo modo per rendersi conto di ciò con cui dobbiamo lavorare, specie se passa tanto tempo tra un intervento e l’altro.</p>
+
+
+
+<p>E’ veramente interessante poter vedere che nei team funzionali, esiste un equilibrio professionale che trascende anche la gerarchia; ogni task può essere gestito in forma più o meno collaborativa a seconda della sua tipologia, per poi essere integrato all’interno del micro-processo di cui ci si occupa. </p>
+
+
+
+<p>Nel team che possono portare davvero questo nome, <strong>il baricentro dell’interesse è focalizzato sul traguardo, non sul percorso</strong>.</p>
+
+
+
+<p></p>
+
+
+
+<p>All’interno di un processo, per esempio una <em>Change Request</em>, ci sono sempre delle figure chiave (<em>Key Users</em>) che si occupano di task semplici o complessi:</p>
+
+
+
+<ul>
+<li>Analisi della richiesta fatta</li>
+
+
+
+<li>Approvazione della stessa</li>
+
+
+
+<li>Sviluppo della soluzione</li>
+
+
+
+<li>Test qualitativi e quantitativi</li>
+
+
+
+<li>Messa in produzione della soluzione</li>
+</ul>
+
+
+
+<p>Ho ridotto questi task ai minimi termini, semplificando enormemente; <em>all’interno di ciascun task possono essere coinvolte altre persone, che a loro volta possono coinvolgerne altre</em>. Ciò che è importante è <strong>quanto velocemente l’informazione viaggia dalla base questa piramide rovesciata fino alla sua cima</strong>. Questo è il <strong>primo grande indicatore</strong> di come funziona un processo all’interno dell’ecosistema aziendale.</p>
+
+
+
+<p>Più i tempi sono (ragionevolmente) ridotti, più la comunicazione è efficace, il processo snello e immediato, la soluzione implementabile a stretto giro. L’imprevisto è sempre possibile, ma <strong>una ragionevole scelta consente di poter mitigare un gran numero di difficoltà</strong>.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img fetchpriority="high" decoding="async" src="https://www.matteocavalli.it/wp-content/uploads/2023/08/time-1024x576.png" alt="" class="wp-image-560" style="width:415px;height:233px" width="415" height="233" srcset="https://www.matteocavalli.it/wp-content/uploads/2023/08/time-1024x576.png 1024w, https://www.matteocavalli.it/wp-content/uploads/2023/08/time-300x169.png 300w, https://www.matteocavalli.it/wp-content/uploads/2023/08/time-768x432.png 768w, https://www.matteocavalli.it/wp-content/uploads/2023/08/time-1536x864.png 1536w, https://www.matteocavalli.it/wp-content/uploads/2023/08/time-2048x1152.png 2048w, https://www.matteocavalli.it/wp-content/uploads/2023/08/time-200x113.png 200w, https://www.matteocavalli.it/wp-content/uploads/2023/08/time-400x225.png 400w" sizes="(max-width: 415px) 100vw, 415px" /></figure></div>
+
+
+<p></p>
+
+
+
+<p>Quindi basandoci su un sistema a processo che abbia una ragionevole dimensione (non mettiamo in piedi castelli per comprare dieci matite), il focus di tutto quanto è il Tempo. <strong>Una maggior attenzione alla gestione del tempo, porta vantaggi sul processo, sul reparto, e come ovvia conseguenza sulla persona</strong>; l’ultimo a beneficiare di questo metodo organizzativo, e il primo a sperimentare questo approccio è proprio la singola unità lavorativa, la Persona.</p>
+
+
+
+<p>È indifferente che si tratti di un dipendente, di un socio, o di un collaboratore esterno, dove troviamo organizzazione e comprensione delle attività di processo, non mancheranno gli errori come in tutto il resto, ma saremo sicuramente avvantaggiati dal background di possibilità che ci verrà messo a disposizione. Sia in termini professioni che personali: è raro trovare persone che in pubblico si comportano molto diversamente dal privato.</p>
+
+
+
+<p>Dove il Team funziona, la gestione del tempo è in continuo miglioramento, le richieste vengono elaborate da processi snelli e veloci, e tutto ciò che rimane, sia in termini di tempo sia in termini di sviluppo delle competenze, trova spazio per accrescimento personale e professionale.</p>
+
+
+
+<p>E’ quindi importante focalizzare le attenzioni dei nostri collaboratori dove servono davvero, lasciare perdere ciò che ruba tempo indefinito e che non produce risultati apprezzabili, in primis da noi stessi.</p>
+<p>L'articolo <a href="https://www.matteocavalli.it/team-e-time-management/">Team e Time Management</a> proviene da <a href="https://www.matteocavalli.it">MC</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.matteocavalli.it/team-e-time-management/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

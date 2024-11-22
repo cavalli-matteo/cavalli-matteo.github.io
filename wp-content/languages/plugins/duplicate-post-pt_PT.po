@@ -1,0 +1,361 @@
+# Translation of Plugins - Yoast Duplicate Post - Stable (latest release) in Portuguese (Portugal)
+# This file is distributed under the same license as the Plugins - Yoast Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-07 13:52:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: pt\n"
+"Project-Id-Version: Plugins - Yoast Duplicate Post - Stable (latest release)\n"
+
+#: src/ui/classic-editor.php:252 js/dist/duplicate-post-strings-450.js:1
+msgid "Schedule republish"
+msgstr "Agendar republicação"
+
+#. translators: %s: Date on which the post is to be republished.
+#: src/ui/classic-editor.php:229
+msgid "Republish on: %s"
+msgstr "Republicar em: %s"
+
+#: src/ui/classic-editor.php:201
+msgid "Compare"
+msgstr "Comparar"
+
+#: src/ui/row-actions.php:145
+msgctxt "verb"
+msgid "Rewrite & Republish"
+msgstr "Reescrever e republicar"
+
+#. translators: %s: Post title.
+#: src/ui/row-actions.php:143
+msgid "Rewrite & Republish &#8220;%s&#8221;"
+msgstr "Reescrever e republicar &#8220;%s&#8221;"
+
+#: src/admin/views/options.php:190
+msgid "Show these links"
+msgstr "Mostrar estas ligações"
+
+#: src/admin/options.php:281 src/ui/admin-bar.php:105 src/ui/admin-bar.php:125
+#: src/ui/bulk-actions.php:74 src/ui/classic-editor.php:173
+#: js/dist/duplicate-post-edit-450.js:1
+msgid "Rewrite & Republish"
+msgstr "Reescrever e republicar"
+
+#: src/post-republisher.php:83 src/ui/classic-editor.php:224
+#: js/dist/duplicate-post-strings-450.js:1
+msgid "Republish"
+msgstr "Republicar"
+
+#: src/ui/newsletter.php:58
+msgid "Subscribe"
+msgstr "Subscrever"
+
+#. translators: %s: Post title.
+#: src/ui/row-actions.php:112
+msgid "New draft of &#8220;%s&#8221;"
+msgstr "Novo rascunho de &#8220;%s&#8221;"
+
+#: src/ui/row-actions.php:87
+msgctxt "verb"
+msgid "Clone"
+msgstr "Clonar"
+
+#. Author URI of the plugin
+msgid "https://yoast.com"
+msgstr "https://yoast.com"
+
+#. Author of the plugin
+msgid "Enrico Battocchi & Team Yoast"
+msgstr "Enrico Battocchi e Team Yoast"
+
+#. Plugin URI of the plugin
+msgid "https://yoast.com/wordpress/plugins/duplicate-post/"
+msgstr "https://yoast.com/wordpress/plugins/duplicate-post/"
+
+#. Plugin Name of the plugin
+msgid "Yoast Duplicate Post"
+msgstr "Yoast Duplicate Post"
+
+#. translators: %s: Post title.
+#: src/ui/row-actions.php:85
+msgid "Clone &#8220;%s&#8221;"
+msgstr "Clonar &#8220;%s&#8221;"
+
+#. translators: %s: Original item link (to view or edit) or title.
+#: src/ui/post-states.php:67
+msgid "Original: %s"
+msgstr "Original: %s"
+
+#: src/ui/column.php:68
+msgid "Original item"
+msgstr "Item original"
+
+#: src/admin/options.php:256
+msgid "After the title in the Post list"
+msgstr "Depois do título na lista de conteúdos"
+
+#: src/admin/options.php:249
+msgid "You'll also be able to delete the reference to the original item with a checkbox in Quick Edit"
+msgstr "Também poderá eliminar a referência ao item original com uma caixa de selecção na edição rápida"
+
+#: src/admin/options.php:246
+msgid "In a column in the Post list"
+msgstr "Numa coluna na lista de conteúdos"
+
+#: src/admin/options.php:239
+msgid "You'll also be able to delete the reference to the original item with a checkbox"
+msgstr "Também poderá eliminar a referência ao item original com uma caixa de selecção"
+
+#: src/admin/views/options.php:227
+msgid "Show original item:"
+msgstr "Mostrar item original:"
+
+#: src/admin/views/options.php:20
+msgid "Settings sections"
+msgstr "Secções das opções"
+
+#: duplicate-post.php:98
+msgid "Settings for Duplicate Post"
+msgstr "Opções do Duplicate Post"
+
+#. translators: %s: post title
+#: src/utils.php:144
+msgid "View &#8220;%s&#8221;"
+msgstr "Ver &#8220;%s&#8221;"
+
+#. translators: %s: post title
+#: src/utils.php:134
+msgid "Preview &#8220;%s&#8221;"
+msgstr "Pré-visualizar &#8220;%s&#8221;"
+
+#. translators: %s: post title
+#: src/utils.php:122
+msgid "Edit &#8220;%s&#8221;"
+msgstr "Editar &#8220;%s&#8221;"
+
+#: src/handlers/link-handler.php:58 src/handlers/link-handler.php:114
+#: src/handlers/link-handler.php:188
+msgid "Current user is not allowed to copy posts."
+msgstr "O utilizador actual não tem permissão para copiar conteúdos."
+
+#: src/admin/options.php:165
+msgid "you probably want this unchecked, unless you have very special requirements"
+msgstr "provavelmente não deverá seleccionar esta opção, a não ser que tenha requisitos muito especiais."
+
+#: admin-functions.php:750
+msgid "Documentation"
+msgstr "Documentação"
+
+#: src/admin/options.php:307
+msgid "Bulk Actions"
+msgstr "Acções por lotes"
+
+#: src/admin/options.php:217
+msgid "You can use * to match zero or more alphanumeric characters or underscores: e.g. field*"
+msgstr "Pode usar * para corresponder a caracteres alfanuméricos, underscores, ou nenhum caractere: p.ex. campo*"
+
+#: src/admin/options.php:186
+msgid "Menu order"
+msgstr "Ordem do menu"
+
+#: src/admin/options.php:149
+msgid "Author"
+msgstr "Autor"
+
+#: src/admin/options.php:135
+msgid "Template"
+msgstr "Modelo"
+
+#: src/admin/options.php:128
+msgid "Featured Image"
+msgstr "Imagem de destaque"
+
+#. translators: %s: Number of posts copied.
+#: src/watchers/bulk-actions-watcher.php:55
+#: src/watchers/link-actions-watcher.php:73
+msgid "%s item copied."
+msgid_plural "%s items copied."
+msgstr[0] "%s item copiado."
+msgstr[1] "%s itens copiados."
+
+#: src/admin/views/options.php:174 src/admin/views/options.php:211
+msgid "Whether the links are displayed for custom post types registered by themes or plugins depends on their use of standard WordPress UI elements."
+msgstr "A visibilidade das ligações em tipos de conteúdo personalizados registados por temas ou plugins depende da respectiva utilização de elementos da interface do WordPress."
+
+#: src/admin/views/options.php:172
+msgid "Select the post types you want the plugin to be enabled for."
+msgstr "Seleccione os tipos de conteúdo em que pretende activar o plugin."
+
+#: src/admin/views/options.php:162 src/admin/views/options.php:166
+msgid "Enable for these post types"
+msgstr "Activar para estes tipos de conteúdo"
+
+#: src/admin/views/options.php:155
+msgid "Passwords and contents of password-protected posts may become visible to undesired users and visitors."
+msgstr "Senhas e conteúdo de artigos protegidos por senha podem tornar-se visíveis para os visitantes e utilizadores indesejados."
+
+#: src/admin/views/options.php:127
+msgid "Show/hide private taxonomies"
+msgstr "Mostrar/esconder taxonomias privadas"
+
+#: src/admin/options.php:208
+msgid "Add this number to the original menu order (blank or zero to retain the value)"
+msgstr "Adicionar este número à ordem de menu original (em branco ou zero para reter o valor)"
+
+#: src/admin/options.php:206 src/admin/views/options.php:93
+msgid "Increase menu order by"
+msgstr "Aumentar a ordem de menu em"
+
+#: src/admin/options.php:180
+msgid "except pingbacks and trackbacks"
+msgstr "excepto pingbacks e trackbacks"
+
+#: src/admin/options.php:178
+msgid "Comments"
+msgstr "Comentários"
+
+#: src/admin/options.php:171
+msgid "Children"
+msgstr "Subpáginas"
+
+#: src/admin/options.php:163
+msgid "Attachments"
+msgstr "Anexos"
+
+#: src/admin/options.php:156
+msgid "Password"
+msgstr "Senha"
+
+#: src/admin/options.php:121 src/handlers/check-changes-handler.php:127
+msgid "Content"
+msgstr "Conteúdo"
+
+#: src/admin/options.php:114 src/handlers/check-changes-handler.php:128
+msgid "Excerpt"
+msgstr "Excerto"
+
+#: src/admin/options.php:107
+msgid "Slug"
+msgstr "Slug"
+
+#: src/admin/options.php:100
+msgid "Status"
+msgstr "Estado"
+
+#: src/admin/options.php:93
+msgid "Date"
+msgstr "Data"
+
+#: src/admin/options.php:86 src/handlers/check-changes-handler.php:126
+msgid "Title"
+msgstr "Título"
+
+#: src/admin/views/options.php:58 src/admin/views/options.php:61
+msgid "Post/page elements to copy"
+msgstr "Elementos do artigo/página a copiar"
+
+#: src/admin/views/options.php:46 src/admin/views/options.php:187
+msgid "Display"
+msgstr "Visualização"
+
+#: src/admin/views/options.php:37 src/admin/views/options.php:140
+msgid "Permissions"
+msgstr "Permissões"
+
+#: src/admin/views/options.php:28 src/admin/views/options.php:55
+msgid "What to copy"
+msgstr "O que copiar"
+
+#: admin-functions.php:603
+msgid "Copy features for this post type are not enabled in options page"
+msgstr "Os recursos de cópia para este tipo de conteúdo não estão activos na página de opções"
+
+#: duplicate-post.php:99
+msgid "Settings"
+msgstr "Configurações"
+
+#: src/admin/views/options.php:247
+msgid "Save changes"
+msgstr "Guardar alterações"
+
+#: src/admin/options.php:297
+msgid "Admin bar"
+msgstr "Barra de administração"
+
+#: src/admin/options.php:302
+msgid "Edit screen"
+msgstr "Página de edição"
+
+#: src/admin/options.php:292
+msgid "Post list"
+msgstr "Lista de artigos"
+
+#: src/admin/views/options.php:202
+msgid "Show links in"
+msgstr "Mostrar ligações em"
+
+#: src/admin/views/options.php:144 src/admin/views/options.php:147
+msgid "Roles allowed to copy"
+msgstr "Funções de utilizador com permissões de cópia"
+
+#: src/admin/options.php:201
+msgid "Suffix to be added after the title, e.g. \"(dup)\" (blank for no suffix)"
+msgstr "Sufixo a ser adicionado ao título original, p.e., “(cópia)” (se não quiser sufixo, deixe em branco)"
+
+#: src/admin/options.php:199 src/admin/views/options.php:82
+msgid "Title suffix"
+msgstr "Sufixo do título"
+
+#: src/admin/options.php:194
+msgid "Prefix to be added before the title, e.g. \"Copy of\" (blank for no prefix)"
+msgstr "Prefixo a ser adicionado antes do título original, p.e., “Cópia de\" (se não quiser prefixo, deixe em branco)"
+
+#: src/admin/options.php:192 src/admin/views/options.php:71
+msgid "Title prefix"
+msgstr "Prefixo do título"
+
+#: src/admin/views/options.php:116 src/admin/views/options.php:120
+msgid "Do not copy these taxonomies"
+msgstr "Não copiar estas taxonomias"
+
+#: src/admin/options.php:216
+msgid "Comma-separated list of meta fields that must not be copied."
+msgstr "Lista separada por vírgula de metacampos que não devem ser copiados."
+
+#: src/admin/options.php:213 src/admin/views/options.php:105
+msgid "Do not copy these fields"
+msgstr "Não copiar estes campos"
+
+#: src/admin/options-page.php:77 src/ui/admin-bar.php:89 src/ui/metabox.php:59
+msgid "Duplicate Post"
+msgstr "Duplicate Post"
+
+#: src/admin/options-page.php:76 src/admin/views/options.php:14
+msgid "Duplicate Post Options"
+msgstr "Opções do Duplicate Post"
+
+#: src/handlers/link-handler.php:75 src/handlers/link-handler.php:131
+#: src/handlers/link-handler.php:205
+msgid "Copy creation failed, could not find original:"
+msgstr "Falha ao criar cópia. Impossível encontrar o original:"
+
+#: src/handlers/link-handler.php:63 src/handlers/link-handler.php:119
+#: src/handlers/link-handler.php:193
+msgid "No post to duplicate has been supplied!"
+msgstr "Não foi fornecido nenhum artigo para duplicar!"
+
+#: src/admin/options.php:271 src/ui/row-actions.php:114
+msgid "New Draft"
+msgstr "Novo rascunho"
+
+#: common-functions.php:79 src/ui/admin-bar.php:97 src/ui/admin-bar.php:115
+#: src/ui/classic-editor.php:144 js/dist/duplicate-post-edit-450.js:1
+msgid "Copy to a new draft"
+msgstr "Copiar para rascunho"
+
+#: src/admin/options.php:276 src/ui/bulk-actions.php:69
+msgid "Clone"
+msgstr "Clonar"

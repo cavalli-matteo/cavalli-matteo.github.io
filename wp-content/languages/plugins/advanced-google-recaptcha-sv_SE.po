@@ -1,0 +1,198 @@
+# Translation of Plugins - Advanced Google reCAPTCHA - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Advanced Google reCAPTCHA - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-01-25 14:23:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Advanced Google reCAPTCHA - Stable (latest release)\n"
+
+#: libs/functions.php:266
+msgid "<strong>ERROR</strong>: Inactive account"
+msgstr "<strong>FEL</strong>: Inaktivt konto"
+
+#: libs/setup.php:95
+msgid "WP Captcha plugin <b>requires PHP version 5.6.20</b> or higher to function properly. You are using PHP version %s. Please <a href=\"%s\" target=\"_blank\">update it</a>."
+msgstr "Tillägget WP Captcha <b>kräver PHP version 5.6.20</b> eller högre för att fungera korrekt. Du använder PHP-version %s. <a href=\"%s\" target=\"_blank\">Uppdatera det</a>."
+
+#: libs/setup.php:82
+msgid "WP Captcha plugin <b>requires WordPress version 4.6</b> or higher to function properly. You are using WordPress version %s. Please <a href=\"%s\">update it</a>."
+msgstr "Tilläggsmappen WP Captcha <b>kräver WordPress version 4.6</b> eller högre för att fungera korrekt. Du använder WordPress version %s. <a href=\"%s\">Uppdatera det</a>."
+
+#: libs/functions.php:1182
+msgid "Unknown template ID."
+msgstr "Okänt mall-ID."
+
+#: libs/functions.php:1180
+msgid "Template activated."
+msgstr "Mall aktiverad."
+
+#: libs/functions.php:439
+msgid "Login form protected by"
+msgstr "Inloggningsformulär skyddas av"
+
+#: libs/functions.php:282 libs/functions.php:290 libs/functions.php:295
+#: libs/functions.php:305
+msgid "<strong>ERROR</strong>: reCAPTCHA verification failed.<br /><br />Please try again."
+msgstr "<strong>FEL</strong>: reCAPTCHA-verifiering misslyckades.<br /><br />Försök igen."
+
+#: libs/functions.php:270
+msgid "<strong>ERROR</strong>: Incorrect password. <a href=\"%s\" title=\"Password Lost and Found\">Lost your password</a>?"
+msgstr "<strong>FEL</strong>: Felaktigt lösenord. <a href=\"%s\" title=\"Återställ lösenord\">Glömt ditt lösenord</a>?"
+
+#: libs/functions.php:256
+msgid "<strong>ERROR</strong>: Invalid username. <a href=\"%s\" title=\"Password Lost and Found\">Lost your password</a>?"
+msgstr "<strong>FEL</strong>: Felaktigt användarnamn. <a href=\"%s\" title=\"Återställ lösenord\">Glömt ditt lösenord</a>?"
+
+#: libs/functions.php:250
+msgid "<strong>ERROR</strong>: The password field is empty."
+msgstr "<strong>FEL</strong>: Lösenordsfältet är tomt."
+
+#: libs/functions.php:247
+msgid "<strong>ERROR</strong>: The username field is empty."
+msgstr "<strong>FEL</strong>: Användarnamnsfältet är tomt."
+
+#: libs/ajax.php:109 libs/ajax.php:117 libs/ajax.php:122 libs/ajax.php:130
+msgid "reCAPTCHA verification failed "
+msgstr "reCAPTCHA-verifiering misslyckades "
+
+#: libs/ajax.php:105 libs/functions.php:314 libs/functions.php:318
+msgid "<strong>ERROR</strong>: captcha verification failed.<br /><br />Please try again."
+msgstr "<strong>FEL</strong>: captcha-verifiering misslyckades.<br /><br />Försök igen."
+
+#: libs/ajax.php:81
+msgid "Unknown tool."
+msgstr "Okänt verktyg."
+
+#: libs/admin.php:339
+msgid "PRO"
+msgstr "PRO"
+
+#: libs/admin.php:338
+msgid "Temp Access"
+msgstr "Tillfällig åtkomst"
+
+#: libs/admin.php:337
+msgid "Design"
+msgstr "Design"
+
+#: libs/admin.php:336
+msgid "Country Blocking"
+msgstr "Landsblockering"
+
+#: libs/admin.php:335
+msgid "Firewall"
+msgstr "Brandvägg"
+
+#: libs/admin.php:334
+msgid "Login Protection"
+msgstr "Inloggningsskydd"
+
+#: libs/admin.php:333
+msgid "Activity"
+msgstr "Aktivitet"
+
+#: libs/admin.php:191
+msgid "Support"
+msgstr "Support"
+
+#: libs/admin.php:191
+msgid "Get help"
+msgstr "Skaffa hjälp"
+
+#: libs/admin.php:170
+msgid "Get EXTRA protection"
+msgstr "Skaffa EXTRA skydd"
+
+#: libs/admin.php:56
+msgid "OK"
+msgstr "OK"
+
+#: libs/admin.php:55
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: libs/admin.php:48
+msgid "WP Captcha"
+msgstr "WP Captcha"
+
+#: libs/admin.php:47
+msgid "An error has occurred."
+msgstr "Ett fel har uppstått."
+
+#: libs/admin.php:46
+msgid "An undocumented error has occurred. Please refresh the page and try again."
+msgstr "Ett odokumenterat fel har uppstått. Uppdatera sidan och försök igen."
+
+#: interface/tab_login_form.php:14
+msgid "Tools"
+msgstr "Verktyg"
+
+#: interface/tab_login_form.php:13
+msgid "Advanced"
+msgstr "Avancerad"
+
+#: interface/tab_login_form.php:12
+msgid "Basic"
+msgstr "Grundläggande"
+
+#: interface/tab_firewall.php:15
+msgid "Cloud Protection"
+msgstr "Molnskydd"
+
+#: interface/tab_firewall.php:14
+msgid "2FA"
+msgstr "2FA"
+
+#: interface/tab_firewall.php:13
+msgid "General"
+msgstr "Allmänt"
+
+#: interface/tab_captcha.php:13
+msgid "Where To Show"
+msgstr "Var att visa"
+
+#: interface/tab_captcha.php:12 libs/admin.php:332
+msgid "Captcha"
+msgstr "Captcha"
+
+#: interface/tab_activity.php:13
+msgid "Failed Logins"
+msgstr "Misslyckade inloggningar"
+
+#: advanced-google-recaptcha.php:35
+msgid "Do not open this file directly."
+msgstr "Öppna inte denna fil direkt."
+
+#. Author URI of the plugin
+msgid "https://www.webfactoryltd.com/"
+msgstr "https://www.webfactoryltd.com/"
+
+#. Author of the plugin
+msgid "WebFactory Ltd"
+msgstr "WebFactory Ltd"
+
+#. Plugin URI of the plugin
+msgid "https://getwpcaptcha.com/"
+msgstr "https://getwpcaptcha.com/"
+
+#: libs/functions.php:385 libs/functions.php:405
+msgid "ERROR:"
+msgstr "FEL:"
+
+#: libs/admin.php:535
+msgid "Save Changes"
+msgstr "Spara ändringarna"
+
+#: libs/admin.php:169
+msgid "Settings"
+msgstr "Inställningar"
+
+#. Plugin Name of the plugin
+#: libs/admin.php:152 libs/admin.php:153
+msgid "Advanced Google reCAPTCHA"
+msgstr "Advanced Google reCAPTCHA"

@@ -1,0 +1,1196 @@
+# Translation of Plugins - All-in-One WP Migration and Backup - Stable (latest release) in Greek
+# This file is distributed under the same license as the Plugins - All-in-One WP Migration and Backup - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-08-01 15:16:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - All-in-One WP Migration and Backup - Stable (latest release)\n"
+
+#: lib/view/schedules/index.php:109
+msgid "Leverage the simplicity of Dropbox for your backup needs. Direct your scheduled backups to be stored in Dropbox. It's secure, straightforward, and keeps your backups at your fingertips."
+msgstr "Αξιοποιήστε την απλότητα του Dropbox για τις ανάγκες σας σε αντίγραφα ασφαλείας. Καθορίστε τα προγραμματισμένα αντίγραφα ασφαλείας σας να αποθηκεύονται στο Dropbox. Είναι ασφαλές, απλό και διατηρεί τα αντίγραφα ασφαλείας σας στα χέρια σας."
+
+#: lib/view/schedules/index.php:161
+msgid "Tailor your backup schedules to fit the complexity of your WordPress Multisite. Choose to export the entire network or only a selection of subsites according to your requirements. Effortless management for even the most intricate site networks."
+msgstr "Προσαρμόστε τα χρονοδιαγράμματα δημιουργίας αντιγράφων ασφαλείας ανάλογα με την πολυπλοκότητα του WordPress Multisite σας. Επιλέξτε την εξαγωγή ολόκληρου του δικτύου ή μόνο μιας επιλογής υποσελίδων ανάλογα με τις απαιτήσεις σας. Αβίαστη διαχείριση ακόμη και για τα πιο περίπλοκα δίκτυα ιστότοπων."
+
+#: lib/view/schedules/index.php:148
+msgid "We've got you covered with an array of supported storage providers. Whether you prefer Box, Amazon S3, WebDav or something else, you can choose the one that fits your needs best. Secure your backups exactly where you want them."
+msgstr "Σας καλύπτουμε με μια σειρά υποστηριζόμενων παρόχων αποθήκευσης. Είτε προτιμάτε το Box, το Amazon S3, το WebDav ή κάτι άλλο, μπορείτε να επιλέξετε αυτό που ταιριάζει καλύτερα στις ανάγκες σας. Ασφαλίστε τα αντίγραφά σας ακριβώς εκεί που τα θέλετε."
+
+#: lib/view/schedules/index.php:135
+msgid "Enjoy the flexibility of FTP storage. Direct your scheduled backups to your own FTP server. You'll have full control over your data, providing you with a versatile and private storage solution."
+msgstr "Απολαύστε την ευελιξία της αποθήκευσης FTP. Κατευθύνετε τα προγραμματισμένα αντίγραφα ασφαλείας σας στο δικό σας διακομιστή FTP. Θα έχετε τον πλήρη έλεγχο των δεδομένων σας, παρέχοντάς σας μια ευέλικτη και ιδιωτική λύση αποθήκευσης."
+
+#: lib/view/schedules/index.php:122
+msgid "Harness the power of OneDrive for your backups. Set up your scheduled backups to be saved directly in your OneDrive. It's secure, integrated with your Microsoft account, and keeps your data readily accessible."
+msgstr "Αξιοποιήστε τη δύναμη του OneDrive για τα αντίγραφα ασφαλείας σας. Ρυθμίστε τα προγραμματισμένα αντίγραφα ασφαλείας σας ώστε να αποθηκεύονται απευθείας στο OneDrive. Είναι ασφαλές, ενσωματωμένο με το λογαριασμό σας στη Microsoft και διατηρεί τα δεδομένα σας εύκολα προσβάσιμα."
+
+#: lib/view/schedules/index.php:96
+msgid "Benefit from the robustness of Google Drive. Schedule your backups to be saved directly to your Google Drive account. Simple, secure, and integrated into a platform you already use."
+msgstr "Επωφεληθείτε από την ανθεκτικότητα του Google Drive. Προγραμματίστε την αποθήκευση των αντιγράφων ασφαλείας σας απευθείας στο λογαριασμό σας στο Google Drive. Απλό, ασφαλές και ενσωματωμένο σε μια πλατφόρμα που ήδη χρησιμοποιείτε."
+
+#: lib/view/schedules/index.php:83
+msgid "Manage your storage effectively with our flexible retention settings. Decide how many backups you want to keep at a time. Old backups are automatically cleared, keeping your storage neat and efficient."
+msgstr "Διαχειριστείτε αποτελεσματικά την αποθήκευσή σας με τις ευέλικτες ρυθμίσεις διατήρησης. Αποφασίστε πόσα αντίγραφα ασφαλείας θέλετε να διατηρείτε κάθε φορά. Τα παλιά αντίγραφα ασφαλείας διαγράφονται αυτόματα, διατηρώντας την αποθήκευσή σας τακτοποιημένη και αποτελεσματική."
+
+#: lib/view/schedules/index.php:75 lib/view/schedules/index.php:80
+msgid "Retention settings"
+msgstr "Ρυθμίσεις διατήρησης"
+
+#: lib/view/schedules/index.php:70
+msgid "Stay informed, not overwhelmed. Tailor your notification preferences to get updates that matter to you. Whether it's the status of each backup, or just critical alerts, control what you want to be notified about."
+msgstr "Μείνετε ενημερωμένοι, όχι καταβεβλημένοι. Προσαρμόστε τις προτιμήσεις ειδοποιήσεών σας για να λαμβάνετε τις ενημερώσεις που σας ενδιαφέρουν. Είτε πρόκειται για την κατάσταση κάθε αντιγράφου ασφαλείας, είτε μόνο για κρίσιμες ειδοποιήσεις, ελέγξτε για τι θέλετε να λαμβάνετε ειδοποιήσεις."
+
+#: lib/view/schedules/index.php:62 lib/view/schedules/index.php:67
+msgid "Notification settings"
+msgstr "Ρυθμίσεις ειδοποιήσεων"
+
+#: lib/view/schedules/index.php:57
+msgid "Never worry about forgetting to back up your site again. Choose from various scheduling options, from daily to monthly, and we'll automate the rest. Backups happen like clockwork, giving you peace of mind and a solid safety net"
+msgstr "Μην ανησυχείτε ποτέ ξανά ότι θα ξεχάσετε να δημιουργήσετε αντίγραφα ασφαλείας του ιστότοπού σας. Επιλέξτε από διάφορες επιλογές προγραμματισμού, από καθημερινό έως μηνιαίο, και εμείς θα αυτοματοποιήσουμε τα υπόλοιπα. Τα αντίγραφα ασφαλείας γίνονται σαν ρολόι, δίνοντάς σας ηρεμία και ένα σταθερό δίχτυ ασφαλείας."
+
+#: lib/view/schedules/index.php:54 lib/view/schedules/index.php:67
+#: lib/view/schedules/index.php:80 lib/view/schedules/index.php:93
+#: lib/view/schedules/index.php:106 lib/view/schedules/index.php:119
+#: lib/view/schedules/index.php:132 lib/view/schedules/index.php:145
+#: lib/view/schedules/index.php:158
+msgid "Enable this feature"
+msgstr "Ενεργοποίηση της λειτουργίας"
+
+#: lib/view/schedules/index.php:49
+msgid "Backup scheduler"
+msgstr "Προγραμματιστής αντιγράφων ασφαλείας"
+
+#: lib/view/schedules/index.php:43 lib/view/schedules/index.php:153
+#: lib/view/schedules/index.php:158
+msgid "Multisite Schedules"
+msgstr "Χρονοδιαγράμματα πολλαπλών τοποθεσιών"
+
+#: lib/view/schedules/index.php:42 lib/view/schedules/index.php:140
+#: lib/view/schedules/index.php:145
+msgid "More Storage Providers"
+msgstr "Περισσότεροι πάροχοι αποθήκευσης"
+
+#: lib/view/schedules/index.php:41 lib/view/schedules/index.php:127
+#: lib/view/schedules/index.php:132
+msgid "FTP Storage"
+msgstr "Αποθήκευση FTP"
+
+#: lib/view/schedules/index.php:40 lib/view/schedules/index.php:114
+#: lib/view/schedules/index.php:119
+msgid "OneDrive Storage"
+msgstr "Αποθήκευση OneDrive"
+
+#: lib/view/schedules/index.php:39 lib/view/schedules/index.php:101
+#: lib/view/schedules/index.php:106
+msgid "Dropbox Storage"
+msgstr "Αποθήκευση Dropbox"
+
+#: lib/view/schedules/index.php:38 lib/view/schedules/index.php:88
+#: lib/view/schedules/index.php:93
+msgid "Google Drive Storage"
+msgstr "Αποθήκευση στο Google Drive"
+
+#: lib/view/schedules/index.php:37
+msgid "Retention Settings"
+msgstr "Ρυθμίσεις διατήρησης"
+
+#: lib/view/schedules/index.php:36
+msgid "Notification Settings"
+msgstr "Ρυθμίσεις ειδοποιήσεων"
+
+#: lib/view/schedules/index.php:35 lib/view/schedules/index.php:54
+msgid "Backup Scheduler"
+msgstr "Προγραμματιστής αντιγράφων ασφαλείας"
+
+#: lib/controller/class-ai1wm-main-controller.php:687
+#: lib/controller/class-ai1wm-main-controller.php:688
+msgid "Schedules"
+msgstr "Χρονοδιαγράμματα"
+
+#: lib/controller/class-ai1wm-main-controller.php:956
+msgid "<a href=\"https://servmask.com/products/unlimited-extension\" target=\"_blank\">Get unlimited</a>"
+msgstr "<a href=\"https://servmask.com/products/unlimited-extension\" target=\"_blank\">Πάρτε το απεριόριστο</a>"
+
+#: functions.php:68 functions.php:110
+msgid "Your archive file name contains invalid characters. It cannot contain: < > : \" | ? * \\0. <a href=\"https://help.servmask.com/knowledgebase/invalid-archive-name/\" target=\"_blank\">Technical details</a>"
+msgstr "Το όνομα του αρχείου του αρχείου σας περιέχει μη έγκυρους χαρακτήρες. Δεν μπορεί να περιέχει:< > : \" | ? * \\0. <a href=\"https://help.servmask.com/knowledgebase/invalid-archive-name/\" target=\"_blank\">Τεχνικές λεπτομέρειες</a>"
+
+#: functions.php:43
+msgid "Your storage directory name contains invalid characters. It cannot contain: < > : \" | ? * \\0. <a href=\"https://help.servmask.com/knowledgebase/invalid-storage-name/\" target=\"_blank\">Technical details</a>"
+msgstr "Το όνομα του καταλόγου αποθήκευσης περιέχει μη έγκυρους χαρακτήρες. Δεν μπορεί να περιέχει: < > : \" | ? * \\0. <a href=\"https://help.servmask.com/knowledgebase/invalid-storage-name/\" target=\"_blank\"> Τεχνικές λεπτομέρειες</a>"
+
+#: lib/model/import/class-ai1wm-import-check-encryption.php:59
+msgid "Backup is encrypted. Please provide decryption password: "
+msgstr "Η δημιουργία αντιγράφων ασφαλείας είναι κρυπτογραφημένη. Παρακαλούμε παρέχετε το συνθηματικό αποκρυπτογράφησης:"
+
+#: lib/view/export/advanced-settings.php:63
+msgid "Password-protect and encrypt backups"
+msgstr "Προστασία με κωδικό πρόσβασης και κρυπτογράφηση αντιγράφων ασφαλείας"
+
+#: lib/view/export/advanced-settings.php:50
+msgid "A password is required"
+msgstr "Απαιτείται κωδικός πρόσβασης"
+
+#: lib/view/export/advanced-settings.php:43
+msgid "Protect this backup with a password"
+msgstr "Προστατέψτε αυτό το αντίγραφο ασφαλείας με κωδικό πρόσβασης"
+
+#: lib/model/import/class-ai1wm-import-users.php:64
+msgid "Done preparing users."
+msgstr "Ολοκληρώθηκε η προετοιμασία των χρηστών."
+
+#: lib/model/import/class-ai1wm-import-users.php:38
+msgid "Preparing users..."
+msgstr "Προετοιμασία χρηστών..."
+
+#: lib/model/import/class-ai1wm-import-check-encryption.php:48
+msgid "Importing an encrypted backup is not supported on this server. <a href=\"https://help.servmask.com/knowledgebase/unable-to-encrypt-and-decrypt-backups/\" target=\"_blank\">Technical details</a>"
+msgstr "Η εισαγωγή κρυπτογραφημένου αντιγράφου ασφαλείας δεν υποστηρίζεται σε αυτόν τον διακομιστή. <a href=\"https://help.servmask.com/knowledgebase/unable-to-encrypt-and-decrypt-backups/\" target=\"_blank\">Τεχνικές λεπτομέρειες</a>"
+
+#: lib/model/import/class-ai1wm-import-check-decryption-password.php:59
+msgid "The decryption password is not valid."
+msgstr "Ο κωδικός αποκρυπτογράφησης δεν είναι έγκυρος."
+
+#: lib/model/import/class-ai1wm-import-check-decryption-password.php:52
+msgid "Done validating the decryption password."
+msgstr "Ολοκληρώθηκε η επικύρωση του κωδικού πρόσβασης αποκρυπτογράφησης."
+
+#: lib/controller/class-ai1wm-main-controller.php:945
+#: lib/controller/class-ai1wm-main-controller.php:1144
+#: lib/view/export/advanced-settings.php:55
+msgid "The passwords do not match"
+msgstr "Οι κωδικοί δεν ταιριάζουν"
+
+#: lib/controller/class-ai1wm-main-controller.php:944
+#: lib/controller/class-ai1wm-main-controller.php:1143
+#: lib/view/export/advanced-settings.php:53
+msgid "Repeat the password"
+msgstr "Επαναλάβετε τον κωδικό πρόσβασης"
+
+#: lib/controller/class-ai1wm-main-controller.php:942
+#: lib/controller/class-ai1wm-main-controller.php:1141
+msgid "Submit"
+msgstr "Υποβολή"
+
+#: lib/controller/class-ai1wm-main-controller.php:941
+#: lib/controller/class-ai1wm-main-controller.php:1140
+msgid "Please enter a password to import the file"
+msgstr "Εισαγάγετε έναν κωδικό πρόσβασης για να εισαγάγετε το αρχείο"
+
+#: lib/controller/class-ai1wm-main-controller.php:940
+#: lib/controller/class-ai1wm-main-controller.php:1139
+msgid "The backup is encrypted"
+msgstr "Το αντίγραφο ασφαλείας είναι κρυπτογραφημένο"
+
+#: lib/controller/class-ai1wm-main-controller.php:925
+msgid "Unable to check decryption password. Refresh the page and try again"
+msgstr "Δεν είναι δυνατός ο έλεγχος του κωδικού πρόσβασης αποκρυπτογράφησης. Ανανεώστε τη σελίδα και δοκιμάστε ξανά"
+
+#: functions.php:2116
+msgid "Unable to decrypt data."
+msgstr "Δεν είναι δυνατή η αποκρυπτογράφηση δεδομένων."
+
+#: functions.php:2094
+msgid "Unable to obtain cipher length."
+msgstr "Δεν είναι δυνατή η λήψη μήκους κρυπτογράφησης."
+
+#: functions.php:2079
+msgid "Unable to encrypt data."
+msgstr "Δεν είναι δυνατή η κρυπτογράφηση δεδομένων."
+
+#: functions.php:2074
+msgid "Unable to generate random bytes."
+msgstr "Δεν είναι δυνατή η δημιουργία τυχαίων bytes."
+
+#: lib/view/backups/backups-list.php:129
+msgid "List"
+msgstr "Λίστα"
+
+#: lib/view/backups/backups-list.php:127
+msgid "Show backup content"
+msgstr "Εμφάνιση περιεχομένου αντιγράφου ασφαλείας"
+
+#: lib/view/backups/backups-list.php:120
+msgid "Downloading is not possible because backups directory is not accessible."
+msgstr "Η λήψη δεν είναι δυνατή καθώς δεν είναι προσβάσιμος ο κατάλογος των αντιγράφων ασφαλείας."
+
+#: lib/controller/class-ai1wm-main-controller.php:1138
+msgid "Reading..."
+msgstr "Πραγματοποιείται ανάγνωση..."
+
+#: lib/controller/class-ai1wm-main-controller.php:1137
+msgid "List the content of the backup"
+msgstr "Εμφάνιση του περιεχομένου του αντιγράφου ασφαλείας"
+
+#: lib/controller/class-ai1wm-main-controller.php:820
+#: lib/controller/class-ai1wm-main-controller.php:1136
+msgid "Error while downloading file"
+msgstr "Σφάλμα κατά το κατέβασμα αρχείου"
+
+#: lib/controller/class-ai1wm-main-controller.php:1135
+msgid "Error while reading backup content"
+msgstr "Σφάλμα κατά την ανάγνωση του περιεχομένου του αντιγράφου ασφαλείας"
+
+#: lib/controller/class-ai1wm-main-controller.php:1134
+msgid "Error"
+msgstr "Σφάλμα"
+
+#: lib/controller/class-ai1wm-backups-controller.php:185
+msgid "Unable to list backup content"
+msgstr "Αδυναμία εμφάνισης του περιεχομένου του αντιγράφου ασφαλείας"
+
+#: lib/view/backups/backups-list.php:93
+msgid "More"
+msgstr "Περισσότερα"
+
+#: lib/controller/class-ai1wm-main-controller.php:819
+#: lib/controller/class-ai1wm-main-controller.php:1133
+msgid "You have %d backups"
+msgstr "Έχετε %d αντίγραφο ασφαλείας"
+
+#: lib/controller/class-ai1wm-main-controller.php:818
+#: lib/controller/class-ai1wm-main-controller.php:1132
+#: lib/view/main/backups.php:31
+msgid "You have %d backup"
+msgid_plural "You have %d backups"
+msgstr[0] "Έχετε %d αντίγραφο ασφαλείας"
+msgstr[1] "Έχετε %d αντίγραφα ασφαλείας"
+
+#: lib/view/updater/error.php:31
+msgid "Error: %s"
+msgstr "Σφάλμα: %s"
+
+#: lib/model/export/class-ai1wm-export-themes.php:80
+#: lib/model/export/class-ai1wm-export-themes.php:119
+msgid "Archiving %d theme files...<br />%d%% complete"
+msgstr "Αρχειοθέτηση %d αρχείων θέματος εμφάνισης ... <br />ολοκληρώθηκε %d%% "
+
+#: lib/model/export/class-ai1wm-export-enumerate-themes.php:106
+msgid "Done retrieving a list of WordPress theme files."
+msgstr "Ολοκληρώθηκε η ανάκτηση μιας λίστας αρχείων θέματος εμφάνισης WordPress."
+
+#: lib/model/export/class-ai1wm-export-enumerate-themes.php:51
+msgid "Retrieving a list of WordPress theme files..."
+msgstr "Λήψη λίστας αρχείων θέματος εμφάνισης WordPress...."
+
+#: lib/model/import/class-ai1wm-import-options.php:34
+msgid "Preparing options..."
+msgstr "Πραγματοποιείται προετοιμασία επιλογών..."
+
+#: lib/model/export/class-ai1wm-export-enumerate-plugins.php:100
+msgid "Done retrieving a list of WordPress plugin files."
+msgstr "Ολοκληρώθηκε η ανάκτηση λίστας αρχείων προσθέτων του WordPress."
+
+#: lib/model/export/class-ai1wm-export-enumerate-plugins.php:51
+msgid "Retrieving a list of WordPress plugin files..."
+msgstr "Πραγματοποιείται ανάκτηση λίστας αρχείων προσθέτων του WordPress..."
+
+#: lib/view/main/contact-support.php:31
+msgid "Contact Support"
+msgstr "Επικοινωνήστε με την υποστήριξη"
+
+#: lib/model/import/class-ai1wm-import-validate.php:48
+msgid "The file type that you have tried to import is not compatible with this plugin. Please ensure that your file is a <strong>.wpress</strong> file that was created with the All-in-One WP migration plugin. <a href=\"https://help.servmask.com/knowledgebase/invalid-backup-file/\" target=\"_blank\">Technical details</a>"
+msgstr "Ο τύπος αρχείου που προσπαθήσατε να εισαγάγετε δεν είναι συμβατός με αυτό το πρόσθετο . Βεβαιωθείτε πως το αρχείο σας είναι ένα αρχείο <strong>.wpress</strong>που δημιουργήθηκε με το πρόσθετο μετεγκατάστασης All-in-One WP. <a href=\"https://help.servmask.com/knowledgebase/invalid-backup-file/\" target=\"_blank\">Τεχνικές λεπτομέρειες</a>"
+
+#: lib/controller/class-ai1wm-export-controller.php:79
+msgid "Unable to export. Error code: %s. %s"
+msgstr "Δεν είναι δυνατή η εξαγωγή . Κωδικός σφάλματος: %s. %s"
+
+#: lib/model/import/class-ai1wm-import-permalinks.php:42
+msgid "Done getting WordPress permalinks settings."
+msgstr "Έγινε ανάκτηση των ρυθμίσεων των μόνιμων συνδέσμων του WordPress."
+
+#: lib/model/import/class-ai1wm-import-permalinks.php:36
+msgid "Getting WordPress permalinks settings..."
+msgstr "Ανάκτηση των ρυθμίσεων των μόνιμων συνδέσμων του WordPress..."
+
+#: lib/view/import/avada.php:41
+msgid "» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">Optionally, review the plugin</a>. (opens a new window)"
+msgstr "» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">Προαιρετικά, αξιολογήστε το πρόσθετο</a>. (ανοίγει σε νέο παράθυρο)"
+
+#: lib/view/import/avada.php:40
+msgid "» <a class=\"ai1wm-no-underline\" href=\"https://theme-fusion.com/documentation/avada/installation-maintenance/important-update-information/#clear-caches\" target=\"_blank\">Reset Avada Fusion Builder cache</a>. (opens a new window)<br />"
+msgstr "» <a class=\"ai1wm-no-underline\" href=\"https://theme-fusion.com/documentation/avada/installation-maintenance/important-update-information/#clear-caches\" target=\"_blank\">Επαναφορά της cache του Avada Fusion Builder</a>. (ανοίγει σε νέο παράθυρο)<br />"
+
+#: lib/view/import/avada.php:37
+msgid "» <a class=\"ai1wm-no-underline\" href=\"https://oxygenbuilder.com/documentation/other/importing-exporting/#resigning\" target=\"_blank\">Re-sign Oxygen Builder shortcodes</a>. (opens a new window)<br />"
+msgstr "» <a class=\"ai1wm-no-underline\" href=\"https://oxygenbuilder.com/documentation/other/importing-exporting/#resigning\" target=\"_blank\">Εκ νέου υπογραφή των shortcodes του Oxygen Builder</a>. (ανοίγει σε νέο παράθυρο)<br />"
+
+#: lib/view/import/avada.php:31
+msgid "» Permalinks are set to default. <a class=\"ai1wm-no-underline\" href=\"https://help.servmask.com/knowledgebase/permalinks-are-set-to-default/\" target=\"_blank\">Why?</a> (opens a new window)<br />"
+msgstr "» Οι μόνιμοι σύνδεσμοι έχουν οριστεί στις προεπιλογές. <a class=\"ai1wm-no-underline\" href=\"https://help.servmask.com/knowledgebase/permalinks-are-set-to-default/\" target=\"_blank\">Γιατί;</a> (ανοίγει σε νέο παράθυρο)<br />"
+
+#: lib/view/import/avada.php:33
+msgid "» <a class=\"ai1wm-no-underline\" href=\"%s\" target=\"_blank\">Save permalinks structure</a>. (opens a new window)<br />"
+msgstr "» <a class=\"ai1wm-no-underline\" href=\"%s\" target=\"_blank\">Αποθήκευση της δομής των μόνιμων συνδέσμων</a>. (ανοίγει σε νέο παράθυρο)<br />"
+
+#: lib/model/export/class-ai1wm-export-enumerate-tables.php:78
+msgid "Done retrieving a list of WordPress database tables."
+msgstr "Έγινε ανάκτηση μιας λίστας πινάκων βάσης δεδομένων του WordPress."
+
+#: lib/model/export/class-ai1wm-export-enumerate-tables.php:46
+msgid "Retrieving a list of WordPress database tables..."
+msgstr "Ανάκτηση μιας λίστας πινάκων βάσης δεδομένων του WordPress..."
+
+#: lib/view/main/translate.php:31
+msgid "Translate"
+msgstr "Μεταφράζω"
+
+#: lib/view/import/done.php:31
+msgid "» Permalinks are set to default. <a class=\"ai1wm-no-underline\" href=\"https://help.servmask.com/knowledgebase/permalinks-are-set-to-default/\" target=\"_blank\">Why?</a> (opens a new window)<br />» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">Optionally, review the plugin</a>. (opens a new window)"
+msgstr "» Οι μόνιμοι σύνδεσμοι έχουν οριστεί στις προεπιλογές. <a class=\"ai1wm-no-underline\" href=\"https://help.servmask.com/knowledgebase/permalinks-are-set-to-default/\" target=\"_blank\">Γιατί;</a> (ανοίγει σε νέο παράθυρο)<br />» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">Προαιρετικά, αξιολογήστε το πρόσθετο</a>. (ανοίγει σε νέο παράθυρο)"
+
+#: lib/view/import/oxygen.php:31
+msgid "» Permalinks are set to default. <a class=\"ai1wm-no-underline\" href=\"https://help.servmask.com/knowledgebase/permalinks-are-set-to-default/\" target=\"_blank\">Why?</a> (opens a new window)<br />» <a class=\"ai1wm-no-underline\" href=\"https://oxygenbuilder.com/documentation/other/importing-exporting/#resigning\" target=\"_blank\">Re-sign Oxygen Builder shortcodes</a>. (opens a new window)<br />» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">Optionally, review the plugin</a>. (opens a new window)"
+msgstr "» Οι μόνιμοι σύνδεσμοι έχουν οριστεί στις προεπιλογές. <a class=\"ai1wm-no-underline\" href=\"https://help.servmask.com/knowledgebase/permalinks-are-set-to-default/\" target=\"_blank\">Γιατί;</a> (ανοίγει σε νέο παράθυρο)<br />» <a class=\"ai1wm-no-underline\" href=\"https://oxygenbuilder.com/documentation/other/importing-exporting/#resigning\" target=\"_blank\">Εκ νέου υπογραφή των shortcodes του Oxygen Builder</a>. (ανοίγει σε νέο παράθυρο)<br />» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">Προαιρετικά, αξιολογήστε το πρόσθετο</a>. (ανοίγει σε νέο παράθυρο)"
+
+#: lib/view/import/oxygen.php:39
+msgid "» <a class=\"ai1wm-no-underline\" href=\"%s\" target=\"_blank\">Save permalinks structure</a>. (opens a new window)<br />» <a class=\"ai1wm-no-underline\" href=\"https://oxygenbuilder.com/documentation/other/importing-exporting/#resigning\" target=\"_blank\">Re-sign Oxygen Builder shortcodes</a>. (opens a new window)<br />» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">Optionally, review the plugin</a>. (opens a new window)"
+msgstr "» <a class=\"ai1wm-no-underline\" href=\"%s\" target=\"_blank\">Αποθήκευση της δομής των μόνιμων συνδέσμων</a>. (ανοίγει σε νέο παράθυρο)<br />» <a class=\"ai1wm-no-underline\" href=\"https://oxygenbuilder.com/documentation/other/importing-exporting/#resigning\" target=\"_blank\">Εκ νέου υπογραφή των shortcodes του Oxygen Builder</a>. (ανοίγει σε νέο παράθυρο)<br />» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">Προαιρετικά, αξιολογήστε το πρόσθετο</a>. (ανοίγει σε νέο παράθυρο)"
+
+#: lib/model/export/class-ai1wm-export-media.php:80
+#: lib/model/export/class-ai1wm-export-media.php:119
+msgid "Archiving %d media files...<br />%d%% complete"
+msgstr "Αρχειοθέτηση %d αρχείων πολυμέσων...<br />%d%% ολοκληρώθηκε"
+
+#: lib/model/export/class-ai1wm-export-content.php:80
+#: lib/model/export/class-ai1wm-export-content.php:119
+msgid "Archiving %d content files...<br />%d%% complete"
+msgstr "Αρχειοθέτηση αρχείων περιεχομένου %d...<br />%d%% ολοκληρώθηκε"
+
+#: lib/model/export/class-ai1wm-export-enumerate-content.php:111
+msgid "Done retrieving a list of WordPress content files."
+msgstr "Έγινε η ανάκτηση μιας λίστας αρχείων περιεχομένου WordPress."
+
+#: lib/model/export/class-ai1wm-export-enumerate-content.php:51
+msgid "Retrieving a list of WordPress content files..."
+msgstr "Ανάκτηση μιας λίστας αρχείων περιεχομένου WordPress..."
+
+#: lib/model/export/class-ai1wm-export-enumerate-media.php:93
+msgid "Done retrieving a list of WordPress media files."
+msgstr "Έγινε η ανάκτηση μιας λίστας αρχείων πολυμέσων WordPress."
+
+#: lib/model/export/class-ai1wm-export-enumerate-media.php:51
+msgid "Retrieving a list of WordPress media files..."
+msgstr "Ανάκτηση μιας λίστας αρχείων πολυμέσων WordPress..."
+
+#: lib/controller/class-ai1wm-main-controller.php:976
+#: lib/controller/class-ai1wm-main-controller.php:1127
+msgid "There is not enough space available on the disk.<br />Free up %s of disk space."
+msgstr "Δεν υπάρχει αρκετός χώρος στο δίσκο. <br /> Ελευθερώστε %s χωρητικότητας."
+
+#: lib/controller/class-ai1wm-main-controller.php:933
+#: lib/controller/class-ai1wm-main-controller.php:1117
+msgid "I have enough disk space"
+msgstr "Έχω αρκετό χώρο στο δίσκο"
+
+#: lib/model/import/class-ai1wm-import-options.php:73
+msgid "Done preparing options."
+msgstr "Η προετοιμασία επιλογών ολοκληρώθηκε."
+
+#: lib/model/class-ai1wm-compatibility.php:50
+msgid "%s is not the latest version. You must update the plugin before you can use it. "
+msgstr "Η %s δεν είναι η τελευταία έκδοση. Θα πρέπει να ενημερώσετε το πρόσθετο πριν το χρησιμοποιήσετε. "
+
+#: lib/model/import/class-ai1wm-import-confirm.php:83
+msgid "Your backup is from a PHP %s but the site that you are importing to is PHP %s. This could cause the import to fail. Technical details: https://help.servmask.com/knowledgebase/migrate-wordpress-from-php-5-to-php-7/"
+msgstr "Το αντίγραφο ασφαλείας σας είναι από PHP 5 αλλά ο ιστότοπος που προσπαθείτε να εισάγετε είναι σε PHP 7. Αυτό μπορεί να προκαλέσει αποτυχία εισαγωγής. Τεχνικές λεπτομέρειες: https://help.servmask.com/knowledgebase/migrate-wordpress-from-php-5-to-php-7/"
+
+#: lib/view/backups/backups-list.php:46 lib/view/backups/index.php:49
+msgid "Refreshing backup list..."
+msgstr "Ανανέωση λίστας αντιγράφων ασφαλείας..."
+
+#: lib/view/import/import-permissions.php:34
+msgid "<h3>Site could not be imported</h3><p>Please make sure that storage directory <strong>%s</strong> has read and write permissions.</p><p><a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technical details</a></p>"
+msgstr "<h3>Ο ιστότοπος δεν μπορούσε να εισαχθεί</h3><p>Παρακαλούμε σιγουρευτείτε πως ο κατάλογος αποθήκευσης <strong>%s</strong> έχει δικαιώματα ανάγνωσης και εγγραφής.</p><p><a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Τεχνικές λεπτομέρειες</a></p>"
+
+#: lib/view/export/export-permissions.php:34
+msgid "<h3>Site could not be exported</h3><p>Please make sure that storage directory <strong>%s</strong> has read and write permissions.</p><p><a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technical details</a></p>"
+msgstr "<h3>Ο ιστότοπος δεν μπορούσε να εξαχθεί</h3><p>Παρακαλούμε σιγουρευτείτε πως ο κατάλογος αποθήκευσης <strong>%s</strong> έχει δικαιώματα ανάγνωσης και εγγραφής.</p><p><a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Τεχνικές λεπτομέρειες</a></p>"
+
+#: lib/view/backups/backups-permissions.php:34
+msgid "<h3>Site could not be restored</h3><p>Please make sure that storage directory <strong>%s</strong> has read and write permissions.</p><p><a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technical details</a></p>"
+msgstr "<h3>Ο ιστότοπος δεν μπόρεσε να επαναφερθεί</h3><p>Παρακαλούμε σιγουρευτείτε πως ο κατάλογος αποθήκευσης <strong>%s</strong> έχει δικαιώματα ανάγνωσης και εγγραφής.</p><p><a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Τεχνικές λεπτομέρειες</a></p>"
+
+#: lib/view/main/missing-role-capability-notice.php:34
+msgid "All-in-One WP Migration: Your current profile role does not have Export/Import capabilities enabled. <a href=\"https://help.servmask.com/knowledgebase/how-to-add-import-and-export-capabilities-to-wordpress-users/\" target=\"_blank\">Technical details</a>"
+msgstr "All-in-One WP Migration: Ο τρέχων ρόλος του προφίλ σας δεν έχει ενεργοποιημένες δυνατότητες Εξαγωγής/Εισαγωγής. <a href=\"https://help.servmask.com/knowledgebase/how-to-add-import-and-export-capabilities-to-wordpress-users/\" target=\"_blank\">Τεχνικές λεπτομέρειες</a>"
+
+#: lib/view/import/button-file.php:31
+msgid "To choose a file please go inside the link and click on the browse button."
+msgstr "Για να επιλέξετε ένα αρχείο παρακαλούμε πηγαίνετε μέσα στον σύνδεσμο και κάντε κλικ στο κουμπί περιήγηση."
+
+#: lib/view/import/done.php:38
+msgid "» <a class=\"ai1wm-no-underline\" href=\"%s\" target=\"_blank\">Save permalinks structure</a>. (opens a new window)<br />» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">Optionally, review the plugin</a>. (opens a new window)"
+msgstr "» <a class=\"ai1wm-no-underline\" href=\"%s\" target=\"_blank\">Αποθήκευση δομής μόνιμων συνδέσμων</a>. (ανοίγει σε νέο παράθυρο)<br />» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">Προαιρετικά, αξιολογήστε αυτό το πρόσθετο</a>. (ανοίγει σε νέο παράθυρο)"
+
+#: lib/controller/class-ai1wm-main-controller.php:1126
+msgid "\"Restore\" functionality is available in a <a href=\"https://servmask.com/products/unlimited-extension\" target=\"_blank\">paid extension</a>.<br />You could also download the backup and then use \"Import from file\"."
+msgstr "Η λειτουργία «Επαναφορά» είναι διαθέσιμη σε μια <a href=\"https://servmask.com/products/unlimited-extension\" target=\"_blank\">επέκταση επί πληρωμή</a>.<br />Θα μπορούσατε επίσης να κάνετε λήψη του αντιγράφου ασφαλείας και στη συνέχεια να χρησιμοποιήσετε το «Εισαγωγή από αρχείο»."
+
+#: lib/controller/class-ai1wm-main-controller.php:930
+#: lib/controller/class-ai1wm-main-controller.php:1113
+msgid "Finish"
+msgstr "Τέλος"
+
+#: lib/view/backups/backups-list.php:64
+msgid "Click to set a label for this backup"
+msgstr "Κάντε κλικ για να ορίσετε μια ετικέτα για αυτό το αντίγραφο ασφαλείας"
+
+#: lib/model/export/class-ai1wm-export-download.php:65
+msgid "<a href=\"%s\" class=\"ai1wm-button-green ai1wm-emphasize ai1wm-button-download\" title=\"%s\" download=\"%s\"><span>Download %s</span><em>Size: %s</em></a>"
+msgstr "<a href=\"%s\" class=\"ai1wm-button-green ai1wm-emphasize ai1wm-button-download\" title=\"%s\" download=\"%s\"><span>Λήψη %s </span><em> Μέγεθος: %s </em></a>"
+
+#: lib/controller/class-ai1wm-export-controller.php:89
+msgid "Unable to export: %s"
+msgstr "Δεν είναι δυνατή η εξαγωγή: %s"
+
+#: lib/controller/class-ai1wm-import-controller.php:100
+msgid "Unable to import: %s"
+msgstr "Δεν είναι δυνατή η εισαγωγή: %s"
+
+#: lib/controller/class-ai1wm-import-controller.php:79
+#: lib/controller/class-ai1wm-import-controller.php:89
+msgid "Unable to import. Error code: %s. %s"
+msgstr "Δεν είναι δυνατή η εισαγωγή. Κωδικός σφάλματος: %s. %s"
+
+#: lib/model/import/class-ai1wm-import-confirm.php:48
+msgid "The import process will overwrite your website including the database, media, plugins, and themes. Are you sure to proceed?"
+msgstr "Η διαδικασία εισαγωγής θα αντικαταστήσει τον ιστότοπό σας, συμπεριλαμβανομένης της βάσης δεδομένων, των μέσων ενημέρωσης, των πρόσθετων και των θεμάτων. Είσαι σίγουροι ότι θα προχωρήσετε;"
+
+#: lib/model/import/class-ai1wm-import-validate.php:115
+msgid "Please make sure that your file was exported using <strong>All-in-One WP Migration</strong> plugin. <a href=\"https://help.servmask.com/knowledgebase/invalid-backup-file/\" target=\"_blank\">Technical details</a>"
+msgstr "Βεβαιωθείτε ότι το αρχείο σας έχει εξαχθεί χρησιμοποιώντας το πρόσθετο <strong>All-in-One WP Migration</strong>. <a href=\"https://help.servmask.com/knowledgebase/invalid-backup-file/\" target=\"_blank\">Τεχνικές λεπτομέρειες</a>"
+
+#: lib/model/import/class-ai1wm-import-validate.php:92
+msgid "The archive file is corrupted. Follow <a href=\"https://help.servmask.com/knowledgebase/corrupted-archive/\" target=\"_blank\">this article</a> to resolve the problem."
+msgstr "Το αρχείο αρχειοθέτησης είναι κατεστραμμένο. Ακολουθήστε την <a href=\"https://help.servmask.com/knowledgebase/corrupted-archive/\" target=\"_blank\"> αυτό το άρθρο </a> για να επιλύσετε το πρόβλημα."
+
+#: lib/model/import/class-ai1wm-import-validate.php:37
+msgid "Your PHP is 32-bit. In order to import your file, please change your PHP version to 64-bit and try again. <a href=\"https://help.servmask.com/knowledgebase/php-32bit/\" target=\"_blank\">Technical details</a>"
+msgstr "Η PHP σας είναι 32-bit. Για να εισαγάγετε το αρχείο σας, αλλάξτε την έκδοση PHP σε 64-bit και προσπαθήστε ξανά. <a href=\"https://help.servmask.com/knowledgebase/php-32bit/\" target=\"_blank\">Τεχνικές λεπτομέρειες </a>"
+
+#: lib/model/import/class-ai1wm-import-confirm.php:89
+msgid "<i class=\"ai1wm-import-info\">Your backup is from a PHP %s but the site that you are importing to is PHP %s. This could cause the import to fail. <a href=\"https://help.servmask.com/knowledgebase/migrate-wordpress-from-php-5-to-php-7/\" target=\"_blank\">Technical details</a></i>"
+msgstr "<i class=\"ai1wm-import-info\">Το αντίγραφο ασφαλείας σας είναι από ένα PHP 5, αλλά η τοποθεσία που εισάγετε είναι PHP 7. Αυτό μπορεί να προκαλέσει την αποτυχία της εισαγωγής. <a href=\"https://help.servmask.com/knowledgebase/migrate-wordpress-from-php-5-to-php-7/\" target=\"_blank\">Τεχνικές λεπτομέρειες </a> </i>"
+
+#: lib/model/import/class-ai1wm-import-confirm.php:54
+msgid "The import process will overwrite your website including the database, media, plugins, and themes. Please ensure that you have a backup of your data before proceeding to the next step."
+msgstr "Η διαδικασία εισαγωγής θα αντικαταστήσει τον ιστότοπό σας, συμπεριλαμβανομένης της βάσης δεδομένων, των αρχείων, των πρόσθετων και των θεμάτων. Βεβαιωθείτε ότι έχετε δημιουργήσει αντίγραφο ασφαλείας των δεδομένων σας προτού προχωρήσετε στο επόμενο βήμα."
+
+#: lib/model/class-ai1wm-compatibility.php:52
+msgid "<strong>%s</strong> is not the latest version. You must <a href=\"%s\">update the plugin</a> before you can use it. <br />"
+msgstr "Το <strong> %s </strong> δεν είναι η πιο πρόσφατη έκδοση. Πρέπει να <a href=\"%s\"> ενημερώσετε το πρόσθετο</a> για να μπορέσετε να το χρησιμοποιήσετε.<br />"
+
+#: lib/controller/class-ai1wm-main-controller.php:968
+msgid "The file that you are trying to import is over the maximum upload file size limit of <strong>%s</strong>.<br />You can remove this restriction by purchasing our <a href=\"https://servmask.com/products/unlimited-extension\" target=\"_blank\">Unlimited Extension</a>."
+msgstr "Το αρχείο που προσπαθείτε να εισαγάγετε είναι πάνω από το μέγιστο όριο μεγέθους αρχείου μεταφόρτωσης του <strong>%s </strong>. <br />Μπορείτε να καταργήσετε αυτόν τον περιορισμό αγοράζοντας το <a href=\"https://servmask.com/products/unlimited-extension\" target=\"_blank\">Unlimited Extension</a>."
+
+#: lib/controller/class-ai1wm-main-controller.php:961
+#: lib/model/import/class-ai1wm-import-upload.php:55
+msgid "The file type that you have tried to upload is not compatible with this plugin. Please ensure that your file is a <strong>.wpress</strong> file that was created with the All-in-One WP migration plugin. <a href=\"https://help.servmask.com/knowledgebase/invalid-backup-file/\" target=\"_blank\">Technical details</a>"
+msgstr "Ο τύπος αρχείου που προσπαθήσατε να ανεβάσετε δεν είναι συμβατός με αυτό το πρόσθετο. Βεβαιωθείτε ότι το αρχείο σας είναι ένα <strong>.wpress </strong> αρχείο που δημιουργήθηκε με το πρόσθετο All-in-One WP Migration. <a href=\"https://help.servmask.com/knowledgebase/invalid-backup-file/\" target=\"_blank\">Τεχνικές λεπτομέρειες </a>"
+
+#: lib/view/main/multisite-notice.php:34
+msgid "WordPress Multisite is supported via our All-in-One WP Migration Multisite Extension. You can get a copy of it here"
+msgstr "Το WordPress Multisite υποστηρίζεται μέσω του All-in-One WP Migration Multisite Extension. Μπορείτε να πάρετε ένα αντίγραφο του από εδώ"
+
+#: lib/view/main/backups-htaccess-notice.php:35
+#: lib/view/main/backups-index-html-notice.php:35
+#: lib/view/main/backups-index-php-notice.php:35
+#: lib/view/main/backups-robots-txt-notice.php:35
+#: lib/view/main/backups-webconfig-notice.php:35
+#: lib/view/main/storage-index-html-notice.php:35
+#: lib/view/main/storage-index-php-notice.php:35
+#: lib/view/main/wordpress-htaccess-notice.php:35
+msgid "All-in-One WP Migration is not able to create <strong>%s</strong> file. Try to change permissions of the parent folder or send us an email at <a href=\"mailto:support@servmask.com\">support@servmask.com</a> for assistance."
+msgstr "Το All-in-One WP WP Migration δεν μπορεί να δημιουργήσει αρχείο <strong>%s </strong>. Προσπαθήστε να αλλάξετε τα δικαιώματα του γονικού φακέλου ή στείλτε μας ένα μήνυμα ηλεκτρονικού ταχυδρομείου στη διεύθυνση <a href=\"mailto:support@servmask.com\">support@servmask.com</a> για βοήθεια."
+
+#: lib/view/main/backups-path-notice.php:35
+#: lib/view/main/storage-path-notice.php:35
+msgid "All-in-One WP Migration is not able to create <strong>%s</strong> folder. You will need to create this folder and grant it read/write/execute permissions (0777) for the All-in-One WP Migration plugin to function properly."
+msgstr "Το All-in-One WP Migration δεν μπορεί να δημιουργήσει το φάκελο <strong>%s</strong>. Θα χρειαστεί να δημιουργήσετε αυτόν το φάκελο και να του παραχωρήσετε δικαιώματα ανάγνωσης/εγγραφής/εκτέλεσης (0777) ώστε το All-in-One WP Migration να λειτουργήσει σωστά."
+
+#: lib/view/import/pro.php:36
+msgid "or"
+msgstr "ή"
+
+#: lib/view/import/pro.php:35
+msgid "How-to: Increase maximum upload file size"
+msgstr "Πώς γίνεται: Αύξηση του μέγιστου μεγέθους αρχείου"
+
+#: lib/view/import/pro.php:32
+msgid "Maximum upload file size: <strong>%s</strong>."
+msgstr "Μέγιστο μέγεθος αρχείου μεταφόρτωσης: <strong>%s </strong>."
+
+#: lib/model/import/class-ai1wm-import-upload.php:79
+msgid "The file is too large for this server."
+msgstr "Το αρχείο είναι πολύ μεγάλο για αυτόν τον διακομιστή."
+
+#: lib/controller/class-ai1wm-main-controller.php:952
+msgid "<a href=\"https://help.servmask.com/2018/10/27/how-to-increase-maximum-upload-file-size-in-wordpress/\" target=\"_blank\">How-to: Increase maximum upload file size</a> or "
+msgstr "<a href=\"https://help.servmask.com/2018/10/27/how-to-increase-maximum-upload-file-size-in-wordpress/\" target=\"_blank\">Πώς να Αυξήσετε το μέγιστο μέγεθος αρχείου μεταφόρτωσης </a> ή "
+
+#: lib/controller/class-ai1wm-main-controller.php:947
+msgid "Your file exceeds the maximum upload size for this site: <strong>%s</strong><br />%s%s"
+msgstr "Το αρχείο σας υπερβαίνει το μέγιστο μέγεθος μεταφόρτωσης για αυτό τον ιστότοπο: <strong>%s</strong><br />%s%s"
+
+#: lib/view/import/import-buttons.php:39
+msgid "Drag & Drop a backup to import it"
+msgstr "Σύρετε και αποθέστε ένα αντίγραφο ασφαλείας για να το εισαγάγετε"
+
+#: lib/model/export/class-ai1wm-export-database.php:77
+#: lib/model/export/class-ai1wm-export-database.php:185
+msgid "Exporting database...<br />%d%% complete<br />%s records saved"
+msgstr "Εξαγωγή βάσης δεδομένων... <br />%d%% ολοκληρώθηκε <br />%s εγγραφές αποθηκεύτηκαν"
+
+#: lib/controller/class-ai1wm-main-controller.php:1125
+msgid "Restoring a backup is available via Unlimited extension. <a href=\"https://servmask.com/products/unlimited-extension\" target=\"_blank\">Get it here</a>"
+msgstr "Η επαναφορά ενός αντιγράφου ασφαλείας είναι διαθέσιμη μέσω του Unlimited extension. <a href=\"https://servmask.com/products/unlimited-extension\" target=\"_blank\">Αποκτήστε το εδώ</a>"
+
+#: lib/controller/class-ai1wm-main-controller.php:275
+msgid "All-in-One WP Migration Command"
+msgstr "Εντολή All-in-One WP Migration"
+
+#: lib/controller/class-ai1wm-main-controller.php:806
+#: lib/controller/class-ai1wm-main-controller.php:1097
+#: lib/model/export/class-ai1wm-export-init.php:43
+msgid "Preparing to export..."
+msgstr "Προετοιμασία για εξαγωγή..."
+
+#: lib/view/backups/backups-list.php:82
+msgid "%s ago"
+msgstr "πριν από %s"
+
+#: lib/controller/class-ai1wm-main-controller.php:1264
+msgid "Your purchase ID is invalid, please <a href=\"mailto:support@servmask.com\">contact us</a>"
+msgstr "Η απόδειξη αγοράς σας δεν είναι έγκυρη, παρακαλώ <a href=\"mailto:support@servmask.com\">επικοινωνήστε μαζί μας</a>"
+
+#: lib/controller/class-ai1wm-main-controller.php:1124
+msgid "Are you sure you want to delete this file?"
+msgstr "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτό το αρχείο;"
+
+#: lib/controller/class-ai1wm-main-controller.php:935
+#: lib/controller/class-ai1wm-main-controller.php:1119
+msgid "Please do not close this browser window or your import will fail"
+msgstr "Παρακαλώ μην κλείσετε το παράθυρο γιατί η εισαγωγή θα αποτύχει"
+
+#: lib/controller/class-ai1wm-main-controller.php:934
+#: lib/controller/class-ai1wm-main-controller.php:1118
+msgid "Continue"
+msgstr "Συνέχισε"
+
+#: lib/controller/class-ai1wm-main-controller.php:932
+#: lib/controller/class-ai1wm-main-controller.php:1116
+msgid "Proceed"
+msgstr "Προχώρα"
+
+#: lib/controller/class-ai1wm-main-controller.php:931
+#: lib/controller/class-ai1wm-main-controller.php:1115
+msgid "Stop import"
+msgstr "Διακοπή εισαγωγής"
+
+#: lib/controller/class-ai1wm-main-controller.php:928
+#: lib/controller/class-ai1wm-main-controller.php:1112
+msgid "Please wait, stopping the import..."
+msgstr "Παρακαλώ, περιμένετε, σταματήστε την εισαγωγή..."
+
+#: lib/controller/class-ai1wm-main-controller.php:927
+#: lib/controller/class-ai1wm-main-controller.php:1111
+msgid "Unable to stop the import. Refresh the page and try again"
+msgstr "Δεν ειναι δυνατή η διακοπή της εισαγωγής. Ανανεώστε την σελίδα και δοκιμάστε ξανά"
+
+#: lib/controller/class-ai1wm-main-controller.php:926
+#: lib/controller/class-ai1wm-main-controller.php:1110
+msgid "Unable to prepare blogs on import. Refresh the page and try again"
+msgstr "Δεν είναι δυνατή η προετοιμασία ιστολογίων για εισαγωγή. Ανανεώστε τη σελίδα και δοκιμάστε ξανά"
+
+#: lib/controller/class-ai1wm-main-controller.php:924
+#: lib/controller/class-ai1wm-main-controller.php:1109
+msgid "Unable to confirm the import. Refresh the page and try again"
+msgstr "Δεν είναι δυνατή η επιβεβαίωση της εισαγωγής. Ανανεώστε τη σελίδα και δοκιμάστε ξανά"
+
+#: lib/controller/class-ai1wm-main-controller.php:923
+#: lib/controller/class-ai1wm-main-controller.php:1108
+msgid "Unable to start the import. Refresh the page and try again"
+msgstr "Δεν μπόρεσε να ξεκινήσει η εισαγωγή. Ανανεώστε την σελίδα και δοκιμάστε ξανά"
+
+#: lib/controller/class-ai1wm-main-controller.php:920
+#: lib/controller/class-ai1wm-main-controller.php:1105
+msgid "You are about to stop importing your website, are you sure?"
+msgstr "Πρόκειται να σταματήσετε την εισαγωγή του ιστοτόπου σας, είστε βέβαιοι;"
+
+#: lib/controller/class-ai1wm-main-controller.php:733
+#: lib/controller/class-ai1wm-main-controller.php:817
+#: lib/controller/class-ai1wm-main-controller.php:939
+#: lib/controller/class-ai1wm-main-controller.php:1123
+msgid "Thanks for submitting your request!"
+msgstr "Ευχαριστούμε που υποβάλατε το αίτημά σας!"
+
+#: lib/controller/class-ai1wm-main-controller.php:732
+#: lib/controller/class-ai1wm-main-controller.php:816
+#: lib/controller/class-ai1wm-main-controller.php:938
+#: lib/controller/class-ai1wm-main-controller.php:1122
+msgid "Thanks for submitting your feedback!"
+msgstr "Ευχαριστούμε για την υποβολή των σχολίων σας!"
+
+#: lib/controller/class-ai1wm-main-controller.php:731
+#: lib/controller/class-ai1wm-main-controller.php:815
+#: lib/controller/class-ai1wm-main-controller.php:937
+#: lib/controller/class-ai1wm-main-controller.php:1121
+msgid "How may we help you?"
+msgstr "Πως μπορούμε να σας βοήθησουμε;"
+
+#: lib/controller/class-ai1wm-main-controller.php:730
+#: lib/controller/class-ai1wm-main-controller.php:814
+#: lib/controller/class-ai1wm-main-controller.php:936
+#: lib/controller/class-ai1wm-main-controller.php:1120
+msgid "Leave plugin developers any feedback here"
+msgstr "Πείτε την γνώμη σας στους δημιουργούς του plugin εδώ"
+
+#: lib/controller/class-ai1wm-main-controller.php:813
+#: lib/controller/class-ai1wm-main-controller.php:1104
+msgid "Stop export"
+msgstr "Σταμάτησε την εξαγωγή"
+
+#: lib/controller/class-ai1wm-main-controller.php:812
+#: lib/controller/class-ai1wm-main-controller.php:929
+#: lib/controller/class-ai1wm-main-controller.php:1103
+#: lib/controller/class-ai1wm-main-controller.php:1114
+msgid "Close"
+msgstr "Κλείσε"
+
+#: lib/controller/class-ai1wm-main-controller.php:811
+#: lib/controller/class-ai1wm-main-controller.php:1102
+msgid "Please wait, stopping the export..."
+msgstr "Παρακαλώ περιμένετε καθώς σταματάει η εξαγωγή..."
+
+#: lib/controller/class-ai1wm-main-controller.php:810
+#: lib/controller/class-ai1wm-main-controller.php:1101
+msgid "Unable to stop the export. Refresh the page and try again"
+msgstr "Δεν είναι δυνατή η διακοπή της εξαγωγής. Ανανεώστε τη σελίδα και δοκιμάστε ξανά"
+
+#: lib/controller/class-ai1wm-main-controller.php:809
+#: lib/controller/class-ai1wm-main-controller.php:1100
+msgid "Unable to run the export. Refresh the page and try again"
+msgstr "Δεν είναι δυνατή η εκτέλεση της εξαγωγής. Ανανεώστε τη σελίδα και δοκιμάστε ξανά"
+
+#: lib/controller/class-ai1wm-main-controller.php:808
+#: lib/controller/class-ai1wm-main-controller.php:1099
+msgid "Unable to start the export. Refresh the page and try again"
+msgstr "Δεν είναι δυνατή η εκκίνηση της εξαγωγής. Ανανεώστε τη σελίδα και δοκιμάστε ξανά"
+
+#: lib/controller/class-ai1wm-main-controller.php:805
+#: lib/controller/class-ai1wm-main-controller.php:1096
+msgid "You are about to stop exporting your website, are you sure?"
+msgstr "Πρόκειται να σταματήσετε την εξαγωγή της σελίδας σας, είστε σίγουροι;"
+
+#: functions.php:1695
+msgid "Unable to authenticate the secret key. <a href=\"https://help.servmask.com/knowledgebase/invalid-secret-key/\" target=\"_blank\">Technical details</a>"
+msgstr "Δεν είναι δυνατή η εξακρίβωση της ταυτότητας του μυστικού κλειδιού. <a href=\"https://help.servmask.com/knowledgebase/invalid-secret-key/\" target=\"_blank\">Τεχνικές λεπτομέρειες</a>"
+
+#: functions.php:1561
+msgid "Unable to get current pointer position of %s. <a href=\"https://help.servmask.com/knowledgebase/php-32bit/\" target=\"_blank\">Technical details</a>"
+msgstr "Δεν είναι δυνατή η λήψη της τρέχουσας θέσης δείκτη του %s. <a href=\"https://help.servmask.com/knowledgebase/php-32bit/\" target=\"_blank\">Τεχνικές λεπτομέρειες</a>"
+
+#: functions.php:1544
+msgid "Unable to seek to offset %d on %s. <a href=\"https://help.servmask.com/knowledgebase/php-32bit/\" target=\"_blank\">Technical details</a>"
+msgstr "Δεν είναι δυνατή η αντιστάθμιση %d στο %s. <a href=\"https://help.servmask.com/knowledgebase/php-32bit/\" target=\"_blank\">Τεχνικές λεπτομέρειες</a>"
+
+#: functions.php:1522
+msgid "Unable to read file: %s. <a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technical details</a>"
+msgstr "Δεν είναι δυνατή η ανάγνωση αρχείου: %s. <a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Τεχνικές λεπτομέρειες</a>"
+
+#: functions.php:1502
+msgid "Out of disk space. Unable to write to: %s. <a href=\"https://help.servmask.com/knowledgebase/out-of-disk-space/\" target=\"_blank\">Technical details</a>"
+msgstr "Ο δίσκος είναι γεμάτος. Αδειάστε μέρος: %s. <a href=\"https://help.servmask.com/knowledgebase/out-of-disk-space/\" target=\"_blank\">Τεχνικές λεπτομέρειες</a>"
+
+#: functions.php:1496 functions.php:1580
+msgid "Unable to write to: %s. <a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technical details</a>"
+msgstr "Δεν είναι δυνατή η εγγραφή σε: %s. <a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Τεχνικές λεπτομέρειες </a>"
+
+#: functions.php:1477
+msgid "Unable to open %s with mode %s. <a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technical details</a>"
+msgstr "Αδυναμία ανοίγματος %s with mode %s. <a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Τεχνικές λεπτομέρειες</a>"
+
+#: functions.php:63 functions.php:105
+msgid "Unable to locate archive path. <a href=\"https://help.servmask.com/knowledgebase/invalid-archive-path/\" target=\"_blank\">Technical details</a>"
+msgstr "Δεν είναι δυνατή η εύρεση διαδρομής αρχειοθέτησης. <a href=\"https://help.servmask.com/knowledgebase/invalid-archive-path/\" target=\"_blank\">Τεχνικές λεπτομέρειες</a>"
+
+#: functions.php:38
+msgid "Unable to locate storage path. <a href=\"https://help.servmask.com/knowledgebase/invalid-storage-path/\" target=\"_blank\">Technical details</a>"
+msgstr "Δεν είναι δυνατή η εύρεση της διαδρομής αποθήκευσης. <a href=\"https://help.servmask.com/knowledgebase/invalid-storage-path/\" target=\"_blank\">Τεχνικές λεπτομέρειες</a>"
+
+#: lib/view/common/leave-feedback.php:59
+msgid "I agree that by filling in the contact form with my data, I authorize All-in-One WP Migration to use my <strong>email</strong> to reply to my requests for information. <a href=\"https://www.iubenda.com/privacy-policy/946881\" target=\"_blank\">Privacy policy</a>"
+msgstr "Συμφωνώ ότι συμπληρώνοντας τη φόρμα επικοινωνίας με τα δεδομένα μου, εξουσιοδοτώ το πρόσθετο All-in-One WP Migration να χρησιμοποιήσει το <strong>email</strong> μου για να απαντάει στις αιτήσεις μου για πληροφορίες. <a href=\"https://www.iubenda.com/privacy-policy/946881\" target=\"_blank\">Πολιτική απορρήτου</a>"
+
+#: lib/model/export/class-ai1wm-export-config.php:180
+msgid "Done preparing configuration file."
+msgstr "Η προετοιμασία του αρχείου ρυθμίσεων είναι έτοιμη."
+
+#: lib/model/export/class-ai1wm-export-config.php:36
+msgid "Preparing configuration file..."
+msgstr "Προετοιμασία αρχείου ρυθμίσεων ..."
+
+#: lib/model/export/class-ai1wm-export-config-file.php:73
+msgid "Done archiving configuration file."
+msgstr "Έγινε αρχειοθέτηση του αρχείου ρυθμίσεων."
+
+#: lib/model/export/class-ai1wm-export-config-file.php:61
+#: lib/model/export/class-ai1wm-export-config-file.php:96
+msgid "Archiving configuration file...<br />%d%% complete"
+msgstr "Η αρχειοθέτηση του αρχείου ρυθμίσεων...<br />%d%% ολοκληρώθηκε"
+
+#: lib/view/backups/backups-list.php:88
+msgid "2GB+"
+msgstr "2GB+"
+
+#: lib/model/import/class-ai1wm-import-validate.php:119
+msgid "Done unpacking archive."
+msgstr "Έγινε αποσυσκευασία του αρχείου."
+
+#: lib/model/import/class-ai1wm-import-validate.php:82
+#: lib/model/import/class-ai1wm-import-validate.php:139
+msgid "Unpacking archive...<br />%d%% complete"
+msgstr "Η αποσυμπίεση του αρχείου...<br />%d%% ολοκληρώθηκε"
+
+#: lib/model/export/class-ai1wm-export-database-file.php:78
+msgid "Done archiving database."
+msgstr "Η βάση δεδομένων αρχειοθετήθηκε."
+
+#: lib/model/export/class-ai1wm-export-database-file.php:66
+#: lib/model/export/class-ai1wm-export-database-file.php:101
+msgid "Archiving database...<br />%d%% complete"
+msgstr "Η αρχειοθέτηση της βάσης δεδομένων...<br />%d%% ολοκληρώθηκε"
+
+#: lib/model/import/class-ai1wm-import-database.php:78
+#: lib/model/import/class-ai1wm-import-database.php:1005
+msgid "Restoring database...<br />%d%% complete"
+msgstr "Επαναφορά της βάσης δεδομένων...<br />%d%% ολοκληρώθηκε"
+
+#: lib/model/export/class-ai1wm-export-compatibility.php:35
+#: lib/model/import/class-ai1wm-import-compatibility.php:36
+msgid "Checking extensions compatibility..."
+msgstr "Έλεγχος συμβατότητας πρόσθετων..."
+
+#: lib/model/import/class-ai1wm-import-database.php:985
+msgid "Done restoring database."
+msgstr "Ολοκληρώθηκε η αποκατάσταση της βάσης δεδομένων."
+
+#: lib/controller/class-ai1wm-main-controller.php:921
+#: lib/controller/class-ai1wm-main-controller.php:1106
+msgid "Preparing to import..."
+msgstr "Προετοιμασία για εισαγωγή..."
+
+#: lib/controller/class-ai1wm-main-controller.php:1374
+msgid "Monthly"
+msgstr "Μηνιαία"
+
+#: lib/controller/class-ai1wm-main-controller.php:1370
+msgid "Weekly"
+msgstr "Εβδομαδιαία"
+
+#: lib/view/export/advanced-settings.php:97
+msgid "Do <strong>not</strong> export must-use plugins (files)"
+msgstr "Παρακαλώ <strong>μην</strong> εξάγετε τα must-use plugins (αρχεία)"
+
+#: lib/model/import/class-ai1wm-import-mu-plugins.php:63
+msgid "Done activating mu-plugins."
+msgstr "Ενεργοποιήθηκαν τα mu-plugins."
+
+#: lib/model/import/class-ai1wm-import-mu-plugins.php:35
+msgid "Activating mu-plugins..."
+msgstr "Ενεργοποίηση mu-plugins..."
+
+#: lib/view/export/advanced-settings.php:121
+msgid "Do <strong>not</strong> replace email domain (sql)"
+msgstr "<strong>Μην</strong> αντικαταστήσετε το email domain (sql)"
+
+#: lib/model/import/class-ai1wm-import-upload.php:91
+msgid "Unrecognized error %s during upload."
+msgstr "Μη αναγνωρισμένο σφάλμα %s κατά την μεταφόρτωση."
+
+#: lib/model/import/class-ai1wm-import-upload.php:88
+msgid "A PHP extension stopped the file upload."
+msgstr "Μια PHP επέκταση σταμάτησε το ανέβασμα του αρχείου."
+
+#: lib/model/import/class-ai1wm-import-upload.php:85
+msgid "Failed to write file to disk."
+msgstr "Απέτυχε η εγγραφή του αρχείου στον δίσκο."
+
+#: lib/model/import/class-ai1wm-import-upload.php:82
+msgid "Missing a temporary folder."
+msgstr "Λείπει ένας προσωρινός φάκελος."
+
+#: lib/model/import/class-ai1wm-import-upload.php:70
+msgid "Unable to upload the file because %s"
+msgstr "Δεν είναι δυνατή η μεταφόρτωση του αρχείου επειδή %s"
+
+#: lib/model/import/class-ai1wm-import-upload.php:42
+msgid "Missing tmp_name in upload file."
+msgstr "Λείπει το tmp_name στο αρχείο μεταφόρτωσης."
+
+#: lib/model/import/class-ai1wm-import-upload.php:38
+msgid "Missing error key in upload file."
+msgstr "Λείπει το κλειδί σφάλματος στο αρχείο μεταφόρτωσης."
+
+#: lib/model/import/class-ai1wm-import-upload.php:34
+msgid "Missing upload file."
+msgstr "Λείπει το αρχείο μεταφόρτωσης."
+
+#: lib/model/import/class-ai1wm-import-blogs.php:150
+msgid "Done preparing blogs."
+msgstr "Η προετοιμασία των blogs ολοκληρώθηκε."
+
+#: lib/model/import/class-ai1wm-import-blogs.php:140
+msgid "Unable to import <strong>WordPress Network</strong> into WordPress <strong>Single</strong> site."
+msgstr "Αδυναμία εισαγωγής του <strong>WordPress Network</strong> στο WordPress <strong>Single</strong> σαιτ."
+
+#: lib/model/import/class-ai1wm-import-blogs.php:137
+msgid "At least <strong>one WordPress</strong> site should be presented in the archive."
+msgstr "Τουλάχιστον <strong>ένα WordPress</strong> σαιτ πρέπει να υπάρχει στο αρχείο."
+
+#: lib/model/import/class-ai1wm-import-blogs.php:134
+msgid "The archive should contain <strong>Single WordPress</strong> site! Please revisit your export settings."
+msgstr "Το αρχείο πρέπει να περιέχει <strong>Single WordPress</strong> σαιτ! Παρακαλώ, αναθεωρήστε τις ρυθμίσεις εξαγωγής."
+
+#: lib/model/import/class-ai1wm-import-blogs.php:35
+msgid "Preparing blogs..."
+msgstr "Προετοιμασία blogs."
+
+#: lib/model/class-ai1wm-feedback.php:78
+msgid "Something went wrong: %s"
+msgstr "Κάτι πήγε στραβά: %s"
+
+#: lib/model/class-ai1wm-feedback.php:61
+msgid "Please accept feedback term conditions."
+msgstr "Παρακαλώ αποδεχτείτε τους όρους χρήσης σχολίων."
+
+#: lib/model/class-ai1wm-feedback.php:56
+msgid "Please enter comments in the text area."
+msgstr "Παρακαλώ, εισάγετε σχόλια στην περιοχή κειμένου."
+
+#: lib/model/class-ai1wm-feedback.php:46
+msgid "Your email is not valid."
+msgstr "Το email σας δεν είναι έγκυρο."
+
+#: lib/model/class-ai1wm-feedback.php:51
+msgid "Feedback type is not valid."
+msgstr "Ο τύπος του feedback δεν είναι έγκυρος."
+
+#: lib/view/updater/modal.php:55
+msgid "There is an update available. To update, you must enter your"
+msgstr "Υπάρχει διαθέσημο email. Για να γίνει η αναβάθμηση πρέπει να εισάγετε"
+
+#: lib/view/updater/modal.php:48
+msgid "Discard"
+msgstr "Απόρριψη"
+
+#: lib/view/updater/modal.php:46
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: lib/view/updater/modal.php:42
+msgid "here"
+msgstr "εδώ"
+
+#: lib/view/updater/modal.php:41
+msgid "Don't have a Purchase ID? You can find your Purchase ID"
+msgstr "Δεν έχετε αριθμό αγοράς; Μπορείτε να βρείτε τον αριθμό αγοράς σας"
+
+#: lib/view/updater/modal.php:37 lib/view/updater/modal.php:56
+msgid "Purchase ID"
+msgstr "Αριθμός αγοράς"
+
+#: lib/view/updater/modal.php:34
+msgid "To update your plugin/extension to the latest version, please fill your Purchase ID below."
+msgstr "Για να ενημερώσετε το plugin/extension στην τελευταία έκδοση, συμπληρώστε την παρακάτω απόδειξη αγοράς."
+
+#: lib/view/updater/modal.php:33
+msgid "Enter your Purchase ID"
+msgstr "Εισάγετε το ID αγοράς"
+
+#: lib/controller/class-ai1wm-main-controller.php:1263
+#: lib/view/updater/check.php:31
+msgid "Check for updates"
+msgstr "Ελεγχος για ενημερώσεις"
+
+#. Author of the plugin
+#: all-in-one-wp-migration.php
+msgid "ServMask"
+msgstr "ServMask"
+
+#. Description of the plugin
+#: all-in-one-wp-migration.php
+msgid "Migration tool for all your blog data. Import or Export your blog content with a single click."
+msgstr "Εργαλείο μετεγκατάστασης για όλα τα δεδομένα του ιστολογίου σας. Εισαγωγή ή Εξαγωγή του περιεχομένου του ιστολογίου με ένα μόνο κλικ."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: all-in-one-wp-migration.php
+msgid "https://servmask.com/"
+msgstr "https://servmask.com/"
+
+#. Plugin Name of the plugin
+#: all-in-one-wp-migration.php
+msgid "All-in-One WP Migration"
+msgstr "All-in-One WP Migration"
+
+#: lib/view/import/index.php:37
+msgid "Import Site"
+msgstr "Εισαγωγή ιστοσελίδας"
+
+#: lib/view/import/pro.php:39
+msgid "Get unlimited"
+msgstr "Πάρτε απεριόριστη χρήση"
+
+#: lib/view/import/import-buttons.php:43
+msgid "Import From"
+msgstr "Εισαγωγή από"
+
+#: lib/view/export/index.php:37
+msgid "Export Site"
+msgstr "Εξαγωγή ιστοσελίδας"
+
+#: lib/view/export/help-section.php:51
+msgid "Once the file is successfully downloaded on your computer, you can import it to any of your WordPress sites."
+msgstr "Μόλις το αρχείο κατέβει με επιτυχία στον υπολογιστή σας, μπορείτε να το εισαγάγετε σε οποιονδήποτε από τους ιστότοπους του WordPress."
+
+#: lib/view/export/help-section.php:47
+msgid "Press \"Export\" button and the site archive file will pop up in your browser."
+msgstr "Πατήστε το κουμπί \"Εξαγωγή\" και το αρχείο αρχειοθέτησης του ιστοτόπου θα εμφανιστεί στο πρόγραμμα περιήγησής σας."
+
+#: lib/view/export/help-section.php:43
+msgid "In the advanced settings section you can configure more precisely the way of exporting."
+msgstr "Στην ενότητα Σύνθετες ρυθμίσεις μπορείτε να ρυθμίσετε με μεγαλύτερη ακρίβεια τον τρόπο εξαγωγής."
+
+#: lib/view/export/help-section.php:37
+msgid "Quick hints"
+msgstr "Γρήγορες συμβουλές"
+
+#: lib/view/export/help-section.php:33
+msgid "You can then use the import functionality provided by this plugin to import the zipped file onto any other WordPress sites that you have administrator access to."
+msgstr "Στη συνέχεια, μπορείτε να χρησιμοποιήσετε τη λειτουργικότητα εισαγωγής που παρέχεται από αυτό το πρόσθετο για να εισαγάγετε το συμπιεσμένο αρχείο σε οποιαδήποτε άλλο ιστότοπο WordPress που έχετε πρόσβαση διαχειριστή."
+
+#: lib/view/export/help-section.php:32
+msgid "This screen allows you to export database, media files, themes and plugins as one zipped file."
+msgstr "Αυτή η οθόνη σας επιτρέπει να εξάγετε βάση δεδομένων, αρχεία πολυμέσων, θέματα και πρόσθετα ως ένα συμπιεσμένο αρχείο."
+
+#: lib/view/export/find-replace.php:52
+msgid "Add"
+msgstr "Προσθήκη"
+
+#: lib/view/export/find-replace.php:39
+msgid "in the database"
+msgstr "στην βάση δεδομένων"
+
+#: lib/view/export/find-replace.php:38
+msgid "<another-text>"
+msgstr "<another-text>"
+
+#: lib/view/export/find-replace.php:37 lib/view/export/find-replace.php:45
+msgid "Replace with"
+msgstr "Αντικατάσταση με"
+
+#: lib/view/export/find-replace.php:36
+msgid "<text>"
+msgstr "κείμενο"
+
+#: lib/view/export/find-replace.php:35 lib/view/export/find-replace.php:44
+msgid "Find"
+msgstr "Βρες"
+
+#: lib/view/export/export-buttons.php:35
+msgid "Export To"
+msgstr "Εξαγωγή"
+
+#: lib/view/export/button-file.php:31 lib/view/import/button-file.php:32
+msgid "File"
+msgstr "Αρχείο"
+
+#: lib/view/export/advanced-settings.php:115
+msgid "Do <strong>not</strong> export database (sql)"
+msgstr "<strong>Δεν</strong> έγινε εξαγωγή της βάσης δεδομένων (sql)."
+
+#: lib/view/export/advanced-settings.php:104
+msgid "Do <strong>not</strong> export plugins (files)"
+msgstr "<strong>Δεν</strong> έγινε εξαγωγή των plugins (αρχεία)"
+
+#: lib/view/export/advanced-settings.php:88
+msgid "Do <strong>not</strong> export themes (files)"
+msgstr "<strong>Μην</strong> εξάγεις θέματα (αρχεία)"
+
+#: lib/view/export/advanced-settings.php:82
+msgid "Do <strong>not</strong> export media library (files)"
+msgstr "<strong>Μην</strong> εξάγεις τα πολυμέσα (αρχεία)"
+
+#: lib/view/export/advanced-settings.php:76
+msgid "Do <strong>not</strong> export post revisions"
+msgstr "<strong>Μην</strong> εξάγεις αναθεωρήσεις άρθρων"
+
+#: lib/view/export/advanced-settings.php:70
+msgid "Do <strong>not</strong> export spam comments"
+msgstr "<strong>Μην</strong> εξάγεις ανεπιθύμητα σχόλια"
+
+#: lib/view/export/advanced-settings.php:36
+msgid "(click to expand)"
+msgstr "(κάντε κλικ για επέκταση)"
+
+#: lib/view/export/advanced-settings.php:35
+msgid "Advanced options"
+msgstr "Προχωρημένες επιλογές"
+
+#: lib/view/common/share-buttons.php:63
+msgid "Tweet"
+msgstr "Tweet"
+
+#: lib/view/common/leave-feedback.php:64
+msgid "Cancel"
+msgstr "Άκυρο"
+
+#: lib/view/common/leave-feedback.php:67
+msgid "Send"
+msgstr "Αποστολή"
+
+#: lib/view/common/leave-feedback.php:54
+msgid "Leave plugin developers any feedback here.."
+msgstr "Επικοινωνία με τους δημιουργούς του plugin εδώ.."
+
+#: lib/view/common/leave-feedback.php:51
+msgid "Enter your email address.."
+msgstr "Εισάγετε την διεύθυνση του email σας.."
+
+#: lib/view/common/leave-feedback.php:44
+msgid "I need help with this plugin"
+msgstr "Χρειάζομαι βοήθεια με αυτό το πρόσθετο"
+
+#: lib/view/common/leave-feedback.php:37
+msgid "I have ideas to improve this plugin"
+msgstr "Έχω ιδέες για την βελτιστοποίηση του plugin"
+
+#: lib/controller/class-ai1wm-main-controller.php:943
+#: lib/controller/class-ai1wm-main-controller.php:1142
+#: lib/view/export/advanced-settings.php:48
+msgid "Enter a password"
+msgstr "Εισάγετε εναν κωδικό"
+
+#: lib/view/common/sidebar-right.php:39
+msgid "Leave Feedback"
+msgstr "Αφήστε σχόλια"
+
+#: lib/view/backups/index.php:57
+msgid "Create backup"
+msgstr "Δημιουργία αντιγράφου ασφαλείας"
+
+#: lib/view/backups/index.php:52
+msgid "There are no backups available at this time, why not create a new one?"
+msgstr "Δεν υπάρχουν διαθέσιμα αντίγραφα ασφαλείας αυτήν τη στιγμή, γιατί να μην δημιουργήσετε ένα καινούριο;"
+
+#: lib/view/backups/backups-list.php:134 lib/view/backups/backups-list.php:136
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: lib/view/backups/backups-list.php:99 lib/view/backups/backups-list.php:101
+msgid "Restore"
+msgstr "Επαναφορά"
+
+#: lib/view/backups/backups-list.php:107 lib/view/backups/backups-list.php:109
+#: lib/view/backups/backups-list.php:112 lib/view/backups/backups-list.php:114
+#: lib/view/backups/backups-list.php:122
+msgid "Download"
+msgstr "Λήψη"
+
+#: lib/view/backups/backups-list.php:38
+msgid "Size"
+msgstr "Μέγεθος"
+
+#: lib/view/backups/backups-list.php:37
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: lib/view/backups/backups-list.php:36
+msgid "Name"
+msgstr "Όνομα"
+
+#: lib/model/import/class-ai1wm-import-done.php:363
+#: lib/model/import/class-ai1wm-import-done.php:365
+#: lib/model/import/class-ai1wm-import-done.php:367
+msgid "Your site has been imported successfully!"
+msgstr "Ο ιστότοπος σας έχει εισαχθεί επιτυχώς!"
+
+#: lib/model/import/class-ai1wm-import-content.php:83
+#: lib/model/import/class-ai1wm-import-content.php:206
+msgid "Restoring %d files...<br />%d%% complete"
+msgstr "Επαναφορά %d αρχείων... <br />%d%% ολοκληρώθηκε"
+
+#: lib/model/export/class-ai1wm-export-download.php:35
+msgid "Renaming exported file..."
+msgstr "Μετονομασία του εξαγόμενου αρχείου ..."
+
+#: lib/model/export/class-ai1wm-export-database.php:159
+msgid "Done exporting database."
+msgstr "Έγινε εξαγωγή βάσης δεδομένων."
+
+#: lib/model/export/class-ai1wm-export-plugins.php:80
+#: lib/model/export/class-ai1wm-export-plugins.php:119
+msgid "Archiving %d plugin files...<br />%d%% complete"
+msgstr "Αρχειοθέτηση %d αρχείων πρόσθετων...<br />%d%% ολοκληρώθηκε"
+
+#: lib/model/import/class-ai1wm-import-enumerate.php:50
+msgid "Done retrieving a list of all WordPress files."
+msgstr "Έγινε η ανάκτηση μιας λίστας όλων των αρχείων WordPress."
+
+#: lib/model/import/class-ai1wm-import-enumerate.php:35
+msgid "Retrieving a list of all WordPress files..."
+msgstr "Ανάκτηση λίστας όλων των αρχείων WordPress ..."
+
+#: lib/model/export/class-ai1wm-export-archive.php:44
+msgid "Done creating an empty archive."
+msgstr "Δημιουργήθηκε ένα κενό αρχείο."
+
+#: lib/model/export/class-ai1wm-export-archive.php:37
+msgid "Creating an empty archive..."
+msgstr "Δημιουργία ενός κενού αρχείου ..."
+
+#: lib/controller/class-ai1wm-main-controller.php:667
+#: lib/controller/class-ai1wm-main-controller.php:668
+#: lib/view/backups/index.php:37
+msgid "Backups"
+msgstr "Αντίγραφα ασφαλείας"
+
+#: lib/controller/class-ai1wm-main-controller.php:657
+#: lib/controller/class-ai1wm-main-controller.php:658
+msgid "Import"
+msgstr "Εισαγωγή"
+
+#: lib/controller/class-ai1wm-main-controller.php:647
+#: lib/controller/class-ai1wm-main-controller.php:648
+msgid "Export"
+msgstr "Εξαγωγές"
+
+#: lib/view/main/multisite-notice.php:42
+msgid "Get multisite"
+msgstr "Πάρτε το Multisite"
+
+#: lib/controller/class-ai1wm-import-controller.php:103
+#: lib/controller/class-ai1wm-import-controller.php:104
+#: lib/controller/class-ai1wm-main-controller.php:922
+#: lib/controller/class-ai1wm-main-controller.php:1107
+msgid "Unable to import"
+msgstr "Δεν είναι δυνατή η εισαγωγή"
+
+#: lib/controller/class-ai1wm-export-controller.php:92
+#: lib/controller/class-ai1wm-export-controller.php:93
+#: lib/controller/class-ai1wm-main-controller.php:807
+#: lib/controller/class-ai1wm-main-controller.php:1098
+msgid "Unable to export"
+msgstr "Δεν είναι δυνατή η εξαγωγή"

@@ -1,0 +1,548 @@
+# Translation of Plugins - Yoast Duplicate Post - Stable (latest release) in Danish
+# This file is distributed under the same license as the Plugins - Yoast Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-10-20 15:28:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: da_DK\n"
+"Project-Id-Version: Plugins - Yoast Duplicate Post - Stable (latest release)\n"
+
+#. translators: %1$s and %2$s are replaced by opening and closing anchor tags.
+#: src/ui/newsletter.php:33
+msgid "Yoast respects your privacy. Read %1$sour privacy policy%2$s on how we handle your personal information."
+msgstr "Yoast respekterer dit privatliv. Læs %1$sour privatlivspolitik%2$s om, hvordan vi håndterer dine personlige oplysninger."
+
+#: src/admin/views/options.php:236
+msgid "Welcome notice"
+msgstr "Velkomstmeddelelse"
+
+#: src/admin/options.php:262
+msgid "Show welcome notice"
+msgstr "Vis velkomstmeddelelse"
+
+#. translators: %s: Yoast Duplicate Post.
+#: admin-functions.php:224
+msgid "You've successfully installed %s!"
+msgstr "Du har uden problemer installeret %s!"
+
+#: src/ui/newsletter.php:137
+msgid "You have successfully subscribed to the newsletter. Please check your inbox."
+msgstr "Du har nu tilmeldt dig nyhedsbrevet. Tjek venligst din indbakke."
+
+#: src/ui/newsletter.php:97
+msgid "Please enter valid e-mail address."
+msgstr "Indtast venligst gyldig mailadresse."
+
+#: src/ui/newsletter.php:81 src/ui/newsletter.php:131
+msgid "Something went wrong. Please try again later."
+msgstr "Noget gik galt. Prøv igen senere."
+
+#: src/handlers/check-changes-handler.php:134
+msgid "Added"
+msgstr "Tilføjet"
+
+#: src/handlers/check-changes-handler.php:133
+msgid "Removed"
+msgstr "Fjernet"
+
+#: src/post-republisher.php:224
+msgid "An error occurred while deleting the Rewrite & Republish copy."
+msgstr "Der opstod en fejl under sletning af Genskriv og genudgiv kopien."
+
+#. Description of the plugin
+msgid "The go-to tool for cloning posts and pages, including the powerful Rewrite & Republish feature."
+msgstr "Gå-til-værktøjet til kloning af indlæg og sider, inklusive den kraftfulde genskrive- og genudgiv-funktion."
+
+#. translators: 1: The page title with a link to the frontend page, 2: The
+#. scheduled date and time.
+#: src/ui/classic-editor.php:291
+msgid "This rewritten page %1$s is now scheduled to replace the original page. It will be published on %2$s."
+msgstr "Denne omskrevne side %1$s er nu planlagt til at erstatte den originale side. Det vil blive offentliggjort den %2$s."
+
+#. translators: 1: The post title with a link to the frontend page, 2: The
+#. scheduled date and time.
+#: src/ui/classic-editor.php:278
+msgid "This rewritten post %1$s is now scheduled to replace the original post. It will be published on %2$s."
+msgstr "Dette omskrevne indlæg %1$s er nu planlagt til at erstatte det oprindelige indlæg. Det vil blive offentliggjort på %2$s."
+
+#: src/ui/classic-editor.php:252 js/dist/duplicate-post-strings-450.js:1
+msgid "Schedule republish"
+msgstr "Planlæg genudgivelse"
+
+#. translators: %s: Date on which the post is to be republished.
+#: src/ui/classic-editor.php:229
+msgid "Republish on: %s"
+msgstr "Genudgiv den: %s"
+
+#: src/ui/classic-editor.php:201
+msgid "Compare"
+msgstr "Sammenlign"
+
+#: src/ui/classic-editor.php:198
+msgid "Do you want to compare your changes with the original version before merging? Please save any changes first."
+msgstr "Vil du sammenligne dine ændringer med den originale version, før du fusionerer? Gem venligst eventuelle ændringer først."
+
+#. translators: %s: Original item link (to view or edit) or title.
+#: src/ui/post-states.php:61
+msgid "Rewrite & Republish of %s"
+msgstr "Omskriv og genudgiv %s"
+
+#: src/ui/row-actions.php:145
+msgctxt "verb"
+msgid "Rewrite & Republish"
+msgstr "Omskriv og genudgiv"
+
+#. translators: %s: Post title.
+#: src/ui/row-actions.php:143
+msgid "Rewrite & Republish &#8220;%s&#8221;"
+msgstr "Omskriv og genudgiv &#8220;%s &#8221;"
+
+#: src/admin/views/options.php:190
+msgid "Show these links"
+msgstr "Vis disse links"
+
+#: src/admin/views/options.php:153
+msgid "Warning: users will be able to copy, rewrite and republish all posts, even those of other users."
+msgstr "Advarsel: Brugere vil være i stand til at kopiere, omskrive og genudgive alle indlæg, selv dem fra andre brugere."
+
+#: src/admin/options.php:281 src/ui/admin-bar.php:105 src/ui/admin-bar.php:125
+#: src/ui/bulk-actions.php:74 src/ui/classic-editor.php:173
+#: js/dist/duplicate-post-edit-450.js:1
+msgid "Rewrite & Republish"
+msgstr "Omskriv og genudgiv"
+
+#: src/admin/options.php:236
+msgid "In a metabox in the Edit screen"
+msgstr "I en metaboks på redigeringsskærmen"
+
+#: src/admin/options.php:142
+msgid "Post format"
+msgstr "Indlægsformat"
+
+#: src/watchers/original-post-watcher.php:51
+msgid "The original post has been edited in the meantime. If you click \"Republish\", this rewritten post will replace the original post."
+msgstr "Det oprindelige indlæg er blevet redigeret i mellemtiden. Hvis du klikker på \"Genudgiv\", vil dette omskrevne indlæg erstatte det originale indlæg."
+
+#. translators: %s: Number of posts copied.
+#: src/watchers/bulk-actions-watcher.php:79
+msgid "%s post duplicated. You can now start rewriting your post in the duplicate of the original post. Once you choose to republish it your changes will be merged back into the original post."
+msgid_plural "%s posts duplicated. You can now start rewriting your posts in the duplicates of the original posts. Once you choose to republish them your changes will be merged back into the original post."
+msgstr[0] "%s indlæg duplikeret. Du kan nu begynde at omskrive dit indlæg i duplikatet af det originale indlæg. Når du vælger at genudgive det, vil dine ændringer blive flettet tilbage til det oprindelige indlæg."
+msgstr[1] "%s indlæg duplikeret. Du kan nu begynde at omskrive dine indlæg i dubletterne af de originale indlæg. Når du vælger at genudgive dem, vil dine ændringer blive flettet tilbage til det oprindelige indlæg."
+
+#: src/watchers/republished-post-watcher.php:65
+msgid "Your original post has been replaced with the rewritten post. You are now viewing the (rewritten) original post."
+msgstr "Dit oprindelige indlæg er blevet erstattet med det omskrevne indlæg. Du ser nu det (omskrevne) originale indlæg."
+
+#. translators: %1$s: scheduled date of the copy, %2$s: scheduled time of the
+#. copy.
+#: src/watchers/copied-post-watcher.php:66
+msgid "A duplicate of this post was made, which is scheduled to replace this post on %1$s at %2$s."
+msgstr "Der blev lavet en duplikat af dette indlæg, som er planlagt til at erstatte dette indlæg på %1$s kl. %2$s."
+
+#: src/watchers/copied-post-watcher.php:58
+msgid "A duplicate of this post was made. Please note that any changes you make to this post will be replaced when the duplicated version is republished."
+msgstr "Der blev lavet en kopi af dette indlæg. Bemærk venligst, at eventuelle ændringer, du foretager i dette indlæg, vil blive erstattet, når den duplikerede version genudgives."
+
+#: src/watchers/copied-post-watcher.php:50
+msgid "You can only make one Rewrite & Republish duplicate at a time, and a duplicate of this post already exists in the trash. Permanently delete it if you want to make a new duplicate."
+msgstr "Du kan kun lave én Genskriv og Genudgiv duplikat ad gangen, og en dublet af dette indlæg findes allerede i papirkurven. Slet den permanent, hvis du vil lave en ny dublet."
+
+#: src/watchers/link-actions-watcher.php:113
+msgid "You can now start rewriting your post in this duplicate of the original post. If you click \"Republish\", this rewritten post will replace the original post."
+msgstr "Du kan nu begynde at omskrive dit indlæg i denne duplikat af det originale indlæg. Hvis du klikker på \"Genudgiv\", vil dette omskrevne indlæg erstatte det originale indlæg."
+
+#: src/watchers/link-actions-watcher.php:97
+msgid "You can now start rewriting your post in this duplicate of the original post. If you click \"Republish\", your changes will be merged into the original post and you’ll be redirected there."
+msgstr "Du kan nu begynde at omskrive dit indlæg i denne duplikat af det originale indlæg. Hvis du klikker på \"Genudgiv\", vil dine ændringer blive flettet ind i det originale indlæg, og du vil blive omdirigeret dertil."
+
+#: src/post-republisher.php:332
+msgid "An error occurred while republishing the post."
+msgstr "Der opstod en fej under genudgivelsen af indlægget."
+
+#: src/post-republisher.php:83 src/ui/classic-editor.php:224
+#: js/dist/duplicate-post-strings-450.js:1
+msgid "Republish"
+msgstr "Genudgiv"
+
+#: src/handlers/link-handler.php:213
+msgid "You cannot create a copy for Rewrite & Republish if the original is not published or if it already has a copy."
+msgstr "Du kan ikke oprette en kopi til Rewrite & Republish, hvis originalen ikke er offentliggjort, eller hvis den allerede har en kopi."
+
+#: src/handlers/link-handler.php:91 src/handlers/link-handler.php:147
+#: src/handlers/link-handler.php:221
+msgid "Copy creation failed, could not create a copy."
+msgstr "Kopiering fejlede, kunne ikke danne en kopi."
+
+#: src/handlers/link-handler.php:83 src/handlers/link-handler.php:139
+msgid "You cannot create a copy of a post which is intended for Rewrite & Republish."
+msgstr "Du kan ikke oprette en kopi af et indlæg, der er beregnet til omskrivning og genudgivelse."
+
+#: src/handlers/check-changes-handler.php:116
+msgid "&larr; Return to editor"
+msgstr "&larr; Tilbage til editor"
+
+#. translators: %s: original item link (to view or edit) or title.
+#: src/handlers/check-changes-handler.php:111
+msgid "Compare changes of duplicated post with the original (&#8220;%s&#8221;)"
+msgstr "Sammenlign ændringer af duplikeret indlæg med originalen (&#8220;%s&#8221;)"
+
+#: src/handlers/check-changes-handler.php:97
+msgid "Changes overview failed, could not find original post."
+msgstr "Ændringsoversigt mislykkedes, kunne ikke finde det originale indlæg."
+
+#. translators: %s: post ID.
+#: src/handlers/check-changes-handler.php:84
+msgid "Changes overview failed, could not find post with ID %s."
+msgstr "Ændringsoversigt mislykkedes, kunne ikke finde indlæg med ID %s."
+
+#: src/handlers/check-changes-handler.php:68
+msgid "No post has been supplied!"
+msgstr "Der er ikke leveret noget indlæg!"
+
+#: admin-functions.php:597
+msgid "You aren't allowed to duplicate this post"
+msgstr "Du har ikke tilladelse til at duplikere dette indlæg"
+
+#: src/ui/newsletter.php:58
+msgid "Subscribe"
+msgstr "Tilmeld"
+
+#. translators: 1: Code start tag, 2: Code closing tag, 3: Link start tag to
+#. the template tag documentation, 4: Link closing tag.
+#: src/admin/views/options.php:216
+msgid "You can also use the template tag %1$sduplicate_post_clone_post_link( $link, $before, $after, $id )%2$s. %3$sMore info on the template tag%4$s."
+msgstr "Du kan også bruge skabelonkoden %1$sduplicate_post_clone_post_link( $link, $before, $after, $id )%2$s. %3$sFlere oplysninger om skabelonkoden%4$s."
+
+#. translators: %s: Post title.
+#: src/ui/row-actions.php:112
+msgid "New draft of &#8220;%s&#8221;"
+msgstr "Nyt udkast til &#8220;%s&#8221;"
+
+#: src/ui/row-actions.php:87
+msgctxt "verb"
+msgid "Clone"
+msgstr "Klon"
+
+#. translators: %s: post title
+#: src/ui/metabox.php:100
+msgid "The original item this was copied from is: <span class=\"duplicate_post_original_item_title_span\">%s</span>"
+msgstr "Det oprindelige element, som dette blev kopieret fra er: <span class=\"duplicate_post_original_item_title_span\">%s</span>"
+
+#: src/ui/column.php:135
+msgid "The original item this was copied from is: <span class=\"duplicate_post_original_item_title_span\"></span>"
+msgstr "Det oprindelige element, som dette blev kopieret fra er: <span class=\"duplicate_post_original_item_title_span\"></span>"
+
+#: src/ui/column.php:130 src/ui/metabox.php:89
+msgid "Delete reference to original item."
+msgstr "Slet reference til det oprindelige element."
+
+#: src/ui/newsletter.php:29
+msgid "Email address"
+msgstr "E-mail adresse"
+
+#. translators: 1: Yoast
+#: src/ui/newsletter.php:22
+msgid "If you want to stay up to date about all the exciting developments around Duplicate Post, subscribe to the %1$s newsletter!"
+msgstr "Hvis du ønsker at holde dig ajour om alle de spændende udviklinger omkring Duplicate Post, bør du abonnere på %1$s nyhedsbrev!"
+
+#. Author URI of the plugin
+msgid "https://yoast.com"
+msgstr "https://yoast.com"
+
+#. Author of the plugin
+msgid "Enrico Battocchi & Team Yoast"
+msgstr "Enrico Battocchi & Team Yoast"
+
+#. Plugin URI of the plugin
+msgid "https://yoast.com/wordpress/plugins/duplicate-post/"
+msgstr "https://yoast.com/wordpress/plugins/duplicate-post/"
+
+#. Plugin Name of the plugin
+msgid "Yoast Duplicate Post"
+msgstr "Yoast Duplicate Post"
+
+#. translators: %s: Post title.
+#: src/ui/row-actions.php:85
+msgid "Clone &#8220;%s&#8221;"
+msgstr "Klon &#8220;%s&#8221;"
+
+#. translators: %s: Original item link (to view or edit) or title.
+#: src/ui/post-states.php:67
+msgid "Original: %s"
+msgstr "Original: %s"
+
+#: src/ui/column.php:68
+msgid "Original item"
+msgstr "Originalt emne"
+
+#: src/admin/options.php:256
+msgid "After the title in the Post list"
+msgstr "Efter titlen i indlægslisten"
+
+#: src/admin/options.php:249
+msgid "You'll also be able to delete the reference to the original item with a checkbox in Quick Edit"
+msgstr "Du vil også kunne slette henvisningen til det originale emne via et afkrydsningsfelt i Lynredigering"
+
+#: src/admin/options.php:246
+msgid "In a column in the Post list"
+msgstr "I en kolonne i indlægslisten"
+
+#: src/admin/options.php:239
+msgid "You'll also be able to delete the reference to the original item with a checkbox"
+msgstr "Du vil også kunne slette henvisningen til det originale emne via et afkrydsningsfelt"
+
+#: src/admin/views/options.php:227
+msgid "Show original item:"
+msgstr "Vis originalt emne:"
+
+#: src/admin/views/options.php:20
+msgid "Settings sections"
+msgstr "Indstilingssektioner"
+
+#: duplicate-post.php:98
+msgid "Settings for Duplicate Post"
+msgstr "Indstillinger for Duplicate Post"
+
+#. translators: %s: post title
+#: src/utils.php:144
+msgid "View &#8220;%s&#8221;"
+msgstr "Vis &#8220;%s&#8221;"
+
+#. translators: %s: post title
+#: src/utils.php:134
+msgid "Preview &#8220;%s&#8221;"
+msgstr "Forhåndsvis &#8220;%s&#8221;"
+
+#. translators: %s: post title
+#: src/utils.php:122
+msgid "Edit &#8220;%s&#8221;"
+msgstr "Rediger &#8220;%s&#8221;"
+
+#: src/handlers/link-handler.php:58 src/handlers/link-handler.php:114
+#: src/handlers/link-handler.php:188
+msgid "Current user is not allowed to copy posts."
+msgstr "Nuværende bruger har ikke tilladelse til at kopiere."
+
+#: src/admin/options.php:165
+msgid "you probably want this unchecked, unless you have very special requirements"
+msgstr "du vil formegentlig ikke sætte fluebenet her, med mindre du har specielle krav"
+
+#: admin-functions.php:750
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: src/admin/options.php:307
+msgid "Bulk Actions"
+msgstr "Massehandlinger"
+
+#: src/admin/options.php:217
+msgid "You can use * to match zero or more alphanumeric characters or underscores: e.g. field*"
+msgstr "Du kan bruge * til at matche nul eller flere alfanumeriske tegn eller understreg: f.eks. felt*"
+
+#: src/admin/options.php:186
+msgid "Menu order"
+msgstr "Menurækkefølge"
+
+#: src/admin/options.php:149
+msgid "Author"
+msgstr "Forfatter"
+
+#: src/admin/options.php:135
+msgid "Template"
+msgstr "Skabelon"
+
+#: src/admin/options.php:128
+msgid "Featured Image"
+msgstr "Udvalgt billede"
+
+#. translators: %s: Number of posts copied.
+#: src/watchers/bulk-actions-watcher.php:55
+#: src/watchers/link-actions-watcher.php:73
+msgid "%s item copied."
+msgid_plural "%s items copied."
+msgstr[0] "%s element kopieret."
+msgstr[1] "%s elementer kopieret."
+
+#: src/admin/views/options.php:174 src/admin/views/options.php:211
+msgid "Whether the links are displayed for custom post types registered by themes or plugins depends on their use of standard WordPress UI elements."
+msgstr "Hvorvidt links vises for brugerdefinerede indlægstyper registreret af temaer eller plugins afhænger af deres brug af standard WordPress UI-elementer."
+
+#: src/admin/views/options.php:172
+msgid "Select the post types you want the plugin to be enabled for."
+msgstr "Vælg de indlægstyper, som pluginet skal aktiveres for."
+
+#: src/admin/views/options.php:162 src/admin/views/options.php:166
+msgid "Enable for these post types"
+msgstr "Aktiver for disse indholdstyper"
+
+#: src/admin/views/options.php:155
+msgid "Passwords and contents of password-protected posts may become visible to undesired users and visitors."
+msgstr "Adgangskoder og indhold af password-beskyttede indlæg kan blive synlige for uønskede brugere og besøgende."
+
+#: src/admin/views/options.php:127
+msgid "Show/hide private taxonomies"
+msgstr "Vis/skjul private klassificeringer"
+
+#: src/admin/options.php:208
+msgid "Add this number to the original menu order (blank or zero to retain the value)"
+msgstr "Tilføj dette nummer til den oprindelige menu rækkefølge (blank eller nul for samme værdi)"
+
+#: src/admin/options.php:206 src/admin/views/options.php:93
+msgid "Increase menu order by"
+msgstr "Øg menu rækkefølge med"
+
+#: src/admin/options.php:180
+msgid "except pingbacks and trackbacks"
+msgstr "med undtagelse af pingbacks og trackbacks"
+
+#: src/admin/options.php:178
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: src/admin/options.php:171
+msgid "Children"
+msgstr "Underelementer"
+
+#: src/admin/options.php:163
+msgid "Attachments"
+msgstr "Vedhæftninger"
+
+#: src/admin/options.php:156
+msgid "Password"
+msgstr "Adgangskode"
+
+#: src/admin/options.php:121 src/handlers/check-changes-handler.php:127
+msgid "Content"
+msgstr "Indhold"
+
+#: src/admin/options.php:114 src/handlers/check-changes-handler.php:128
+msgid "Excerpt"
+msgstr "Uddrag"
+
+#: src/admin/options.php:107
+msgid "Slug"
+msgstr "Korttitel"
+
+#: src/admin/options.php:100
+msgid "Status"
+msgstr "Status"
+
+#: src/admin/options.php:93
+msgid "Date"
+msgstr "Dato"
+
+#: src/admin/options.php:86 src/handlers/check-changes-handler.php:126
+msgid "Title"
+msgstr "Titel"
+
+#: src/admin/views/options.php:58 src/admin/views/options.php:61
+msgid "Post/page elements to copy"
+msgstr "Indlæg/sider, der kopieres"
+
+#: src/admin/views/options.php:46 src/admin/views/options.php:187
+msgid "Display"
+msgstr "Vis"
+
+#: src/admin/views/options.php:37 src/admin/views/options.php:140
+msgid "Permissions"
+msgstr "Tilladelser"
+
+#: src/admin/views/options.php:28 src/admin/views/options.php:55
+msgid "What to copy"
+msgstr "Hvad skal kopieres"
+
+#: admin-functions.php:603
+msgid "Copy features for this post type are not enabled in options page"
+msgstr "Kopieringsfunktioner for denne indholdstype er ikke aktiveret under indstillinger"
+
+#: duplicate-post.php:99
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: src/admin/views/options.php:247
+msgid "Save changes"
+msgstr "Gem ændringer"
+
+#: src/admin/options.php:297
+msgid "Admin bar"
+msgstr "Administrationsbjælke"
+
+#: src/admin/options.php:302
+msgid "Edit screen"
+msgstr "Redigeringsvisning"
+
+#: src/admin/options.php:292
+msgid "Post list"
+msgstr "Indlægsliste"
+
+#: src/admin/views/options.php:202
+msgid "Show links in"
+msgstr "Vis links i"
+
+#: src/admin/views/options.php:144 src/admin/views/options.php:147
+msgid "Roles allowed to copy"
+msgstr "Brugerroller med tilladelse til at kopiere"
+
+#: src/admin/options.php:201
+msgid "Suffix to be added after the title, e.g. \"(dup)\" (blank for no suffix)"
+msgstr "Suffiks, der skal tilføjes i slutningen af den originale titel, fx \"(kopi)\" (efterlad tomt hvis intet suffiks ønskes)"
+
+#: src/admin/options.php:199 src/admin/views/options.php:82
+msgid "Title suffix"
+msgstr "Titelsuffiks"
+
+#: src/admin/options.php:194
+msgid "Prefix to be added before the title, e.g. \"Copy of\" (blank for no prefix)"
+msgstr "Præfiks, der skal tilføjes i starten af den originale titel, fx \"Kopi af\" (efterlad tomt hvis intet præfiks ønskes)"
+
+#: src/admin/options.php:192 src/admin/views/options.php:71
+msgid "Title prefix"
+msgstr "Titelpræfiks"
+
+#: src/admin/views/options.php:116 src/admin/views/options.php:120
+msgid "Do not copy these taxonomies"
+msgstr "Kopier ikke disse taksonomier"
+
+#: src/admin/options.php:216
+msgid "Comma-separated list of meta fields that must not be copied."
+msgstr "Kommasepareret liste over meta-felter, der ikke må kopieres."
+
+#: src/admin/options.php:213 src/admin/views/options.php:105
+msgid "Do not copy these fields"
+msgstr "Kopier ikke disse felter"
+
+#: src/admin/options-page.php:77 src/ui/admin-bar.php:89 src/ui/metabox.php:59
+msgid "Duplicate Post"
+msgstr "Duplicate Post"
+
+#: src/admin/options-page.php:76 src/admin/views/options.php:14
+msgid "Duplicate Post Options"
+msgstr "Duplicate Post indstillinger"
+
+#: src/handlers/link-handler.php:75 src/handlers/link-handler.php:131
+#: src/handlers/link-handler.php:205
+msgid "Copy creation failed, could not find original:"
+msgstr "Kopiering fejlede, kunne ikke finde originalen:"
+
+#: src/handlers/link-handler.php:63 src/handlers/link-handler.php:119
+#: src/handlers/link-handler.php:193
+msgid "No post to duplicate has been supplied!"
+msgstr "Du har ikke valgt noget indhold at kopiere!"
+
+#: src/admin/options.php:271 src/ui/row-actions.php:114
+msgid "New Draft"
+msgstr "Ny kladde"
+
+#: common-functions.php:79 src/ui/admin-bar.php:97 src/ui/admin-bar.php:115
+#: src/ui/classic-editor.php:144 js/dist/duplicate-post-edit-450.js:1
+msgid "Copy to a new draft"
+msgstr "Kopier til ny kladde"
+
+#: src/admin/options.php:276 src/ui/bulk-actions.php:69
+msgid "Clone"
+msgstr "Klon"

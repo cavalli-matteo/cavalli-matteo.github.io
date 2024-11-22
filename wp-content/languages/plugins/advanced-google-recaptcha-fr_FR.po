@@ -1,0 +1,218 @@
+# Translation of Plugins - Advanced Google reCAPTCHA - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Advanced Google reCAPTCHA - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-04-15 20:00:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Advanced Google reCAPTCHA - Stable (latest release)\n"
+
+#: libs/functions.php:287 libs/functions.php:304
+msgid "<strong>ERROR</strong>: reCAPTCHA verification request failed<br /><br />"
+msgstr "<strong>Erreur</strong> : la demande de vérification reCAPTCHA a échoué<br /><br />"
+
+#: libs/functions.php:266
+msgid "<strong>ERROR</strong>: Inactive account"
+msgstr "<strong>Erreur</strong> : Compte inactif"
+
+#: libs/setup.php:95
+msgid "WP Captcha plugin <b>requires PHP version 5.6.20</b> or higher to function properly. You are using PHP version %s. Please <a href=\"%s\" target=\"_blank\">update it</a>."
+msgstr "L’extension WP Captcha <b>nécessite la version PHP 5.6.20</b> ou une version plus récente pour fonctionner correctement. Vous utilisez la version PHP %s. Veuillez <a href=\"%s\" target=\"_blank\">la mettre à jour</a>."
+
+#: libs/setup.php:82
+msgid "WP Captcha plugin <b>requires WordPress version 4.6</b> or higher to function properly. You are using WordPress version %s. Please <a href=\"%s\">update it</a>."
+msgstr "L’extension WP Captcha <b>nécessite la version 4.6</b> de WordPress ou une version plus récente pour fonctionner correctement. Vous utilisez la version WordPress %s. Veuillez <a href=\"%s\">la mettre à jour</a>."
+
+#: libs/functions.php:1200
+msgid "Unknown template ID."
+msgstr "ID de modèle inconnu."
+
+#: libs/functions.php:1198
+msgid "Template activated."
+msgstr "Modèle activé."
+
+#: libs/functions.php:445
+msgid "Login form protected by"
+msgstr "Formulaire de connexion protégé par"
+
+#: libs/functions.php:282 libs/functions.php:293 libs/functions.php:298
+#: libs/functions.php:311
+msgid "<strong>ERROR</strong>: reCAPTCHA verification failed.<br /><br />Please try again."
+msgstr "<strong>Erreur</strong> : La vérification reCAPTCHA a échoué.<br /><br />Veuillez réessayer."
+
+#: libs/functions.php:270
+msgid "<strong>ERROR</strong>: Incorrect password. <a href=\"%s\" title=\"Password Lost and Found\">Lost your password</a>?"
+msgstr "<strong>Erreur</strong> : Mot de passe incorrect. <a href=\"%s\" title=\"Mot de passe perdu et retrouvé\">Vous avez perdu votre mot de passe</a> ?"
+
+#: libs/functions.php:256
+msgid "<strong>ERROR</strong>: Invalid username. <a href=\"%s\" title=\"Password Lost and Found\">Lost your password</a>?"
+msgstr "<strong>Erreur</strong> : Identifiant invalide. <a href=\"%s\" title=\"Mot de passe perdu et retrouvé\">Vous avez perdu votre mot de passe</a> ?"
+
+#: libs/functions.php:250
+msgid "<strong>ERROR</strong>: The password field is empty."
+msgstr "<strong>Erreur</strong> : Le champ du mot de passe est vide."
+
+#: libs/functions.php:247
+msgid "<strong>ERROR</strong>: The username field is empty."
+msgstr "<strong>Erreur</strong> : Le champ de l’identifiant est vide."
+
+#: libs/functions.php:205 libs/functions.php:240
+msgid "<strong>ERROR</strong>: We're sorry, but this IP has been blocked due to too many recent failed login attempts.<br /><br />Please try again later."
+msgstr "<strong>Erreur</strong> : Nous sommes désolés, mais cette adresse IP a été bloquée en raison d’un trop grand nombre de tentatives de connexion échouées.<br /><br />Veuillez réessayer ultérieurement."
+
+#: libs/ajax.php:109 libs/ajax.php:117 libs/ajax.php:122 libs/ajax.php:130
+msgid "reCAPTCHA verification failed "
+msgstr "Échec de la vérification reCAPTCHA "
+
+#: libs/ajax.php:105 libs/functions.php:320 libs/functions.php:324
+msgid "<strong>ERROR</strong>: captcha verification failed.<br /><br />Please try again."
+msgstr "<strong>Erreur</strong> : La vérification CAPTCHA a échoué.<br /><br />Veuillez réessayer."
+
+#: libs/ajax.php:81
+msgid "Unknown tool."
+msgstr "Outil inconnu."
+
+#: libs/admin.php:339
+msgid "PRO"
+msgstr "Pro"
+
+#: libs/admin.php:338
+msgid "Temp Access"
+msgstr "Accès temporaire"
+
+#: libs/admin.php:337
+msgid "Design"
+msgstr "Design"
+
+#: libs/admin.php:336
+msgid "Country Blocking"
+msgstr "Blocage de pays"
+
+#: libs/admin.php:335
+msgid "Firewall"
+msgstr "Pare-feu"
+
+#: libs/admin.php:334
+msgid "Login Protection"
+msgstr "Protection de connexion"
+
+#: libs/admin.php:333
+msgid "Activity"
+msgstr "Activité"
+
+#: libs/admin.php:191
+msgid "Support"
+msgstr "Support"
+
+#: libs/admin.php:191
+msgid "Get help"
+msgstr "Obtenir de l’aide"
+
+#: libs/admin.php:170
+msgid "Get EXTRA protection"
+msgstr "Bénéficiez d’une protection supplémentaire"
+
+#: libs/admin.php:56
+msgid "OK"
+msgstr "OK"
+
+#: libs/admin.php:55
+msgid "Cancel"
+msgstr "Annuler"
+
+#: libs/admin.php:48
+msgid "WP Captcha"
+msgstr "WP Captcha"
+
+#: libs/admin.php:47
+msgid "An error has occurred."
+msgstr "Une erreur s’est produite."
+
+#: libs/admin.php:46
+msgid "An undocumented error has occurred. Please refresh the page and try again."
+msgstr "Une erreur non documentée s’est produite. Veuillez actualiser la page et réessayer."
+
+#: interface/tab_login_form.php:14
+msgid "Tools"
+msgstr "Outils"
+
+#: interface/tab_login_form.php:13
+msgid "Advanced"
+msgstr "Avancée"
+
+#: interface/tab_login_form.php:12
+msgid "Basic"
+msgstr "Basique"
+
+#: interface/tab_firewall.php:15
+msgid "Cloud Protection"
+msgstr "Protection dans le cloud"
+
+#: interface/tab_firewall.php:14
+msgid "2FA"
+msgstr "2FA"
+
+#: interface/tab_firewall.php:13
+msgid "General"
+msgstr "Général"
+
+#: interface/tab_captcha.php:13
+msgid "Where To Show"
+msgstr "Où afficher"
+
+#: interface/tab_captcha.php:12 libs/admin.php:332
+msgid "Captcha"
+msgstr "CAPTCHA"
+
+#: interface/tab_activity.php:13
+msgid "Failed Logins"
+msgstr "Connexions échouées"
+
+#: interface/tab_activity.php:12
+msgid "Access Locks"
+msgstr "Verrouillages d’accès"
+
+#: advanced-google-recaptcha.php:35
+msgid "Do not open this file directly."
+msgstr "Ne pas ouvrir ce fichier directement."
+
+#. Author URI of the plugin
+#: advanced-google-recaptcha.php
+msgid "https://www.webfactoryltd.com/"
+msgstr "https://www.webfactoryltd.com/"
+
+#. Author of the plugin
+#: advanced-google-recaptcha.php
+msgid "WebFactory Ltd"
+msgstr "WebFactory Ltd"
+
+#. Plugin URI of the plugin
+#: advanced-google-recaptcha.php
+msgid "https://getwpcaptcha.com/"
+msgstr "https://getwpcaptcha.com/"
+
+#: libs/functions.php:391 libs/functions.php:411
+msgid "ERROR:"
+msgstr "Erreur :"
+
+#: libs/admin.php:535
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: libs/admin.php:169
+msgid "Settings"
+msgstr "Réglages"
+
+#. Description of the plugin
+#: advanced-google-recaptcha.php
+msgid "Advanced Google reCAPTCHA will safeguard your WordPress site from spam comments and brute force attacks. With this plugin, you can easily add Google reCAPTCHA to WordPress comment form, login form and other forms."
+msgstr "Advanced Google reCAPTCHA protègera votre site WordPress des commentaires indésirables et des attaques par force brute. Avec cette extension, vous pouvez facilement ajouter Google reCAPTCHA au formulaire de commentaire WordPress, au formulaire de connexion et à d’autres formulaires."
+
+#. Plugin Name of the plugin
+#: advanced-google-recaptcha.php libs/admin.php:152 libs/admin.php:153
+msgid "Advanced Google reCAPTCHA"
+msgstr "Advanced Google reCAPTCHA"

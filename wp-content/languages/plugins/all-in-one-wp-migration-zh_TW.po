@@ -1,0 +1,1228 @@
+# Translation of Plugins - All-in-One WP Migration and Backup - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - All-in-One WP Migration and Backup - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-08 01:18:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - All-in-One WP Migration and Backup - Stable (latest release)\n"
+
+#: lib/model/export/class-ai1wm-export-download.php:82
+msgid "<a href=\"#\" class=\"ai1wm-button-green ai1wm-emphasize ai1wm-direct-download\" title=\"%s\" download=\"%s\"><span>Download %s</span><em>Size: %s</em></a>"
+msgstr "<a href=\"#\" class=\"ai1wm-button-green ai1wm-emphasize ai1wm-direct-download\" title=\"%s\" download=\"%s\"><span>下載 %s 的匯出檔</span>∣<strong>檔案大小: %s</strong></a>"
+
+#: lib/view/reset/index.php:39
+msgid "Reset Hub Demo"
+msgstr "[重設中心] 功能示範"
+
+#: lib/view/reset/index.php:39
+msgid "Upgrade to Premium "
+msgstr "升級至 Premium 版"
+
+#: lib/view/reset/index.php:37
+msgid "Please note, the features displayed below are part of an image showcasing the potential of Reset Hub in its Premium version. To activate and enjoy these advanced features, <a href=\"https://servmask.com/products/unlimited-extension\" title=\"Upgrade to Premium\" target=\"_blank\">upgrade to Premium now</a>! Elevate your website management experience with these exclusive functionalities and priority support."
+msgstr "請注意，在下方顯示的功能是這個外掛 Premium 版 [重設中心] 部分功能的圖片展示。如需啟用並使用這些進階功能，請<a href=\"https://servmask.com/products/unlimited-extension\" title=\"升級至 Premium 版\" target=\"_blank\">立即升級至 Premium 版</a>。使用這些獨家功能及優先技術支援，便能提升網站管理員的網站管理體驗。"
+
+#: lib/view/reset/index.php:35
+msgid "Experience Full Functionality with Premium!"
+msgstr "體驗 Premium 版的完整功能！"
+
+#: lib/view/reset/index.php:34
+msgid "Star"
+msgstr "星形符號"
+
+#: lib/controller/class-ai1wm-main-controller.php:678
+#: lib/controller/class-ai1wm-main-controller.php:679
+msgid "Reset Hub"
+msgstr "重設中心"
+
+#: lib/view/main/premium-badge.php:31
+msgid "Premium"
+msgstr "Premium 版"
+
+#: lib/view/schedules/index.php:109
+msgid "Leverage the simplicity of Dropbox for your backup needs. Direct your scheduled backups to be stored in Dropbox. It's secure, straightforward, and keeps your backups at your fingertips."
+msgstr "利用 Dropbox 的簡易性達成網站利用 Dropbox 的簡易性達成網站備份需求。將網站排程備份儲存至 Dropbox，安全、簡單，並讓網站備份觸手可及。備份需求。將網站排程備份儲存至 Dropbox，安全、簡單，並讓網站備份觸手可及。"
+
+#: lib/view/schedules/index.php:161
+msgid "Tailor your backup schedules to fit the complexity of your WordPress Multisite. Choose to export the entire network or only a selection of subsites according to your requirements. Effortless management for even the most intricate site networks."
+msgstr "設定對應的備份排程以配合 WordPress 多站網路的複雜性。依據需求匯出整個多站網路，或是僅匯出選取的子網站，便能輕鬆管理複雜的多站網路。"
+
+#: lib/view/schedules/index.php:148
+msgid "We've got you covered with an array of supported storage providers. Whether you prefer Box, Amazon S3, WebDav or something else, you can choose the one that fits your needs best. Secure your backups exactly where you want them."
+msgstr "我們支援一系列使用者愛用的儲存空間服務提供商，無論是 Box、Amazon S3、WebDav 或其他服務，使用者都可以從中擇一選取最適合自己的服務。"
+
+#: lib/view/schedules/index.php:135
+msgid "Enjoy the flexibility of FTP storage. Direct your scheduled backups to your own FTP server. You'll have full control over your data, providing you with a versatile and private storage solution."
+msgstr "善用 FTP 儲存空間的靈活性。將網站排程備份儲存至自有的 FTP 伺服器，便能完整控管網站資料，並成為私有儲存空間解決方案。"
+
+#: lib/view/schedules/index.php:122
+msgid "Harness the power of OneDrive for your backups. Set up your scheduled backups to be saved directly in your OneDrive. It's secure, integrated with your Microsoft account, and keeps your data readily accessible."
+msgstr "利用 OneDrive 強大的功能為網站進行備份。網站備份排程直接儲存至 OneDrive，不僅安全，還能整合至使用者的 Microsoft 帳號，並讓資料可以隨時存取。"
+
+#: lib/view/schedules/index.php:96
+msgid "Benefit from the robustness of Google Drive. Schedule your backups to be saved directly to your Google Drive account. Simple, secure, and integrated into a platform you already use."
+msgstr "Google 雲端硬碟強大的功能帶來許多優勢。網站備份排程直接儲存至 Google 雲端硬碟，簡單、安全，並能整合至多數使用者已在使用的 Google 平台。"
+
+#: lib/view/schedules/index.php:83
+msgid "Manage your storage effectively with our flexible retention settings. Decide how many backups you want to keep at a time. Old backups are automatically cleared, keeping your storage neat and efficient."
+msgstr "使用外掛提供的靈活保留期設定，就能有效的管理儲存空間。只要設定同時要保留多少份備份，便會自動清除舊的備份檔案，以便保有儲存空間的餘裕。"
+
+#: lib/view/schedules/index.php:75 lib/view/schedules/index.php:80
+msgid "Retention settings"
+msgstr "保留期設定"
+
+#: lib/view/schedules/index.php:70
+msgid "Stay informed, not overwhelmed. Tailor your notification preferences to get updates that matter to you. Whether it's the status of each backup, or just critical alerts, control what you want to be notified about."
+msgstr "隨時掌握網站狀況，不會手足無措。設定網站的通知偏好設定，以獲得必要的重要更新。無論是每次備份的狀態，或僅是嚴重警告，都可以對這些通知進行掌控。"
+
+#: lib/view/schedules/index.php:62 lib/view/schedules/index.php:67
+msgid "Notification settings"
+msgstr "通知設定"
+
+#: lib/view/schedules/index.php:57
+msgid "Never worry about forgetting to back up your site again. Choose from various scheduling options, from daily to monthly, and we'll automate the rest. Backups happen like clockwork, giving you peace of mind and a solid safety net"
+msgstr "不必再擔心忘記備份網站。這項功能可以讓使用者使用多種排程選項，從每日備份到每月備份，一經設定完畢，外掛便會完成餘下的工作。備份會定期執行，讓使用者高枕無憂，並享有堅實的安全網。"
+
+#: lib/view/schedules/index.php:54 lib/view/schedules/index.php:67
+#: lib/view/schedules/index.php:80 lib/view/schedules/index.php:93
+#: lib/view/schedules/index.php:106 lib/view/schedules/index.php:119
+#: lib/view/schedules/index.php:132 lib/view/schedules/index.php:145
+#: lib/view/schedules/index.php:158
+msgid "Enable this feature"
+msgstr "啟用這項功能"
+
+#: lib/view/schedules/index.php:49
+msgid "Backup scheduler"
+msgstr "備份排程程式"
+
+#: lib/view/schedules/index.php:43 lib/view/schedules/index.php:153
+#: lib/view/schedules/index.php:158
+msgid "Multisite Schedules"
+msgstr "多站網路排程程式"
+
+#: lib/view/schedules/index.php:42 lib/view/schedules/index.php:140
+#: lib/view/schedules/index.php:145
+msgid "More Storage Providers"
+msgstr "更多儲存空間服務提供商"
+
+#: lib/view/schedules/index.php:41 lib/view/schedules/index.php:127
+#: lib/view/schedules/index.php:132
+msgid "FTP Storage"
+msgstr "FTP 儲存空間"
+
+#: lib/view/schedules/index.php:40 lib/view/schedules/index.php:114
+#: lib/view/schedules/index.php:119
+msgid "OneDrive Storage"
+msgstr "OneDrive 儲存空間"
+
+#: lib/view/schedules/index.php:39 lib/view/schedules/index.php:101
+#: lib/view/schedules/index.php:106
+msgid "Dropbox Storage"
+msgstr "Dropbox 儲存空間"
+
+#: lib/view/schedules/index.php:38 lib/view/schedules/index.php:88
+#: lib/view/schedules/index.php:93
+msgid "Google Drive Storage"
+msgstr "Google 雲端硬碟儲存空間"
+
+#: lib/view/schedules/index.php:37
+msgid "Retention Settings"
+msgstr "保留期設定"
+
+#: lib/view/schedules/index.php:36
+msgid "Notification Settings"
+msgstr "通知設定"
+
+#: lib/view/schedules/index.php:35 lib/view/schedules/index.php:54
+msgid "Backup Scheduler"
+msgstr "備份排程程式"
+
+#: lib/controller/class-ai1wm-main-controller.php:687
+#: lib/controller/class-ai1wm-main-controller.php:688
+msgid "Schedules"
+msgstr "排程"
+
+#: lib/controller/class-ai1wm-main-controller.php:956
+msgid "<a href=\"https://servmask.com/products/unlimited-extension\" target=\"_blank\">Get unlimited</a>"
+msgstr "<a href=\"https://servmask.com/products/unlimited-extension\" target=\"_blank\">取得無限制版本</a>"
+
+#: functions.php:68 functions.php:110
+msgid "Your archive file name contains invalid characters. It cannot contain: < > : \" | ? * \\0. <a href=\"https://help.servmask.com/knowledgebase/invalid-archive-name/\" target=\"_blank\">Technical details</a>"
+msgstr "這個網站的壓縮檔檔案名稱包含無效的字元。壓縮檔檔案名稱不能包含 < > : \" | ? * \\0。<a href=\"https://help.servmask.com/knowledgebase/invalid-archive-name/\" target=\"_blank\">技術詳細資料</a>"
+
+#: functions.php:43
+msgid "Your storage directory name contains invalid characters. It cannot contain: < > : \" | ? * \\0. <a href=\"https://help.servmask.com/knowledgebase/invalid-storage-name/\" target=\"_blank\">Technical details</a>"
+msgstr "這個網站的儲存目錄名稱包含無效的字元。儲存目錄名稱不能包含 < > : \" | ? * \\0。<a href=\"https://help.servmask.com/knowledgebase/invalid-storage-name/\" target=\"_blank\">技術詳細資料</a>"
+
+#: lib/model/import/class-ai1wm-import-check-encryption.php:59
+msgid "Backup is encrypted. Please provide decryption password: "
+msgstr "備份檔案已加密。請提供解密密碼: "
+
+#: lib/view/export/advanced-settings.php:63
+msgid "Password-protect and encrypt backups"
+msgstr "密碼保護及加密備份檔案"
+
+#: lib/view/export/advanced-settings.php:50
+msgid "A password is required"
+msgstr "密碼為必填。"
+
+#: lib/view/export/advanced-settings.php:43
+msgid "Protect this backup with a password"
+msgstr "使用密碼保護這個備份檔案"
+
+#: lib/model/import/class-ai1wm-import-users.php:64
+msgid "Done preparing users."
+msgstr "準備使用者已完成。"
+
+#: lib/model/import/class-ai1wm-import-users.php:38
+msgid "Preparing users..."
+msgstr "正在準備使用者..."
+
+#: lib/model/import/class-ai1wm-import-check-encryption.php:48
+msgid "Importing an encrypted backup is not supported on this server. <a href=\"https://help.servmask.com/knowledgebase/unable-to-encrypt-and-decrypt-backups/\" target=\"_blank\">Technical details</a>"
+msgstr "這台伺服器不支援匯入加密的備份檔案。<a href=\"https://help.servmask.com/knowledgebase/unable-to-encrypt-and-decrypt-backups/\" target=\"_blank\">技術詳細資料</a>"
+
+#: lib/model/import/class-ai1wm-import-check-decryption-password.php:59
+msgid "The decryption password is not valid."
+msgstr "用於解密的密碼無效。"
+
+#: lib/model/import/class-ai1wm-import-check-decryption-password.php:52
+msgid "Done validating the decryption password."
+msgstr "用於解密的密碼已完成驗證。"
+
+#: lib/controller/class-ai1wm-main-controller.php:945
+#: lib/controller/class-ai1wm-main-controller.php:1144
+#: lib/view/export/advanced-settings.php:55
+msgid "The passwords do not match"
+msgstr "輸入的密碼不相符。"
+
+#: lib/controller/class-ai1wm-main-controller.php:944
+#: lib/controller/class-ai1wm-main-controller.php:1143
+#: lib/view/export/advanced-settings.php:53
+msgid "Repeat the password"
+msgstr "重複輸入密碼"
+
+#: lib/controller/class-ai1wm-main-controller.php:942
+#: lib/controller/class-ai1wm-main-controller.php:1141
+msgid "Submit"
+msgstr "送出"
+
+#: lib/controller/class-ai1wm-main-controller.php:941
+#: lib/controller/class-ai1wm-main-controller.php:1140
+msgid "Please enter a password to import the file"
+msgstr "請輸入密碼以匯入備份檔案。"
+
+#: lib/controller/class-ai1wm-main-controller.php:940
+#: lib/controller/class-ai1wm-main-controller.php:1139
+msgid "The backup is encrypted"
+msgstr "備份檔案已加密"
+
+#: lib/controller/class-ai1wm-main-controller.php:925
+msgid "Unable to check decryption password. Refresh the page and try again"
+msgstr "無法檢查用於解密的密碼。請重新整理頁面並再試一次。"
+
+#: functions.php:2116
+msgid "Unable to decrypt data."
+msgstr "無法解密資料。"
+
+#: functions.php:2094
+msgid "Unable to obtain cipher length."
+msgstr "無法取得加密長度。"
+
+#: functions.php:2079
+msgid "Unable to encrypt data."
+msgstr "無法加密資料。"
+
+#: functions.php:2074
+msgid "Unable to generate random bytes."
+msgstr "無法產生隨機位元組。"
+
+#: lib/view/backups/backups-list.php:129
+msgid "List"
+msgstr "內容清單"
+
+#: lib/view/backups/backups-list.php:127
+msgid "Show backup content"
+msgstr "顯示備份檔案內容"
+
+#: lib/view/backups/backups-list.php:120
+msgid "Downloading is not possible because backups directory is not accessible."
+msgstr "由於備份檔案資料夾無法存取，因此無法下載檔案。"
+
+#: lib/controller/class-ai1wm-main-controller.php:1138
+msgid "Reading..."
+msgstr "正在讀取..."
+
+#: lib/controller/class-ai1wm-main-controller.php:1137
+msgid "List the content of the backup"
+msgstr "備份檔案內容清單"
+
+#: lib/controller/class-ai1wm-main-controller.php:820
+#: lib/controller/class-ai1wm-main-controller.php:1136
+msgid "Error while downloading file"
+msgstr "下載檔案時發生錯誤。"
+
+#: lib/controller/class-ai1wm-main-controller.php:1135
+msgid "Error while reading backup content"
+msgstr "讀取備份檔案內容時發生錯誤。"
+
+#: lib/controller/class-ai1wm-main-controller.php:1134
+msgid "Error"
+msgstr "錯誤"
+
+#: lib/controller/class-ai1wm-backups-controller.php:185
+msgid "Unable to list backup content"
+msgstr "無法列出備份檔案內容"
+
+#: lib/view/backups/backups-list.php:93
+msgid "More"
+msgstr "更多操作"
+
+#: lib/controller/class-ai1wm-main-controller.php:819
+#: lib/controller/class-ai1wm-main-controller.php:1133
+msgid "You have %d backups"
+msgstr "這個網站有 %d 個備份檔案。"
+
+#: lib/controller/class-ai1wm-main-controller.php:818
+#: lib/controller/class-ai1wm-main-controller.php:1132
+#: lib/view/main/backups.php:31
+msgid "You have %d backup"
+msgid_plural "You have %d backups"
+msgstr[0] "這個網站有 %d 個備份檔案。"
+
+#: lib/view/updater/error.php:31
+msgid "Error: %s"
+msgstr "錯誤: %s"
+
+#: lib/model/export/class-ai1wm-export-themes.php:80
+#: lib/model/export/class-ai1wm-export-themes.php:119
+msgid "Archiving %d theme files...<br />%d%% complete"
+msgstr "正在壓縮 %d 個佈景主題檔案...<br />已完成 %d%%"
+
+#: lib/model/export/class-ai1wm-export-enumerate-themes.php:106
+msgid "Done retrieving a list of WordPress theme files."
+msgstr "擷取 WordPress 佈景主題檔案清單清單已完成。"
+
+#: lib/model/export/class-ai1wm-export-enumerate-themes.php:51
+msgid "Retrieving a list of WordPress theme files..."
+msgstr "正在擷取 WordPress 佈景主題檔案清單..."
+
+#: lib/model/import/class-ai1wm-import-options.php:34
+msgid "Preparing options..."
+msgstr "正在準備選項..."
+
+#: lib/model/export/class-ai1wm-export-enumerate-plugins.php:100
+msgid "Done retrieving a list of WordPress plugin files."
+msgstr "擷取 WordPress 外掛檔案清單已完成。"
+
+#: lib/model/export/class-ai1wm-export-enumerate-plugins.php:51
+msgid "Retrieving a list of WordPress plugin files..."
+msgstr "正在擷取 WordPress 外掛檔案清單..."
+
+#: lib/view/main/contact-support.php:31
+msgid "Contact Support"
+msgstr "聯絡支援團隊"
+
+#: lib/model/import/class-ai1wm-import-validate.php:48
+msgid "The file type that you have tried to import is not compatible with this plugin. Please ensure that your file is a <strong>.wpress</strong> file that was created with the All-in-One WP migration plugin. <a href=\"https://help.servmask.com/knowledgebase/invalid-backup-file/\" target=\"_blank\">Technical details</a>"
+msgstr "目前匯入的檔案類型與這個外掛不相容。請確認要匯入的檔案是由 All-in-One WP Migration 建立的 <strong>.wpress</strong> 檔案。<a href=\"https://help.servmask.com/knowledgebase/invalid-backup-file/\" target=\"_blank\">技術詳細資料</a>"
+
+#: lib/controller/class-ai1wm-export-controller.php:79
+msgid "Unable to export. Error code: %s. %s"
+msgstr "無法匯出。錯誤代碼: %s。%s"
+
+#: lib/model/import/class-ai1wm-import-permalinks.php:42
+msgid "Done getting WordPress permalinks settings."
+msgstr "WordPress 永久連結設定已取得。"
+
+#: lib/model/import/class-ai1wm-import-permalinks.php:36
+msgid "Getting WordPress permalinks settings..."
+msgstr "正在取得 WordPress 永久連結設定..."
+
+#: lib/view/import/avada.php:41
+msgid "» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">Optionally, review the plugin</a>. (opens a new window)"
+msgstr "» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">為外掛評分 (選填)</a>。(在新視窗中開啟)"
+
+#: lib/view/import/avada.php:40
+msgid "» <a class=\"ai1wm-no-underline\" href=\"https://theme-fusion.com/documentation/avada/installation-maintenance/important-update-information/#clear-caches\" target=\"_blank\">Reset Avada Fusion Builder cache</a>. (opens a new window)<br />"
+msgstr "» <a class=\"ai1wm-no-underline\" href=\"https://theme-fusion.com/documentation/avada/installation-maintenance/important-update-information/#clear-caches\" target=\"_blank\">重設 Avada Fusion Builder 快取</a>。(在新視窗中開啟)<br />"
+
+#: lib/view/import/avada.php:37
+msgid "» <a class=\"ai1wm-no-underline\" href=\"https://oxygenbuilder.com/documentation/other/importing-exporting/#resigning\" target=\"_blank\">Re-sign Oxygen Builder shortcodes</a>. (opens a new window)<br />"
+msgstr "» <a class=\"ai1wm-no-underline\" href=\"https://oxygenbuilder.com/documentation/other/importing-exporting/#resigning\" target=\"_blank\">重新簽署 Oxygen Builder 短代碼</a>。(在新視窗中開啟)<br />"
+
+#: lib/view/import/avada.php:31
+msgid "» Permalinks are set to default. <a class=\"ai1wm-no-underline\" href=\"https://help.servmask.com/knowledgebase/permalinks-are-set-to-default/\" target=\"_blank\">Why?</a> (opens a new window)<br />"
+msgstr "» [永久連結] 的設定值已設定為 [預設]。<a class=\"ai1wm-no-underline\" href=\"https://help.servmask.com/knowledgebase/permalinks-are-set-to-default/\" target=\"_blank\">進一步了解成因</a>。(在新視窗中開啟)<br />"
+
+#: lib/view/import/avada.php:33
+msgid "» <a class=\"ai1wm-no-underline\" href=\"%s\" target=\"_blank\">Save permalinks structure</a>. (opens a new window)<br />"
+msgstr "» <a class=\"ai1wm-no-underline\" href=\"%s\" target=\"_blank\">儲存永久連結結構</a>。(在新視窗中開啟)<br />"
+
+#: lib/model/export/class-ai1wm-export-enumerate-tables.php:80
+msgid "Done retrieving a list of WordPress database tables."
+msgstr "擷取 WordPress 資料庫的資料表清單已完成。"
+
+#: lib/model/export/class-ai1wm-export-enumerate-tables.php:46
+msgid "Retrieving a list of WordPress database tables..."
+msgstr "正在擷取 WordPress 資料庫的資料表清單..."
+
+#: lib/view/main/translate.php:31
+msgid "Translate"
+msgstr "本地化"
+
+#: lib/view/import/done.php:31
+msgid "» Permalinks are set to default. <a class=\"ai1wm-no-underline\" href=\"https://help.servmask.com/knowledgebase/permalinks-are-set-to-default/\" target=\"_blank\">Why?</a> (opens a new window)<br />» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">Optionally, review the plugin</a>. (opens a new window)"
+msgstr "» [永久連結] 的設定值已設定為 [預設]。<a class=\"ai1wm-no-underline\" href=\"https://help.servmask.com/knowledgebase/permalinks-are-set-to-default/\" target=\"_blank\">進一步了解成因</a>。(在新視窗中開啟)<br />» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">為外掛評分 (選填)</a>。(在新視窗中開啟)"
+
+#: lib/view/import/oxygen.php:31
+msgid "» Permalinks are set to default. <a class=\"ai1wm-no-underline\" href=\"https://help.servmask.com/knowledgebase/permalinks-are-set-to-default/\" target=\"_blank\">Why?</a> (opens a new window)<br />» <a class=\"ai1wm-no-underline\" href=\"https://oxygenbuilder.com/documentation/other/importing-exporting/#resigning\" target=\"_blank\">Re-sign Oxygen Builder shortcodes</a>. (opens a new window)<br />» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">Optionally, review the plugin</a>. (opens a new window)"
+msgstr "» [永久連結] 的設定值已設定為 [預設]。<a class=\"ai1wm-no-underline\" href=\"https://help.servmask.com/knowledgebase/permalinks-are-set-to-default/\" target=\"_blank\">進一步了解成因</a>。(在新視窗中開啟)<br />» <a class=\"ai1wm-no-underline\" href=\"https://oxygenbuilder.com/documentation/other/importing-exporting/#resigning\" target=\"_blank\">重新簽署 Oxygen Builder 短代碼</a>。(在新視窗中開啟)<br />» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">為外掛評分 (選填)</a>。(在新視窗中開啟)"
+
+#: lib/view/import/oxygen.php:39
+msgid "» <a class=\"ai1wm-no-underline\" href=\"%s\" target=\"_blank\">Save permalinks structure</a>. (opens a new window)<br />» <a class=\"ai1wm-no-underline\" href=\"https://oxygenbuilder.com/documentation/other/importing-exporting/#resigning\" target=\"_blank\">Re-sign Oxygen Builder shortcodes</a>. (opens a new window)<br />» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">Optionally, review the plugin</a>. (opens a new window)"
+msgstr "» <a class=\"ai1wm-no-underline\" href=\"%s\" target=\"_blank\">儲存永久連結結構</a>。(在新視窗中開啟)<br />» <a class=\"ai1wm-no-underline\" href=\"https://oxygenbuilder.com/documentation/other/importing-exporting/#resigning\" target=\"_blank\">重新簽署 Oxygen Builder 短代碼</a>。(在新視窗中開啟)<br />» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">為外掛評分 (選填)</a>。(在新視窗中開啟)"
+
+#: lib/model/export/class-ai1wm-export-media.php:80
+#: lib/model/export/class-ai1wm-export-media.php:119
+msgid "Archiving %d media files...<br />%d%% complete"
+msgstr "正在壓縮 %d 個媒體檔案...<br />已完成 %d%%"
+
+#: lib/model/export/class-ai1wm-export-content.php:80
+#: lib/model/export/class-ai1wm-export-content.php:119
+msgid "Archiving %d content files...<br />%d%% complete"
+msgstr "正在壓縮 %d 個內容檔案...<br />已完成 %d%%"
+
+#: lib/model/export/class-ai1wm-export-enumerate-content.php:111
+msgid "Done retrieving a list of WordPress content files."
+msgstr "擷取 WordPress 內容檔案清單已完成。"
+
+#: lib/model/export/class-ai1wm-export-enumerate-content.php:51
+msgid "Retrieving a list of WordPress content files..."
+msgstr "正在擷取 WordPress 內容檔案清單..."
+
+#: lib/model/export/class-ai1wm-export-enumerate-media.php:93
+msgid "Done retrieving a list of WordPress media files."
+msgstr "擷取 WordPress 媒體檔案清單已完成。"
+
+#: lib/model/export/class-ai1wm-export-enumerate-media.php:51
+msgid "Retrieving a list of WordPress media files..."
+msgstr "正在擷取 WordPress 媒體檔案清單..."
+
+#: lib/controller/class-ai1wm-main-controller.php:976
+#: lib/controller/class-ai1wm-main-controller.php:1127
+msgid "There is not enough space available on the disk.<br />Free up %s of disk space."
+msgstr "磁碟沒有足夠的空間。<br />釋放 %s 所佔用的磁碟空間。"
+
+#: lib/controller/class-ai1wm-main-controller.php:933
+#: lib/controller/class-ai1wm-main-controller.php:1117
+msgid "I have enough disk space"
+msgstr "這台主機有足夠的磁碟空間"
+
+#: lib/model/import/class-ai1wm-import-options.php:75
+msgid "Done preparing options."
+msgstr "選項準備已完成。"
+
+#: lib/model/class-ai1wm-compatibility.php:50
+msgid "%s is not the latest version. You must update the plugin before you can use it. "
+msgstr "%s 不是最新版本。在使用它之前，必須先更新外掛。"
+
+#: lib/model/import/class-ai1wm-import-confirm.php:83
+msgid "Your backup is from a PHP %s but the site that you are importing to is PHP %s. This could cause the import to fail. Technical details: https://help.servmask.com/knowledgebase/migrate-wordpress-from-php-5-to-php-7/"
+msgstr "這份備份檔案來自執行環境為 PHP %s 的網站，卻要匯入至執行環境為 PHP %s 的主機，這種狀況可能會導致無法匯入。技術詳細資料: https://help.servmask.com/knowledgebase/migrate-wordpress-from-php-5-to-php-7/"
+
+#: lib/view/backups/backups-list.php:46 lib/view/backups/index.php:49
+msgid "Refreshing backup list..."
+msgstr "重新整理備份檔案清單..."
+
+#: lib/view/import/import-permissions.php:34
+msgid "<h3>Site could not be imported</h3><p>Please make sure that storage directory <strong>%s</strong> has read and write permissions.</p><p><a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technical details</a></p>"
+msgstr "<h3>無法匯入網站</h3><p>請確認系統具備對儲存目錄 <strong>%s</strong> 的讀取及寫入權限。</p><p><a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">技術詳細資料</a></p>"
+
+#: lib/view/export/export-permissions.php:34
+msgid "<h3>Site could not be exported</h3><p>Please make sure that storage directory <strong>%s</strong> has read and write permissions.</p><p><a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technical details</a></p>"
+msgstr "<h3>無法匯出網站</h3><p>請確認系統具備對儲存目錄 <strong>%s</strong> 的讀取及寫入權限。</p><p><a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">技術詳細資料</a></p>"
+
+#: lib/view/backups/backups-permissions.php:34
+msgid "<h3>Site could not be restored</h3><p>Please make sure that storage directory <strong>%s</strong> has read and write permissions.</p><p><a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technical details</a></p>"
+msgstr "<h3>無法還原網站</h3><p>請確認系統具備對儲存目錄 <strong>%s</strong> 的讀取及寫入權限。</p><p><a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">技術詳細資料</a></p>"
+
+#: lib/view/main/missing-role-capability-notice.php:34
+msgid "All-in-One WP Migration: Your current profile role does not have Export/Import capabilities enabled. <a href=\"https://help.servmask.com/knowledgebase/how-to-add-import-and-export-capabilities-to-wordpress-users/\" target=\"_blank\">Technical details</a>"
+msgstr "All-in-One WP Migration: 目前的登入身分沒有進行匯出/匯入的權限<a href=\"https://help.servmask.com/knowledgebase/how-to-add-import-and-export-capabilities-to-wordpress-users/\" target=\"_blank\">技術詳細資料</a>"
+
+#: lib/view/import/button-file.php:31
+msgid "To choose a file please go inside the link and click on the browse button."
+msgstr "如需選取檔案，請點擊連結並點擊 [瀏覽] 按鈕。"
+
+#: lib/view/import/done.php:38
+msgid "» <a class=\"ai1wm-no-underline\" href=\"%s\" target=\"_blank\">Save permalinks structure</a>. (opens a new window)<br />» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">Optionally, review the plugin</a>. (opens a new window)"
+msgstr "» <a class=\"ai1wm-no-underline\" href=\"%s\" target=\"_blank\">儲存永久連結結構</a>。(在新視窗中開啟)<br />» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">為外掛評分 (選填)</a>。(在新視窗中開啟)"
+
+#: lib/controller/class-ai1wm-main-controller.php:1126
+msgid "\"Restore\" functionality is available in a <a href=\"https://servmask.com/products/unlimited-extension\" target=\"_blank\">paid extension</a>.<br />You could also download the backup and then use \"Import from file\"."
+msgstr "從網站主機伺服器直接還原為<a href=\"https://servmask.com/products/unlimited-extension\" target=\"_blank\">付費擴充功能</a>。<br />網站管理員可以改為先下載備份檔案，然後再從備份檔案匯入網站。"
+
+#: lib/controller/class-ai1wm-main-controller.php:930
+#: lib/controller/class-ai1wm-main-controller.php:1113
+msgid "Finish"
+msgstr "完成"
+
+#: lib/view/backups/backups-list.php:64
+msgid "Click to set a label for this backup"
+msgstr "點擊以設定這個備份檔案的標籤"
+
+#: lib/model/export/class-ai1wm-export-download.php:65
+msgid "<a href=\"%s\" class=\"ai1wm-button-green ai1wm-emphasize ai1wm-button-download\" title=\"%s\" download=\"%s\"><span>Download %s</span><em>Size: %s</em></a>"
+msgstr "<a href=\"%s\" class=\"ai1wm-button-green ai1wm-emphasize ai1wm-button-download\" title=\"%s\" download=\"%s\"><span>下載 %s 的匯出檔</span>∣<strong>檔案大小: %s</strong></a>"
+
+#: lib/controller/class-ai1wm-export-controller.php:89
+msgid "Unable to export: %s"
+msgstr "無法匯出: %s"
+
+#: lib/controller/class-ai1wm-import-controller.php:100
+msgid "Unable to import: %s"
+msgstr "無法匯入: %s"
+
+#: lib/controller/class-ai1wm-import-controller.php:79
+#: lib/controller/class-ai1wm-import-controller.php:89
+msgid "Unable to import. Error code: %s. %s"
+msgstr "無法匯入。錯誤代碼: %s。%s"
+
+#: lib/model/import/class-ai1wm-import-confirm.php:48
+msgid "The import process will overwrite your website including the database, media, plugins, and themes. Are you sure to proceed?"
+msgstr "匯入程序會覆寫這個網站，包含資料庫、媒體檔案、外掛及佈景主題。確定要繼續執行？"
+
+#: lib/model/import/class-ai1wm-import-validate.php:115
+msgid "Please make sure that your file was exported using <strong>All-in-One WP Migration</strong> plugin. <a href=\"https://help.servmask.com/knowledgebase/invalid-backup-file/\" target=\"_blank\">Technical details</a>"
+msgstr "請確定目前的檔案是由 <strong>All-in-One WP Migration</strong> 外掛匯出。<a href=\"https://help.servmask.com/knowledgebase/invalid-backup-file/\" target=\"_blank\">技術詳細資料</a>"
+
+#: lib/model/import/class-ai1wm-import-validate.php:92
+msgid "The archive file is corrupted. Follow <a href=\"https://help.servmask.com/knowledgebase/corrupted-archive/\" target=\"_blank\">this article</a> to resolve the problem."
+msgstr "壓縮檔已損毀。請參考<a href=\"https://help.servmask.com/knowledgebase/corrupted-archive/\" target=\"_blank\">這篇文章</a>以解決問題。"
+
+#: lib/model/import/class-ai1wm-import-validate.php:37
+msgid "Your PHP is 32-bit. In order to import your file, please change your PHP version to 64-bit and try again. <a href=\"https://help.servmask.com/knowledgebase/php-32bit/\" target=\"_blank\">Technical details</a>"
+msgstr "這個網站的 PHP 執行環境為 32 位元版本，請改用 64 位元版本後再試一次。<a href=\"https://help.servmask.com/knowledgebase/php-32bit/\" target=\"_blank\">技術詳細資料</a>"
+
+#: lib/model/import/class-ai1wm-import-confirm.php:89
+msgid "<i class=\"ai1wm-import-info\">Your backup is from a PHP %s but the site that you are importing to is PHP %s. This could cause the import to fail. <a href=\"https://help.servmask.com/knowledgebase/migrate-wordpress-from-php-5-to-php-7/\" target=\"_blank\">Technical details</a></i>"
+msgstr "<i class=\"ai1wm-import-info\">這份備份檔案來自執行環境為 PHP %s 的網站，卻要匯入至執行環境為 PHP %s 的主機，這種狀況可能會導致無法匯入。<a href=\"https://help.servmask.com/knowledgebase/migrate-wordpress-from-php-5-to-php-7/\" target=\"_blank\">技術詳細資料</a></i>"
+
+#: lib/model/import/class-ai1wm-import-confirm.php:54
+msgid "The import process will overwrite your website including the database, media, plugins, and themes. Please ensure that you have a backup of your data before proceeding to the next step."
+msgstr "匯入程序會覆寫這個網站，包含資料庫、媒體檔案、外掛及佈景主題。在繼續匯入網站前，請確認已為這個網站進行備份。"
+
+#: lib/model/class-ai1wm-compatibility.php:52
+msgid "<strong>%s</strong> is not the latest version. You must <a href=\"%s\">update the plugin</a> before you can use it. <br />"
+msgstr "<strong>%s</strong> 不是最新版本。在使用它之前，必須先<a href=\"%s\">更新外掛</a>。<br />"
+
+#: lib/controller/class-ai1wm-main-controller.php:968
+msgid "The file that you are trying to import is over the maximum upload file size limit of <strong>%s</strong>.<br />You can remove this restriction by purchasing our <a href=\"https://servmask.com/products/unlimited-extension\" target=\"_blank\">Unlimited Extension</a>."
+msgstr "目前匯入的檔案超過 <strong>%s</strong> 的上傳檔案大小上限。<br />如需解除這項限制，請購買<a href=\"https://servmask.com/products/unlimited-extension\" target=\"_blank\">Unlimited 擴充功能</a>。"
+
+#: lib/controller/class-ai1wm-main-controller.php:961
+#: lib/model/import/class-ai1wm-import-upload.php:55
+msgid "The file type that you have tried to upload is not compatible with this plugin. Please ensure that your file is a <strong>.wpress</strong> file that was created with the All-in-One WP migration plugin. <a href=\"https://help.servmask.com/knowledgebase/invalid-backup-file/\" target=\"_blank\">Technical details</a>"
+msgstr "目前上傳的檔案類型與這個外掛不相容。請確認要上傳的檔案是由 All-in-One WP Migration 建立的 <strong>.wpress</strong> 檔案。<a href=\"https://help.servmask.com/knowledgebase/invalid-backup-file/\" target=\"_blank\">技術詳細資料</a>"
+
+#: lib/view/main/multisite-notice.php:34
+msgid "WordPress Multisite is supported via our All-in-One WP Migration Multisite Extension. You can get a copy of it here"
+msgstr "All-in-One WP Migration 的 Multisite 擴充功能支援 WordPress 多站網路。請前往授權頁面付費購買。"
+
+#: lib/view/main/backups-htaccess-notice.php:35
+#: lib/view/main/backups-index-html-notice.php:35
+#: lib/view/main/backups-index-php-notice.php:35
+#: lib/view/main/backups-robots-txt-notice.php:35
+#: lib/view/main/backups-webconfig-notice.php:35
+#: lib/view/main/storage-index-html-notice.php:35
+#: lib/view/main/storage-index-php-notice.php:35
+#: lib/view/main/wordpress-htaccess-notice.php:35
+msgid "All-in-One WP Migration is not able to create <strong>%s</strong> file. Try to change permissions of the parent folder or send us an email at <a href=\"mailto:support@servmask.com\">support@servmask.com</a> for assistance."
+msgstr "All-in-One WP Migration 無法建立 <strong>%s</strong> 檔案。請變更上層資料夾權限，或傳送電子郵件<a href=\"mailto:support@servmask.com\">聯絡我們</a>取得協助。"
+
+#: lib/view/main/backups-path-notice.php:35
+#: lib/view/main/storage-path-notice.php:35
+msgid "All-in-One WP Migration is not able to create <strong>%s</strong> folder. You will need to create this folder and grant it read/write/execute permissions (0777) for the All-in-One WP Migration plugin to function properly."
+msgstr "All-in-One WP Migration 無法建立 <strong>%s</strong> 資料夾。網站管理員必須為 All-in-One WP Migration 建立對應資料夾，並設定為 0777 (讀取/寫入/執行) 權限，外掛才能正確執行。"
+
+#: lib/view/import/pro.php:36
+msgid "or"
+msgstr "或"
+
+#: lib/view/import/pro.php:35
+msgid "How-to: Increase maximum upload file size"
+msgstr "如何提高上傳檔案大小上限"
+
+#: lib/view/import/pro.php:32
+msgid "Maximum upload file size: <strong>%s</strong>."
+msgstr "上傳檔案大小上限: <strong>%s</strong>。"
+
+#: lib/model/import/class-ai1wm-import-upload.php:79
+msgid "The file is too large for this server."
+msgstr "上傳的檔案大小超過這台伺服器的上限。"
+
+#: lib/controller/class-ai1wm-main-controller.php:952
+msgid "<a href=\"https://help.servmask.com/2018/10/27/how-to-increase-maximum-upload-file-size-in-wordpress/\" target=\"_blank\">How-to: Increase maximum upload file size</a> or "
+msgstr "<a href=\"https://help.servmask.com/2018/10/27/how-to-increase-maximum-upload-file-size-in-wordpress/\" target=\"_blank\">如何提高上傳檔案大小上限</a>或"
+
+#: lib/controller/class-ai1wm-main-controller.php:947
+msgid "Your file exceeds the maximum upload size for this site: <strong>%s</strong><br />%s%s"
+msgstr "檔案已超過這個網站的檔案上傳大小限制: <strong>%s</strong><br />%s%s"
+
+#: lib/view/import/import-buttons.php:39
+msgid "Drag & Drop a backup to import it"
+msgstr "拖放備份檔案以匯入"
+
+#: lib/model/export/class-ai1wm-export-database.php:77
+#: lib/model/export/class-ai1wm-export-database.php:185
+msgid "Exporting database...<br />%d%% complete<br />%s records saved"
+msgstr "正在匯出資料庫...<br />已完成 %d%%<br />%s 筆資料已儲存"
+
+#: lib/controller/class-ai1wm-main-controller.php:1125
+msgid "Restoring a backup is available via Unlimited extension. <a href=\"https://servmask.com/products/unlimited-extension\" target=\"_blank\">Get it here</a>"
+msgstr "從網站主機伺服器直接還原為付費版 Unlimited 擴充功能。<a href=\"https://servmask.com/products/unlimited-extension\" target=\"_blank\">立即購買</a>"
+
+#: lib/controller/class-ai1wm-main-controller.php:275
+msgid "All-in-One WP Migration Command"
+msgstr "All-in-One WP Migration 命令"
+
+#: lib/controller/class-ai1wm-main-controller.php:806
+#: lib/controller/class-ai1wm-main-controller.php:1097
+#: lib/model/export/class-ai1wm-export-init.php:43
+msgid "Preparing to export..."
+msgstr "正在準備匯出網站..."
+
+#: lib/view/backups/backups-list.php:82
+msgid "%s ago"
+msgstr "%s前"
+
+#: lib/controller/class-ai1wm-main-controller.php:1264
+msgid "Your purchase ID is invalid, please <a href=\"mailto:support@servmask.com\">contact us</a>"
+msgstr "無效的購買 ID。請<a href=\"mailto:support@servmask.com\">聯絡我們</a>"
+
+#: lib/controller/class-ai1wm-main-controller.php:1124
+msgid "Are you sure you want to delete this file?"
+msgstr "確定要刪除這個備份檔案？"
+
+#: lib/controller/class-ai1wm-main-controller.php:935
+#: lib/controller/class-ai1wm-main-controller.php:1119
+msgid "Please do not close this browser window or your import will fail"
+msgstr "請不要關閉這個瀏覽器視窗，否則匯入程序會失敗。"
+
+#: lib/controller/class-ai1wm-main-controller.php:934
+#: lib/controller/class-ai1wm-main-controller.php:1118
+msgid "Continue"
+msgstr "繼續"
+
+#: lib/controller/class-ai1wm-main-controller.php:932
+#: lib/controller/class-ai1wm-main-controller.php:1116
+msgid "Proceed"
+msgstr "繼續"
+
+#: lib/controller/class-ai1wm-main-controller.php:931
+#: lib/controller/class-ai1wm-main-controller.php:1115
+msgid "Stop import"
+msgstr "停止匯入程序"
+
+#: lib/controller/class-ai1wm-main-controller.php:928
+#: lib/controller/class-ai1wm-main-controller.php:1112
+msgid "Please wait, stopping the import..."
+msgstr "請稍候，正在停止匯入程序..."
+
+#: lib/controller/class-ai1wm-main-controller.php:927
+#: lib/controller/class-ai1wm-main-controller.php:1111
+msgid "Unable to stop the import. Refresh the page and try again"
+msgstr "無法停止匯入程序，請重新整理頁面後再試一次。"
+
+#: lib/controller/class-ai1wm-main-controller.php:926
+#: lib/controller/class-ai1wm-main-controller.php:1110
+msgid "Unable to prepare blogs on import. Refresh the page and try again"
+msgstr "無法進行匯入程序準備工作，請重新整理頁面後再試一次。"
+
+#: lib/controller/class-ai1wm-main-controller.php:924
+#: lib/controller/class-ai1wm-main-controller.php:1109
+msgid "Unable to confirm the import. Refresh the page and try again"
+msgstr "無法確認匯入程序，請重新整理頁面後再試一次。"
+
+#: lib/controller/class-ai1wm-main-controller.php:923
+#: lib/controller/class-ai1wm-main-controller.php:1108
+msgid "Unable to start the import. Refresh the page and try again"
+msgstr "無法啟動匯入程序，請重新整理頁面後再試一次。"
+
+#: lib/controller/class-ai1wm-main-controller.php:920
+#: lib/controller/class-ai1wm-main-controller.php:1105
+msgid "You are about to stop importing your website, are you sure?"
+msgstr "即將停止匯入網站，確定要繼續操作嗎？"
+
+#: lib/controller/class-ai1wm-main-controller.php:733
+#: lib/controller/class-ai1wm-main-controller.php:817
+#: lib/controller/class-ai1wm-main-controller.php:939
+#: lib/controller/class-ai1wm-main-controller.php:1123
+msgid "Thanks for submitting your request!"
+msgstr "感謝提交你的要求！"
+
+#: lib/controller/class-ai1wm-main-controller.php:732
+#: lib/controller/class-ai1wm-main-controller.php:816
+#: lib/controller/class-ai1wm-main-controller.php:938
+#: lib/controller/class-ai1wm-main-controller.php:1122
+msgid "Thanks for submitting your feedback!"
+msgstr "感謝提交你的意見反應！"
+
+#: lib/controller/class-ai1wm-main-controller.php:731
+#: lib/controller/class-ai1wm-main-controller.php:815
+#: lib/controller/class-ai1wm-main-controller.php:937
+#: lib/controller/class-ai1wm-main-controller.php:1121
+msgid "How may we help you?"
+msgstr "請以英文說明需要我們協助的詳細資訊。"
+
+#: lib/controller/class-ai1wm-main-controller.php:730
+#: lib/controller/class-ai1wm-main-controller.php:814
+#: lib/controller/class-ai1wm-main-controller.php:936
+#: lib/controller/class-ai1wm-main-controller.php:1120
+msgid "Leave plugin developers any feedback here"
+msgstr "請在這裡填寫給外掛開發者的意見反應"
+
+#: lib/controller/class-ai1wm-main-controller.php:813
+#: lib/controller/class-ai1wm-main-controller.php:1104
+msgid "Stop export"
+msgstr "停止匯出程序"
+
+#: lib/controller/class-ai1wm-main-controller.php:812
+#: lib/controller/class-ai1wm-main-controller.php:929
+#: lib/controller/class-ai1wm-main-controller.php:1103
+#: lib/controller/class-ai1wm-main-controller.php:1114
+msgid "Close"
+msgstr "關閉"
+
+#: lib/controller/class-ai1wm-main-controller.php:811
+#: lib/controller/class-ai1wm-main-controller.php:1102
+msgid "Please wait, stopping the export..."
+msgstr "請稍候，正在停止匯出程序..."
+
+#: lib/controller/class-ai1wm-main-controller.php:810
+#: lib/controller/class-ai1wm-main-controller.php:1101
+msgid "Unable to stop the export. Refresh the page and try again"
+msgstr "無法停止匯出程序，請重新整理頁面後再試一次。"
+
+#: lib/controller/class-ai1wm-main-controller.php:809
+#: lib/controller/class-ai1wm-main-controller.php:1100
+msgid "Unable to run the export. Refresh the page and try again"
+msgstr "無法執行匯出程序，請重新整理頁面後再試一次。"
+
+#: lib/controller/class-ai1wm-main-controller.php:808
+#: lib/controller/class-ai1wm-main-controller.php:1099
+msgid "Unable to start the export. Refresh the page and try again"
+msgstr "無法啟動匯出程序，請重新整理頁面後再試一次。"
+
+#: lib/controller/class-ai1wm-main-controller.php:805
+#: lib/controller/class-ai1wm-main-controller.php:1096
+msgid "You are about to stop exporting your website, are you sure?"
+msgstr "即將停止匯出網站，確定要繼續操作嗎？"
+
+#: functions.php:1695
+msgid "Unable to authenticate the secret key. <a href=\"https://help.servmask.com/knowledgebase/invalid-secret-key/\" target=\"_blank\">Technical details</a>"
+msgstr "無法驗證祕密金鑰。<a href=\"https://help.servmask.com/knowledgebase/invalid-secret-key/\" target=\"_blank\">技術詳細資料</a>"
+
+#: functions.php:1561
+msgid "Unable to get current pointer position of %s. <a href=\"https://help.servmask.com/knowledgebase/php-32bit/\" target=\"_blank\">Technical details</a>"
+msgstr "無法取得 %s 目前的指標位置。<a href=\"https://help.servmask.com/knowledgebase/php-32bit/\" target=\"_blank\">技術詳細資料</a>"
+
+#: functions.php:1544
+msgid "Unable to seek to offset %d on %s. <a href=\"https://help.servmask.com/knowledgebase/php-32bit/\" target=\"_blank\">Technical details</a>"
+msgstr "無法找到 %d 位移量 (在 %s)。<a href=\"https://help.servmask.com/knowledgebase/php-32bit/\" target=\"_blank\">技術詳細資料</a>"
+
+#: functions.php:1522
+msgid "Unable to read file: %s. <a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technical details</a>"
+msgstr "無法讀取檔案 %s。<a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">技術詳細資料</a>"
+
+#: functions.php:1502
+msgid "Out of disk space. Unable to write to: %s. <a href=\"https://help.servmask.com/knowledgebase/out-of-disk-space/\" target=\"_blank\">Technical details</a>"
+msgstr "由於這個網站已無足夠的磁碟空間，因此無法寫入 %s。<a href=\"https://help.servmask.com/knowledgebase/out-of-disk-space/\" target=\"_blank\">技術詳細資料</a>"
+
+#: functions.php:1496 functions.php:1580
+msgid "Unable to write to: %s. <a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technical details</a>"
+msgstr "無法寫入 %s。<a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">技術詳細資料</a>"
+
+#: functions.php:1477
+msgid "Unable to open %s with mode %s. <a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technical details</a>"
+msgstr "無法開啟 %s (使用 %s 模式)。<a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">技術詳細資料</a>"
+
+#: functions.php:63 functions.php:105
+msgid "Unable to locate archive path. <a href=\"https://help.servmask.com/knowledgebase/invalid-archive-path/\" target=\"_blank\">Technical details</a>"
+msgstr "找不到壓縮檔儲存資料夾路徑。<a href=\"https://help.servmask.com/knowledgebase/invalid-archive-path/\" target=\"_blank\">技術詳細資料</a>"
+
+#: functions.php:38
+msgid "Unable to locate storage path. <a href=\"https://help.servmask.com/knowledgebase/invalid-storage-path/\" target=\"_blank\">Technical details</a>"
+msgstr "找不到儲存資料夾路徑。<a href=\"https://help.servmask.com/knowledgebase/invalid-storage-path/\" target=\"_blank\">技術詳細資料</a>"
+
+#: lib/view/common/leave-feedback.php:59
+msgid "I agree that by filling in the contact form with my data, I authorize All-in-One WP Migration to use my <strong>email</strong> to reply to my requests for information. <a href=\"https://www.iubenda.com/privacy-policy/946881\" target=\"_blank\">Privacy policy</a>"
+msgstr "在填寫並傳送含有個人資料的聯絡表單後，我同意授權 All-in-One WP Migration 使用我的<strong>電子郵件地址</strong>及相關資訊以回覆我的問題。<a href=\"https://www.iubenda.com/privacy-policy/946881\" target=\"_blank\">隱私權政策</a>"
+
+#: lib/model/export/class-ai1wm-export-config.php:180
+msgid "Done preparing configuration file."
+msgstr "組態檔準備已完成。"
+
+#: lib/model/export/class-ai1wm-export-config.php:36
+msgid "Preparing configuration file..."
+msgstr "正在準備組態檔⋯"
+
+#: lib/model/export/class-ai1wm-export-config-file.php:73
+msgid "Done archiving configuration file."
+msgstr "壓縮組態檔已完成。"
+
+#: lib/model/export/class-ai1wm-export-config-file.php:61
+#: lib/model/export/class-ai1wm-export-config-file.php:96
+msgid "Archiving configuration file...<br />%d%% complete"
+msgstr "正在壓縮組態檔...<br />已完成 %d%%"
+
+#: lib/view/backups/backups-list.php:88
+msgid "2GB+"
+msgstr "超過 2GB"
+
+#: lib/model/import/class-ai1wm-import-validate.php:119
+msgid "Done unpacking archive."
+msgstr "備份檔案解壓縮已完成。"
+
+#: lib/model/import/class-ai1wm-import-validate.php:82
+#: lib/model/import/class-ai1wm-import-validate.php:139
+msgid "Unpacking archive...<br />%d%% complete"
+msgstr "正在解壓縮檔案...<br />已完成 %d%%"
+
+#: lib/model/export/class-ai1wm-export-database-file.php:78
+msgid "Done archiving database."
+msgstr "壓縮資料庫已完成。"
+
+#: lib/model/export/class-ai1wm-export-database-file.php:66
+#: lib/model/export/class-ai1wm-export-database-file.php:101
+msgid "Archiving database...<br />%d%% complete"
+msgstr "正在壓縮資料庫...<br />已完成 %d%%"
+
+#: lib/model/import/class-ai1wm-import-database.php:78
+#: lib/model/import/class-ai1wm-import-database.php:1007
+msgid "Restoring database...<br />%d%% complete"
+msgstr "正在還原資料庫...<br />已完成 %d%%"
+
+#: lib/model/export/class-ai1wm-export-compatibility.php:35
+#: lib/model/import/class-ai1wm-import-compatibility.php:36
+msgid "Checking extensions compatibility..."
+msgstr "正在檢查擴充功能相容性..."
+
+#: lib/model/import/class-ai1wm-import-database.php:987
+msgid "Done restoring database."
+msgstr "還原資料庫已完成。"
+
+#: lib/controller/class-ai1wm-main-controller.php:921
+#: lib/controller/class-ai1wm-main-controller.php:1106
+msgid "Preparing to import..."
+msgstr "正在準備匯入..."
+
+#: lib/controller/class-ai1wm-main-controller.php:1374
+msgid "Monthly"
+msgstr "每月"
+
+#: lib/controller/class-ai1wm-main-controller.php:1370
+msgid "Weekly"
+msgstr "每週"
+
+#: lib/view/export/advanced-settings.php:97
+msgid "Do <strong>not</strong> export must-use plugins (files)"
+msgstr "<strong>不要</strong>匯出 [強制使用] 外掛 (wp-content/mu-plugins)"
+
+#: lib/model/import/class-ai1wm-import-mu-plugins.php:63
+msgid "Done activating mu-plugins."
+msgstr "啟用 [強制使用] 外掛已完成。"
+
+#: lib/model/import/class-ai1wm-import-mu-plugins.php:35
+msgid "Activating mu-plugins..."
+msgstr "正在啟用 [強制使用] 外掛..."
+
+#: lib/view/export/advanced-settings.php:121
+msgid "Do <strong>not</strong> replace email domain (sql)"
+msgstr "<strong>不要</strong>變更電子郵件地址網域名稱 (SQL)"
+
+#: lib/model/import/class-ai1wm-import-upload.php:91
+msgid "Unrecognized error %s during upload."
+msgstr "上傳檔案時發生無法識別的錯誤 (%s)。"
+
+#: lib/model/import/class-ai1wm-import-upload.php:88
+msgid "A PHP extension stopped the file upload."
+msgstr "檔案上傳已由 PHP 擴充模組停止。"
+
+#: lib/model/import/class-ai1wm-import-upload.php:85
+msgid "Failed to write file to disk."
+msgstr "無法將檔案寫入磁碟。"
+
+#: lib/model/import/class-ai1wm-import-upload.php:82
+msgid "Missing a temporary folder."
+msgstr "找不到暫存資料夾。"
+
+#: lib/model/import/class-ai1wm-import-upload.php:70
+msgid "Unable to upload the file because %s"
+msgstr "無法上傳檔案。原因: %s"
+
+#: lib/model/import/class-ai1wm-import-upload.php:42
+msgid "Missing tmp_name in upload file."
+msgstr "上傳檔案中缺少 tmp_name。"
+
+#: lib/model/import/class-ai1wm-import-upload.php:38
+msgid "Missing error key in upload file."
+msgstr "上傳檔案中缺少錯誤索引碼。"
+
+#: lib/model/import/class-ai1wm-import-upload.php:34
+msgid "Missing upload file."
+msgstr "缺少上傳檔案。"
+
+#: lib/model/import/class-ai1wm-import-blogs.php:150
+msgid "Done preparing blogs."
+msgstr "網站匯入已完成。"
+
+#: lib/model/import/class-ai1wm-import-blogs.php:140
+msgid "Unable to import <strong>WordPress Network</strong> into WordPress <strong>Single</strong> site."
+msgstr "無法將 WordPress <strong>多站網路</strong>匯入至 WordPress <strong>單一網站</strong>。"
+
+#: lib/model/import/class-ai1wm-import-blogs.php:137
+msgid "At least <strong>one WordPress</strong> site should be presented in the archive."
+msgstr "壓縮檔中要包含<strong>至少一個</strong> WordPress 網站。"
+
+#: lib/model/import/class-ai1wm-import-blogs.php:134
+msgid "The archive should contain <strong>Single WordPress</strong> site! Please revisit your export settings."
+msgstr "壓縮檔中要包含<strong>單一 WordPress 網站</strong>。請檢查匯出設定。"
+
+#: lib/model/import/class-ai1wm-import-blogs.php:35
+msgid "Preparing blogs..."
+msgstr "正在匯入網站..."
+
+#: lib/model/class-ai1wm-feedback.php:78
+msgid "Something went wrong: %s"
+msgstr "執行時發生錯誤: %s"
+
+#: lib/model/class-ai1wm-feedback.php:61
+msgid "Please accept feedback term conditions."
+msgstr "請接受意見反應需要遵守的條款及條件。"
+
+#: lib/model/class-ai1wm-feedback.php:56
+msgid "Please enter comments in the text area."
+msgstr "請在文字區域輸入意見內容。"
+
+#: lib/model/class-ai1wm-feedback.php:46
+msgid "Your email is not valid."
+msgstr "無效的電子郵件地址。"
+
+#: lib/model/class-ai1wm-feedback.php:51
+msgid "Feedback type is not valid."
+msgstr "無效的意見反應類型。"
+
+#: lib/view/updater/modal.php:55
+msgid "There is an update available. To update, you must enter your"
+msgstr "已有更新可供安裝。如需更新，請輸入專屬"
+
+#: lib/view/updater/modal.php:48
+msgid "Discard"
+msgstr "捨棄"
+
+#: lib/view/updater/modal.php:46
+msgid "Save"
+msgstr "儲存"
+
+#: lib/view/updater/modal.php:42
+msgid "here"
+msgstr "點擊這裡"
+
+#: lib/view/updater/modal.php:41
+msgid "Don't have a Purchase ID? You can find your Purchase ID"
+msgstr "找不到購買 ID？重新取得購買 ID:"
+
+#: lib/view/updater/modal.php:37 lib/view/updater/modal.php:56
+msgid "Purchase ID"
+msgstr "購買 ID"
+
+#: lib/view/updater/modal.php:34
+msgid "To update your plugin/extension to the latest version, please fill your Purchase ID below."
+msgstr "如需更新外掛/擴充功能至最新版本，請輸入購買 ID。"
+
+#: lib/view/updater/modal.php:33
+msgid "Enter your Purchase ID"
+msgstr "請輸入購買 ID"
+
+#: lib/controller/class-ai1wm-main-controller.php:1263
+#: lib/view/updater/check.php:31
+msgid "Check for updates"
+msgstr "檢查更新"
+
+#. Author of the plugin
+#: all-in-one-wp-migration.php
+msgid "ServMask"
+msgstr "ServMask"
+
+#. Description of the plugin
+#: all-in-one-wp-migration.php
+msgid "Migration tool for all your blog data. Import or Export your blog content with a single click."
+msgstr "適用於移轉網站上各種類型資料的工具，一鍵點擊即可匯入或匯出網站內容。"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: all-in-one-wp-migration.php
+msgid "https://servmask.com/"
+msgstr "https://servmask.com/"
+
+#. Plugin Name of the plugin
+#: all-in-one-wp-migration.php
+msgid "All-in-One WP Migration"
+msgstr "All-in-One WP Migration"
+
+#: lib/view/import/index.php:37
+msgid "Import Site"
+msgstr "匯入網站"
+
+#: lib/view/import/pro.php:39
+msgid "Get unlimited"
+msgstr "取得無限制版本"
+
+#: lib/view/import/import-buttons.php:43
+msgid "Import From"
+msgstr "匯入來源"
+
+#: lib/view/export/index.php:37
+msgid "Export Site"
+msgstr "匯出網站"
+
+#: lib/view/export/help-section.php:51
+msgid "Once the file is successfully downloaded on your computer, you can import it to any of your WordPress sites."
+msgstr "檔案成功下載至個人裝置後，便可使用下載完成的檔案在任何 WordPress 網站進行匯入。"
+
+#: lib/view/export/help-section.php:47
+msgid "Press \"Export\" button and the site archive file will pop up in your browser."
+msgstr "按下 [匯出] 按鈕且匯出成功後，網站匯出壓縮檔會顯示於瀏覽器的彈出式視窗。"
+
+#: lib/view/export/help-section.php:43
+msgid "In the advanced settings section you can configure more precisely the way of exporting."
+msgstr "在 [進階選項] 中，可以更準確的設定匯出方式。"
+
+#: lib/view/export/help-section.php:37
+msgid "Quick hints"
+msgstr "快速提示"
+
+#: lib/view/export/help-section.php:33
+msgid "You can then use the import functionality provided by this plugin to import the zipped file onto any other WordPress sites that you have administrator access to."
+msgstr "之後變可以在任何具備網站管理員權限的 WordPress 網站使用這個外掛匯入 ZIP 壓縮檔。"
+
+#: lib/view/export/help-section.php:32
+msgid "This screen allows you to export database, media files, themes and plugins as one zipped file."
+msgstr "網站管理員在這裡能將資料庫、媒體檔案、佈景主題及外掛匯出為單一壓縮檔。"
+
+#: lib/view/export/find-replace.php:52
+msgid "Add"
+msgstr "新增"
+
+#: lib/view/export/find-replace.php:39
+msgid "in the database"
+msgstr "(搜尋/取代均於資料庫中進行)"
+
+#: lib/view/export/find-replace.php:38
+msgid "<another-text>"
+msgstr "<取代文字>"
+
+#: lib/view/export/find-replace.php:37 lib/view/export/find-replace.php:45
+msgid "Replace with"
+msgstr "取代為"
+
+#: lib/view/export/find-replace.php:36
+msgid "<text>"
+msgstr "<原始文字>"
+
+#: lib/view/export/find-replace.php:35 lib/view/export/find-replace.php:44
+msgid "Find"
+msgstr "搜尋"
+
+#: lib/view/export/export-buttons.php:35
+msgid "Export To"
+msgstr "匯出程序儲存方式"
+
+#: lib/view/export/button-file.php:31 lib/view/import/button-file.php:32
+msgid "File"
+msgstr "檔案"
+
+#: lib/view/export/advanced-settings.php:115
+msgid "Do <strong>not</strong> export database (sql)"
+msgstr "<strong>不要</strong>匯出資料庫 (SQL)"
+
+#: lib/view/export/advanced-settings.php:104
+msgid "Do <strong>not</strong> export plugins (files)"
+msgstr "<strong>不要</strong>匯出外掛 (wp-content/plugins)"
+
+#: lib/view/export/advanced-settings.php:88
+msgid "Do <strong>not</strong> export themes (files)"
+msgstr "<strong>不要</strong>匯出佈景主題 (wp-content/themes)"
+
+#: lib/view/export/advanced-settings.php:82
+msgid "Do <strong>not</strong> export media library (files)"
+msgstr "<strong>不要</strong>匯出媒體庫 (wp-content/uploads)"
+
+#: lib/view/export/advanced-settings.php:76
+msgid "Do <strong>not</strong> export post revisions"
+msgstr "<strong>不要</strong>匯出文章內容修訂"
+
+#: lib/view/export/advanced-settings.php:70
+msgid "Do <strong>not</strong> export spam comments"
+msgstr "<strong>不要</strong>匯出垃圾留言"
+
+#: lib/view/export/advanced-settings.php:36
+msgid "(click to expand)"
+msgstr "(點擊以展開)"
+
+#: lib/view/export/advanced-settings.php:35
+msgid "Advanced options"
+msgstr "進階選項"
+
+#: lib/view/common/share-buttons.php:63
+msgid "Tweet"
+msgstr "推文"
+
+#: lib/view/common/leave-feedback.php:64
+msgid "Cancel"
+msgstr "取消"
+
+#: lib/view/common/leave-feedback.php:67
+msgid "Send"
+msgstr "傳送"
+
+#: lib/view/common/leave-feedback.php:54
+msgid "Leave plugin developers any feedback here.."
+msgstr "撰寫給外掛開發者的意見反應..."
+
+#: lib/view/common/leave-feedback.php:51
+msgid "Enter your email address.."
+msgstr "請輸入電子郵件地址..."
+
+#: lib/view/common/leave-feedback.php:44
+msgid "I need help with this plugin"
+msgstr "我在外掛使用上需要協助"
+
+#: lib/view/common/leave-feedback.php:37
+msgid "I have ideas to improve this plugin"
+msgstr "我有改進這個外掛的想法"
+
+#: lib/controller/class-ai1wm-main-controller.php:943
+#: lib/controller/class-ai1wm-main-controller.php:1142
+#: lib/view/export/advanced-settings.php:48
+msgid "Enter a password"
+msgstr "輸入密碼"
+
+#: lib/view/common/sidebar-right.php:39
+msgid "Leave Feedback"
+msgstr "意見反應"
+
+#: lib/view/backups/index.php:57
+msgid "Create backup"
+msgstr "建立備份"
+
+#: lib/view/backups/index.php:52
+msgid "There are no backups available at this time, why not create a new one?"
+msgstr "這個網站目前尚無任何備份檔案，建議立即建立備份。"
+
+#: lib/view/backups/backups-list.php:134 lib/view/backups/backups-list.php:136
+msgid "Delete"
+msgstr "刪除"
+
+#: lib/view/backups/backups-list.php:99 lib/view/backups/backups-list.php:101
+msgid "Restore"
+msgstr "還原"
+
+#: lib/view/backups/backups-list.php:107 lib/view/backups/backups-list.php:109
+#: lib/view/backups/backups-list.php:112 lib/view/backups/backups-list.php:114
+#: lib/view/backups/backups-list.php:122
+msgid "Download"
+msgstr "下載"
+
+#: lib/view/backups/backups-list.php:38
+msgid "Size"
+msgstr "檔案大小"
+
+#: lib/view/backups/backups-list.php:37
+msgid "Date"
+msgstr "備份日期"
+
+#: lib/view/backups/backups-list.php:36
+msgid "Name"
+msgstr "檔案名稱"
+
+#: lib/model/import/class-ai1wm-import-done.php:363
+#: lib/model/import/class-ai1wm-import-done.php:365
+#: lib/model/import/class-ai1wm-import-done.php:367
+msgid "Your site has been imported successfully!"
+msgstr "這個網站的匯入程序已完成！"
+
+#: lib/model/import/class-ai1wm-import-content.php:83
+#: lib/model/import/class-ai1wm-import-content.php:206
+msgid "Restoring %d files...<br />%d%% complete"
+msgstr "正在還原 %d 個檔案...<br />已完成 %d%%"
+
+#: lib/model/export/class-ai1wm-export-download.php:35
+msgid "Renaming exported file..."
+msgstr "正在重新命名匯出檔..."
+
+#: lib/model/export/class-ai1wm-export-database.php:159
+msgid "Done exporting database."
+msgstr "匯出資料庫已完成。"
+
+#: lib/model/export/class-ai1wm-export-plugins.php:80
+#: lib/model/export/class-ai1wm-export-plugins.php:119
+msgid "Archiving %d plugin files...<br />%d%% complete"
+msgstr "正在壓縮 %d 個外掛檔案...<br />已完成 %d%%"
+
+#: lib/model/import/class-ai1wm-import-enumerate.php:50
+msgid "Done retrieving a list of all WordPress files."
+msgstr "擷取 WordPress 全部檔案清單已完成。"
+
+#: lib/model/import/class-ai1wm-import-enumerate.php:35
+msgid "Retrieving a list of all WordPress files..."
+msgstr "正在擷取 WordPress 全部檔案清單..."
+
+#: lib/model/export/class-ai1wm-export-archive.php:44
+msgid "Done creating an empty archive."
+msgstr "無內容壓縮檔已完成建立。"
+
+#: lib/model/export/class-ai1wm-export-archive.php:37
+msgid "Creating an empty archive..."
+msgstr "正在建立無內容壓縮檔..."
+
+#: lib/controller/class-ai1wm-main-controller.php:667
+#: lib/controller/class-ai1wm-main-controller.php:668
+#: lib/view/backups/index.php:37
+msgid "Backups"
+msgstr "備份"
+
+#: lib/controller/class-ai1wm-main-controller.php:657
+#: lib/controller/class-ai1wm-main-controller.php:658
+msgid "Import"
+msgstr "匯入"
+
+#: lib/controller/class-ai1wm-main-controller.php:647
+#: lib/controller/class-ai1wm-main-controller.php:648
+msgid "Export"
+msgstr "匯出"
+
+#: lib/view/main/multisite-notice.php:42
+msgid "Get multisite"
+msgstr "購買 Multisite 擴充功能"
+
+#: lib/controller/class-ai1wm-import-controller.php:103
+#: lib/controller/class-ai1wm-import-controller.php:104
+#: lib/controller/class-ai1wm-main-controller.php:922
+#: lib/controller/class-ai1wm-main-controller.php:1107
+msgid "Unable to import"
+msgstr "無法匯入"
+
+#: lib/controller/class-ai1wm-export-controller.php:92
+#: lib/controller/class-ai1wm-export-controller.php:93
+#: lib/controller/class-ai1wm-main-controller.php:807
+#: lib/controller/class-ai1wm-main-controller.php:1098
+msgid "Unable to export"
+msgstr "無法匯出"

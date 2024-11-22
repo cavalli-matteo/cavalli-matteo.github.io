@@ -1,0 +1,218 @@
+# Translation of Plugins - Advanced Google reCAPTCHA - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - Advanced Google reCAPTCHA - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-04-30 11:21:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - Advanced Google reCAPTCHA - Stable (latest release)\n"
+
+#: libs/functions.php:287 libs/functions.php:304
+msgid "<strong>ERROR</strong>: reCAPTCHA verification request failed<br /><br />"
+msgstr "<strong>HATA</strong>: reCAPTCHA doğrulama isteği başarısız oldu<br /><br />"
+
+#: libs/functions.php:266
+msgid "<strong>ERROR</strong>: Inactive account"
+msgstr "<strong>HATA</strong>: Pasif hesap"
+
+#: libs/setup.php:95
+msgid "WP Captcha plugin <b>requires PHP version 5.6.20</b> or higher to function properly. You are using PHP version %s. Please <a href=\"%s\" target=\"_blank\">update it</a>."
+msgstr "WP Captcha eklentisi <b>PHP sürüm 5.6.20 gerektirir</b>Lütfen Düzgün çalışması için %s sürümü veya daha yüksek sürümü kullanın. Lütfen <a href=\"%s\" target=\"_blank\">güncelleyin</a>."
+
+#: libs/setup.php:82
+msgid "WP Captcha plugin <b>requires WordPress version 4.6</b> or higher to function properly. You are using WordPress version %s. Please <a href=\"%s\">update it</a>."
+msgstr "WP Captcha eklentisi <b>WordPress versiyon 4.6</b> olmalıdır yada daha yüksek sürüm gerekir. WordPress Sürümünüz %s. Lütfen<a href=\"%s\">güncelleyin</a>."
+
+#: libs/functions.php:1200
+msgid "Unknown template ID."
+msgstr "Bilinmeyen şablon kimliği."
+
+#: libs/functions.php:1198
+msgid "Template activated."
+msgstr "Şablon etkinleştirildi."
+
+#: libs/functions.php:445
+msgid "Login form protected by"
+msgstr "Giriş formu bu eklenti tarafından korunmaktadır:"
+
+#: libs/functions.php:282 libs/functions.php:293 libs/functions.php:298
+#: libs/functions.php:311
+msgid "<strong>ERROR</strong>: reCAPTCHA verification failed.<br /><br />Please try again."
+msgstr "<strong>HATA</strong>: reCAPTCHA doğrulaması başarısız oldu.<br /><br />Lütfen yeniden deneyin."
+
+#: libs/functions.php:270
+msgid "<strong>ERROR</strong>: Incorrect password. <a href=\"%s\" title=\"Password Lost and Found\">Lost your password</a>?"
+msgstr "<strong>HATA</strong>: Yanlış parola. <a href=\"%s\" title=\"Parolanı mı unuttun?\">Parolanı mı unuttun?</a>?"
+
+#: libs/functions.php:256
+msgid "<strong>ERROR</strong>: Invalid username. <a href=\"%s\" title=\"Password Lost and Found\">Lost your password</a>?"
+msgstr "<strong>HATA</strong>: Geçersiz kullanıcı adı. <a href=\"%s\" title=\"Parolanı mı unuttun?\">Parolanı mı unuttun?</a>?"
+
+#: libs/functions.php:250
+msgid "<strong>ERROR</strong>: The password field is empty."
+msgstr "<strong>HATA</strong>: Parola alanı boş."
+
+#: libs/functions.php:247
+msgid "<strong>ERROR</strong>: The username field is empty."
+msgstr "<strong>HATA</strong>: Kullanıcı adı alanı boş."
+
+#: libs/functions.php:205 libs/functions.php:240
+msgid "<strong>ERROR</strong>: We're sorry, but this IP has been blocked due to too many recent failed login attempts.<br /><br />Please try again later."
+msgstr "<strong>HATA</strong>: Üzgünüz, bu IP adresi son zamanlarda yapılan çok sayıda başarısız giriş denemesi nedeniyle engellendi.<br /><br />Lütfen daha sonra tekrar deneyin."
+
+#: libs/ajax.php:109 libs/ajax.php:117 libs/ajax.php:122 libs/ajax.php:130
+msgid "reCAPTCHA verification failed "
+msgstr "reCAPTCHA doğrulaması başarısız oldu "
+
+#: libs/ajax.php:105 libs/functions.php:320 libs/functions.php:324
+msgid "<strong>ERROR</strong>: captcha verification failed.<br /><br />Please try again."
+msgstr "<strong>HATA</strong>: captcha doğrulaması başarısız oldu.<br /><br />Lütfen yeniden deneyin."
+
+#: libs/ajax.php:81
+msgid "Unknown tool."
+msgstr "Bilinmeyen araç."
+
+#: libs/admin.php:339
+msgid "PRO"
+msgstr "PRO"
+
+#: libs/admin.php:338
+msgid "Temp Access"
+msgstr "Geçici Erişim"
+
+#: libs/admin.php:337
+msgid "Design"
+msgstr "Tasarım"
+
+#: libs/admin.php:336
+msgid "Country Blocking"
+msgstr "Ülke Engelleme"
+
+#: libs/admin.php:335
+msgid "Firewall"
+msgstr "Güvenlik duvarı"
+
+#: libs/admin.php:334
+msgid "Login Protection"
+msgstr "Giriş Koruması"
+
+#: libs/admin.php:333
+msgid "Activity"
+msgstr "Etkinlikler"
+
+#: libs/admin.php:191
+msgid "Support"
+msgstr "Destek"
+
+#: libs/admin.php:191
+msgid "Get help"
+msgstr "Yardım al"
+
+#: libs/admin.php:170
+msgid "Get EXTRA protection"
+msgstr "Ek koruma alın"
+
+#: libs/admin.php:56
+msgid "OK"
+msgstr "Tamam"
+
+#: libs/admin.php:55
+msgid "Cancel"
+msgstr "İptal"
+
+#: libs/admin.php:48
+msgid "WP Captcha"
+msgstr "WP Captcha"
+
+#: libs/admin.php:47
+msgid "An error has occurred."
+msgstr "Bir hata oluştu."
+
+#: libs/admin.php:46
+msgid "An undocumented error has occurred. Please refresh the page and try again."
+msgstr "Belgelenmemiş bir hata oluştu. Lütfen sayfayı yenileyip yeniden deneyin."
+
+#: interface/tab_login_form.php:14
+msgid "Tools"
+msgstr "Araçlar"
+
+#: interface/tab_login_form.php:13
+msgid "Advanced"
+msgstr "Gelişmiş"
+
+#: interface/tab_login_form.php:12
+msgid "Basic"
+msgstr "Temel"
+
+#: interface/tab_firewall.php:15
+msgid "Cloud Protection"
+msgstr "Bulut koruma"
+
+#: interface/tab_firewall.php:14
+msgid "2FA"
+msgstr "2FA"
+
+#: interface/tab_firewall.php:13
+msgid "General"
+msgstr "Genel"
+
+#: interface/tab_captcha.php:13
+msgid "Where To Show"
+msgstr "Nerede Gösterilsin"
+
+#: interface/tab_captcha.php:12 libs/admin.php:332
+msgid "Captcha"
+msgstr "Captcha"
+
+#: interface/tab_activity.php:13
+msgid "Failed Logins"
+msgstr "Başarısız Girişler"
+
+#: interface/tab_activity.php:12
+msgid "Access Locks"
+msgstr "Erişim Kilitleri"
+
+#: advanced-google-recaptcha.php:35
+msgid "Do not open this file directly."
+msgstr "Bu dosyayı doğrudan açmayın."
+
+#. Author URI of the plugin
+#: advanced-google-recaptcha.php
+msgid "https://www.webfactoryltd.com/"
+msgstr "https://www.webfactoryltd.com/"
+
+#. Author of the plugin
+#: advanced-google-recaptcha.php
+msgid "WebFactory Ltd"
+msgstr "WebFactory Ltd"
+
+#. Plugin URI of the plugin
+#: advanced-google-recaptcha.php
+msgid "https://getwpcaptcha.com/"
+msgstr "https://getwpcaptcha.com/"
+
+#: libs/functions.php:391 libs/functions.php:411
+msgid "ERROR:"
+msgstr "HATA:"
+
+#: libs/admin.php:535
+msgid "Save Changes"
+msgstr "Değişiklikleri Kaydet"
+
+#: libs/admin.php:169
+msgid "Settings"
+msgstr "Ayarlar"
+
+#. Description of the plugin
+#: advanced-google-recaptcha.php
+msgid "Advanced Google reCAPTCHA will safeguard your WordPress site from spam comments and brute force attacks. With this plugin, you can easily add Google reCAPTCHA to WordPress comment form, login form and other forms."
+msgstr "Gelişmiş Google reCAPTCHA, WordPress sitenizi istenmeyen yorumlardan ve kaba kuvvet saldırılarından koruyacaktır. Bu eklenti ile Google reCAPTCHA'yı WordPress yorum formuna, giriş formuna ve diğer formlara kolayca ekleyebilirsiniz."
+
+#. Plugin Name of the plugin
+#: advanced-google-recaptcha.php libs/admin.php:152 libs/admin.php:153
+msgid "Advanced Google reCAPTCHA"
+msgstr "Gelişmiş Google reCAPTCHA"

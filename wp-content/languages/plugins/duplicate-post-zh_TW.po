@@ -1,0 +1,546 @@
+# Translation of Plugins - Yoast Duplicate Post - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Yoast Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-10-25 06:49:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Yoast Duplicate Post - Stable (latest release)\n"
+
+#. translators: %1$s and %2$s are replaced by opening and closing anchor tags.
+#: src/ui/newsletter.php:33
+msgid "Yoast respects your privacy. Read %1$sour privacy policy%2$s on how we handle your personal information."
+msgstr "Yoast 尊重使用者的隱私權。請參閱我們的%1$s隱私權政策%2$s以了解我們如何處理使用者的個人資訊。"
+
+#: src/admin/views/options.php:236
+msgid "Welcome notice"
+msgstr "歡迎使用通知"
+
+#: src/admin/options.php:262
+msgid "Show welcome notice"
+msgstr "顯示 [歡迎使用通知]"
+
+#. translators: %s: Yoast Duplicate Post.
+#: admin-functions.php:224
+msgid "You've successfully installed %s!"
+msgstr "這個網站已成功安裝 %s。"
+
+#: src/ui/newsletter.php:137
+msgid "You have successfully subscribed to the newsletter. Please check your inbox."
+msgstr "你已成功訂閱電子報，請檢查你的電子郵件信箱。"
+
+#: src/ui/newsletter.php:97
+msgid "Please enter valid e-mail address."
+msgstr "請輸入有效的電子郵件地址。"
+
+#: src/ui/newsletter.php:81 src/ui/newsletter.php:131
+msgid "Something went wrong. Please try again later."
+msgstr "執行時發生錯誤，請稍後再試。"
+
+#: src/handlers/check-changes-handler.php:134
+msgid "Added"
+msgstr "已新增"
+
+#: src/handlers/check-changes-handler.php:133
+msgid "Removed"
+msgstr "已移除"
+
+#: src/post-republisher.php:224
+msgid "An error occurred while deleting the Rewrite & Republish copy."
+msgstr "刪除 [重寫並重新發佈] 所產生的複本時發生錯誤。"
+
+#. Description of the plugin
+msgid "The go-to tool for cloning posts and pages, including the powerful Rewrite & Republish feature."
+msgstr "複製文章及頁面的必備工具，同時包含強大的 [重寫並重新發佈] 功能。"
+
+#. translators: 1: The page title with a link to the frontend page, 2: The
+#. scheduled date and time.
+#: src/ui/classic-editor.php:291
+msgid "This rewritten page %1$s is now scheduled to replace the original page. It will be published on %2$s."
+msgstr "這個重寫的頁面〈%1$s〉目前已排程取代原始頁面，排程發佈時間為 %2$s。"
+
+#. translators: 1: The post title with a link to the frontend page, 2: The
+#. scheduled date and time.
+#: src/ui/classic-editor.php:278
+msgid "This rewritten post %1$s is now scheduled to replace the original post. It will be published on %2$s."
+msgstr "這篇重寫的文章〈%1$s〉目前已排程取代原始文章，排程發佈時間為 %2$s。"
+
+#: src/ui/classic-editor.php:252 js/dist/duplicate-post-strings-450.js:1
+msgid "Schedule republish"
+msgstr "排程重新發佈"
+
+#. translators: %s: Date on which the post is to be republished.
+#: src/ui/classic-editor.php:229
+msgid "Republish on: %s"
+msgstr "重新發佈日期: %s"
+
+#: src/ui/classic-editor.php:201
+msgid "Compare"
+msgstr "比較"
+
+#: src/ui/classic-editor.php:198
+msgid "Do you want to compare your changes with the original version before merging? Please save any changes first."
+msgstr "如需在合併內容前與原始內容比較變更，請先儲存內容變更。"
+
+#. translators: %s: Original item link (to view or edit) or title.
+#: src/ui/post-states.php:61
+msgid "Rewrite & Republish of %s"
+msgstr "〈%s〉的重寫並重新發佈內容版本"
+
+#: src/ui/row-actions.php:145
+msgctxt "verb"
+msgid "Rewrite & Republish"
+msgstr "重寫並重新發佈"
+
+#. translators: %s: Post title.
+#: src/ui/row-actions.php:143
+msgid "Rewrite & Republish &#8220;%s&#8221;"
+msgstr "重寫並重新發佈〈%s〉"
+
+#: src/admin/views/options.php:190
+msgid "Show these links"
+msgstr "顯示這些連結"
+
+#: src/admin/views/options.php:153
+msgid "Warning: users will be able to copy, rewrite and republish all posts, even those of other users."
+msgstr "請注意，具備權限的使用者能複製、重寫並重新發佈全部文章，包含由其他使用者撰寫的文章。"
+
+#: src/admin/options.php:281 src/ui/admin-bar.php:105 src/ui/admin-bar.php:125
+#: src/ui/bulk-actions.php:74 src/ui/classic-editor.php:173
+#: js/dist/duplicate-post-edit-450.js:1
+msgid "Rewrite & Republish"
+msgstr "重寫並重新發佈"
+
+#: src/admin/options.php:236
+msgid "In a metabox in the Edit screen"
+msgstr "編輯畫面的中繼資料區塊"
+
+#: src/admin/options.php:142
+msgid "Post format"
+msgstr "文章格式"
+
+#: src/watchers/original-post-watcher.php:51
+msgid "The original post has been edited in the meantime. If you click \"Republish\", this rewritten post will replace the original post."
+msgstr "在重寫複本內容的同時，原始內容也經過編輯。點擊 [重新發佈] 後，重寫的內容會取代原始內容。"
+
+#. translators: %s: Number of posts copied.
+#: src/watchers/bulk-actions-watcher.php:79
+msgid "%s post duplicated. You can now start rewriting your post in the duplicate of the original post. Once you choose to republish it your changes will be merged back into the original post."
+msgid_plural "%s posts duplicated. You can now start rewriting your posts in the duplicates of the original posts. Once you choose to republish them your changes will be merged back into the original post."
+msgstr[0] "%s 篇文章已複製。現在可以開始為原始文章的複本進行重寫。決定重新發佈文章後，重寫時產生的內容變更會合併至原始文章中。"
+
+#: src/watchers/republished-post-watcher.php:65
+msgid "Your original post has been replaced with the rewritten post. You are now viewing the (rewritten) original post."
+msgstr "目前的原始內容會由重寫的內容取代。目前檢視的是經過重寫的原始內容。"
+
+#. translators: %1$s: scheduled date of the copy, %2$s: scheduled time of the
+#. copy.
+#: src/watchers/copied-post-watcher.php:66
+msgid "A duplicate of this post was made, which is scheduled to replace this post on %1$s at %2$s."
+msgstr "這篇內容的複本已產生。這篇內容已排程於 %1$s%2$s 由複本取代。"
+
+#: src/watchers/copied-post-watcher.php:58
+msgid "A duplicate of this post was made. Please note that any changes you make to this post will be replaced when the duplicated version is republished."
+msgstr "這篇內容的複本已產生。請注意，重新發佈複本版本後，為這篇內容所做的任何變更均會以複本取代。"
+
+#: src/watchers/copied-post-watcher.php:50
+msgid "You can only make one Rewrite & Republish duplicate at a time, and a duplicate of this post already exists in the trash. Permanently delete it if you want to make a new duplicate."
+msgstr "使用者每次僅能對一個複本進行 [重寫並重新發佈] 的操作，並且這份複本目前在 [回收桶] 中。如果想要製作新複本，請永久刪除這份內容。"
+
+#: src/watchers/link-actions-watcher.php:113
+msgid "You can now start rewriting your post in this duplicate of the original post. If you click \"Republish\", this rewritten post will replace the original post."
+msgstr "現在可以開始在原始內容的複本中重寫內容。點擊 [重新發佈] 後，重寫的內容會取代原始內容。"
+
+#: src/watchers/link-actions-watcher.php:97
+msgid "You can now start rewriting your post in this duplicate of the original post. If you click \"Republish\", your changes will be merged into the original post and you’ll be redirected there."
+msgstr "現在可以開始在原始內容的複本中重寫內容。點擊 [重新發佈] 後，在複本中的變更會合併至原始內容中，並會將使用者重新導向至原始內容。"
+
+#: src/post-republisher.php:332
+msgid "An error occurred while republishing the post."
+msgstr "重新發佈文章時發生錯誤。"
+
+#: src/post-republisher.php:83 src/ui/classic-editor.php:224
+#: js/dist/duplicate-post-strings-450.js:1
+msgid "Republish"
+msgstr "重新發佈"
+
+#: src/handlers/link-handler.php:213
+msgid "You cannot create a copy for Rewrite & Republish if the original is not published or if it already has a copy."
+msgstr "如果原始內容尚未發佈或已有複本，便無法為 [重寫並重新發佈] 功能建立複製內容。"
+
+#: src/handlers/link-handler.php:91 src/handlers/link-handler.php:147
+#: src/handlers/link-handler.php:221
+msgid "Copy creation failed, could not create a copy."
+msgstr "複製內容失敗，無法建立複製內容。"
+
+#: src/handlers/link-handler.php:83 src/handlers/link-handler.php:139
+msgid "You cannot create a copy of a post which is intended for Rewrite & Republish."
+msgstr "無法建立要用於 [重寫並重新發佈] 的複製內容。"
+
+#: src/handlers/check-changes-handler.php:116
+msgid "&larr; Return to editor"
+msgstr "&larr; 返回編輯器"
+
+#. translators: %s: original item link (to view or edit) or title.
+#: src/handlers/check-changes-handler.php:111
+msgid "Compare changes of duplicated post with the original (&#8220;%s&#8221;)"
+msgstr "比較〈%s〉的複本與原始內容的變更"
+
+#: src/handlers/check-changes-handler.php:97
+msgid "Changes overview failed, could not find original post."
+msgstr "產生內容變更檢視失敗，找不到原始內容。"
+
+#. translators: %s: post ID.
+#: src/handlers/check-changes-handler.php:84
+msgid "Changes overview failed, could not find post with ID %s."
+msgstr "產生內容變更檢視失敗，找不到 ID 為 %s 的內容。"
+
+#: src/handlers/check-changes-handler.php:68
+msgid "No post has been supplied!"
+msgstr "沒有可供比較的內容！"
+
+#: admin-functions.php:597
+msgid "You aren't allowed to duplicate this post"
+msgstr "很抱歉，目前的登入身分沒有複製這篇文章的權限。"
+
+#: src/ui/newsletter.php:58
+msgid "Subscribe"
+msgstr "訂閱"
+
+#. translators: 1: Code start tag, 2: Code closing tag, 3: Link start tag to
+#. the template tag documentation, 4: Link closing tag.
+#: src/admin/views/options.php:216
+msgid "You can also use the template tag %1$sduplicate_post_clone_post_link( $link, $before, $after, $id )%2$s. %3$sMore info on the template tag%4$s."
+msgstr "使用者可以使用範本標籤 %1$sduplicate_post_clone_post_link( $link, $before, $after, $id )%2$s。%3$s進一步了解範本標籤%4$s"
+
+#. translators: %s: Post title.
+#: src/ui/row-actions.php:112
+msgid "New draft of &#8220;%s&#8221;"
+msgstr "〈%s〉的新草稿"
+
+#: src/ui/row-actions.php:87
+msgctxt "verb"
+msgid "Clone"
+msgstr "複製"
+
+#. translators: %s: post title
+#: src/ui/metabox.php:100
+msgid "The original item this was copied from is: <span class=\"duplicate_post_original_item_title_span\">%s</span>"
+msgstr "已複製項目的原始項目: <span class=\"duplicate_post_original_item_title_span\">%s</span>"
+
+#: src/ui/column.php:135
+msgid "The original item this was copied from is: <span class=\"duplicate_post_original_item_title_span\"></span>"
+msgstr "已複製項目的原始項目: <span class=\"duplicate_post_original_item_title_span\"></span>"
+
+#: src/ui/column.php:130 src/ui/metabox.php:89
+msgid "Delete reference to original item."
+msgstr "刪除原始項目參照。"
+
+#: src/ui/newsletter.php:29
+msgid "Email address"
+msgstr "電子郵件地址"
+
+#. translators: 1: Yoast
+#: src/ui/newsletter.php:22
+msgid "If you want to stay up to date about all the exciting developments around Duplicate Post, subscribe to the %1$s newsletter!"
+msgstr "如需獲得 Duplicate Post 的最新開發消息，請訂閱 %1$s 電子報。"
+
+#. Author URI of the plugin
+msgid "https://yoast.com"
+msgstr "https://yoast.com"
+
+#. Author of the plugin
+msgid "Enrico Battocchi & Team Yoast"
+msgstr "Enrico Battocchi 及 Yoast 團隊"
+
+#. Plugin URI of the plugin
+msgid "https://yoast.com/wordpress/plugins/duplicate-post/"
+msgstr "https://yoast.com/wordpress/plugins/duplicate-post/"
+
+#. Plugin Name of the plugin
+msgid "Yoast Duplicate Post"
+msgstr "Yoast Duplicate Post"
+
+#. translators: %s: Post title.
+#: src/ui/row-actions.php:85
+msgid "Clone &#8220;%s&#8221;"
+msgstr "複製〈%s〉"
+
+#. translators: %s: Original item link (to view or edit) or title.
+#: src/ui/post-states.php:67
+msgid "Original: %s"
+msgstr "原始項目: %s"
+
+#: src/ui/column.php:68
+msgid "Original item"
+msgstr "原始項目"
+
+#: src/admin/options.php:256
+msgid "After the title in the Post list"
+msgstr "文章清單的文章標題後方"
+
+#: src/admin/options.php:249
+msgid "You'll also be able to delete the reference to the original item with a checkbox in Quick Edit"
+msgstr "可以在 [快速編輯] 中透過核取方塊刪除原始項目參照"
+
+#: src/admin/options.php:246
+msgid "In a column in the Post list"
+msgstr "文章清單的 [原始項目] 欄位"
+
+#: src/admin/options.php:239
+msgid "You'll also be able to delete the reference to the original item with a checkbox"
+msgstr "可以透過核取方塊刪除原始項目參照"
+
+#: src/admin/views/options.php:227
+msgid "Show original item:"
+msgstr "顯示原始項目"
+
+#: src/admin/views/options.php:20
+msgid "Settings sections"
+msgstr "設定區段"
+
+#: duplicate-post.php:98
+msgid "Settings for Duplicate Post"
+msgstr "Duplicate Post 的設定"
+
+#. translators: %s: post title
+#: src/utils.php:144
+msgid "View &#8220;%s&#8221;"
+msgstr "檢視〈%s〉"
+
+#. translators: %s: post title
+#: src/utils.php:134
+msgid "Preview &#8220;%s&#8221;"
+msgstr "預覽〈%s〉"
+
+#. translators: %s: post title
+#: src/utils.php:122
+msgid "Edit &#8220;%s&#8221;"
+msgstr "編輯〈%s〉"
+
+#: src/handlers/link-handler.php:58 src/handlers/link-handler.php:114
+#: src/handlers/link-handler.php:188
+msgid "Current user is not allowed to copy posts."
+msgstr "目前的登入身分沒有複製文章的權限。"
+
+#: src/admin/options.php:165
+msgid "you probably want this unchecked, unless you have very special requirements"
+msgstr "除非有特殊需求，否則不要選取這個選項"
+
+#: admin-functions.php:750
+msgid "Documentation"
+msgstr "線上說明"
+
+#: src/admin/options.php:307
+msgid "Bulk Actions"
+msgstr "批次操作"
+
+#: src/admin/options.php:217
+msgid "You can use * to match zero or more alphanumeric characters or underscores: e.g. field*"
+msgstr "可以使用萬用字元 * 以符合 0、多個數字字元或底線這類條件: 例如 field*。"
+
+#: src/admin/options.php:186
+msgid "Menu order"
+msgstr "選單順序"
+
+#: src/admin/options.php:149
+msgid "Author"
+msgstr "作者"
+
+#: src/admin/options.php:135
+msgid "Template"
+msgstr "範本"
+
+#: src/admin/options.php:128
+msgid "Featured Image"
+msgstr "精選圖片"
+
+#. translators: %s: Number of posts copied.
+#: src/watchers/bulk-actions-watcher.php:55
+#: src/watchers/link-actions-watcher.php:73
+msgid "%s item copied."
+msgid_plural "%s items copied."
+msgstr[0] "%s 個項目已複製。"
+
+#: src/admin/views/options.php:174 src/admin/views/options.php:211
+msgid "Whether the links are displayed for custom post types registered by themes or plugins depends on their use of standard WordPress UI elements."
+msgstr "是否顯示由佈景主題或外掛註冊的自訂內容類型連結，取決於它們是否採用標準 WordPress 使用者介面元素。"
+
+#: src/admin/views/options.php:172
+msgid "Select the post types you want the plugin to be enabled for."
+msgstr "請選取需要啟用複製功能的內容類型。"
+
+#: src/admin/views/options.php:162 src/admin/views/options.php:166
+msgid "Enable for these post types"
+msgstr "需要啟用複製功能的內容類型"
+
+#: src/admin/views/options.php:155
+msgid "Passwords and contents of password-protected posts may become visible to undesired users and visitors."
+msgstr "原先排除在外的使用者和訪客，有可能因此看到受密碼保護文章的密碼及內容。"
+
+#: src/admin/views/options.php:127
+msgid "Show/hide private taxonomies"
+msgstr "顯示/隱藏私密分類法"
+
+#: src/admin/options.php:208
+msgid "Add this number to the original menu order (blank or zero to retain the value)"
+msgstr "為原始選單排序增加數值以變更排序 (留空或填 0 代表保留原有排序)。"
+
+#: src/admin/options.php:206 src/admin/views/options.php:93
+msgid "Increase menu order by"
+msgstr "透過數字增加選單排序"
+
+#: src/admin/options.php:180
+msgid "except pingbacks and trackbacks"
+msgstr "除了自動引用通知及引用通知"
+
+#: src/admin/options.php:178
+msgid "Comments"
+msgstr "留言"
+
+#: src/admin/options.php:171
+msgid "Children"
+msgstr "子項目"
+
+#: src/admin/options.php:163
+msgid "Attachments"
+msgstr "附件"
+
+#: src/admin/options.php:156
+msgid "Password"
+msgstr "密碼"
+
+#: src/admin/options.php:121 src/handlers/check-changes-handler.php:127
+msgid "Content"
+msgstr "內容"
+
+#: src/admin/options.php:114 src/handlers/check-changes-handler.php:128
+msgid "Excerpt"
+msgstr "內容摘要"
+
+#: src/admin/options.php:107
+msgid "Slug"
+msgstr "代稱"
+
+#: src/admin/options.php:100
+msgid "Status"
+msgstr "狀態"
+
+#: src/admin/options.php:93
+msgid "Date"
+msgstr "日期"
+
+#: src/admin/options.php:86 src/handlers/check-changes-handler.php:126
+msgid "Title"
+msgstr "文章標題"
+
+#: src/admin/views/options.php:58 src/admin/views/options.php:61
+msgid "Post/page elements to copy"
+msgstr "需要複製的文章/頁面元素"
+
+#: src/admin/views/options.php:46 src/admin/views/options.php:187
+msgid "Display"
+msgstr "顯示方式"
+
+#: src/admin/views/options.php:37 src/admin/views/options.php:140
+msgid "Permissions"
+msgstr "權限"
+
+#: src/admin/views/options.php:28 src/admin/views/options.php:55
+msgid "What to copy"
+msgstr "複製項目"
+
+#: admin-functions.php:603
+msgid "Copy features for this post type are not enabled in options page"
+msgstr "在 Duplicate Post 設定頁中，並未對這項內容類型啟用複製功能"
+
+#: duplicate-post.php:99
+msgid "Settings"
+msgstr "設定"
+
+#: src/admin/views/options.php:247
+msgid "Save changes"
+msgstr "儲存設定"
+
+#: src/admin/options.php:297
+msgid "Admin bar"
+msgstr "管理工具列"
+
+#: src/admin/options.php:302
+msgid "Edit screen"
+msgstr "編輯畫面"
+
+#: src/admin/options.php:292
+msgid "Post list"
+msgstr "文章/頁面清單"
+
+#: src/admin/views/options.php:202
+msgid "Show links in"
+msgstr "顯示連結於"
+
+#: src/admin/views/options.php:144 src/admin/views/options.php:147
+msgid "Roles allowed to copy"
+msgstr "可進行複製操作的角色"
+
+#: src/admin/options.php:201
+msgid "Suffix to be added after the title, e.g. \"(dup)\" (blank for no suffix)"
+msgstr "在標題後加上後置詞，例如 \"的複本\" (留空代表不加後置詞)。"
+
+#: src/admin/options.php:199 src/admin/views/options.php:82
+msgid "Title suffix"
+msgstr "標題後置詞"
+
+#: src/admin/options.php:194
+msgid "Prefix to be added before the title, e.g. \"Copy of\" (blank for no prefix)"
+msgstr "在標題前加上前置詞，例如 \"複本 - \" (留空代表不加前置詞)。"
+
+#: src/admin/options.php:192 src/admin/views/options.php:71
+msgid "Title prefix"
+msgstr "標題前置詞"
+
+#: src/admin/views/options.php:116 src/admin/views/options.php:120
+msgid "Do not copy these taxonomies"
+msgstr "選取不需複製功能的分類法"
+
+#: src/admin/options.php:216
+msgid "Comma-separated list of meta fields that must not be copied."
+msgstr "不需複製的欄位請以逗號分隔欄位名稱。"
+
+#: src/admin/options.php:213 src/admin/views/options.php:105
+msgid "Do not copy these fields"
+msgstr "不需複製的欄位"
+
+#: src/admin/options-page.php:77 src/ui/admin-bar.php:89 src/ui/metabox.php:59
+msgid "Duplicate Post"
+msgstr "Duplicate Post"
+
+#: src/admin/options-page.php:76 src/admin/views/options.php:14
+msgid "Duplicate Post Options"
+msgstr "Duplicate Post 設定"
+
+#: src/handlers/link-handler.php:75 src/handlers/link-handler.php:131
+#: src/handlers/link-handler.php:205
+msgid "Copy creation failed, could not find original:"
+msgstr "複製內容失敗。找不到的原始內容 ID:"
+
+#: src/handlers/link-handler.php:63 src/handlers/link-handler.php:119
+#: src/handlers/link-handler.php:193
+msgid "No post to duplicate has been supplied!"
+msgstr "請選取需要複製的內容！"
+
+#: src/admin/options.php:271 src/ui/row-actions.php:114
+msgid "New Draft"
+msgstr "新草稿"
+
+#: common-functions.php:79 src/ui/admin-bar.php:97 src/ui/admin-bar.php:115
+#: src/ui/classic-editor.php:144 js/dist/duplicate-post-edit-450.js:1
+msgid "Copy to a new draft"
+msgstr "複製為新草稿"
+
+#: src/admin/options.php:276 src/ui/bulk-actions.php:69
+msgid "Clone"
+msgstr "複製"

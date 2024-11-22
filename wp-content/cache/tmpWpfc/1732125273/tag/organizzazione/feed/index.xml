@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>organizzazione Archivi - MC</title>
+	<atom:link href="https://www.matteocavalli.it/tag/organizzazione/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.matteocavalli.it/tag/organizzazione/</link>
+	<description>Cloud Consultant</description>
+	<lastBuildDate>Tue, 15 Aug 2023 21:37:28 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.5</generator>
+	<item>
+		<title>Team e Time Management</title>
+		<link>https://www.matteocavalli.it/team-e-time-management/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=team-e-time-management</link>
+					<comments>https://www.matteocavalli.it/team-e-time-management/#respond</comments>
+		
+		<dc:creator><![CDATA[Matteo Cavalli]]></dc:creator>
+		<pubDate>Thu, 10 Aug 2023 14:22:00 +0000</pubDate>
+				<category><![CDATA[IT]]></category>
+		<category><![CDATA[Operations]]></category>
+		<category><![CDATA[Team]]></category>
+		<category><![CDATA[alibi]]></category>
+		<category><![CDATA[brainstorming]]></category>
+		<category><![CDATA[indicatori]]></category>
+		<category><![CDATA[it operations]]></category>
+		<category><![CDATA[kpi]]></category>
+		<category><![CDATA[organizzazione]]></category>
+		<category><![CDATA[team]]></category>
+		<category><![CDATA[time management]]></category>
+		<guid isPermaLink="false">https://www.matteocavalli.it/?p=544</guid>
+
+					<description><![CDATA[<p>Mi occupo di consulenza, in ambienti ibridi Microsoft-Linux, da diverso tempo. Ho avuto la grande fortuna di lavorare vicino a persone veramente competenti e trasversali, e ho potuto acquisire un certo approccio direttamente paragonabile per le attività che svolto. Normalmente non mi preoccupo di ciò che il mio referente gestisce</p>
+<p>L'articolo <a href="https://www.matteocavalli.it/team-e-time-management/">Team e Time Management</a> proviene da <a href="https://www.matteocavalli.it">MC</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Mi occupo di consulenza, in ambienti ibridi Microsoft-Linux, da diverso tempo.</p>
+
+
+
+<p>Ho avuto la grande fortuna di lavorare vicino a persone veramente competenti e trasversali, e ho potuto acquisire un certo approccio direttamente paragonabile per le attività che svolto. <br>Normalmente non mi preoccupo di ciò che il mio referente gestisce e mantiene; molte aziende hanno più di una figura all’interno del reparto IT e ciascuna ha un suo set di responsabilità definite, quindi sono totalmente in grado di affrontare ogni aspetto di quello che definiamo <em>IT Operations</em>. </p>
+
+
+
+<p>Quando vengo chiamato è raro poter vedere tutti vis-à-vis, complice anche un po&#8217; lo smart-working, ma rimango sempre dell’idea che andare on-site sia un ottimo modo per rendersi conto di ciò con cui dobbiamo lavorare, specie se passa tanto tempo tra un intervento e l’altro.</p>
+
+
+
+<p>E’ veramente interessante poter vedere che nei team funzionali, esiste un equilibrio professionale che trascende anche la gerarchia; ogni task può essere gestito in forma più o meno collaborativa a seconda della sua tipologia, per poi essere integrato all’interno del micro-processo di cui ci si occupa. </p>
+
+
+
+<p>Nel team che possono portare davvero questo nome, <strong>il baricentro dell’interesse è focalizzato sul traguardo, non sul percorso</strong>.</p>
+
+
+
+<p></p>
+
+
+
+<p>All’interno di un processo, per esempio una <em>Change Request</em>, ci sono sempre delle figure chiave (<em>Key Users</em>) che si occupano di task semplici o complessi:</p>
+
+
+
+<ul>
+<li>Analisi della richiesta fatta</li>
+
+
+
+<li>Approvazione della stessa</li>
+
+
+
+<li>Sviluppo della soluzione</li>
+
+
+
+<li>Test qualitativi e quantitativi</li>
+
+
+
+<li>Messa in produzione della soluzione</li>
+</ul>
+
+
+
+<p>Ho ridotto questi task ai minimi termini, semplificando enormemente; <em>all’interno di ciascun task possono essere coinvolte altre persone, che a loro volta possono coinvolgerne altre</em>. Ciò che è importante è <strong>quanto velocemente l’informazione viaggia dalla base questa piramide rovesciata fino alla sua cima</strong>. Questo è il <strong>primo grande indicatore</strong> di come funziona un processo all’interno dell’ecosistema aziendale.</p>
+
+
+
+<p>Più i tempi sono (ragionevolmente) ridotti, più la comunicazione è efficace, il processo snello e immediato, la soluzione implementabile a stretto giro. L’imprevisto è sempre possibile, ma <strong>una ragionevole scelta consente di poter mitigare un gran numero di difficoltà</strong>.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img fetchpriority="high" decoding="async" src="https://www.matteocavalli.it/wp-content/uploads/2023/08/time-1024x576.png" alt="" class="wp-image-560" style="width:415px;height:233px" width="415" height="233" srcset="https://www.matteocavalli.it/wp-content/uploads/2023/08/time-1024x576.png 1024w, https://www.matteocavalli.it/wp-content/uploads/2023/08/time-300x169.png 300w, https://www.matteocavalli.it/wp-content/uploads/2023/08/time-768x432.png 768w, https://www.matteocavalli.it/wp-content/uploads/2023/08/time-1536x864.png 1536w, https://www.matteocavalli.it/wp-content/uploads/2023/08/time-2048x1152.png 2048w, https://www.matteocavalli.it/wp-content/uploads/2023/08/time-200x113.png 200w, https://www.matteocavalli.it/wp-content/uploads/2023/08/time-400x225.png 400w" sizes="(max-width: 415px) 100vw, 415px" /></figure></div>
+
+
+<p></p>
+
+
+
+<p>Quindi basandoci su un sistema a processo che abbia una ragionevole dimensione (non mettiamo in piedi castelli per comprare dieci matite), il focus di tutto quanto è il Tempo. <strong>Una maggior attenzione alla gestione del tempo, porta vantaggi sul processo, sul reparto, e come ovvia conseguenza sulla persona</strong>; l’ultimo a beneficiare di questo metodo organizzativo, e il primo a sperimentare questo approccio è proprio la singola unità lavorativa, la Persona.</p>
+
+
+
+<p>È indifferente che si tratti di un dipendente, di un socio, o di un collaboratore esterno, dove troviamo organizzazione e comprensione delle attività di processo, non mancheranno gli errori come in tutto il resto, ma saremo sicuramente avvantaggiati dal background di possibilità che ci verrà messo a disposizione. Sia in termini professioni che personali: è raro trovare persone che in pubblico si comportano molto diversamente dal privato.</p>
+
+
+
+<p>Dove il Team funziona, la gestione del tempo è in continuo miglioramento, le richieste vengono elaborate da processi snelli e veloci, e tutto ciò che rimane, sia in termini di tempo sia in termini di sviluppo delle competenze, trova spazio per accrescimento personale e professionale.</p>
+
+
+
+<p>E’ quindi importante focalizzare le attenzioni dei nostri collaboratori dove servono davvero, lasciare perdere ciò che ruba tempo indefinito e che non produce risultati apprezzabili, in primis da noi stessi.</p>
+<p>L'articolo <a href="https://www.matteocavalli.it/team-e-time-management/">Team e Time Management</a> proviene da <a href="https://www.matteocavalli.it">MC</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.matteocavalli.it/team-e-time-management/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Rispetto, ma nessun applauso</title>
+		<link>https://www.matteocavalli.it/rispetto-ma-nessun-applauso/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rispetto-ma-nessun-applauso</link>
+					<comments>https://www.matteocavalli.it/rispetto-ma-nessun-applauso/#respond</comments>
+		
+		<dc:creator><![CDATA[Matteo Cavalli]]></dc:creator>
+		<pubDate>Thu, 03 Aug 2023 22:54:47 +0000</pubDate>
+				<category><![CDATA[IT]]></category>
+		<category><![CDATA[Management]]></category>
+		<category><![CDATA[alibi]]></category>
+		<category><![CDATA[etica]]></category>
+		<category><![CDATA[it operations]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[organizzazione]]></category>
+		<category><![CDATA[smartworking]]></category>
+		<guid isPermaLink="false">https://www.matteocavalli.it/?p=570</guid>
+
+					<description><![CDATA[<p>Consulente, libero professionista, società di capitali o persone, regimi fiscali agevolati. Sono solo alcune delle categorie con le quali chi svolge il mio lavoro viene sottolineato.  Fino al 2020, allo scoppiare della pandemia, la figura dei sistemisti di un Ced erano considerate piuttosto marginalmente; non aiutavano direttamente le forme di</p>
+<p>L'articolo <a href="https://www.matteocavalli.it/rispetto-ma-nessun-applauso/">Rispetto, ma nessun applauso</a> proviene da <a href="https://www.matteocavalli.it">MC</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Consulente, libero professionista, società di capitali o persone, regimi fiscali agevolati.</p>
+<p>Sono solo alcune delle categorie con le quali chi svolge il mio lavoro viene sottolineato. </p>
+<p>Fino al 2020, allo scoppiare della pandemia, la figura dei sistemisti di un Ced erano considerate piuttosto marginalmente; non aiutavano direttamente le forme di business dell&#8217;azienda, non avevano spazio e non desideravano essere inclusi in nulla fuori dal loro ambito e spesso non venivano interpellati dai Project Manager in fase di progettazione di una soluzione.</p>
+<p>A partire da Marzo 2020, molte di queste persone hanno lavorato incessantemente per consentire una parvenza di normalità alle comuni attività aziendali. Dai meeting si è passati alle video conference, dalle pause caffè si è passati ad una chat su Teams o qualche strumento simile. Tralasciando per un momento il confine dell&#8217;emerenza sanitaria, ho visto personalmente che la più grossa bugia e affermazione del mondo IT aveva perso la sua importanza:</p>
+
+
+<blockquote class="wp-block-quote">
+<p></p>
+<cite>Abbiamo sempre fatto così.</cite></blockquote>
+
+
+
+<p></p>
+
+
+
+<p>Da quel momento, la zona di comfort nella quale i manager si crogiolavano, sicuri del loro &#8220;fare cosi&#8221;, si è sgretolata. Non era più possibile schedulare un meeting all&#8217;ultimo secondo, consci che tanto tutti sarebbero stati in ufficio; non potevano più semplicemente saltare gli step di un processo atto a formalizzare una vendita o anche solo un&#8217;offerta economica di un bene. Non importava che a chiedere tutto questo fosse il titolare, la legge non consentiva eccezioni. Niente uffici aperti, personale ridotto al minimo.</p>
+
+
+
+<p>Ecco dunque nascere le imprese &#8220;illuminate&#8221;, che regalano smart working, benefit, gestione flessibile del tempo e degli ingressi, aiuti in questo senso per chi ha figli.</p>
+
+
+
+<h2 class="wp-block-heading">Tanto meglio, no?</h2>
+
+
+
+<p>Il background di tutta questa situazione è estremamente fitto di azioni che hanno consentito la gestione diversa da un punto di vista <em>Operations</em>:</p>
+
+
+
+<ul>
+<li>Migrazioni a sistemi di posta dove fosse presente un ambiente per audio-video conference (Es. Office 365)</li>
+
+
+
+<li>Acquisti in corsa di firewall che potessero gestire le connessioni da remoto (VPN)</li>
+
+
+
+<li>Ristrutturazione di farm Citrix o RDS vecchie di anni e mai potute aggiornare</li>
+
+
+
+<li>Sostituzione del PBX per consentire di poter avere il proprio interno su App oppure su Web CTI</li>
+</ul>
+
+
+
+<p>Gli argomenti qui sopra descritti non sono assolutamente esaustivi. Sono solo quattro, e tre di questi sono dei pilastri attualmente presenti in ogni azienda. Eccezion fatta per le farm remote, rimangono come cardini la posta elettronica, strumenti di video conference integrati, PBX, VPN. Chiunque abbia una attività minimamente strutturata possiede questi tre elementi.</p>
+
+
+
+<h2 class="wp-block-heading">Che conseguenze avremo?</h2>
+
+
+
+<p>Durante i momenti di sconforto, di paura e panico per quello che succedeva, indovinate chi si è messo d&#8217;impegno a cercare soluzioni che potessero portare ad un ampliamento operativo in remote working, anche consentendo dove possibile un risparmio di budget, visto il momento. Alcuni amici hanno lavorato di notte, e per parecchie notti, purchè gli utenti potessero inserire i (pochi) ordini a gestionale tramite VPN o Citrix il giorno successivo. <br>Il reparto IT è di fatto il tessuto nervoso di un&#8217;azienda, tramite il quale tutti comunicano, lavorano, arrivano ai propri obbiettivi.</p>
+
+
+
+<p>Ora, il discorso vale al contrario:</p>
+
+
+
+<ul>
+<li>Senza il reparto Sales, non ci sarebbero clienti, quindi non ci sarebbe l&#8217;azienda, figurarsi il reparto IT</li>
+
+
+
+<li>Senza i Project Manager non potremmo portare avanti alcun progetto e non avremmo budget in previsione, e dovremmo lavorare con le liquidità day-by-day</li>
+
+
+
+<li>Senza il backoffice, nessuno inserirebbe gli ordini, quindi non ci sarebbero vendite o produzioni da eseguire</li>
+</ul>
+
+
+
+<p>Posso andare avanti all&#8217;infinito. E tutte le frasi qui sopra sono vere. Ma qui non parlo di Sales, Marketing, PM o Backoffice; qui si parla di etica del mondo IT, dove il collega a fianco passa il tempo su facebook, mentre gli altri cercando di trovare ogni giorno soluzioni a problemi di operatività, di sicurezza, di performance.</p>
+
+
+
+<h2 class="wp-block-heading">In conclusione&#8230;</h2>
+
+
+
+<p>La grande differenza è l&#8217;approccio di chi compie questi passi, se con passione e dedizione oppure con l&#8217;attesa dell&#8217;orario del &#8220;liberi tutti&#8221;. Nessuno è immune dalla casistica peggiore, ma non dimentichiamo che quasi mai la colpa è solo da un lato: il 50% delle proprie azioni e conseguenza è responsabilità di ciascuno di noi; il restante delle aziende per cui lavoriamo, o con cui collaboriamo.</p>
+
+
+
+<ul>
+<li>Un titolare che non avverte che sotto natale salterà il pagamento degli stipendi a causa di difficoltà, non ha alcun diritto di arrogarsi pretese; e nel contempo, il dipendente non avrà assolutamente voglia di svolgere il suo lavoro al meglio.</li>
+
+
+
+<li>Un libero professionista che si vede negato costantamente, nel corso dei mesi, il pagamento da parte di un cliente per motivi ignoti o poco chiari, deve solo augurarsi che quello sia un cliente passeggero e di non aver consolidato la maggior parte della sua attività verso di lui. </li>
+</ul>
+
+
+
+<blockquote class="wp-block-quote">
+<p></p>
+<cite>È un dovere di ogni generazione pagare i propri debiti.<br><sub>Thomas Jefferson</sub></cite></blockquote>
+<p>L'articolo <a href="https://www.matteocavalli.it/rispetto-ma-nessun-applauso/">Rispetto, ma nessun applauso</a> proviene da <a href="https://www.matteocavalli.it">MC</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.matteocavalli.it/rispetto-ma-nessun-applauso/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Consulenza egocentrica</title>
+		<link>https://www.matteocavalli.it/consulenza-egocentrica/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=consulenza-egocentrica</link>
+					<comments>https://www.matteocavalli.it/consulenza-egocentrica/#respond</comments>
+		
+		<dc:creator><![CDATA[Matteo Cavalli]]></dc:creator>
+		<pubDate>Tue, 25 Jul 2023 21:35:17 +0000</pubDate>
+				<category><![CDATA[Fornitori]]></category>
+		<category><![CDATA[Operations]]></category>
+		<category><![CDATA[Relazioni]]></category>
+		<category><![CDATA[downfall]]></category>
+		<category><![CDATA[etica]]></category>
+		<category><![CDATA[it operations]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[organizzazione]]></category>
+		<guid isPermaLink="false">https://www.matteocavalli.it/?p=585</guid>
+
+					<description><![CDATA[<p>Durante le mie attività di consulenza, spesso mi affianco a collaboratori e personale esterno già presenti, per storicità o per diversificazione dei fornitori. Dove mi occupo di networking, ad esempio, è probabile che non possa implementare io stesso le modifiche o aggiunte alla parte di hypervisor. Dove sono io a</p>
+<p>L'articolo <a href="https://www.matteocavalli.it/consulenza-egocentrica/">Consulenza egocentrica</a> proviene da <a href="https://www.matteocavalli.it">MC</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Durante le mie attività di consulenza, spesso mi affianco a collaboratori e personale esterno già presenti, per storicità o per diversificazione dei fornitori.</p>
+
+
+
+<p>Dove mi occupo di networking, ad esempio, è probabile che non possa implementare io stesso le modifiche o aggiunte alla parte di hypervisor. Dove sono io a gestire solo la firewall, è normale ricevere richieste per la creazione di vlan che devono ruotare esternamente alla lan, oppure delle rotte di ritorno verso gli switch <em>Core</em> per nuove vlan da creare.</p>
+
+
+
+<p>Questo in genere implica almeno due attori all&#8217;interno del processo, che sia una nuova implementazione o una <em><a href="https://www.matteocavalli.it/team-e-time-management/">Change Request</a></em>, e questi due attori dovrebbero in genere essere coordinati direttamente dal cliente. Spesso capita che il cliente non voglia o non possa gestire eventuali richieste ad altri fornitori, per diversi motivi.</p>
+
+
+
+<p>E&#8217; quindi un ottimo momento per mettersi il &#8220;cappellino&#8221; da PM e cominciare a far girare la ruota di ticket, telefonate o qualunque sia il metodo di ingaggio della terza parte. Soluzione che in molti preferiscono evitare, ma dal momento che spesso è proprio il cliente ad essere allo scuro di quello che succede all&#8217;interno della sua infrastruttura, non è possibile fare diversamente.</p>
+
+
+
+<p>Per fare un esempio, questa potrebbe essere una mail <em>reale</em> inviata neanche tanto tempo fa, inizio Maggio del 2022, ovviamente con il referente aziendale in Cc:</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p></p>
+
+
+
+<p></p>
+<cite>Buongiorno, sono X, seguo il cliente Y dal punto di vista dell&#8217;hypervisor e delle vlan attestate su VMWare. Insieme con il cliente stiamo procedendo ad una ristrutturazione di una parte delle vlan raggiunte dai nodi del cluster, ed avremmo bisogno che ci predisponeste un&#8217;interfaccia sul firewall per una nuova vlan; l&#8217;indirizzamento potete deciderlo in autonomia, l&#8217;importante è che sia una vlan trusted e che possa raggiungere le altre reti esattamente come le vlan ora presenti. <br>Ci servirà per fine mese, quindi non c&#8217;è fretta.<br>Se avete domande, potete contattarmi al 39&#8230;., oppure potete rispondere alla presente cosi da rimanere tutti allineati.<br>cordiali saluti</cite></blockquote>
+
+
+
+<p>Il destinatario di questa mail si occupa del firewall perimetrale e del gestionale(?), e dal cliente non è presente uno switch L3.</p>
+
+
+
+<p>Tempo qualche giorno sono stato ricontattato dal cliente, che dalla sua parte era rimasto un pò sorpreso dal numero di telefonate e mail che gli erano arrivate dal sales manager dell&#8217;altro fornitore. La collaborazione è di lunga data, ci siamo sentiti in altre occasioni e i nomi delle persone nel loop sono sempre quelli degli ultimi anni. <br>Questo fornitore ha espressamente dichiarato, rispondendo alla mail ma togliendo il sottoscritto dal loop, che sarebbe bene che fornissero loro tutta l&#8217;assistenza e la manutenzione su tutta l&#8217;infrastruttura, per motivi di &#8220;sollecitudine delle chiamate&#8221;, &#8220;miglior gestione dell&#8217;assistenza&#8221;, &#8220;minor tempo di intervento&#8221;, &#8220;maggiori competenze&#8221;, &#8220;gestione delle relazioni con terze parti molto difficili&#8221;.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="419" src="https://www.matteocavalli.it/wp-content/uploads/2023/08/clienti-arrabbiati-1024x419.png" alt="" class="wp-image-589" srcset="https://www.matteocavalli.it/wp-content/uploads/2023/08/clienti-arrabbiati-1024x419.png 1024w, https://www.matteocavalli.it/wp-content/uploads/2023/08/clienti-arrabbiati-300x123.png 300w, https://www.matteocavalli.it/wp-content/uploads/2023/08/clienti-arrabbiati-768x314.png 768w, https://www.matteocavalli.it/wp-content/uploads/2023/08/clienti-arrabbiati-1536x628.png 1536w, https://www.matteocavalli.it/wp-content/uploads/2023/08/clienti-arrabbiati-200x82.png 200w, https://www.matteocavalli.it/wp-content/uploads/2023/08/clienti-arrabbiati-400x164.png 400w, https://www.matteocavalli.it/wp-content/uploads/2023/08/clienti-arrabbiati.png 1760w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p>Sono argomenti validi, non ci sono eccezioni ed è un fattore di logica: chiunque avrebbe miglioramenti da un singolo SPOC di un unico fornitore per qualunque necessità. Rimane il fatto che la relazione era già aperta, avviata da diversi anni, e non ci sono mai state situazioni di mancata collaborazione.<br>Il mondo è paese e il mercato è fortunatamente libero, ma quello che mi chiedo è se fosse davvero necessario arrivare a usare queste parole, non per me in quanto sinceramente poco mi toccano, quanto perchè il cliente per primo ha compreso che svalutare apertamente la controparte, soprattutto via mail dove la caratteristica orale e il tono usato sono per il 99% mal interpretati, non è una soluzione di approccio valida.</p>
+
+
+
+<p>Dopo questo episodio non c&#8217;è stata una lunga e proficua collaborazione tra le parti in &#8220;causa&#8221;, la parte del firewall è passata a me, mentre il gestionale è fermo come nuove implementazioni per un pensiero di cambio di partner.</p>
+
+
+
+<p></p>
+
+
+
+<p>Tutto questo per dire che se l&#8217;attività commerciale deve poter essere consentita a chiunque, deve sempre essere posta ad un livello professionale, e mai personale; a parte le dovute eccezioni di amicizia o di &#8220;confronto economico&#8221;, nella mia esperienza ciò che risulta essere davvero è un fornitore o un partner che possa portare valore. Questo valore si traduce in sapere scegliere anche fuori dalla nostra <em>Skill Bag</em> una figura che sappiamo poter svolgere un determinato compito con tempi e modi corretti.</p>
+
+
+
+<p>Il resto possiamo farlo fare ai commercianti, a quali regalare anche i clienti insolventi.</p>
+<p>L'articolo <a href="https://www.matteocavalli.it/consulenza-egocentrica/">Consulenza egocentrica</a> proviene da <a href="https://www.matteocavalli.it">MC</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.matteocavalli.it/consulenza-egocentrica/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

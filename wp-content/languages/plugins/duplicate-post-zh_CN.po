@@ -1,0 +1,260 @@
+# Translation of Plugins - Yoast Duplicate Post - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Yoast Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-30 19:11:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Yoast Duplicate Post - Stable (latest release)\n"
+
+#. translators: %s: post title
+#: src/utils.php:122
+msgid "Edit &#8220;%s&#8221;"
+msgstr "编辑&#8220;%s&#8221;"
+
+#. translators: %s: Post title.
+#: src/ui/row-actions.php:85
+msgid "Clone &#8220;%s&#8221;"
+msgstr "克隆&#8220;%s&#8221;"
+
+#. translators: %s: post title
+#: src/utils.php:134
+msgid "Preview &#8220;%s&#8221;"
+msgstr "预览 &#8220;%s&#8221;"
+
+#. translators: %s: post title
+#: src/utils.php:144
+msgid "View &#8220;%s&#8221;"
+msgstr "查看&#8220;%s&#8221;"
+
+#: duplicate-post.php:98
+msgid "Settings for Duplicate Post"
+msgstr "Duplicate Post的设置"
+
+#: src/admin/views/options.php:227
+msgid "Show original item:"
+msgstr "显示原始项目："
+
+#. translators: %s: Original item link (to view or edit) or title.
+#: src/ui/post-states.php:67
+msgid "Original: %s"
+msgstr "原始：%s"
+
+#: src/ui/column.php:68
+msgid "Original item"
+msgstr "原始项目"
+
+#: src/admin/options.php:256
+msgid "After the title in the Post list"
+msgstr "在文章列表中的标题之后"
+
+#: src/admin/options.php:246
+msgid "In a column in the Post list"
+msgstr "在文章列表的一个列中"
+
+#: src/handlers/link-handler.php:58 src/handlers/link-handler.php:114
+#: src/handlers/link-handler.php:188
+msgid "Current user is not allowed to copy posts."
+msgstr "当前用户不允许复制文章。"
+
+#: admin-functions.php:750
+msgid "Documentation"
+msgstr "文档"
+
+#: src/admin/options.php:165
+msgid "you probably want this unchecked, unless you have very special requirements"
+msgstr "除非您有非常特殊的要求，否则您可能希望对此进行检查。"
+
+#: src/admin/options.php:149
+msgid "Author"
+msgstr "作者"
+
+#: src/admin/options.php:307
+msgid "Bulk Actions"
+msgstr "批量操作"
+
+#: src/admin/options.php:135
+msgid "Template"
+msgstr "模板"
+
+#: src/admin/options.php:186
+msgid "Menu order"
+msgstr "菜单顺序"
+
+#: src/admin/options.php:217
+msgid "You can use * to match zero or more alphanumeric characters or underscores: e.g. field*"
+msgstr "可以使用*匹配零个或多个字母数字字符或下划线：例如：field*"
+
+#: src/admin/options.php:128
+msgid "Featured Image"
+msgstr "封面图像"
+
+#. translators: %s: Number of posts copied.
+#: src/watchers/bulk-actions-watcher.php:55
+#: src/watchers/link-actions-watcher.php:73
+msgid "%s item copied."
+msgid_plural "%s items copied."
+msgstr[0] "%s 项目已复制。"
+
+#: src/admin/options.php:163
+msgid "Attachments"
+msgstr "附件"
+
+#: src/admin/options.php:156
+msgid "Password"
+msgstr "密码"
+
+#: src/admin/options.php:100
+msgid "Status"
+msgstr "状态"
+
+#: src/admin/options.php:93
+msgid "Date"
+msgstr "日期"
+
+#: src/admin/options.php:86 src/handlers/check-changes-handler.php:126
+msgid "Title"
+msgstr "标题"
+
+#: src/admin/views/options.php:46 src/admin/views/options.php:187
+msgid "Display"
+msgstr "显示"
+
+#: src/admin/views/options.php:37 src/admin/views/options.php:140
+msgid "Permissions"
+msgstr "权限"
+
+#: src/admin/options.php:180
+msgid "except pingbacks and trackbacks"
+msgstr "除了pingbacks和trackbacks"
+
+#: src/admin/views/options.php:28 src/admin/views/options.php:55
+msgid "What to copy"
+msgstr "要复制的内容"
+
+#: src/admin/options.php:208
+msgid "Add this number to the original menu order (blank or zero to retain the value)"
+msgstr "将此编号添加到原始的菜单顺序 （空白或零将保留值）"
+
+#: src/admin/options.php:206 src/admin/views/options.php:93
+msgid "Increase menu order by"
+msgstr "通过增加菜单顺序"
+
+#: src/admin/options.php:121 src/handlers/check-changes-handler.php:127
+msgid "Content"
+msgstr "正文"
+
+#: src/admin/options.php:178
+msgid "Comments"
+msgstr "评论"
+
+#: src/admin/views/options.php:127
+msgid "Show/hide private taxonomies"
+msgstr "显示/隐藏私密分类法"
+
+#: src/admin/options.php:107
+msgid "Slug"
+msgstr "别名"
+
+#: src/admin/views/options.php:58 src/admin/views/options.php:61
+msgid "Post/page elements to copy"
+msgstr "文章/页面元素复制"
+
+#: src/admin/options.php:114 src/handlers/check-changes-handler.php:128
+msgid "Excerpt"
+msgstr "摘要"
+
+#: src/admin/options.php:171
+msgid "Children"
+msgstr "子页面"
+
+#: admin-functions.php:603
+msgid "Copy features for this post type are not enabled in options page"
+msgstr "请到“设置-复制”设置开启此文章类型"
+
+#: src/admin/views/options.php:162 src/admin/views/options.php:166
+msgid "Enable for these post types"
+msgstr "为这些类型文章开启"
+
+#: common-functions.php:79 src/ui/admin-bar.php:97 src/ui/admin-bar.php:115
+#: src/ui/classic-editor.php:144 js/dist/duplicate-post-edit-450.js:1
+msgid "Copy to a new draft"
+msgstr "复制到新草稿"
+
+#: src/admin/options.php:213 src/admin/views/options.php:105
+msgid "Do not copy these fields"
+msgstr "不要复制这些字段"
+
+#: src/admin/options-page.php:76 src/admin/views/options.php:14
+msgid "Duplicate Post Options"
+msgstr "文章复制选项"
+
+#: src/admin/options.php:192 src/admin/views/options.php:71
+msgid "Title prefix"
+msgstr "标题前缀"
+
+#: src/admin/options.php:271 src/ui/row-actions.php:114
+msgid "New Draft"
+msgstr "新草稿"
+
+#: src/admin/options.php:292
+msgid "Post list"
+msgstr "文章列表"
+
+#: duplicate-post.php:99
+msgid "Settings"
+msgstr "设置"
+
+#: src/admin/views/options.php:202
+msgid "Show links in"
+msgstr "显示链接"
+
+#: src/admin/options.php:302
+msgid "Edit screen"
+msgstr "编辑界面"
+
+#: src/admin/options.php:297
+msgid "Admin bar"
+msgstr "管理员工具条"
+
+#: src/admin/options.php:199 src/admin/views/options.php:82
+msgid "Title suffix"
+msgstr "标题后缀"
+
+#: src/admin/options.php:194
+msgid "Prefix to be added before the title, e.g. \"Copy of\" (blank for no prefix)"
+msgstr "在原始标题前添加前缀，例如：“复制为”（留空不加前缀）"
+
+#: src/handlers/link-handler.php:75 src/handlers/link-handler.php:131
+#: src/handlers/link-handler.php:205
+msgid "Copy creation failed, could not find original:"
+msgstr "复制失败，无法找到原内容："
+
+#: src/admin/options.php:276 src/ui/bulk-actions.php:69
+msgid "Clone"
+msgstr "复制"
+
+#: src/admin/options-page.php:77 src/ui/admin-bar.php:89 src/ui/metabox.php:59
+msgid "Duplicate Post"
+msgstr "Duplicate Post"
+
+#: src/handlers/link-handler.php:63 src/handlers/link-handler.php:119
+#: src/handlers/link-handler.php:193
+msgid "No post to duplicate has been supplied!"
+msgstr "没有提供可供复制的文章"
+
+#: src/admin/views/options.php:116 src/admin/views/options.php:120
+msgid "Do not copy these taxonomies"
+msgstr "不要复制这些分类法"
+
+#: src/admin/options.php:201
+msgid "Suffix to be added after the title, e.g. \"(dup)\" (blank for no suffix)"
+msgstr "在原始标题前添加后缀，例如：“的副本”（留空不加后缀）"
+
+#: src/admin/views/options.php:144 src/admin/views/options.php:147
+msgid "Roles allowed to copy"
+msgstr "允许执行“复制”操作的角色"

@@ -1,0 +1,242 @@
+# Translation of Plugins - Simply Static &#8211; The WordPress Static Site Generator - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Simply Static &#8211; The WordPress Static Site Generator - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-06 15:25:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Simply Static &#8211; The WordPress Static Site Generator - Stable (latest release)\n"
+
+#: src/tasks/traits/trait-can-process-pages.php:128
+msgid "Uploaded %d of %d files"
+msgstr "Subidos %d de %d archivos"
+
+#: src/tasks/class-ss-transfer-files-locally-task.php:98
+msgid "Transferred %d of %d files"
+msgstr "Transferidos %d de %d archivos"
+
+#: src/tasks/class-ss-transfer-files-locally-task.php:95
+msgid "No new/updated pages to transfer"
+msgstr "No hay páginas nuevas/actualizadas que transferir"
+
+#: src/class-ss-plugin.php:219
+msgid "Missing Basic Auth credentials - you need to configure the Basic Auth credentials in Simply Static -> Settings -> Misc -> Basic Auth to continue the export."
+msgstr "Faltan las credenciales de Basic Auth: debes configurar las credenciales de Basic Auth en Simply Static -> Ajustes -> Misc -> Basic Auth para continuar con la exportación."
+
+#: src/class-ss-plugin-compatibility.php:257
+msgid "Simply Static Compatible"
+msgstr "Compatible con Simply Static"
+
+#: src/class-ss-plugin-compatibility.php:233
+msgid "(opens in a new tab)"
+msgstr "(se abre en una pestaña nueva)"
+
+#: src/class-ss-plugin-compatibility.php:232
+msgid "Visit site"
+msgstr "Visitar el sitio"
+
+#: src/class-ss-diagnostic.php:395
+msgid "%s is not compatible with Simply Static."
+msgstr "%s no es compatible con Simply Static."
+
+#: src/class-ss-diagnostic.php:241 src/class-ss-diagnostic.php:247
+#: src/class-ss-diagnostic.php:253 src/class-ss-diagnostic.php:259
+#: src/class-ss-diagnostic.php:265 src/class-ss-diagnostic.php:271
+#: src/class-ss-diagnostic.php:277 src/class-ss-diagnostic.php:283
+#: src/class-ss-diagnostic.php:289 src/class-ss-diagnostic.php:295
+#: src/class-ss-diagnostic.php:301 src/class-ss-diagnostic.php:307
+msgid "Please disable caching (%s) before running a static export."
+msgstr "Por favor, desactiva el almacenamiento en caché (%s) antes de ejecutar una exportación estática."
+
+#: src/class-ss-diagnostic.php:235
+msgid "Please disable caching before running a static export"
+msgstr "Desactiva la caché antes de ejecutar una exportación estática"
+
+#: src/class-ss-diagnostic.php:234
+msgid "Caching is disabled, great!"
+msgstr "La caché está desactivada, ¡genial!"
+
+#: src/class-ss-diagnostic.php:129
+msgid "%d incompatible plugins are active"
+msgstr "%d plugins incompatibles están activos"
+
+#: src/class-ss-diagnostic.php:128
+msgid "No incompatible plugins are active on your website!"
+msgstr "¡No hay plugins incompatibles activos en tu web!"
+
+#: src/class-ss-diagnostic.php:541
+msgid "Not a valid url."
+msgstr "No es una url válida."
+
+#: simply-static.php:27
+msgid "Simply Static requires PHP 7.4 or higher."
+msgstr "Simply Static requiere PHP 7.4 o superior."
+
+#. Author of the plugin
+#: simply-static.php
+msgid "Patrick Posner"
+msgstr "Patrick Posner"
+
+#. Description of the plugin
+#: simply-static.php
+msgid "A static site generator to create fast and secure static versions of your WordPress website."
+msgstr "Un generador de sitios estáticos para crear versiones estáticas rápidas y seguras de tu web WordPress."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: simply-static.php
+msgid "https://patrickposner.dev"
+msgstr "https://patrickposner.dev"
+
+#: src/class-ss-diagnostic.php:55
+msgid "Basic Auth"
+msgstr "Identificación básica"
+
+#: src/class-ss-diagnostic.php:553
+msgid "Received a %s response."
+msgstr "Recibida una respuesta %s."
+
+#: src/class-ss-diagnostic.php:550
+msgid "Received a %s response. This might indicate a problem."
+msgstr "Recibida una respuesta %s. Esto podría indicar un problema."
+
+#: src/tasks/class-ss-setup-task.php:132
+msgid "Additional Dir"
+msgstr "Directorio adicional"
+
+#: src/tasks/class-ss-setup-task.php:119
+msgid "Additional File"
+msgstr "Archivo adicional"
+
+#: src/class-ss-plugin.php:301
+msgid "Found on %s"
+msgstr "Encontrado en %s"
+
+#: src/tasks/class-ss-setup-task.php:84
+msgid "Additional URL"
+msgstr "URL adicional"
+
+#: src/tasks/class-ss-fetch-urls-task.php:183
+#: src/tasks/class-ss-fetch-urls-task.php:266
+msgid "Do not save"
+msgstr "No guardar"
+
+#: src/tasks/class-ss-fetch-urls-task.php:165
+#: src/tasks/class-ss-fetch-urls-task.php:235
+msgid "Do not follow"
+msgstr "No seguir"
+
+#: src/tasks/class-ss-fetch-urls-task.php:91
+msgid "Do not save or follow"
+msgstr "No guardar o seguir"
+
+#: src/tasks/class-ss-cancel-task.php:22
+msgid "Cancelling job"
+msgstr "Cancelando el trabajo"
+
+#: src/class-ss-url-fetcher.php:85
+msgid "Attempted to fetch a remote URL"
+msgstr "Se ha intentado obtener una URL remota"
+
+#: src/class-ss-diagnostic.php:81
+msgid "Destination URL"
+msgstr "URL de destino"
+
+#: src/tasks/class-ss-setup-task.php:74
+msgid "Origin URL"
+msgstr "URL de origen"
+
+#: views/redirect.php:12
+msgid "You are being redirected to %s"
+msgstr "Estás siendo redirigido a %s"
+
+#: views/redirect.php:4
+msgid "Redirecting..."
+msgstr "Redirigiendo..."
+
+#: src/admin/inc/class-ss-admin-settings.php:96
+#: src/admin/inc/class-ss-admin-settings.php:97
+msgid "Diagnostics"
+msgstr "Diagnósticos"
+
+#: src/class-ss-diagnostic.php:186
+msgid "Not readable"
+msgstr "No se puede leer"
+
+#: src/class-ss-diagnostic.php:183
+msgid "Not a valid path"
+msgstr "No es una ruta válida"
+
+#: src/class-ss-archive-creation-job.php:383
+msgid "Error: %s"
+msgstr "Error: %s"
+
+#: src/class-ss-archive-creation-job.php:354 src/class-ss-url-fetcher.php:85
+#: src/class-ss-url-fetcher.php:109
+msgid "An error occurred: %s"
+msgstr "Ha ocurrido un error: %s"
+
+#: src/class-ss-archive-creation-job.php:337
+msgid "An exception occurred: %s"
+msgstr "Ha ocurrido una excepción: %s"
+
+#: src/class-ss-archive-creation-job.php:208
+msgid "Done! Finished in %s"
+msgstr "¡Hecho! Ha finalizado en %s"
+
+#: src/tasks/class-ss-wrapup-task.php:23
+msgid "Wrapping up"
+msgstr "Terminando"
+
+#: src/tasks/class-ss-transfer-files-locally-task.php:58
+msgid "Destination URL:"
+msgstr "URL de destino:"
+
+#: src/tasks/class-ss-fetch-urls-task.php:128
+msgid "Fetched %d of %d pages/files"
+msgstr "Obtenidos %d de %d páginas o archivos"
+
+#: src/tasks/class-ss-setup-task.php:23
+msgid "Setting up"
+msgstr "Configurar"
+
+#: src/tasks/class-ss-create-zip-archive.php:34
+msgid "Click here to download"
+msgstr "Haz clic aquí para descargar"
+
+#: src/tasks/class-ss-create-zip-archive.php:30
+msgid "ZIP archive created: "
+msgstr "Archivo ZIP creado:"
+
+#: src/admin/inc/class-ss-admin-settings.php:82
+#: src/admin/inc/class-ss-admin-settings.php:83 src/class-ss-plugin.php:416
+msgid "Settings"
+msgstr "Ajustes"
+
+#: src/admin/inc/class-ss-admin-settings.php:69
+#: src/admin/inc/class-ss-admin-settings.php:70
+msgid "Generate"
+msgstr "Generar"
+
+#. Plugin Name of the plugin
+#: simply-static.php src/admin/inc/class-ss-admin-meta.php:51
+#: src/admin/inc/class-ss-admin-settings.php:59
+#: src/admin/inc/class-ss-admin-settings.php:60
+msgid "Simply Static"
+msgstr "Simply Static"
+
+#: src/class-ss-view.php:146
+msgid "Can't find view layout: %s"
+msgstr "No se ha podido encontrar el diseño de la vista: %s"
+
+#: src/class-ss-view.php:140
+msgid "Can't find view template: %s"
+msgstr "No se ha podido encontrar la plantilla de la vista: %s"
+
+#: src/tasks/class-ss-create-zip-archive.php:90
+msgid "Unable to create ZIP archive"
+msgstr "No ha sido posible crear el archivo ZIP"

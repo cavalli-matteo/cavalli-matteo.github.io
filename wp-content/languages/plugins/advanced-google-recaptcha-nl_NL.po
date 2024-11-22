@@ -1,0 +1,218 @@
+# Translation of Plugins - Advanced Google reCAPTCHA - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Advanced Google reCAPTCHA - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-22 10:46:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Advanced Google reCAPTCHA - Stable (latest release)\n"
+
+#: libs/functions.php:287 libs/functions.php:304
+msgid "<strong>ERROR</strong>: reCAPTCHA verification request failed<br /><br />"
+msgstr "<strong>FOUT</strong>: reCAPTCHA verificatie aanvraag mislukt<br /><br />"
+
+#: libs/functions.php:266
+msgid "<strong>ERROR</strong>: Inactive account"
+msgstr "<strong>FOUT</strong>: inactieve account"
+
+#: libs/setup.php:95
+msgid "WP Captcha plugin <b>requires PHP version 5.6.20</b> or higher to function properly. You are using PHP version %s. Please <a href=\"%s\" target=\"_blank\">update it</a>."
+msgstr "WP Captcha plugin <b>vereist PHP versie 5.6.20</b> of hoger om goed te functioneren. Je gebruikt PHP versie %s. <a href=\"%s\" target=\"_blank\">Update het</a>."
+
+#: libs/setup.php:82
+msgid "WP Captcha plugin <b>requires WordPress version 4.6</b> or higher to function properly. You are using WordPress version %s. Please <a href=\"%s\">update it</a>."
+msgstr "WP Captcha plugin <b>vereist WordPress versie 4.6</b> of hoger om goed te functioneren. Je gebruikt WordPress versie %s. <a href=\"%s\">Update het</a>."
+
+#: libs/functions.php:1200
+msgid "Unknown template ID."
+msgstr "Onbekend template ID."
+
+#: libs/functions.php:1198
+msgid "Template activated."
+msgstr "Template geactiveerd."
+
+#: libs/functions.php:445
+msgid "Login form protected by"
+msgstr "Login formulier beschermd door"
+
+#: libs/functions.php:282 libs/functions.php:293 libs/functions.php:298
+#: libs/functions.php:311
+msgid "<strong>ERROR</strong>: reCAPTCHA verification failed.<br /><br />Please try again."
+msgstr "<strong>FOUT</strong>: verificatie met reCAPTCHA mislukt.<br /><br />Probeer het opnieuw."
+
+#: libs/functions.php:270
+msgid "<strong>ERROR</strong>: Incorrect password. <a href=\"%s\" title=\"Password Lost and Found\">Lost your password</a>?"
+msgstr "<strong>FOUT</strong>: onjuist wachtwoord. <a href=\"%s\" title=\"Wachtwoord verloren en gevonden\">Je wachtwoord kwijt</a> ?"
+
+#: libs/functions.php:256
+msgid "<strong>ERROR</strong>: Invalid username. <a href=\"%s\" title=\"Password Lost and Found\">Lost your password</a>?"
+msgstr "<strong>FOUT</strong>: ongeldige gebruikersnaam. <a href=\"%s\" title=\"Wachtwoord verloren en gevonden\">Je wachtwoord vergeten</a>?"
+
+#: libs/functions.php:250
+msgid "<strong>ERROR</strong>: The password field is empty."
+msgstr "<strong>FOUT</strong>: het wachtwoordveld is leeg."
+
+#: libs/functions.php:247
+msgid "<strong>ERROR</strong>: The username field is empty."
+msgstr "<strong>FOUT</strong>: het veld gebruikersnaam is leeg."
+
+#: libs/functions.php:205 libs/functions.php:240
+msgid "<strong>ERROR</strong>: We're sorry, but this IP has been blocked due to too many recent failed login attempts.<br /><br />Please try again later."
+msgstr "<strong>FOUT</strong>: dit IP is geblokkeerd vanwege te veel recente mislukte inlog pogingen.<br /><br />Probeer het later nog eens."
+
+#: libs/ajax.php:109 libs/ajax.php:117 libs/ajax.php:122 libs/ajax.php:130
+msgid "reCAPTCHA verification failed "
+msgstr "reCAPTCHA verificatie is mislukt "
+
+#: libs/ajax.php:105 libs/functions.php:320 libs/functions.php:324
+msgid "<strong>ERROR</strong>: captcha verification failed.<br /><br />Please try again."
+msgstr "<strong>FOUT</strong>: captcha verificatie is mislukt.<br /><br />Probeer het opnieuw."
+
+#: libs/ajax.php:81
+msgid "Unknown tool."
+msgstr "Onbekend gereedschap."
+
+#: libs/admin.php:339
+msgid "PRO"
+msgstr "PRO"
+
+#: libs/admin.php:338
+msgid "Temp Access"
+msgstr "Tijdelijke toegang"
+
+#: libs/admin.php:337
+msgid "Design"
+msgstr "Ontwerp"
+
+#: libs/admin.php:336
+msgid "Country Blocking"
+msgstr "Landblokkade"
+
+#: libs/admin.php:335
+msgid "Firewall"
+msgstr "Firewall"
+
+#: libs/admin.php:334
+msgid "Login Protection"
+msgstr "Login beveiliging"
+
+#: libs/admin.php:333
+msgid "Activity"
+msgstr "Activiteit"
+
+#: libs/admin.php:191
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: libs/admin.php:191
+msgid "Get help"
+msgstr "Vraag hulp"
+
+#: libs/admin.php:170
+msgid "Get EXTRA protection"
+msgstr "Verkrijg EXTRA bescherming"
+
+#: libs/admin.php:56
+msgid "OK"
+msgstr "OK"
+
+#: libs/admin.php:55
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: libs/admin.php:48
+msgid "WP Captcha"
+msgstr "WP Captcha"
+
+#: libs/admin.php:47
+msgid "An error has occurred."
+msgstr "Er is een fout opgetreden."
+
+#: libs/admin.php:46
+msgid "An undocumented error has occurred. Please refresh the page and try again."
+msgstr "Er is een ongedocumenteerde fout opgetreden. Vernieuw de pagina en probeer het opnieuw."
+
+#: interface/tab_login_form.php:14
+msgid "Tools"
+msgstr "Gereedschappen"
+
+#: interface/tab_login_form.php:13
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+#: interface/tab_login_form.php:12
+msgid "Basic"
+msgstr "Eenvoudig"
+
+#: interface/tab_firewall.php:15
+msgid "Cloud Protection"
+msgstr "Cloud bescherming"
+
+#: interface/tab_firewall.php:14
+msgid "2FA"
+msgstr "2FA"
+
+#: interface/tab_firewall.php:13
+msgid "General"
+msgstr "Algemeen"
+
+#: interface/tab_captcha.php:13
+msgid "Where To Show"
+msgstr "Waar laten zien"
+
+#: interface/tab_captcha.php:12 libs/admin.php:332
+msgid "Captcha"
+msgstr "Captcha"
+
+#: interface/tab_activity.php:13
+msgid "Failed Logins"
+msgstr "Mislukte logins"
+
+#: interface/tab_activity.php:12
+msgid "Access Locks"
+msgstr "Toegang sluitingen"
+
+#: advanced-google-recaptcha.php:35
+msgid "Do not open this file directly."
+msgstr "Open dit bestand niet rechtstreeks."
+
+#. Author URI of the plugin
+#: advanced-google-recaptcha.php
+msgid "https://www.webfactoryltd.com/"
+msgstr "https://www.webfactoryltd.com/"
+
+#. Author of the plugin
+#: advanced-google-recaptcha.php
+msgid "WebFactory Ltd"
+msgstr "WebFactory Ltd"
+
+#. Plugin URI of the plugin
+#: advanced-google-recaptcha.php
+msgid "https://getwpcaptcha.com/"
+msgstr "https://getwpcaptcha.com/"
+
+#: libs/functions.php:391 libs/functions.php:411
+msgid "ERROR:"
+msgstr "FOUT:"
+
+#: libs/admin.php:535
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: libs/admin.php:169
+msgid "Settings"
+msgstr "Instellingen"
+
+#. Description of the plugin
+#: advanced-google-recaptcha.php
+msgid "Advanced Google reCAPTCHA will safeguard your WordPress site from spam comments and brute force attacks. With this plugin, you can easily add Google reCAPTCHA to WordPress comment form, login form and other forms."
+msgstr "Advanced Google reCAPTCHA zal je WordPress site beschermen tegen spam reacties en brute force aanvallen. Met deze plugin kan je eenvoudig Google reCAPTCHA toevoegen aan het WordPress reactie formulier, login formulier en andere formulieren."
+
+#. Plugin Name of the plugin
+#: advanced-google-recaptcha.php libs/admin.php:152 libs/admin.php:153
+msgid "Advanced Google reCAPTCHA"
+msgstr "Advanced Google reCAPTCHA"

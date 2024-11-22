@@ -1,0 +1,548 @@
+# Translation of Plugins - Yoast Duplicate Post - Stable (latest release) in Finnish
+# This file is distributed under the same license as the Plugins - Yoast Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-04-24 17:49:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fi\n"
+"Project-Id-Version: Plugins - Yoast Duplicate Post - Stable (latest release)\n"
+
+#. translators: %1$s and %2$s are replaced by opening and closing anchor tags.
+#: src/ui/newsletter.php:33
+msgid "Yoast respects your privacy. Read %1$sour privacy policy%2$s on how we handle your personal information."
+msgstr "Yoast kunnioittaa yksityisyyttäsi. Lue %1$stietosuojakäytäntömme%2$s siitä, miten käsittelemme henkilökohtaisia tietojasi."
+
+#: src/admin/views/options.php:236
+msgid "Welcome notice"
+msgstr "Tervetuliaisilmoitus"
+
+#: src/admin/options.php:262
+msgid "Show welcome notice"
+msgstr "Näytä tervetuliaisilmoitus"
+
+#. translators: %s: Yoast Duplicate Post.
+#: admin-functions.php:224
+msgid "You've successfully installed %s!"
+msgstr "Olet onnistuneesti asentanut lisäosan %s!"
+
+#: src/ui/newsletter.php:137
+msgid "You have successfully subscribed to the newsletter. Please check your inbox."
+msgstr "Olet onnistuneesti tilannut uutiskirjeen. Ole hyvä ja tarkista postilaatikkosi."
+
+#: src/ui/newsletter.php:97
+msgid "Please enter valid e-mail address."
+msgstr "Kirjoita voimassa oleva sähköpostiosoite."
+
+#: src/ui/newsletter.php:81 src/ui/newsletter.php:131
+msgid "Something went wrong. Please try again later."
+msgstr "Jotain meni pieleen. Yritä uudelleen myöhemmin."
+
+#: src/handlers/check-changes-handler.php:134
+msgid "Added"
+msgstr "Lisätty"
+
+#: src/handlers/check-changes-handler.php:133
+msgid "Removed"
+msgstr "Poistettu"
+
+#: src/post-republisher.php:224
+msgid "An error occurred while deleting the Rewrite & Republish copy."
+msgstr "Tapahtui virhe poistaessa kopiota."
+
+#. Description of the plugin
+msgid "The go-to tool for cloning posts and pages, including the powerful Rewrite & Republish feature."
+msgstr "Valmis työkalu postausten ja sivujen kloonaukseen, mukaan lukien tehokas Uudelleenkirjoita & Uudelleenjulkaise -toiminto."
+
+#. translators: 1: The page title with a link to the frontend page, 2: The
+#. scheduled date and time.
+#: src/ui/classic-editor.php:291
+msgid "This rewritten page %1$s is now scheduled to replace the original page. It will be published on %2$s."
+msgstr "Tämä uudelleen kirjoitettu sivu %1$s korvaa nyt alkuperäisen sivun. Se julkaistaan osoitteessa %2$s."
+
+#. translators: 1: The post title with a link to the frontend page, 2: The
+#. scheduled date and time.
+#: src/ui/classic-editor.php:278
+msgid "This rewritten post %1$s is now scheduled to replace the original post. It will be published on %2$s."
+msgstr "Tämä uudelleen kirjoitettu viesti %1$s on nyt tarkoitus korvata alkuperäinen viesti. Se julkaistaan %2$s."
+
+#: src/ui/classic-editor.php:252 js/dist/duplicate-post-strings-450.js:1
+msgid "Schedule republish"
+msgstr "Ajasta uudelleenjulkaisu"
+
+#. translators: %s: Date on which the post is to be republished.
+#: src/ui/classic-editor.php:229
+msgid "Republish on: %s"
+msgstr "Julkaise uudelleen ajankohtana: %s"
+
+#: src/ui/classic-editor.php:201
+msgid "Compare"
+msgstr "Vertaile"
+
+#: src/ui/classic-editor.php:198
+msgid "Do you want to compare your changes with the original version before merging? Please save any changes first."
+msgstr "Haluatko verrata muutoksia alkuperäiseen versioon ennen yhdistämistä? Tallenna muutokset ensin."
+
+#. translators: %s: Original item link (to view or edit) or title.
+#: src/ui/post-states.php:61
+msgid "Rewrite & Republish of %s"
+msgstr "Uudelleenjulkaisu kohteesta: %s"
+
+#: src/ui/row-actions.php:145
+msgctxt "verb"
+msgid "Rewrite & Republish"
+msgstr "Uudelleenkirjoita ja uudelleenjulkaise"
+
+#. translators: %s: Post title.
+#: src/ui/row-actions.php:143
+msgid "Rewrite & Republish &#8220;%s&#8221;"
+msgstr "Uudelleenkirjoittaminen ja uudelleenjulkaiseminen \"%s\""
+
+#: src/admin/views/options.php:190
+msgid "Show these links"
+msgstr "Näytä nämä linkit"
+
+#: src/admin/views/options.php:153
+msgid "Warning: users will be able to copy, rewrite and republish all posts, even those of other users."
+msgstr "Varoitus: käyttäjät voivat kopioida, uudelleenkirjoittaa ja julkaista uudelleen kaikki viestit, myös muiden käyttäjien viestit."
+
+#: src/admin/options.php:281 src/ui/admin-bar.php:105 src/ui/admin-bar.php:125
+#: src/ui/bulk-actions.php:74 src/ui/classic-editor.php:173
+#: js/dist/duplicate-post-edit-450.js:1
+msgid "Rewrite & Republish"
+msgstr "Uudelleenkirjoita ja uudelleenjulkaise"
+
+#: src/admin/options.php:236
+msgid "In a metabox in the Edit screen"
+msgstr "Muokkaa-näytön muokkausnäkymässä"
+
+#: src/admin/options.php:142
+msgid "Post format"
+msgstr "Artikkelimuoto"
+
+#: src/watchers/original-post-watcher.php:51
+msgid "The original post has been edited in the meantime. If you click \"Republish\", this rewritten post will replace the original post."
+msgstr "Alkuperäistä viestiä on tällä välin muokattu. Jos napsautat \"Julkaise uudelleen\", tämä uudelleen muokattu viesti korvaa alkuperäisen viestin."
+
+#. translators: %s: Number of posts copied.
+#: src/watchers/bulk-actions-watcher.php:79
+msgid "%s post duplicated. You can now start rewriting your post in the duplicate of the original post. Once you choose to republish it your changes will be merged back into the original post."
+msgid_plural "%s posts duplicated. You can now start rewriting your posts in the duplicates of the original posts. Once you choose to republish them your changes will be merged back into the original post."
+msgstr[0] "%s postaus duplikoitu. Voit nyt aloittaa postauksesi uudelleenkirjoittamisen alkuperäisen viestin kaksoiskappaleeseen. Kun päätät julkaista sen uudelleen, muutoksesi yhdistetään takaisin alkuperäiseen viestiin."
+msgstr[1] "%s postaukset duplikoitu. Voit nyt aloittaa postauksesi uudelleenkirjoittamisen alkuperäisen viestin kaksoiskappaleeseen. Kun päätät julkaista sen uudelleen, muutoksesi yhdistetään takaisin alkuperäiseen viestiin."
+
+#: src/watchers/republished-post-watcher.php:65
+msgid "Your original post has been replaced with the rewritten post. You are now viewing the (rewritten) original post."
+msgstr "Alkuperäinen postauksesi on korvattu uudelleen kirjoitetulla viestillä. Näet nyt (uudelleen kirjoitetun) alkuperäisen postauksesi."
+
+#. translators: %1$s: scheduled date of the copy, %2$s: scheduled time of the
+#. copy.
+#: src/watchers/copied-post-watcher.php:66
+msgid "A duplicate of this post was made, which is scheduled to replace this post on %1$s at %2$s."
+msgstr "Tästä on tehty kopio, jonka on tarkoitus korvata tämä viesti %1$s klo %2$s."
+
+#: src/watchers/copied-post-watcher.php:58
+msgid "A duplicate of this post was made. Please note that any changes you make to this post will be replaced when the duplicated version is republished."
+msgstr "Tästä on tehty kopio. Huomaa, että kaikki tähän tekemäsi muutokset korvataan, kun kopioitu versio julkaistaan uudelleen."
+
+#: src/watchers/copied-post-watcher.php:50
+msgid "You can only make one Rewrite & Republish duplicate at a time, and a duplicate of this post already exists in the trash. Permanently delete it if you want to make a new duplicate."
+msgstr "Voit tehdä vain yhden Uudelleenkirjoittamisen ja uudelleenjulkaisemisen kaksoiskappaleen kerrallaan, ja tämän kaksoiskappale on jo olemassa roskakorissa. Poista se pysyvästi, jos haluat tehdä uuden kopion."
+
+#: src/watchers/link-actions-watcher.php:113
+msgid "You can now start rewriting your post in this duplicate of the original post. If you click \"Republish\", this rewritten post will replace the original post."
+msgstr "Voit nyt aloittaa kirjoittamisen uudelleen tässä alkuperäisen viestin kopiossa. Jos napsautat \"Julkaise uudelleen\", tämä uudelleen kirjoitettu viesti korvaa alkuperäisen viestin."
+
+#: src/watchers/link-actions-watcher.php:97
+msgid "You can now start rewriting your post in this duplicate of the original post. If you click \"Republish\", your changes will be merged into the original post and you’ll be redirected there."
+msgstr "Voit nyt aloittaa kirjoittamisen uudelleen tässä alkuperäisen viestin kopiossa. Jos napsautat \"Julkaise uudelleen\", muutoksesi yhdistetään alkuperäiseen viestiin ja sinut ohjataan sinne."
+
+#: src/post-republisher.php:332
+msgid "An error occurred while republishing the post."
+msgstr "Uudelleenjulkaisun yhteydessä tapahtui virhe."
+
+#: src/post-republisher.php:83 src/ui/classic-editor.php:224
+#: js/dist/duplicate-post-strings-450.js:1
+msgid "Republish"
+msgstr "Uudelleenjulkaise"
+
+#: src/handlers/link-handler.php:213
+msgid "You cannot create a copy for Rewrite & Republish if the original is not published or if it already has a copy."
+msgstr "Et voi luoda kopiota uudelleenkirjoittamista ja uudelleenjulkaisemista varten, jos alkuperäistä ei ole julkaistu tai jos siitä on jo olemassa kopio."
+
+#: src/handlers/link-handler.php:91 src/handlers/link-handler.php:147
+#: src/handlers/link-handler.php:221
+msgid "Copy creation failed, could not create a copy."
+msgstr "Kopion luonnissa tapahtui virhe."
+
+#: src/handlers/link-handler.php:83 src/handlers/link-handler.php:139
+msgid "You cannot create a copy of a post which is intended for Rewrite & Republish."
+msgstr "Et voi kopioida artikkelia, joka on tarkoitus uudelleenjulkaista."
+
+#: src/handlers/check-changes-handler.php:116
+msgid "&larr; Return to editor"
+msgstr "&larr; Takaisin muokkaustilaan"
+
+#. translators: %s: original item link (to view or edit) or title.
+#: src/handlers/check-changes-handler.php:111
+msgid "Compare changes of duplicated post with the original (&#8220;%s&#8221;)"
+msgstr "Vertaile muutoksia alkuperäisen kohteen kanssa (&#8220;%s&#8221;)"
+
+#: src/handlers/check-changes-handler.php:97
+msgid "Changes overview failed, could not find original post."
+msgstr "Muutosten yleiskatsaus epäonnistui, alkuperäistä postausta ei löytynyt."
+
+#. translators: %s: post ID.
+#: src/handlers/check-changes-handler.php:84
+msgid "Changes overview failed, could not find post with ID %s."
+msgstr "Muutosten selaaminen epäonnistui, alkuperäistä postausta ID:llä %s ei löydy."
+
+#: src/handlers/check-changes-handler.php:68
+msgid "No post has been supplied!"
+msgstr "Yhtään postausta ei ole toimitettu!"
+
+#: admin-functions.php:597
+msgid "You aren't allowed to duplicate this post"
+msgstr "Sinulla ei ole oikeuksia kopioida tätä postausta"
+
+#: src/ui/newsletter.php:58
+msgid "Subscribe"
+msgstr "Tilaa"
+
+#. translators: 1: Code start tag, 2: Code closing tag, 3: Link start tag to
+#. the template tag documentation, 4: Link closing tag.
+#: src/admin/views/options.php:216
+msgid "You can also use the template tag %1$sduplicate_post_clone_post_link( $link, $before, $after, $id )%2$s. %3$sMore info on the template tag%4$s."
+msgstr "Voit myös käyttää mallitunnistetta %1$sduplicate_post_clone_post_link( $link, $before, $after, $id )%2$s. %3$sLisätietoja template-tagista%4$s."
+
+#. translators: %s: Post title.
+#: src/ui/row-actions.php:112
+msgid "New draft of &#8220;%s&#8221;"
+msgstr "Uusi luonnos kohteesta &#8220;%s&#8221;"
+
+#: src/ui/row-actions.php:87
+msgctxt "verb"
+msgid "Clone"
+msgstr "Kopioi"
+
+#. translators: %s: post title
+#: src/ui/metabox.php:100
+msgid "The original item this was copied from is: <span class=\"duplicate_post_original_item_title_span\">%s</span>"
+msgstr "Alkuperäinen kohde, josta tämä on kopioitu, on: <span class=\"duplicate_post_original_item_title_span\">%s</span>"
+
+#: src/ui/column.php:135
+msgid "The original item this was copied from is: <span class=\"duplicate_post_original_item_title_span\"></span>"
+msgstr "Alkuperäinen kohde, josta tämä on kopioitu, on: <span class=\"duplicate_post_original_item_title_span\"></span>"
+
+#: src/ui/column.php:130 src/ui/metabox.php:89
+msgid "Delete reference to original item."
+msgstr "Poista viite alkuperäiseen kohteeseen."
+
+#: src/ui/newsletter.php:29
+msgid "Email address"
+msgstr "Sähköpostiosoite"
+
+#. translators: 1: Yoast
+#: src/ui/newsletter.php:22
+msgid "If you want to stay up to date about all the exciting developments around Duplicate Post, subscribe to the %1$s newsletter!"
+msgstr "Jos haluat pysyä ajan tasalla kaikista Duplicate Postin jännittävistä tapahtumista, tilaa %1$s-uutiskirje!"
+
+#. Author URI of the plugin
+msgid "https://yoast.com"
+msgstr "https://yoast.com"
+
+#. Author of the plugin
+msgid "Enrico Battocchi & Team Yoast"
+msgstr "Enrico Battocchi & Team Yoast"
+
+#. Plugin URI of the plugin
+msgid "https://yoast.com/wordpress/plugins/duplicate-post/"
+msgstr "https://yoast.com/wordpress/plugins/duplicate-post/"
+
+#. Plugin Name of the plugin
+msgid "Yoast Duplicate Post"
+msgstr "Yoast Duplicate Post"
+
+#. translators: %s: Post title.
+#: src/ui/row-actions.php:85
+msgid "Clone &#8220;%s&#8221;"
+msgstr "Kloonaa \"%s\""
+
+#. translators: %s: Original item link (to view or edit) or title.
+#: src/ui/post-states.php:67
+msgid "Original: %s"
+msgstr "Alkuperäinen: %s"
+
+#: src/ui/column.php:68
+msgid "Original item"
+msgstr "Alkuperäinen kohde"
+
+#: src/admin/options.php:256
+msgid "After the title in the Post list"
+msgstr "Otsikon jälkeen Sisältötyypin listauksessa"
+
+#: src/admin/options.php:249
+msgid "You'll also be able to delete the reference to the original item with a checkbox in Quick Edit"
+msgstr "Voit myös poistaa viittauksen alkuperäiseen kohteeseen Pikamuokkauksen valintaruudun avulla"
+
+#: src/admin/options.php:246
+msgid "In a column in the Post list"
+msgstr "Sisältötyypin listauksen sarakkeessa"
+
+#: src/admin/options.php:239
+msgid "You'll also be able to delete the reference to the original item with a checkbox"
+msgstr "Voit myös poistaa viittauksen alkuperäiseen kohteeseen valintaruudun avulla"
+
+#: src/admin/views/options.php:227
+msgid "Show original item:"
+msgstr "Näytä alkuperäinen kohde:"
+
+#: src/admin/views/options.php:20
+msgid "Settings sections"
+msgstr "Asetusten osiot"
+
+#: duplicate-post.php:98
+msgid "Settings for Duplicate Post"
+msgstr "Duplicate Postin asetukset"
+
+#. translators: %s: post title
+#: src/utils.php:144
+msgid "View &#8220;%s&#8221;"
+msgstr "Näytä &#8220;%s&#8221;"
+
+#. translators: %s: post title
+#: src/utils.php:134
+msgid "Preview &#8220;%s&#8221;"
+msgstr "Esikatsele &#8220;%s&#8221;"
+
+#. translators: %s: post title
+#: src/utils.php:122
+msgid "Edit &#8220;%s&#8221;"
+msgstr "Muokkaa &#8220;%s&#8221;"
+
+#: src/handlers/link-handler.php:58 src/handlers/link-handler.php:114
+#: src/handlers/link-handler.php:188
+msgid "Current user is not allowed to copy posts."
+msgstr "Nykyisellä käyttäjällä ei ole oikeuksia kopioida artikkeleita."
+
+#: src/admin/options.php:165
+msgid "you probably want this unchecked, unless you have very special requirements"
+msgstr "et välttämättä halua valita tätä, ellei sinulla ole hyvin erityisiä vaatimuksia"
+
+#: admin-functions.php:750
+msgid "Documentation"
+msgstr "Dokumentaatio"
+
+#: src/admin/options.php:307
+msgid "Bulk Actions"
+msgstr "Massatoiminnot"
+
+#: src/admin/options.php:217
+msgid "You can use * to match zero or more alphanumeric characters or underscores: e.g. field*"
+msgstr "Voit käyttää * merkitsemään mitä tahansa määrää alfanumeerisia (alphanumeric) merkkejä tai alaviivoja: esim. field*"
+
+#: src/admin/options.php:186
+msgid "Menu order"
+msgstr "Järjestys"
+
+#: src/admin/options.php:149
+msgid "Author"
+msgstr "Kirjoittaja"
+
+#: src/admin/options.php:135
+msgid "Template"
+msgstr "Sivupohja"
+
+#: src/admin/options.php:128
+msgid "Featured Image"
+msgstr "Artikkelikuva"
+
+#. translators: %s: Number of posts copied.
+#: src/watchers/bulk-actions-watcher.php:55
+#: src/watchers/link-actions-watcher.php:73
+msgid "%s item copied."
+msgid_plural "%s items copied."
+msgstr[0] "%s kohde kopioitu."
+msgstr[1] "%s kohdetta kopioitu."
+
+#: src/admin/views/options.php:174 src/admin/views/options.php:211
+msgid "Whether the links are displayed for custom post types registered by themes or plugins depends on their use of standard WordPress UI elements."
+msgstr "Se, näytetäänkö linkit teemojen tai lisäosien rekisteröimille mukautetuille sisältötyypeille (CPT), riippuu niiden käyttämistä WordPressin tavallisista käyttöliittymäelementeistä."
+
+#: src/admin/views/options.php:172
+msgid "Select the post types you want the plugin to be enabled for."
+msgstr "Valitse ne sisältötyypit, joille haluat ominaisuuden käyttöön."
+
+#: src/admin/views/options.php:162 src/admin/views/options.php:166
+msgid "Enable for these post types"
+msgstr "Aktivoi näille dokumenttityypeille"
+
+#: src/admin/views/options.php:155
+msgid "Passwords and contents of password-protected posts may become visible to undesired users and visitors."
+msgstr "Salasanat ja salasanasuojattu sisältö saattaa tulla näkyville sivulla vieraileville käyttäjille, jotka eivät aikaisemmin nähneet kyseistä sisältöä."
+
+#: src/admin/views/options.php:127
+msgid "Show/hide private taxonomies"
+msgstr "Näytä/piilota taksonomiat"
+
+#: src/admin/options.php:208
+msgid "Add this number to the original menu order (blank or zero to retain the value)"
+msgstr "Lisää tämä numero alkuperäiseen järjestykseen (tyhjä tai nolla jos käytetään samaa arvoa)"
+
+#: src/admin/options.php:206 src/admin/views/options.php:93
+msgid "Increase menu order by"
+msgstr "Nosta järjestysnumeroa määrällä"
+
+#: src/admin/options.php:180
+msgid "except pingbacks and trackbacks"
+msgstr "ei linkki-ilmoituksia ja paluuviitteita (pingbacks and trackbacks)"
+
+#: src/admin/options.php:178
+msgid "Comments"
+msgstr "Kommentit"
+
+#: src/admin/options.php:171
+msgid "Children"
+msgstr "Alatasot"
+
+#: src/admin/options.php:163
+msgid "Attachments"
+msgstr "Liitteet"
+
+#: src/admin/options.php:156
+msgid "Password"
+msgstr "Salasana"
+
+#: src/admin/options.php:121 src/handlers/check-changes-handler.php:127
+msgid "Content"
+msgstr "Sisältö"
+
+#: src/admin/options.php:114 src/handlers/check-changes-handler.php:128
+msgid "Excerpt"
+msgstr "Ote"
+
+#: src/admin/options.php:107
+msgid "Slug"
+msgstr "Polkutunnus"
+
+#: src/admin/options.php:100
+msgid "Status"
+msgstr "Tila"
+
+#: src/admin/options.php:93
+msgid "Date"
+msgstr "Päiväys"
+
+#: src/admin/options.php:86 src/handlers/check-changes-handler.php:126
+msgid "Title"
+msgstr "Otsikko"
+
+#: src/admin/views/options.php:58 src/admin/views/options.php:61
+msgid "Post/page elements to copy"
+msgstr "Artikkelin/Sivun kopioitavaksi tarkoitetut elementit"
+
+#: src/admin/views/options.php:46 src/admin/views/options.php:187
+msgid "Display"
+msgstr "Näytä"
+
+#: src/admin/views/options.php:37 src/admin/views/options.php:140
+msgid "Permissions"
+msgstr "Oikeudet"
+
+#: src/admin/views/options.php:28 src/admin/views/options.php:55
+msgid "What to copy"
+msgstr "Mitä kopioidaan"
+
+#: admin-functions.php:603
+msgid "Copy features for this post type are not enabled in options page"
+msgstr "Kopiointitoiminnallisuudet tälle dokumenttityypille ovat pois päältä Asetukset-sivulla"
+
+#: duplicate-post.php:99
+msgid "Settings"
+msgstr "Asetukset"
+
+#: src/admin/views/options.php:247
+msgid "Save changes"
+msgstr "Tallenna muutokset"
+
+#: src/admin/options.php:297
+msgid "Admin bar"
+msgstr "Ylläpitovalikko"
+
+#: src/admin/options.php:302
+msgid "Edit screen"
+msgstr "Muokkausnäkymä"
+
+#: src/admin/options.php:292
+msgid "Post list"
+msgstr "Artikkelilista"
+
+#: src/admin/views/options.php:202
+msgid "Show links in"
+msgstr "Näytä kopio- /klooni-linkit"
+
+#: src/admin/views/options.php:144 src/admin/views/options.php:147
+msgid "Roles allowed to copy"
+msgstr "Roolit, jotka voivat kopioida artikkeleita"
+
+#: src/admin/options.php:201
+msgid "Suffix to be added after the title, e.g. \"(dup)\" (blank for no suffix)"
+msgstr "Loppuliite, joka lisätään otsikon perään, esimerkiksi \"(kopio)\". Jätä tyhjäksi, jos et halua loppuliitettä."
+
+#: src/admin/options.php:199 src/admin/views/options.php:82
+msgid "Title suffix"
+msgstr "Otsikon loppuliite"
+
+#: src/admin/options.php:194
+msgid "Prefix to be added before the title, e.g. \"Copy of\" (blank for no prefix)"
+msgstr "Etuliite, joka lisätään otsikon eteen, esimerkiksi \"Kopio artikkelista\". Jätä tyhjäksi, jos et halua etuliitettä."
+
+#: src/admin/options.php:192 src/admin/views/options.php:71
+msgid "Title prefix"
+msgstr "Otsikon etuliite"
+
+#: src/admin/views/options.php:116 src/admin/views/options.php:120
+msgid "Do not copy these taxonomies"
+msgstr "Älä kopioi näitä taksonomioita"
+
+#: src/admin/options.php:216
+msgid "Comma-separated list of meta fields that must not be copied."
+msgstr "Pilkuilla eroteltu lista meta-kentistä, joita ei saa kopioida."
+
+#: src/admin/options.php:213 src/admin/views/options.php:105
+msgid "Do not copy these fields"
+msgstr "Älä kopioi näitä kenttiä"
+
+#: src/admin/options-page.php:77 src/ui/admin-bar.php:89 src/ui/metabox.php:59
+msgid "Duplicate Post"
+msgstr "Duplicate Post"
+
+#: src/admin/options-page.php:76 src/admin/views/options.php:14
+msgid "Duplicate Post Options"
+msgstr "Duplicate Post asetukset"
+
+#: src/handlers/link-handler.php:75 src/handlers/link-handler.php:131
+#: src/handlers/link-handler.php:205
+msgid "Copy creation failed, could not find original:"
+msgstr "Kopiointi epäonnistui, alkuperäistä ei löytynyt:"
+
+#: src/handlers/link-handler.php:63 src/handlers/link-handler.php:119
+#: src/handlers/link-handler.php:193
+msgid "No post to duplicate has been supplied!"
+msgstr "Artikkelia kaksoiskappaletta varten ei ole annettu!"
+
+#: src/admin/options.php:271 src/ui/row-actions.php:114
+msgid "New Draft"
+msgstr "Uusi luonnos"
+
+#: common-functions.php:79 src/ui/admin-bar.php:97 src/ui/admin-bar.php:115
+#: src/ui/classic-editor.php:144 js/dist/duplicate-post-edit-450.js:1
+msgid "Copy to a new draft"
+msgstr "Kopioi uudeksi luonnokseksi"
+
+#: src/admin/options.php:276 src/ui/bulk-actions.php:69
+msgid "Clone"
+msgstr "Kopioi"
